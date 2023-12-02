@@ -1,0 +1,22 @@
+[
+    {
+        "title": "OUR LOCATION",
+        "subTitle": "Gairidhara, Kathmandu",
+        "image": "location.svg"
+    },
+    {
+        "title": "CONTACT NUMBER",
+        "subTitle": "Gairidhara, Kathmandu",
+        "image": "telephone.svg"
+    },
+    {
+        "title": "OUR EMAIL",
+        "subTitle": "Gairidhara, Kathmandu",
+        "image": "email.svg"
+    },
+    {
+        "title": "OUR WEBSITE",
+        "subTitle": "Gairidhara, Kathmandu",
+        "image": "internet.svg"
+    }
+]
