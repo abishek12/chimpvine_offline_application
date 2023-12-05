@@ -1,3 +1,5 @@
+import 'dart:io';
+
 import 'package:flutter/material.dart';
 import 'package:go_router/go_router.dart';
 
@@ -65,7 +67,10 @@ class HomeAppBar extends StatelessWidget {
                     actions: [
                       MaterialButton(
                         color: Colors.green,
-                        onPressed: () {},
+                        onPressed: () {
+                          context.pop();
+                          exit(0);
+                        },
                         child: const Text("Yes"),
                       ),
                       MaterialButton(
