@@ -1,5 +1,6 @@
-import 'dart:html';
 import 'dart:js' as js;
+import 'dart:io';
+import 'package:flutter/foundation.dart' show kIsWeb;
 
 import 'package:flutter/material.dart';
 import 'package:go_router/go_router.dart';
@@ -69,15 +70,12 @@ class HomeAppBar extends StatelessWidget {
                       MaterialButton(
                         color: Colors.green,
                         onPressed: () {
-                          // context.pop();
-                          // exit(0);
-
-                          // bool confirmClose =
-                          //     window.confirm('Are you sure you want to close?');
-                          // if (confirmClose) {
-                          //   // Trigger custom logic if the user confirms
-                          //   js.context.callMethod('close');
-                          // }
+                          if (kIsWeb) {
+                            js.context.callMethod('close');
+                          } else {
+                            context.pop();
+                            exit(0);
+                          }
                         },
                         child: const Text("Yes"),
                       ),
