@@ -1,4 +1,5 @@
-import 'dart:io';
+import 'dart:html';
+import 'dart:js' as js;
 
 import 'package:flutter/material.dart';
 import 'package:go_router/go_router.dart';
@@ -68,8 +69,15 @@ class HomeAppBar extends StatelessWidget {
                       MaterialButton(
                         color: Colors.green,
                         onPressed: () {
-                          context.pop();
-                          exit(0);
+                          // context.pop();
+                          // exit(0);
+
+                          // bool confirmClose =
+                          //     window.confirm('Are you sure you want to close?');
+                          // if (confirmClose) {
+                          //   // Trigger custom logic if the user confirms
+                          //   js.context.callMethod('close');
+                          // }
                         },
                         child: const Text("Yes"),
                       ),
