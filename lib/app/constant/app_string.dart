@@ -6,6 +6,9 @@ class AppString {
   final String interactiveContent = "Interactive Content";
   final String back = "Back";
 
+  final String profile = "Profile";
+  final String search = "Search";
+
   final String grade = "Grade";
   final int one = 1;
   final int two = 2;

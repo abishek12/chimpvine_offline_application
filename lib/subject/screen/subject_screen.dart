@@ -1,12 +1,12 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:flutter_svg/flutter_svg.dart';
-import 'package:go_router/go_router.dart';
 
 import '../../app/constant/app_color.dart';
 import '../../app/widgets/text_widget.dart';
 import '../cubit/subject_cubit.dart';
 import '../model/subject_model.dart';
+import '../widget/content_choose_dialog.dart';
 
 class SubjectScreen extends StatelessWidget {
   const SubjectScreen({super.key});
@@ -30,7 +30,14 @@ class SubjectScreen extends StatelessWidget {
                 return Padding(
                   padding: const EdgeInsets.symmetric(vertical: 16),
                   child: InkWell(
-                    onTap: () => context.pushNamed('chooseSubject'),
+                    onTap: () => showDialog(
+                      context: context,
+                      barrierDismissible: false,
+                      builder: (context) => const ContentChooseDialog(
+                        grade: "1",
+                        subject: "Math",
+                      ),
+                    ),
                     child: Row(
                       children: [
                         SvgPicture.asset(subject.image),

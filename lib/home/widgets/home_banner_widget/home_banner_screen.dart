@@ -7,12 +7,21 @@ class HomeBannerScreen extends StatelessWidget {
   Widget build(BuildContext context) {
     return SizedBox(
       width: MediaQuery.of(context).size.width,
-      height: 100,
+      height: 150,
       child: PageView.builder(
           scrollDirection: Axis.horizontal,
           itemCount: 3,
           itemBuilder: (context, index) {
-            return Image.asset("assets/banner/danson_360.jpeg");
+            return Padding(
+              padding: const EdgeInsets.all(16.0),
+              child: ClipRRect(
+                borderRadius: BorderRadius.circular(12),
+                child: Image.asset(
+                  "assets/banner/danson_360.jpeg",
+                  fit: BoxFit.cover,
+                ),
+              ),
+            );
           }),
     );
   }

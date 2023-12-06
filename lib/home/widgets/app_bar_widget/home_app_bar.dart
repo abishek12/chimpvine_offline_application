@@ -1,13 +1,10 @@
-import 'dart:js' as js;
-import 'dart:io';
-import 'package:flutter/foundation.dart' show kIsWeb;
-
 import 'package:flutter/material.dart';
 import 'package:go_router/go_router.dart';
 
 import '../../../app/constant/app_image.dart';
 import '../../../app/constant/app_string.dart';
 import '../../../app/widgets/text_widget.dart';
+import '../home_bottom_sheet/home_bottom_sheet.dart';
 import 'icon_container_app_bar_home.dart';
 
 class HomeAppBar extends StatelessWidget {
@@ -61,34 +58,15 @@ class HomeAppBar extends StatelessWidget {
                 width: 8.0,
               ),
               InkWell(
-                onTap: () => showDialog(
+                onTap: () => showModalBottomSheet(
                   context: context,
-                  barrierDismissible: false,
-                  builder: (context) => AlertDialog(
-                    title: const Text("Are you Sure?"),
-                    actions: [
-                      MaterialButton(
-                        color: Colors.green,
-                        onPressed: () {
-                          if (kIsWeb) {
-                            js.context.callMethod('close');
-                          } else {
-                            context.pop();
-                            exit(0);
-                          }
-                        },
-                        child: const Text("Yes"),
-                      ),
-                      MaterialButton(
-                        color: Colors.red,
-                        onPressed: () => context.pop(),
-                        child: const Text("No"),
-                      ),
-                    ],
+                  builder: (context) => const Padding(
+                    padding: EdgeInsets.all(16.0),
+                    child: HomeBottomSheet(),
                   ),
                 ),
                 child: IconContainerAppBarHome(
-                  iconName: appImage.close,
+                  iconName: appImage.school,
                 ),
               ),
             ],
