@@ -23,7 +23,7 @@ class AppString {
   final String science = "Science";
   final String math = "Math";
   final String computer = "Computer";
-
+  final String subject = "Subject";
   final String our = "Our";
   final String location = "Location";
   final String website = "Website";
