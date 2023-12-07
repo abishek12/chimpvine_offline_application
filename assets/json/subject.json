@@ -1,15 +1,15 @@
 [
     {
         "title": "English",
-        "image": "assets/subject/computer.svg"
+        "image": "assets/subject/english.svg"
     },
     {
         "title": "Math",
-        "image": "assets/subject/computer.svg"
+        "image": "assets/subject/math.svg"
     },
     {
         "title": "Science",
-        "image": "assets/subject/computer.svg"
+        "image": "assets/subject/science.svg"
     },
     {
         "title": "Computer",

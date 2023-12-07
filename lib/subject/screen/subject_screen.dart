@@ -40,7 +40,10 @@ class SubjectScreen extends StatelessWidget {
                     ),
                     child: Row(
                       children: [
-                        SvgPicture.asset(subject.image),
+                        SvgPicture.asset(
+                          subject.image,
+                          color: Colors.white,
+                        ),
                         const SizedBox(width: 8.0),
                         CustomText(
                           strText: subject.title,
