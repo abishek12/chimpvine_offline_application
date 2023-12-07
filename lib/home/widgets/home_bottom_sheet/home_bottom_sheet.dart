@@ -17,6 +17,7 @@ class HomeBottomSheet extends StatelessWidget {
             return HomeBottomSheetTile(
               title: items['title'],
               imageName: items['image'],
+              onTap: items['onTap'],
             );
           }),
     );

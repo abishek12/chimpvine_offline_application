@@ -3,6 +3,7 @@ import 'package:flutter/material.dart';
 import '../../app/constant/app_string.dart';
 import '../../app/widgets/heading_widget.dart';
 import '../../footer/footer_screen.dart';
+import '../widgets/app_bar_widget/app_logo_widget.dart';
 import '../widgets/app_bar_widget/home_app_bar.dart';
 import '../widgets/home_banner_widget/home_banner_screen.dart';
 import '../widgets/home_game_widget/home_game_widget.dart';
@@ -25,6 +26,7 @@ class HomeScreen extends StatelessWidget {
             crossAxisAlignment: CrossAxisAlignment.start,
             children: [
               const HomeAppBar(),
+              const AppLogoWidget(),
               HeadingWidget(title: '${appString.grade}s'),
               const HomeGradeWidget(),
               const SizedBox(
@@ -37,7 +39,7 @@ class HomeScreen extends StatelessWidget {
               ),
               const HomeBannerScreen(),
               const SizedBox(
-                height: 36,
+                height: 24,
               ),
               const Divider(
                 thickness: 3,

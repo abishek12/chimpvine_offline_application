@@ -1,3 +1,4 @@
+import 'package:chimpvine_offline_application/app/constant/app_color.dart';
 import 'package:flutter/material.dart';
 import 'package:go_router/go_router.dart';
 
@@ -16,13 +17,14 @@ class ContentChooseDialog extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     final AppIcon appIcon = AppIcon();
+    final AppImage appImage = AppImage();
     return AlertDialog(
       title: IconButton(
         icon: appIcon.close,
         onPressed: () => context.pop(),
       ),
       content: SizedBox(
-        height: 350,
+        height: 370,
         child: Column(
           children: [
             CustomText(
@@ -35,13 +37,11 @@ class ContentChooseDialog extends StatelessWidget {
             Row(
               mainAxisAlignment: MainAxisAlignment.spaceAround,
               children: [
-                _ui("Interactive Content",
-                    "https://media.istockphoto.com/id/637696304/photo/patan.jpg?s=612x612&w=0&k=20&c=-53aSTGBGoOOqX5aoC3Hs1jhZ527v3Id_xOawHHVPpg="),
+                _ui("Interactive Content", appImage.interactivePng),
                 const SizedBox(
                   width: 16,
                 ),
-                _ui("Games",
-                    "https://media.istockphoto.com/id/637696304/photo/patan.jpg?s=612x612&w=0&k=20&c=-53aSTGBGoOOqX5aoC3Hs1jhZ527v3Id_xOawHHVPpg="),
+                _ui("Games", appImage.gamePng),
               ],
             )
           ],
@@ -56,9 +56,19 @@ class ContentChooseDialog extends StatelessWidget {
   ) {
     return Column(
       children: [
-        Image.network(
-          imageName,
-          height: 260,
+        InkWell(
+          onTap: () {},
+          child: Container(
+            padding: const EdgeInsets.all(8),
+            decoration: BoxDecoration(
+              color: AppColor().whiteColor,
+              borderRadius: BorderRadius.circular(12),
+            ),
+            child: Image.network(
+              imageName,
+              height: 260,
+            ),
+          ),
         ),
         const SizedBox(
           height: 16,

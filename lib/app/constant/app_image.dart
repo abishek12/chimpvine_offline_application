@@ -7,6 +7,10 @@ class AppImage {
   final String search = "assets/appbar/search.svg";
   final String about = "assets/appbar/about.svg";
   final String person = "assets/appbar/person.svg";
+  final String logo = "assets/appbar/logo.png";
+
+  final String gamePng = "assets/home/Games.png";
+  final String interactivePng = "assets/home/InteractiveContents.png";
 }
 
 class AppIcon {
