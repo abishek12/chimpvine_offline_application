@@ -18,7 +18,17 @@ class AppString {
   final int six = 6;
   final int seven = 7;
   final int eight = 8;
+  final int english_no = 100;
+  final int science_no = 100;
+  final int computer_no = 100;
 
+  //
+  final installed_date = "Installed Date";
+  final expired_date = "Expired Date";
+  final String school_name = "School name";
+  final String more_information = "More Information";
+  final String total_interactive_content = "Total Interactive Content";
+  final String address = "Address";
   final String english = "English";
   final String science = "Science";
   final String math = "Math";
