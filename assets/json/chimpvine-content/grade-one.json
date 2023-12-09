@@ -1,14 +1,22 @@
 [
     {
-        "title": "",
-        "category": "games",
-        "thumbnail": "",
+        "title": "Addition - Interactive book",
+        "topic": "Addition",
         "content": ""
     },
     {
-        "title": "",
-        "category": "h5p",
-        "thumbnail": "",
+        "title": "Learn addition by counting on - Interactive video",
+        "topic": "Addition",
+        "content": ""
+    },
+    {
+        "title": "Addition with pictures - up to 20",
+        "topic": "Addition",
+        "content": ""
+    },
+    {
+        "title": "Addition using number lines - up to 20",
+        "topic": "Addition",
         "content": ""
     }
 ]

@@ -1,7 +1,7 @@
-import 'package:chimpvine_offline_application/app/constant/app_color.dart';
 import 'package:flutter/material.dart';
 import 'package:go_router/go_router.dart';
 
+import '../../app/constant/app_color.dart';
 import '../../app/constant/app_image.dart';
 import '../../app/widgets/text_widget.dart';
 
@@ -37,11 +37,21 @@ class ContentChooseDialog extends StatelessWidget {
             Row(
               mainAxisAlignment: MainAxisAlignment.spaceAround,
               children: [
-                _ui("Interactive Content", appImage.interactivePng),
+                _ui(
+                  context,
+                  "Interactive Content",
+                  appImage.interactivePng,
+                  "interactiveScreen",
+                ),
                 const SizedBox(
                   width: 16,
                 ),
-                _ui("Games", appImage.gamePng),
+                _ui(
+                  context,
+                  "Games ",
+                  appImage.gamePng,
+                  "",
+                ),
               ],
             )
           ],
@@ -51,13 +61,15 @@ class ContentChooseDialog extends StatelessWidget {
   }
 
   Widget _ui(
+    BuildContext context,
     final String title,
     final String imageName,
+    final String onTap,
   ) {
     return Column(
       children: [
         InkWell(
-          onTap: () {},
+          onTap: () => context.pushNamed(onTap),
           child: Container(
             padding: const EdgeInsets.all(8),
             decoration: BoxDecoration(
