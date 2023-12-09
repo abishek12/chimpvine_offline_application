@@ -76,7 +76,7 @@ class ContentChooseDialog extends StatelessWidget {
               color: AppColor().whiteColor,
               borderRadius: BorderRadius.circular(12),
             ),
-            child: Image.network(
+            child: Image.asset(
               imageName,
               height: 260,
             ),
