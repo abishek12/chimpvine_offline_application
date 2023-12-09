@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 
+import '../../home/widgets/app_bar_widget/app_logo_widget.dart';
 import '../../home/widgets/app_bar_widget/home_app_bar.dart';
 
 class ProfileScreen extends StatelessWidget {
@@ -19,6 +20,7 @@ class ProfileScreen extends StatelessWidget {
               HomeAppBar(
                 isVisible: true,
               ),
+              AppLogoWidget(),
             ],
           ),
         ),

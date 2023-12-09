@@ -10,7 +10,8 @@ class SubjectCubit extends Cubit<List<SubjectModel>> {
 
   void loadSubjects() async {
     try {
-      final jsonString = await rootBundle.loadString('json/subject.json');
+      final jsonString =
+          await rootBundle.loadString('assets/json/subject.json');
       final List<dynamic> jsonList = json.decode(jsonString);
       final subjects =
           jsonList.map((json) => SubjectModel.fromJson(json)).toList();

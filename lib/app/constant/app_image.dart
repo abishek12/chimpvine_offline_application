@@ -9,8 +9,8 @@ class AppImage {
   final String person = "assets/appbar/person.svg";
   final String logo = "assets/appbar/logo.png";
 
-  final String gamePng = "assets/home/Games.png";
-  final String interactivePng = "assets/home/InteractiveContents.png";
+  final String gamePng = "assets/home/games.png";
+  final String interactivePng = "assets/home/interactiveContents.png";
 }
 
 class AppIcon {
