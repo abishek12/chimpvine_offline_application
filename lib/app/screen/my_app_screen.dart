@@ -1,6 +1,8 @@
-import 'package:chimpvine_offline_application/app/constant/app_color.dart';
 import 'package:flutter/material.dart';
+import 'package:flutter_gen/gen_l10n/app_localizations.dart';
+import 'package:flutter_localizations/flutter_localizations.dart';
 
+import '../constant/app_color.dart';
 import '../constant/app_routes.dart';
 
 class MyApp extends StatelessWidget {
@@ -11,6 +13,17 @@ class MyApp extends StatelessWidget {
     return MaterialApp.router(
       debugShowCheckedModeBanner: false,
       routerConfig: appRoutes,
+      supportedLocales: const [
+        Locale('en'), // English
+        Locale('ne'), // Spanish
+      ],
+      locale: const Locale("ne"),
+      localizationsDelegates: const [
+        AppLocalizations.delegate,
+        GlobalMaterialLocalizations.delegate,
+        GlobalWidgetsLocalizations.delegate,
+        GlobalCupertinoLocalizations.delegate,
+      ],
       theme: ThemeData(
         scaffoldBackgroundColor: AppColor().appColor,
         brightness: Brightness.light,

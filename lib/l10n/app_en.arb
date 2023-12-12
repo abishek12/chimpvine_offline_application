@@ -1,0 +1,42 @@
+{
+    "english": "English",
+    "@english":{
+        "description": "English"
+    },
+    "science": "Science",
+    "@science":{
+        "description": "Science"
+    },
+    "math": "Math",
+    "@math":{
+        "description": "Math"
+    },
+    "computer": "Computer",
+    "@computer":{
+        "description": "Computer"
+    },
+    "games": "Games",
+    "@games":{
+        "description": "Games"
+    },
+    "interactiveContent": "Interactive Content",
+    "@interactiveContent":{
+        "description": "Interactive Content"
+    },
+    "profile": "Profile",
+    "@profile":{
+        "description": "Profile"
+    },
+    "search": "Search",
+    "@search":{
+        "description": "Search"
+    },
+    "aboutUs": "About Us",
+    "@aboutUs":{
+        "description": "About Us"
+    },
+    "back": "Back",
+    "@back":{
+        "description": "Back"
+    }
+}

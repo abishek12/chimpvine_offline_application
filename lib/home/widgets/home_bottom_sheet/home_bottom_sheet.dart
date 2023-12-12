@@ -15,7 +15,7 @@ class HomeBottomSheet extends StatelessWidget {
           itemBuilder: (context, index) {
             final items = homeBottomSheetItems[index];
             return HomeBottomSheetTile(
-              title: items['title'],
+              title: items['npTitle'],
               imageName: items['image'],
               onTap: items['onTap'],
             );
