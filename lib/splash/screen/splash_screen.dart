@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 
-import '../../home/screen/home_screen.dart';
+import '../../membership/screen/member_ship_screen.dart';
 import '../cubit/splash_cubit.dart';
 
 class SplashScreen extends StatelessWidget {
@@ -19,7 +19,7 @@ class SplashScreen extends StatelessWidget {
             ),
           );
         }
-        return const HomeScreen();
+        return const MembershipScreen();
       },
     );
   }

@@ -50,7 +50,7 @@ class ContentChooseDialog extends StatelessWidget {
                   context,
                   "Games ",
                   appImage.gamePng,
-                  "",
+                  "gameScreen",
                 ),
               ],
             )
