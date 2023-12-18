@@ -9,6 +9,11 @@ class AppImage {
   final String person = "assets/appbar/person.svg";
   final String logo = "assets/appbar/logo.png";
 
+  final String computer = "assets/subject/images/computer.svg";
+  final String english = "assets/subject/images/english.svg";
+  final String math = "assets/subject/images/math.svg";
+  final String science = "assets/subject/images/science.svg";
+
   final String gamePng = "assets/home/games.png";
   final String interactivePng = "assets/home/interactiveContents.png";
 }

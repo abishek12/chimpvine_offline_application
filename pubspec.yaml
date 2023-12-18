@@ -42,6 +42,7 @@ dependencies:
   webview_flutter_plus: ^0.3.0+2
   sqflite: ^2.3.0
   double_back_to_close_app: ^2.1.0
+  shared_preferences: ^2.2.2
 
 dev_dependencies:
   flutter_test:
@@ -69,10 +70,11 @@ flutter:
   assets:
     - assets/appbar/
     - assets/home/
-    - assets/footer/
+    - assets/footer/images/
+    - assets/footer/json/
     - assets/banner/
     - assets/games/
-    - assets/subject/
+    - assets/subject/images/
     - assets/json/
     - assets/demo/WaterTrailRunWebGl/
     - assets/demo/WaterTrailRunWebGl/TemplateData/

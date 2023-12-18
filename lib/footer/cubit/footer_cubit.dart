@@ -9,7 +9,8 @@ class FooterCubit extends Cubit<List<FooterModel>> {
   FooterCubit() : super([]);
   void loadFooter() async {
     try {
-      final jsonString = await rootBundle.loadString('assets/json/footer.json');
+      final jsonString =
+          await rootBundle.loadString('assets/footer/json/footer.json');
       final List<dynamic> jsonList = json.decode(jsonString);
       final subjects =
           jsonList.map((json) => FooterModel.fromJson(json)).toList();

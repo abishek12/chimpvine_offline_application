@@ -21,7 +21,7 @@ class FooterUI extends StatelessWidget {
     return Column(
       children: [
         SvgPicture.asset(
-          "assets/footer/$imageName",
+          "assets/footer/images/$imageName",
           width: 60,
           height: 80,
         ),
