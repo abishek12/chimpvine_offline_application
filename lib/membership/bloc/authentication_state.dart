@@ -20,6 +20,17 @@ final class AuthenticationLoading extends AuthenticationState {
   List<Object> get props => [isLoading];
 }
 
+final class CheckDeviceLoading extends AuthenticationState {
+  final bool isLoading;
+
+  const CheckDeviceLoading({
+    required this.isLoading,
+  });
+
+  @override
+  List<Object> get props => [isLoading];
+}
+
 final class AuthenticationSuccess extends AuthenticationState {
   final bool isLoggedIn;
 

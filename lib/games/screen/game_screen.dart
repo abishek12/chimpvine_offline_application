@@ -2,9 +2,18 @@ import 'package:flutter/material.dart';
 
 import '../../home/widgets/app_bar_widget/app_logo_widget.dart';
 import '../../home/widgets/app_bar_widget/home_app_bar.dart';
+import '../widget/game_testing.dart';
 
 class GameScreen extends StatelessWidget {
+  // final int gradeIndex;
+  // final int subjectIndex;
+
   const GameScreen({super.key});
+  // const GameScreen({
+  //   super.key,
+  //   required this.gradeIndex,
+  //   required this.subjectIndex,
+  // });
 
   @override
   Widget build(BuildContext context) {
@@ -19,6 +28,7 @@ class GameScreen extends StatelessWidget {
             children: [
               HomeAppBar(isVisible: true),
               AppLogoWidget(),
+              GameTesting(),
             ],
           ),
         ),

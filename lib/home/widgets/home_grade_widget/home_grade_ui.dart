@@ -23,7 +23,9 @@ class HomeGradeUI extends StatelessWidget {
             strText: "${appString.grade} ${index + 1}",
             fontSize: 30.0,
           ),
-          const SubjectScreen()
+          SubjectScreen(
+            gradeIndex: index,
+          )
         ],
       ),
     );

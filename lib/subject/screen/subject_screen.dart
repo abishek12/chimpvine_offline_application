@@ -9,7 +9,11 @@ import '../model/subject_model.dart';
 import '../widget/content_choose_dialog.dart';
 
 class SubjectScreen extends StatelessWidget {
-  const SubjectScreen({super.key});
+  final int gradeIndex;
+  const SubjectScreen({
+    super.key,
+    required this.gradeIndex,
+  });
 
   @override
   Widget build(BuildContext context) {
@@ -33,9 +37,9 @@ class SubjectScreen extends StatelessWidget {
                     onTap: () => showDialog(
                       context: context,
                       barrierDismissible: false,
-                      builder: (context) => const ContentChooseDialog(
-                        grade: "1",
-                        subject: "Math",
+                      builder: (context) => ContentChooseDialog(
+                        grade: "${gradeIndex + 1}",
+                        subject: index,
                       ),
                     ),
                     child: Row(

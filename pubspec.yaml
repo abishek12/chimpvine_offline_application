@@ -43,6 +43,7 @@ dependencies:
   sqflite: ^2.3.0
   double_back_to_close_app: ^2.1.0
   shared_preferences: ^2.2.2
+  device_info_plus: ^9.1.1
 
 dev_dependencies:
   flutter_test:
@@ -76,12 +77,30 @@ flutter:
     - assets/games/
     - assets/subject/images/
     - assets/json/
-    - assets/demo/WaterTrailRunWebGl/
-    - assets/demo/WaterTrailRunWebGl/TemplateData/
-    - assets/demo/WaterTrailRunWebGl/Build/
-    - assets/demo/ForestTrailRunWebGl/
-    - assets/demo/ForestTrailRunWebGl/TemplateData/
-    - assets/demo/ForestTrailRunWebGl/Build/
+
+    - assets/games/Animal_Quiz/
+    - assets/games/Animal_Quiz/TemplateData/
+    - assets/games/Animal_Quiz/Build/
+
+    - assets/games/BallSearchWebGL/
+    - assets/games/BallSearchWebGL/TemplateData/
+    - assets/games/BallSearchWebGL/Build/
+
+    - assets/games/JumpingNinjaWebGL/
+    - assets/games/JumpingNinjaWebGL/TemplateData/
+    - assets/games/JumpingNinjaWebGL/Build/
+
+    - assets/games/MonoJumpG4MathsWebGL/
+    - assets/games/MonoJumpG4MathsWebGL/TemplateData/
+    - assets/games/MonoJumpG4MathsWebGL/Build/
+
+    - assets/games/Turbo/
+    - assets/games/Turbo/TemplateData/
+    - assets/games/Turbo/Build/
+    
+    - assets/games/WaterTrailRunWebGl/
+    - assets/games/WaterTrailRunWebGl/TemplateData/
+    - assets/games/WaterTrailRunWebGl/Build/
 
   # An image asset can refer to one or more resolution-specific "variants", see
   # https://flutter.dev/assets-and-images/#resolution-aware

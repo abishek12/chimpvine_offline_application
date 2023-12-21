@@ -1,0 +1,1078 @@
+{
+  "Maths": {
+    "Level1": {
+      "Which numbers are less than 5?": {
+        "Correct": [
+          "1",
+          "3",
+          "2",
+          "4",
+          "0"
+        ],
+        "InCorrect": [
+          "5",
+          "6",
+          "8",
+          "9",
+          "10"
+        ]
+      },
+      "Which numbers are less than 6?": {
+        "Correct": [
+          "5",
+          "3",
+          "2",
+          "4",
+          "1"
+        ],
+        "InCorrect": [
+          "6",
+          "8",
+          "7",
+          "10",
+          "12"
+        ]
+      },
+      "Which numbers are greater than 5?": {
+        "Correct": [
+          "9",
+          "10",
+          "8",
+          "11",
+          "6"
+        ],
+        "InCorrect": [
+          "0",
+          "4",
+          "3",
+          "1",
+          "2"
+        ]
+      },
+      "Which numbers are less than 7?": {
+        "Correct": [
+          "1",
+          "0",
+          "3",
+          "5",
+          "4"
+        ],
+        "InCorrect": [
+          "9",
+          "10",
+          "13",
+          "14",
+          "11"
+        ]
+      },
+      "Which numbers are greater than 9?": {
+        "Correct": [
+          "12",
+          "10",
+          "13",
+          "14",
+          "11"
+        ],
+        "InCorrect": [
+          "1",
+          "8",
+          "3",
+          "7",
+          "4"
+        ]
+      }
+    },
+    "Level2": {
+      "Which numbers are less than 14?": {
+        "Correct": [
+          "12",
+          "5",
+          "8",
+          "11",
+          "10"
+        ],
+        "InCorrect": [
+          "17",
+          "19",
+          "16",
+          "18",
+          "15"
+        ]
+      },
+      "Which numbers are greater than 12?": {
+        "Correct": [
+          "15",
+          "13",
+          "16",
+          "19",
+          "17"
+        ],
+        "InCorrect": [
+          "4",
+          "6",
+          "7",
+          "10",
+          "11"
+        ]
+      },
+      "Which numbers are greater than 17?": {
+        "Correct": [
+          "19",
+          "20",
+          "21",
+          "18",
+          "24"
+        ],
+        "InCorrect": [
+          "14",
+          "15",
+          "13",
+          "12",
+          "11"
+        ]
+      },
+      "Which numbers are less than 17?": {
+        "Correct": [
+          "14",
+          "12",
+          "6",
+          "7",
+          "14"
+        ],
+        "InCorrect": [
+          "19",
+          "21",
+          "23",
+          "25",
+          "24"
+        ]
+      },
+      "Which numbers are greater than 13?": {
+        "Correct": [
+          "15",
+          "20",
+          "21",
+          "14",
+          "16"
+        ],
+        "InCorrect": [
+          "6",
+          "5",
+          "11",
+          "12",
+          "4"
+        ]
+      }
+    },
+    "Level3": {
+      "Which numbers are greater than 23?": {
+        "Correct": [
+          "25",
+          "26",
+          "27",
+          "24",
+          "29"
+        ],
+        "InCorrect": [
+          "12",
+          "15",
+          "13",
+          "6",
+          "11"
+        ]
+      },
+      "Which numbers are less than 25?": {
+        "Correct": [
+          "21",
+          "15",
+          "12",
+          "14",
+          "18"
+        ],
+        "InCorrect": [
+          "26",
+          "29",
+          "27",
+          "28",
+          "27"
+        ]
+      },
+      "Which numbers are greater than 19?": {
+        "Correct": [
+          "20",
+          "23",
+          "25",
+          "22",
+          "28"
+        ],
+        "InCorrect": [
+          "4",
+          "5",
+          "15",
+          "13",
+          "7"
+        ]
+      },
+      "Which numbers are greater than 19?": {
+        "Correct": [
+          "20",
+          "23",
+          "25",
+          "22",
+          "28"
+        ],
+        "InCorrect": [
+          "4",
+          "5",
+          "15",
+          "13",
+          "7"
+        ]
+      },
+      "Which numbers are less than 24?": {
+        "Correct": [
+          "20",
+          "23",
+          "14",
+          "11",
+          "16"
+        ],
+        "InCorrect": [
+          "26",
+          "25",
+          "27",
+          "29",
+          "30"
+        ]
+      }
+    },
+    "Level4": {
+      "What are the multples of 3?": {
+        "Correct": [
+          "3",
+          "6",
+          "9",
+          "12",
+          "18"
+        ],
+        "InCorrect": [
+          "4",
+          "5",
+          "10",
+          "14",
+          "17"
+        ]
+      },
+      "What are the multiples of 5?": {
+        "Correct": [
+          "5",
+          "10",
+          "20",
+          "25",
+          "15"
+        ],
+        "InCorrect": [
+          "4",
+          "9",
+          "13",
+          "11",
+          "23"
+        ]
+      },
+      "What are the multiples of 2?": {
+        "Correct": [
+          "2",
+          "4",
+          "12",
+          "16",
+          "20"
+        ],
+        "InCorrect": [
+          "3",
+          "9",
+          "13",
+          "11",
+          "23"
+        ]
+      },
+      "What are the multiples of 4?": {
+        "Correct": [
+          "4",
+          "8",
+          "20",
+          "32",
+          "36"
+        ],
+        "InCorrect": [
+          "1",
+          "9",
+          "13",
+          "11",
+          "23"
+        ]
+      },
+      "What are the multiples of 6?": {
+        "Correct": [
+          "6",
+          "12",
+          "18",
+          "24",
+          "36"
+        ],
+        "InCorrect": [
+          "3",
+          "9",
+          "11",
+          "17",
+          "15"
+        ]
+      }
+    },
+    "Level5": {
+      "What are the multples of 8?": {
+        "Correct": [
+          "8",
+          "16",
+          "24",
+          "32",
+          "40",
+          "48"
+        ],
+        "InCorrect": [
+          "23",
+          "25",
+          "10",
+          "52"
+        ]
+      },
+      "What are the multiples of 9?": {
+        "Correct": [
+          "9",
+          "18",
+          "27",
+          "36",
+          "45"
+        ],
+        "InCorrect": [
+          "22",
+          "12",
+          "13",
+          "33",
+          "7"
+        ]
+      },
+      "What are the multiples of 10?": {
+        "Correct": [
+          "10",
+          "20",
+          "30",
+          "40",
+          "60"
+        ],
+        "InCorrect": [
+          "23",
+          "35",
+          "42",
+          "41",
+          "15"
+        ]
+      },
+      "What are the multiples of 11?": {
+        "Correct": [
+          "11",
+          "55",
+          "33",
+          "44",
+          "66"
+        ],
+        "InCorrect": [
+          "4",
+          "9",
+          "13",
+          "12",
+          "23"
+        ]
+      },
+      "What are the multiples of 12?": {
+        "Correct": [
+          "12",
+          "24",
+          "36",
+          "48",
+          "60"
+        ],
+        "InCorrect": [
+          "4",
+          "9",
+          "13",
+          "11",
+          "23"
+        ]
+      }
+    }
+  },
+  "Science": {
+    "Level1": {
+      "Which is the following is living creature?": {
+        "Correct": [
+          "Human",
+          "Cat",
+          "Horse",
+          "Plant",
+          "Fish"
+        ],
+        "InCorrect": [
+          "Trouser",
+          "Car",
+          "Bat",
+          "Footbal",
+          "Bed"
+        ]
+      },
+      "Which is the following is non-living creature?": {
+        "Correct": [
+          "Cycle",
+          "Rocket",
+          "Stone",
+          "Bed",
+          "Shoe"
+        ],
+        "InCorrect": [
+          "Human",
+          "Cat",
+          "Horse",
+          "Plant",
+          "Fish"
+        ]
+      },
+      "Which of the following is plant?": {
+        "Correct": [
+          "Carrot",
+          "Potato",
+          "Pine",
+          "Mustard",
+          "Aloe Vera"
+        ],
+        "InCorrect": [
+          "Cow",
+          "Bag",
+          "Shoe",
+          "Mobile",
+          "Book"
+        ]
+      },
+      "Which of the following is animal": {
+        "Correct": [
+          "Cow",
+          "Rabbit",
+          "Pig",
+          "Goat",
+          "Deer"
+        ],
+        "InCorrect": [
+          "Bag",
+          "Mobile",
+          "Book",
+          "Pen",
+          "Road"
+        ]
+      }
+    },
+    "Level2": {
+      "Which is the following is living creature?": {
+        "Correct": [
+          "Human",
+          "Cat",
+          "Horse",
+          "Plant",
+          "Fish"
+        ],
+        "InCorrect": [
+          "Trouser",
+          "Car",
+          "Bat",
+          "Footbal",
+          "Bed"
+        ]
+      },
+      "Which is the following is non-living creature?": {
+        "Correct": [
+          "Cycle",
+          "Rocket",
+          "Stone",
+          "Bed",
+          "Shoe"
+        ],
+        "InCorrect": [
+          "Human",
+          "Cat",
+          "Horse",
+          "Plant",
+          "Fish"
+        ]
+      },
+      "Which of the following is plant?": {
+        "Correct": [
+          "Carrot",
+          "Potato",
+          "Pine",
+          "Mustard",
+          "Aloe Vera"
+        ],
+        "InCorrect": [
+          "Cow",
+          "Bag",
+          "Shoe",
+          "Mobile",
+          "Book"
+        ]
+      },
+      "Which of the following is animal": {
+        "Correct": [
+          "Cow",
+          "Rabbit",
+          "Pig",
+          "Goat",
+          "Deer"
+        ],
+        "InCorrect": [
+          "Bag",
+          "Mobile",
+          "Book",
+          "Pen",
+          "Road"
+        ]
+      }
+    },
+    "Level3": {
+      "Which is the following is living creature?": {
+        "Correct": [
+          "Human",
+          "Cat",
+          "Horse",
+          "Plant",
+          "Fish"
+        ],
+        "InCorrect": [
+          "Trouser",
+          "Car",
+          "Bat",
+          "Footbal",
+          "Bed"
+        ]
+      },
+      "Which is the following is non-living creature?": {
+        "Correct": [
+          "Cycle",
+          "Rocket",
+          "Stone",
+          "Bed",
+          "Shoe"
+        ],
+        "InCorrect": [
+          "Human",
+          "Cat",
+          "Horse",
+          "Plant",
+          "Fish"
+        ]
+      },
+      "Which of the following is plant?": {
+        "Correct": [
+          "Carrot",
+          "Potato",
+          "Pine",
+          "Mustard",
+          "Aloe Vera"
+        ],
+        "InCorrect": [
+          "Cow",
+          "Bag",
+          "Shoe",
+          "Mobile",
+          "Book"
+        ]
+      },
+      "Which of the following is animal": {
+        "Correct": [
+          "Cow",
+          "Rabbit",
+          "Pig",
+          "Goat",
+          "Deer"
+        ],
+        "InCorrect": [
+          "Bag",
+          "Mobile",
+          "Book",
+          "Pen",
+          "Road"
+        ]
+      }
+    },
+    "Level4": {
+      "Which is the following is living creature?": {
+        "Correct": [
+          "Human",
+          "Cat",
+          "Horse",
+          "Plant",
+          "Fish"
+        ],
+        "InCorrect": [
+          "Trouser",
+          "Car",
+          "Bat",
+          "Footbal",
+          "Bed"
+        ]
+      },
+      "Which is the following is non-living creature?": {
+        "Correct": [
+          "Cycle",
+          "Rocket",
+          "Stone",
+          "Bed",
+          "Shoe"
+        ],
+        "InCorrect": [
+          "Human",
+          "Cat",
+          "Horse",
+          "Plant",
+          "Fish"
+        ]
+      },
+      "Which of the following is plant?": {
+        "Correct": [
+          "Carrot",
+          "Potato",
+          "Pine",
+          "Mustard",
+          "Aloe Vera"
+        ],
+        "InCorrect": [
+          "Cow",
+          "Bag",
+          "Shoe",
+          "Mobile",
+          "Book"
+        ]
+      },
+      "Which of the following is animal": {
+        "Correct": [
+          "Cow",
+          "Rabbit",
+          "Pig",
+          "Goat",
+          "Deer"
+        ],
+        "InCorrect": [
+          "Bag",
+          "Mobile",
+          "Book",
+          "Pen",
+          "Road"
+        ]
+      }
+    },
+    "Level5": {
+      "Which is the following is living creature?": {
+        "Correct": [
+          "Human",
+          "Cat",
+          "Horse",
+          "Plant",
+          "Fish"
+        ],
+        "InCorrect": [
+          "Trouser",
+          "Car",
+          "Bat",
+          "Footbal",
+          "Bed"
+        ]
+      },
+      "Which is the following is non-living creature?": {
+        "Correct": [
+          "Cycle",
+          "Rocket",
+          "Stone",
+          "Bed",
+          "Shoe"
+        ],
+        "InCorrect": [
+          "Human",
+          "Cat",
+          "Horse",
+          "Plant",
+          "Fish"
+        ]
+      },
+      "Which of the following is plant?": {
+        "Correct": [
+          "Carrot",
+          "Potato",
+          "Pine",
+          "Mustard",
+          "Aloe Vera"
+        ],
+        "InCorrect": [
+          "Cow",
+          "Bag",
+          "Shoe",
+          "Mobile",
+          "Book"
+        ]
+      },
+      "Which of the following is animal": {
+        "Correct": [
+          "Cow",
+          "Rabbit",
+          "Pig",
+          "Goat",
+          "Deer"
+        ],
+        "InCorrect": [
+          "Bag",
+          "Mobile",
+          "Book",
+          "Pen",
+          "Road"
+        ]
+      }
+    }
+  },
+  "English": {
+    "Level1": {
+      "Which is the following is noun?": {
+        "Correct": [
+          "Man",
+          "Nepal",
+          "Music",
+          "Love",
+          "Star"
+        ],
+        "InCorrect": [
+          "Is",
+          "Beautiful",
+          "To",
+          "Said",
+          "Best"
+        ]
+      },
+      "Which is the following is common noun?": {
+        "Correct": [
+          "Car",
+          "Movie",
+          "School",
+          "Country",
+          "Ocean"
+        ],
+        "InCorrect": [
+          "Love",
+          "America",
+          "Life",
+          "Empire state",
+          "Mount Everest"
+        ]
+      },
+      "Which of the following is proper noun?": {
+        "Correct": [
+          "Mount Everest",
+          "Empire state",
+          "Nepal",
+          "Ferrari",
+          "Indian ocean"
+        ],
+        "InCorrect": [
+          "Pity",
+          "Rock",
+          "Building",
+          "Ocean",
+          "Country"
+        ]
+      },
+      "Which of the following is abstract noun": {
+        "Correct": [
+          "Friendshp",
+          "Love",
+          "Goal",
+          "Horror",
+          "Hope"
+        ],
+        "InCorrect": [
+          "Man",
+          "Ferrari",
+          "Country",
+          "Mount everest",
+          "Movie"
+        ]
+      }
+    },
+    "Level2": {
+      "Which is the following is noun?": {
+        "Correct": [
+          "Man",
+          "Nepal",
+          "Music",
+          "Love",
+          "Star"
+        ],
+        "InCorrect": [
+          "Is",
+          "Beautiful",
+          "To",
+          "Said",
+          "Best"
+        ]
+      },
+      "Which is the following is common noun?": {
+        "Correct": [
+          "Car",
+          "Movie",
+          "School",
+          "Country",
+          "Ocean"
+        ],
+        "InCorrect": [
+          "Love",
+          "America",
+          "Life",
+          "Empire state",
+          "Mount Everest"
+        ]
+      },
+      "Which of the following is proper noun?": {
+        "Correct": [
+          "Mount Everest",
+          "Empire state",
+          "Nepal",
+          "Ferrari",
+          "Indian ocean"
+        ],
+        "InCorrect": [
+          "Pity",
+          "Rock",
+          "Building",
+          "Ocean",
+          "Country"
+        ]
+      },
+      "Which of the following is abstract noun": {
+        "Correct": [
+          "Friendshp",
+          "Love",
+          "Goal",
+          "Horror",
+          "Hope"
+        ],
+        "InCorrect": [
+          "Man",
+          "Ferrari",
+          "Country",
+          "Mount everest",
+          "Movie"
+        ]
+      }
+    },
+    "Level3": {
+      "Which is the following is noun?": {
+        "Correct": [
+          "Man",
+          "Nepal",
+          "Music",
+          "Love",
+          "Star"
+        ],
+        "InCorrect": [
+          "Is",
+          "Beautiful",
+          "To",
+          "Said",
+          "Best"
+        ]
+      },
+      "Which is the following is common noun?": {
+        "Correct": [
+          "Car",
+          "Movie",
+          "School",
+          "Country",
+          "Ocean"
+        ],
+        "InCorrect": [
+          "Love",
+          "America",
+          "Life",
+          "Empire state",
+          "Mount Everest"
+        ]
+      },
+      "Which of the following is proper noun?": {
+        "Correct": [
+          "Mount Everest",
+          "Empire state",
+          "Nepal",
+          "Ferrari",
+          "Indian ocean"
+        ],
+        "InCorrect": [
+          "Pity",
+          "Rock",
+          "Building",
+          "Ocean",
+          "Country"
+        ]
+      },
+      "Which of the following is abstract noun": {
+        "Correct": [
+          "Friendshp",
+          "Love",
+          "Goal",
+          "Horror",
+          "Hope"
+        ],
+        "InCorrect": [
+          "Man",
+          "Ferrari",
+          "Country",
+          "Mount everest",
+          "Movie"
+        ]
+      }
+    },
+    "Level4": {
+      "Which is the following is noun?": {
+        "Correct": [
+          "Man",
+          "Nepal",
+          "Music",
+          "Love",
+          "Star"
+        ],
+        "InCorrect": [
+          "Is",
+          "Beautiful",
+          "To",
+          "Said",
+          "Best"
+        ]
+      },
+      "Which is the following is common noun?": {
+        "Correct": [
+          "Car",
+          "Movie",
+          "School",
+          "Country",
+          "Ocean"
+        ],
+        "InCorrect": [
+          "Love",
+          "America",
+          "Life",
+          "Empire state",
+          "Mount Everest"
+        ]
+      },
+      "Which of the following is proper noun?": {
+        "Correct": [
+          "Mount Everest",
+          "Empire state",
+          "Nepal",
+          "Ferrari",
+          "Indian ocean"
+        ],
+        "InCorrect": [
+          "Pity",
+          "Rock",
+          "Building",
+          "Ocean",
+          "Country"
+        ]
+      },
+      "Which of the following is abstract noun": {
+        "Correct": [
+          "Friendshp",
+          "Love",
+          "Goal",
+          "Horror",
+          "Hope"
+        ],
+        "InCorrect": [
+          "Man",
+          "Ferrari",
+          "Country",
+          "Mount everest",
+          "Movie"
+        ]
+      }
+    },
+    "Level5": {
+      "Which is the following is noun?": {
+        "Correct": [
+          "Man",
+          "Nepal",
+          "Music",
+          "Love",
+          "Star"
+        ],
+        "InCorrect": [
+          "Is",
+          "Beautiful",
+          "To",
+          "Said",
+          "Best"
+        ]
+      },
+      "Which is the following is common noun?": {
+        "Correct": [
+          "Car",
+          "Movie",
+          "School",
+          "Country",
+          "Ocean"
+        ],
+        "InCorrect": [
+          "Love",
+          "America",
+          "Life",
+          "Empire state",
+          "Mount Everest"
+        ]
+      },
+      "Which of the following is proper noun?": {
+        "Correct": [
+          "Mount Everest",
+          "Empire state",
+          "Nepal",
+          "Ferrari",
+          "Indian ocean"
+        ],
+        "InCorrect": [
+          "Pity",
+          "Rock",
+          "Building",
+          "Ocean",
+          "Country"
+        ]
+      },
+      "Which of the following is abstract noun": {
+        "Correct": [
+          "Friendshp",
+          "Love",
+          "Goal",
+          "Horror",
+          "Hope"
+        ],
+        "InCorrect": [
+          "Man",
+          "Ferrari",
+          "Country",
+          "Mount everest",
+          "Movie"
+        ]
+      }
+    }
+  }
+}

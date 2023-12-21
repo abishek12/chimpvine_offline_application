@@ -4,10 +4,11 @@ import 'package:go_router/go_router.dart';
 import '../../app/constant/app_color.dart';
 import '../../app/constant/app_image.dart';
 import '../../app/widgets/text_widget.dart';
+import '../helper/subject_helper.dart';
 
 class ContentChooseDialog extends StatelessWidget {
   final String grade;
-  final String subject;
+  final int subject;
   const ContentChooseDialog({
     super.key,
     required this.grade,
@@ -28,7 +29,7 @@ class ContentChooseDialog extends StatelessWidget {
         child: Column(
           children: [
             CustomText(
-              strText: "Grade $grade->$subject",
+              strText: "Grade $grade->${subjectHelper(subject)}",
               fontSize: 16,
             ),
             const SizedBox(
