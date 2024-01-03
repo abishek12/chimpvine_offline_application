@@ -37,14 +37,18 @@ final appRoutes = GoRouter(
       builder: (context, state) => const ProfileScreen(),
     ),
     GoRoute(
-      path: "/interactive",
+      path: "/interactive/:gradeIndex/:subjectIndex/:type",
       name: "interactiveScreen",
       builder: (context, state) => const InteractiveScreen(),
     ),
     GoRoute(
-      path: "/games",
+      path: "/games/:gradeIndex/:subjectIndex/:type",
       name: "gameScreen",
-      builder: (context, state) => const GameScreen(),
+      builder: (context, state) => GameScreen(
+        gradeIndex: state.pathParameters['gradeIndex'].toString(),
+        subjectIndex: state.pathParameters["subjectIndex"].toString(),
+        type: state.pathParameters['type'].toString(),
+      ),
     ),
   ],
 );

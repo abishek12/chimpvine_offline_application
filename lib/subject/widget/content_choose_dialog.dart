@@ -29,7 +29,7 @@ class ContentChooseDialog extends StatelessWidget {
         child: Column(
           children: [
             CustomText(
-              strText: "Grade $grade->${subjectHelper(subject)}",
+              strText: "Grade $grade->${subjectHelper(subject.toString())}",
               fontSize: 16,
             ),
             const SizedBox(
@@ -43,6 +43,9 @@ class ContentChooseDialog extends StatelessWidget {
                   "Interactive Content",
                   appImage.interactivePng,
                   "interactiveScreen",
+                  grade,
+                  subject.toString(),
+                  "ic",
                 ),
                 const SizedBox(
                   width: 16,
@@ -52,6 +55,9 @@ class ContentChooseDialog extends StatelessWidget {
                   "Games ",
                   appImage.gamePng,
                   "gameScreen",
+                  grade,
+                  subject.toString(),
+                  "game",
                 ),
               ],
             )
@@ -66,11 +72,28 @@ class ContentChooseDialog extends StatelessWidget {
     final String title,
     final String imageName,
     final String onTap,
+    final String gradeI,
+    final String subjectI,
+    final String type,
   ) {
     return Column(
       children: [
         InkWell(
-          onTap: () => context.pushNamed(onTap),
+          // onTap: () => Navigator.push(
+          //   context,
+          //   MaterialPageRoute(
+          //     builder: (context) => PlayGroundScreen(
+          //       grade: gradeI,
+          //       subject: subjectI,
+          //       type: type,
+          //     ),
+          //   ),
+          // ),
+          onTap: () => context.pushNamed(onTap, pathParameters: {
+            "gradeIndex": gradeI,
+            "subjectIndex": subjectI.toString(),
+            "type": type,
+          }),
           child: Container(
             padding: const EdgeInsets.all(8),
             decoration: BoxDecoration(

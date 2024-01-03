@@ -5,15 +5,16 @@ import '../../home/widgets/app_bar_widget/home_app_bar.dart';
 import '../widget/game_testing.dart';
 
 class GameScreen extends StatelessWidget {
-  // final int gradeIndex;
-  // final int subjectIndex;
+  final String gradeIndex;
+  final String subjectIndex;
+  final String type;
 
-  const GameScreen({super.key});
-  // const GameScreen({
-  //   super.key,
-  //   required this.gradeIndex,
-  //   required this.subjectIndex,
-  // });
+  const GameScreen({
+    super.key,
+    required this.gradeIndex,
+    required this.subjectIndex,
+    required this.type,
+  });
 
   @override
   Widget build(BuildContext context) {

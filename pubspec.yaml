@@ -44,6 +44,8 @@ dependencies:
   double_back_to_close_app: ^2.1.0
   shared_preferences: ^2.2.2
   device_info_plus: ^9.1.1
+  gap: ^3.0.1
+  flutter_unity_widget: ^2020.3.25
 
 dev_dependencies:
   flutter_test:
@@ -77,6 +79,52 @@ flutter:
     - assets/games/
     - assets/subject/images/
     - assets/json/
+    - assets/json/offline-content/ic/
+
+    - assets/ic/G2-S-heat/
+    - assets/ic/G2-S-heat/content/G2-S-heat/script.js
+    - assets/ic/G2-S-heat/content/G2-S-heat/style.css
+    - assets/ic/G2-S-heat/libraries/h5pcore/script.js
+    - assets/ic/G2-S-heat/libraries/H5P.FontIcons-1.0/fonts/h5p.ttf
+    - assets/ic/G2-S-heat/libraries/FontAwesome-4.5/fontawesome-webfont.woff2
+    - assets/ic/G2-S-heat/libraries/H5P.MultiChoice-1.16/fonts/icomoon.woff
+    - assets/ic/G2-S-heat/content/G2-S-heat/images/file-646a09db28be6.jpeg
+    - assets/ic/G2-S-heat/content/G2-S-heat/images/file-646a0a0b663b8.jpeg
+    - assets/ic/G2-S-heat/content/G2-S-heat/images/file-646a0b03bd6b0.jpeg
+    - assets/ic/G2-S-heat/libraries/H5P.FontIcons-1.0/fonts/h5p.woff
+    - assets/ic/G2-S-heat/content/G2-S-heat/images/file-646a0aea69c00.jpeg
+    - assets/ic/G2-S-heat/content/G2-S-heat/images/file-646a0b4801ab5.jpeg
+    - assets/ic/G2-S-heat/content/G2-S-heat/images/file-646a0b5ab2a49.jpeg
+    - assets/ic/G2-S-heat/content/G2-S-heat/images/file-646a0b7235b70.jpeg
+    - assets/ic/G2-S-heat/libraries/FontAwesome-4.5/fontawesome-webfont.woff
+    - assets/ic/G2-S-heat/libraries/H5P.MultiChoice-1.16/fonts/icomoon.ttf
+    - assets/ic/G2-S-heat/content/G2-S-heat/audios/files-60e2c05a13ed7.mp3
+    - assets/ic/G2-S-heat/content/G2-S-heat/audios/files-60e2f449d10fc.mp3
+    - assets/ic/G2-S-heat/content/G2-S-heat/audios/files-60e30183103d4.mp3
+    - assets/ic/G2-S-heat/content/G2-S-heat/audios/files-60e30ffd7e6da.mp3
+    - assets/ic/G2-S-heat/content/G2-S-heat/audios/files-60e30183103d4.mp3
+    - assets/ic/G2-S-heat/content/G2-S-heat/audios/files-60e30a6165bef.mp3
+    - assets/ic/G2-S-heat/content/G2-S-heat/audios/files-60e30293f2028.mp3
+    - assets/ic/G2-S-heat/content/G2-S-heat/audios/files-60e30f5167bab.mp3
+    - assets/ic/G2-S-heat/content/G2-S-heat/audios/files-60e30b1c0ee1f.mp3
+    - assets/ic/G2-S-heat/content/G2-S-heat/audios/files-60e31180716c2.mp3
+    - assets/ic/G2-S-heat/content/G2-S-heat/audios/files-60e3141bc8e49.mp3
+    - assets/ic/G2-S-heat/libraries/FontAwesome-4.5/fontawesome-webfont.ttf
+
+    - assets/ic/G4-Eng-adjective/
+    - assets/ic/G4-Eng-adjective/content/G4-Eng-adjective/script.js
+    - assets/ic/G4-Eng-adjective/content/G4-Eng-adjective/style.css
+    - assets/ic/G4-Eng-adjective/libraries/h5pcore/script.js
+
+    - assets/ic/G4-Eng-Verb/
+    - assets/ic/G4-Eng-Verb/content/G4-Eng-Verb/script.js
+    - assets/ic/G4-Eng-Verb/content/G4-Eng-Verb/style.css
+    - assets/ic/G4-Eng-Verb/libraries/h5pcore/script.js
+
+    - assets/ic/G4-Eng-yes-no/
+    - assets/ic/G4-Eng-yes-no/content/G4-Eng-yes-no/script.js
+    - assets/ic/G4-Eng-yes-no/content/G4-Eng-yes-no/style.css
+    - assets/ic/G4-Eng-yes-no/libraries/h5pcore/script.js
 
     - assets/games/Animal_Quiz/
     - assets/games/Animal_Quiz/TemplateData/
@@ -101,6 +149,14 @@ flutter:
     - assets/games/WaterTrailRunWebGl/
     - assets/games/WaterTrailRunWebGl/TemplateData/
     - assets/games/WaterTrailRunWebGl/Build/
+
+    - assets/games/PancakeFlipWebGL/
+    - assets/games/PancakeFlipWebGL/TemplateData/
+    - assets/games/PancakeFlipWebGL/Build/
+
+    - assets/games/WackAMoleWebGL/
+    - assets/games/WackAMoleWebGL/TemplateData/
+    - assets/games/WackAMoleWebGL/Build/
 
   # An image asset can refer to one or more resolution-specific "variants", see
   # https://flutter.dev/assets-and-images/#resolution-aware

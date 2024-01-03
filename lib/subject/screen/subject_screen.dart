@@ -40,6 +40,7 @@ class SubjectScreen extends StatelessWidget {
                       builder: (context) => ContentChooseDialog(
                         grade: "${gradeIndex + 1}",
                         subject: index,
+                        
                       ),
                     ),
                     child: Row(

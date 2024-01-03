@@ -1,7 +1,7 @@
-import 'package:chimpvine_offline_application/games/widget/game_play_screen.dart';
 import 'package:flutter/material.dart';
 
 import '../utils/game_testing_list.dart';
+import 'game_play_screen.dart';
 
 class GameTesting extends StatelessWidget {
   const GameTesting({super.key});
@@ -9,6 +9,7 @@ class GameTesting extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return SizedBox(
+      width: MediaQuery.of(context).size.width,
       height: MediaQuery.of(context).size.height * 0.7,
       child: GridView.builder(
           itemCount: gameTesting.length,

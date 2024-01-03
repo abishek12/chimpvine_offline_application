@@ -23,4 +23,12 @@ final List gameTesting = [
     "title": "WaterTrailRun",
     "dir": "assets/games/WaterTrailRunWebGl/index.html",
   },
+  {
+    "title": "Wack a Mole",
+    "dir": "assets/games/WackAMoleWebGL/index.html",
+  },
+  {
+    "title": "Pancake Flip",
+    "dir": "assets/games/PancakeFlipWebGL/index.html",
+  },
 ];
