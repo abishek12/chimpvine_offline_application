@@ -45,7 +45,11 @@ dependencies:
   shared_preferences: ^2.2.2
   device_info_plus: ^9.1.1
   gap: ^3.0.1
-  flutter_unity_widget: ^2020.3.25
+  lottie: ^2.7.0
+  flutter_speed_dial: ^7.0.0
+  smooth_page_indicator: ^1.1.0
+  flutter_staggered_grid_view: ^0.7.0
+  flutter_staggered_animations: ^1.1.1
 
 dev_dependencies:
   flutter_test:
@@ -71,6 +75,9 @@ flutter:
 
   # To add assets to your application, add an assets section, like this:
   assets:
+    - assets/profile/
+    - assets/lottie/
+    - assets/grades/
     - assets/appbar/
     - assets/home/
     - assets/footer/images/
@@ -79,41 +86,23 @@ flutter:
     - assets/games/
     - assets/subject/images/
     - assets/json/
-    - assets/json/offline-content/ic/
+
+    # adding assets for game json
+    - assets/json/Grade-1/
+    - assets/json/Grade-2/
+    - assets/json/Grade-3/
 
     - assets/ic/G2-S-heat/
-    - assets/ic/G2-S-heat/content/G2-S-heat/script.js
-    - assets/ic/G2-S-heat/content/G2-S-heat/style.css
-    - assets/ic/G2-S-heat/libraries/h5pcore/script.js
-    - assets/ic/G2-S-heat/libraries/H5P.FontIcons-1.0/fonts/h5p.ttf
-    - assets/ic/G2-S-heat/libraries/FontAwesome-4.5/fontawesome-webfont.woff2
-    - assets/ic/G2-S-heat/libraries/H5P.MultiChoice-1.16/fonts/icomoon.woff
-    - assets/ic/G2-S-heat/content/G2-S-heat/images/file-646a09db28be6.jpeg
-    - assets/ic/G2-S-heat/content/G2-S-heat/images/file-646a0a0b663b8.jpeg
-    - assets/ic/G2-S-heat/content/G2-S-heat/images/file-646a0b03bd6b0.jpeg
-    - assets/ic/G2-S-heat/libraries/H5P.FontIcons-1.0/fonts/h5p.woff
-    - assets/ic/G2-S-heat/content/G2-S-heat/images/file-646a0aea69c00.jpeg
-    - assets/ic/G2-S-heat/content/G2-S-heat/images/file-646a0b4801ab5.jpeg
-    - assets/ic/G2-S-heat/content/G2-S-heat/images/file-646a0b5ab2a49.jpeg
-    - assets/ic/G2-S-heat/content/G2-S-heat/images/file-646a0b7235b70.jpeg
-    - assets/ic/G2-S-heat/libraries/FontAwesome-4.5/fontawesome-webfont.woff
-    - assets/ic/G2-S-heat/libraries/H5P.MultiChoice-1.16/fonts/icomoon.ttf
-    - assets/ic/G2-S-heat/content/G2-S-heat/audios/files-60e2c05a13ed7.mp3
-    - assets/ic/G2-S-heat/content/G2-S-heat/audios/files-60e2f449d10fc.mp3
-    - assets/ic/G2-S-heat/content/G2-S-heat/audios/files-60e30183103d4.mp3
-    - assets/ic/G2-S-heat/content/G2-S-heat/audios/files-60e30ffd7e6da.mp3
-    - assets/ic/G2-S-heat/content/G2-S-heat/audios/files-60e30183103d4.mp3
-    - assets/ic/G2-S-heat/content/G2-S-heat/audios/files-60e30a6165bef.mp3
-    - assets/ic/G2-S-heat/content/G2-S-heat/audios/files-60e30293f2028.mp3
-    - assets/ic/G2-S-heat/content/G2-S-heat/audios/files-60e30f5167bab.mp3
-    - assets/ic/G2-S-heat/content/G2-S-heat/audios/files-60e30b1c0ee1f.mp3
-    - assets/ic/G2-S-heat/content/G2-S-heat/audios/files-60e31180716c2.mp3
-    - assets/ic/G2-S-heat/content/G2-S-heat/audios/files-60e3141bc8e49.mp3
-    - assets/ic/G2-S-heat/libraries/FontAwesome-4.5/fontawesome-webfont.ttf
+    - assets/ic/G2-S-heat/content/G2-S-heat/
+    - assets/ic/G2-S-heat/libraries/h5pcore/
+    - assets/ic/G2-S-heat/libraries/H5P.FontIcons-1.0/fonts/
+    - assets/ic/G2-S-heat/libraries/FontAwesome-4.5/
+    - assets/ic/G2-S-heat/libraries/H5P.MultiChoice-1.16/fonts/
+    - assets/ic/G2-S-heat/content/G2-S-heat/images/
+    - assets/ic/G2-S-heat/content/G2-S-heat/audios/
 
     - assets/ic/G4-Eng-adjective/
-    - assets/ic/G4-Eng-adjective/content/G4-Eng-adjective/script.js
-    - assets/ic/G4-Eng-adjective/content/G4-Eng-adjective/style.css
+    - assets/ic/G4-Eng-adjective/content/G4-Eng-adjective/
     - assets/ic/G4-Eng-adjective/libraries/h5pcore/script.js
 
     - assets/ic/G4-Eng-Verb/
@@ -126,10 +115,82 @@ flutter:
     - assets/ic/G4-Eng-yes-no/content/G4-Eng-yes-no/style.css
     - assets/ic/G4-Eng-yes-no/libraries/h5pcore/script.js
 
+    - assets/ic/abstract-nouns/
+    - assets/ic/abstract-nouns/content/abstract-nouns/
+    - assets/ic/abstract-nouns/libraries/h5pcore/
+    - assets/ic/abstract-nouns/content/abstract-nouns/audios/
+    - assets/ic/abstract-nouns/content/abstract-nouns/images/
+    - assets/ic/abstract-nouns/libraries/FontAwesome-4.5/
+
+    - assets/ic/action/
+    - assets/ic/action/content/action/
+    - assets/ic/action/libraries/h5pcore/
+    - assets/ic/action/content/action/audios/
+    - assets/ic/action/content/action/images/
+    - assets/ic/action/libraries/FontAwesome-4.5/
+
+    - assets/ic/am-is-are/
+    - assets/ic/am-is-are/content/am-is-are/
+    - assets/ic/am-is-are/content/am-is-are/audios/
+    - assets/ic/am-is-are/content/am-is-are/images/
+    - assets/ic/am-is-are/libraries/FontAwesome-4.5/
+    - assets/ic/am-is-are/libraries/H5P.MultiChoice-1.16/fonts/
+
+    - assets/ic/animals/
+    - assets/ic/animals/content/animals/
+    - assets/ic/animals/libraries/h5pcore/
+    - assets/ic/animals/content/animals/audios/
+    - assets/ic/animals/content/animals/images/
+    - assets/ic/animals/libraries/FontAwesome-4.5/
+    - assets/ic/animals/libraries/H5P.MultiChoice-1.16/fonts/
+
+    - assets/ic/antonym/
+    - assets/ic/antonym/content/antonym/
+    - assets/ic/antonym/libraries/h5pcore/
+    - assets/ic/antonym/content/antonym/audios/
+    - assets/ic/antonym/content/antonym/images/
+    - assets/ic/antonym/libraries/FontAwesome-4.5/
+    - assets/ic/antonym/libraries/H5P.MultiChoice-1.16/fonts/
+
+    - assets/ic/closings-letters/
+    - assets/ic/closings-letters/content/closings-letters/
+    - assets/ic/closings-letters/libraries/h5pcore/
+    - assets/ic/closings-letters/content/closings-letters/audios/
+    - assets/ic/closings-letters/content/closings-letters/images/
+    - assets/ic/closings-letters/libraries/FontAwesome-4.5/
+    - assets/ic/closings-letters/libraries/H5P.MultiChoice-1.16/fonts/
+
+    - assets/ic/color/
+    - assets/ic/color/content/color/
+    - assets/ic/color/libraries/h5pcore/
+    - assets/ic/color/content/color/audios/
+    - assets/ic/color/content/color/images/
+    - assets/ic/color/libraries/FontAwesome-4.5/
+    
+    - assets/ic/common/
+    - assets/ic/common/content/common/
+    - assets/ic/common/libraries/h5pcore/
+    - assets/ic/common/libraries/FontAwesome-4.5/
+
+    - assets/ic/compare/
+    - assets/ic/compare/content/compare/
+    - assets/ic/compare/libraries/h5pcore/
+    - assets/ic/compare/content/compare/audios/
+    - assets/ic/compare/libraries/FontAwesome-4.5/
+
+    - assets/ic/complete-sentences/
+    - assets/ic/complete-sentences/content/complete-sentences/
+    - assets/ic/complete-sentences/libraries/h5pcore/
+    - assets/ic/complete-sentences/libraries/FontAwesome-4.5/
+
     - assets/games/Animal_Quiz/
     - assets/games/Animal_Quiz/TemplateData/
     - assets/games/Animal_Quiz/Build/
 
+    - assets/games/FPSTest/
+    - assets/games/FPSTest/TemplateData/
+    - assets/games/FPSTest/Build/
+    
     - assets/games/BallSearchWebGL/
     - assets/games/BallSearchWebGL/TemplateData/
     - assets/games/BallSearchWebGL/Build/
@@ -157,6 +218,42 @@ flutter:
     - assets/games/WackAMoleWebGL/
     - assets/games/WackAMoleWebGL/TemplateData/
     - assets/games/WackAMoleWebGL/Build/
+
+    - assets/games/BallSearchWebGL/
+    - assets/games/BallSearchWebGL/TemplateData/
+    - assets/games/BallSearchWebGL/Build/
+
+    - assets/games/FlyHighWebGL/
+    - assets/games/FlyHighWebGL/TemplateData/
+    - assets/games/FlyHighWebGL/Build/
+
+    - assets/games/ForestTrailRunWebGL/
+    - assets/games/ForestTrailRunWebGL/TemplateData/
+    - assets/games/ForestTrailRunWebGL/Build/
+
+    - assets/games/GuessTheSoundWebGL/
+    - assets/games/GuessTheSoundWebGL/TemplateData/
+    - assets/games/GuessTheSoundWebGL/Build/
+
+    - assets/games/HotAirBallonRaceWebGL/
+    - assets/games/HotAirBallonRaceWebGL/TemplateData/
+    - assets/games/HotAirBallonRaceWebGL/Build/
+
+    - assets/games/MissingLetterWebGL/
+    - assets/games/MissingLetterWebGL/TemplateData/
+    - assets/games/MissingLetterWebGL/Build/
+
+    - assets/games/MissingNumberWebGL/
+    - assets/games/MissingNumberWebGL/TemplateData/
+    - assets/games/MissingNumberWebGL/Build/
+
+    - assets/games/NetItWebGL/
+    - assets/games/NetItWebGL/TemplateData/
+    - assets/games/NetItWebGL/Build/
+
+    - assets/games/SubstractionEquationWebGL/
+    - assets/games/SubstractionEquationWebGL/TemplateData/
+    - assets/games/SubstractionEquationWebGL/Build/
 
   # An image asset can refer to one or more resolution-specific "variants", see
   # https://flutter.dev/assets-and-images/#resolution-aware

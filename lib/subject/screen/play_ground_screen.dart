@@ -1,3 +1,4 @@
+import 'package:chimpvine_offline_application/subject/widget/play_ground_grid_widget.dart';
 import 'package:flutter/material.dart';
 import 'package:gap/gap.dart';
 
@@ -22,35 +23,25 @@ class PlayGroundScreen extends StatelessWidget {
     return Scaffold(
       body: SingleChildScrollView(
         child: Container(
-            margin: const EdgeInsets.symmetric(
-              horizontal: 60.0,
-              vertical: 48.0,
-            ),
-            child: Column(
-              children: [
-                const HomeAppBar(isVisible: true),
-                const AppLogoWidget(),
-                const Gap(16),
-                CustomText(
-                  strText:
-                      'Grade $grade -- ${subjectHelper(subject)} (${type == "ic" ? "Interactive Content" : "Games"})',
-                  fontSize: 24,
-                  color: Colors.white,
-                ),
-                Expanded(
-                  child: GridView.builder(
-                    gridDelegate:
-                        const SliverGridDelegateWithFixedCrossAxisCount(
-                      crossAxisCount: 4,
-                    ),
-                    itemCount: 40,
-                    itemBuilder: (context, index) {
-                      return Text(index.toString());
-                    },
-                  ),
-                )
-              ],
-            )),
+          margin: const EdgeInsets.symmetric(
+            horizontal: 60.0,
+            vertical: 48.0,
+          ),
+          child: Column(
+            children: [
+              const HomeAppBar(isVisible: true),
+              const AppLogoWidget(),
+              const Gap(16),
+              CustomText(
+                strText:
+                    'Grade $grade -- ${subjectHelper(subject)} (${type == "ic" ? "Interactive Content" : "Games"})',
+                fontSize: 24,
+                color: Colors.white,
+              ),
+              PlayGroundGridWidget(grade: grade, subject: subject, type: type),
+            ],
+          ),
+        ),
       ),
     );
   }

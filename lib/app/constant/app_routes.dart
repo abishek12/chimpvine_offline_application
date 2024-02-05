@@ -1,12 +1,13 @@
 import 'package:go_router/go_router.dart';
 
-import '../../games/screen/game_screen.dart';
-import '../../h5p/screen/interactive_screen.dart';
 import '../../home/screen/home_screen.dart';
 import '../../membership/screen/authentication_bloc_screen.dart';
-import '../../membership/screen/member_ship_screen.dart';
+import '../../membership/screen/login_screen.dart';
 import '../../profile/screen/profile_screen.dart';
+import '../../search/screen/search_playground.dart';
+import '../../search/screen/search_screen.dart';
 import '../../splash/screen/splash_screen.dart';
+import '../../subject/screen/play_ground_detail_screen.dart';
 
 final appRoutes = GoRouter(
   initialLocation: "/",
@@ -22,9 +23,9 @@ final appRoutes = GoRouter(
       builder: (context, state) => const AuthenticationBlocScreen(),
     ),
     GoRoute(
-      path: "/membership",
-      name: "membershipScreen",
-      builder: (context, state) => const MembershipScreen(),
+      path: "/login",
+      name: "loginScreen",
+      builder: (context, state) => const LoginScreen(),
     ),
     GoRoute(
       path: "/home",
@@ -32,22 +33,25 @@ final appRoutes = GoRouter(
       builder: (context, state) => const HomeScreen(),
     ),
     GoRoute(
+      path: "/search",
+      name: "searchScreen",
+      builder: (context, state) => const SearchScreen(),
+    ),
+    GoRoute(
       path: "/profile",
       name: "profileScreen",
       builder: (context, state) => const ProfileScreen(),
     ),
     GoRoute(
-      path: "/interactive/:gradeIndex/:subjectIndex/:type",
-      name: "interactiveScreen",
-      builder: (context, state) => const InteractiveScreen(),
+      path: "/playground",
+      name: "playground",
+      builder: (context, state) => const SearchPlayground(),
     ),
     GoRoute(
-      path: "/games/:gradeIndex/:subjectIndex/:type",
-      name: "gameScreen",
-      builder: (context, state) => GameScreen(
-        gradeIndex: state.pathParameters['gradeIndex'].toString(),
-        subjectIndex: state.pathParameters["subjectIndex"].toString(),
-        type: state.pathParameters['type'].toString(),
+      path: "/playground-details/:path",
+      name: "playgroundDetails",
+      builder: (context, state) => PlayGroundDetailScreen(
+        path: state.pathParameters['path'].toString(),
       ),
     ),
   ],

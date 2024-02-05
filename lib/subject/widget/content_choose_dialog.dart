@@ -79,17 +79,7 @@ class ContentChooseDialog extends StatelessWidget {
     return Column(
       children: [
         InkWell(
-          // onTap: () => Navigator.push(
-          //   context,
-          //   MaterialPageRoute(
-          //     builder: (context) => PlayGroundScreen(
-          //       grade: gradeI,
-          //       subject: subjectI,
-          //       type: type,
-          //     ),
-          //   ),
-          // ),
-          onTap: () => context.pushNamed(onTap, pathParameters: {
+          onTap: () => context.pushNamed("playground", pathParameters: {
             "gradeIndex": gradeI,
             "subjectIndex": subjectI.toString(),
             "type": type,

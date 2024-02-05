@@ -1,0 +1,76 @@
+{
+    "count": 4,
+    "ic": [
+        {
+            "title": "Animals Have Babies (Animals with their babies)",
+            "image": "assets/games/game_one.png",
+            "path": "assets/games/FlyHighWebGL/index.html"
+        },
+        {
+            "title": "Physical education (Basic skills of physical exercise)",
+            "image": "assets/games/game_one.png",
+            "path": "assets/games/FlyHighWebGL/index.html"
+        },
+        {
+            "title": "Physical education (Static skills of physical exercise)",
+            "image": "assets/games/game_one.png",
+            "path": "assets/games/FlyHighWebGL/index.html"
+        },
+        {
+            "title": "Different Types of Animals",
+            "image": "assets/games/game_one.png",
+            "path": "assets/games/FlyHighWebGL/index.html"
+        },
+        {
+            "title": "Fire",
+            "image": "assets/games/game_one.png",
+            "path": "assets/games/FlyHighWebGL/index.html"
+        },
+        {
+            "title": "Personal Hygiene",
+            "image": "assets/games/game_one.png",
+            "path": "assets/games/FlyHighWebGL/index.html"
+        },
+        {
+            "title": "Safety Rules",
+            "image": "assets/games/game_one.png",
+            "path": "assets/games/FlyHighWebGL/index.html"
+        },
+        {
+            "title": "Sunny Day and Cloudy Day",
+            "image": "assets/games/game_one.png",
+            "path": "assets/games/FlyHighWebGL/index.html"
+        },
+        {
+            "title": "Clean House and School",
+            "image": "assets/games/game_one.png",
+            "path": "assets/games/FlyHighWebGL/index.html"
+        },
+        {
+            "title": "Care for Animals",
+            "image": "assets/games/game_one.png",
+            "path": "assets/games/FlyHighWebGL/index.html"
+        },
+        {
+            "title": "Animals Having Wings",
+            "image": "assets/games/game_one.png",
+            "path": "assets/games/FlyHighWebGL/index.html"
+        },
+        {
+            "title": "Care for Plants",
+            "image": "assets/games/game_one.png",
+            "path": "assets/games/FlyHighWebGL/index.html"
+        },
+        {
+            "title": "Plants (Interactive book)",
+            "image": "assets/games/game_one.png",
+            "path": "assets/games/FlyHighWebGL/index.html"
+        },
+        {
+            "title": "Plants (Plants around us)",
+            "image": "assets/games/game_one.png",
+            "path": "assets/games/FlyHighWebGL/index.html"
+        }
+    ],
+    "games":[]
+}

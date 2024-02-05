@@ -25,13 +25,17 @@ class DatabaseHelper {
 
   static Future _onCreate(Database db, int version) async {
     await db.execute('''
-      CREATE TABLE memberships (
-        id INTEGER PRIMARY KEY AUTOINCREMENT,
-        name TEXT NOT NULL,
-        email TEXT NOT NULL,
-        membershipType TEXT NOT NULL
-      )
-    ''');
+          CREATE TABLE memberships(
+            id INTEGER PRIMARY KEY AUTOINCREMENT,
+            username TEXT,
+            name TEXT,
+            address TEXT,
+            password TEXT,
+            numberOfStudents INTEGER,
+            establishmentDate TEXT,
+            contactNumber TEXT
+          )
+        ''');
   }
 
   // CRUD Operations
@@ -47,6 +51,20 @@ class DatabaseHelper {
     final db = await database;
     final List<Map<String, dynamic>> maps = await db.query('memberships');
     return List.generate(maps.length, (i) => UserModel.fromMap(maps[i]));
+  }
+
+  // Read by username
+  static Future<UserModel?> getMembershipByUsername(String username) async {
+    final db = await database;
+    final List<Map<String, dynamic>> maps = await db.query(
+      'memberships',
+      where: 'username = ?',
+      whereArgs: [username],
+    );
+    if (maps.isNotEmpty) {
+      return UserModel.fromMap(maps[0]);
+    }
+    return null;
   }
 
   // Read by ID

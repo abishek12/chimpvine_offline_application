@@ -8,12 +8,6 @@ part 'authentication_state.dart';
 class AuthenticationBloc
     extends Bloc<AuthenticationEvent, AuthenticationState> {
   AuthenticationBloc() : super(AuthenticationInitial()) {
-    // on<CheckDeviceCompatibility>((event, emit) async {
-    //   emit(const AuthenticationLoading(isLoading: true));
-    //   final bool getDeviceInfo = await checkDeviceCompatibility();
-    //   emit(CheckDeviceLoading(isLoading: getDeviceInfo));
-    //   emit(const AuthenticationLoading(isLoading: false));
-    // });
     on<CheckAuthentication>((event, emit) async {
       emit(const AuthenticationLoading(isLoading: true));
       final prefs = await SharedPreferences.getInstance();

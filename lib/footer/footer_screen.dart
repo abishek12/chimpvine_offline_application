@@ -11,18 +11,20 @@ class FooterScreen extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return Container(
-        height: 150,
-        margin: const EdgeInsets.only(top: 24),
-        child: BlocBuilder<FooterCubit, List<FooterModel>>(
-          builder: (context, state) {
-            if (state.isEmpty) {
-              BlocProvider.of<FooterCubit>(context).loadFooter();
-              return const Center(child: CircularProgressIndicator());
-            }
-            return FooterBlocUI(
-              data: state,
-            );
-          },
-        ));
+      color: const Color(0xff637A9F),
+      height: 250,
+      margin: const EdgeInsets.only(top: 24),
+      child: BlocBuilder<FooterCubit, List<FooterModel>>(
+        builder: (context, state) {
+          if (state.isEmpty) {
+            BlocProvider.of<FooterCubit>(context).loadFooter();
+            return const Center(child: CircularProgressIndicator());
+          }
+          return FooterBlocUI(
+            data: state,
+          );
+        },
+      ),
+    );
   }
 }

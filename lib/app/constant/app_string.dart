@@ -30,4 +30,6 @@ class AppString {
   final String email = "Email";
   final String contact = "Contact";
   final String number = "Number";
+
+  final String onlineEducationGames = "Online Education Games";
 }

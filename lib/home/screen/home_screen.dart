@@ -1,61 +1,168 @@
+import 'package:chimpvine_offline_application/home/widgets/home_content_recommendation.dart';
 import 'package:flutter/material.dart';
-import 'package:double_back_to_close_app/double_back_to_close_app.dart';
+import 'package:gap/gap.dart';
+import 'package:go_router/go_router.dart';
 
-import '../../app/constant/app_string.dart';
-import '../../app/widgets/heading_widget.dart';
+import '../../app/constant/app_button.dart';
+import '../../app/constant/app_image.dart';
+import '../../app/widgets/text_widget.dart';
 import '../../footer/footer_screen.dart';
-import '../widgets/app_bar_widget/app_logo_widget.dart';
-import '../widgets/app_bar_widget/home_app_bar.dart';
-import '../widgets/home_banner_widget/home_banner_screen.dart';
-import '../widgets/home_game_widget/home_game_widget.dart';
-import '../widgets/home_grade_widget/home_grade_widget.dart';
-
-DateTime? currentBackPressTime;
+import '../widgets/home_flexible_space.dart';
 
 class HomeScreen extends StatelessWidget {
   const HomeScreen({super.key});
 
   @override
   Widget build(BuildContext context) {
-    final AppString appString = AppString();
+    AppImage appImage = AppImage();
     return Scaffold(
-      body: DoubleBackToCloseApp(
-        snackBar: const SnackBar(
-          content: Text('Tap back again to leave'),
-        ),
-        child: SingleChildScrollView(
-          child: Container(
-            margin: const EdgeInsets.symmetric(
-              horizontal: 60.0,
-              vertical: 48.0,
+      body: CustomScrollView(
+        slivers: [
+          SliverAppBar(
+            title: Padding(
+              padding: const EdgeInsets.symmetric(
+                horizontal: 32.0,
+              ),
+              child: Row(
+                mainAxisAlignment: MainAxisAlignment.spaceBetween,
+                children: [
+                  Image.asset(
+                    appImage.logo,
+                    width: 200,
+                  ),
+                  AppIconButton(
+                    btnText: "Account",
+                    icon: Icons.person,
+                    onTap: () => context.pushNamed("profileScreen"),
+                  ),
+                ],
+              ),
             ),
-            child: Column(
-              crossAxisAlignment: CrossAxisAlignment.start,
-              children: [
-                const HomeAppBar(),
-                const AppLogoWidget(),
-                HeadingWidget(title: '${appString.grade}s'),
-                const HomeGradeWidget(),
-                const SizedBox(
-                  height: 24,
-                ),
-                HeadingWidget(title: appString.games),
-                const HomeGameWidget(),
-                const SizedBox(
-                  height: 24,
-                ),
-                const HomeBannerScreen(),
-                const SizedBox(
-                  height: 24,
-                ),
-                const Divider(
-                  thickness: 3,
-                ),
-                const FooterScreen(),
-              ],
+            shape: const RoundedRectangleBorder(
+              borderRadius: BorderRadius.only(
+                bottomLeft: Radius.circular(20.0),
+                bottomRight: Radius.circular(20.0),
+              ),
+            ),
+            expandedHeight: MediaQuery.of(context).size.height * 0.90,
+            flexibleSpace: const HomeFlexibleSpace(),
+            pinned: true,
+            snap: false,
+            floating: false,
+          ),
+          SliverToBoxAdapter(
+            child: Container(
+              margin: const EdgeInsets.only(top: 10 * 6),
+              child: Row(
+                mainAxisAlignment: MainAxisAlignment.spaceAround,
+                children: [
+                  Card(
+                    child: Padding(
+                      padding: const EdgeInsets.symmetric(
+                        horizontal: 10 * 3,
+                        vertical: 10 * 1.5,
+                      ),
+                      child: Row(
+                        children: [
+                          Container(
+                            padding: const EdgeInsets.all(16),
+                            decoration: const BoxDecoration(
+                              color: Color(0xffC9D7DD),
+                              shape: BoxShape.circle,
+                            ),
+                            child: Image.asset("assets/home/video.png"),
+                          ),
+                          const Gap(10 * 2),
+                          const Column(
+                            crossAxisAlignment: CrossAxisAlignment.start,
+                            children: [
+                              CustomText(
+                                strText: "Video Training",
+                                fontWeight: FontWeight.w700,
+                                fontSize: 18,
+                              ),
+                              CustomText(strText: "with unlimited courses"),
+                            ],
+                          ),
+                        ],
+                      ),
+                    ),
+                  ),
+                  Card(
+                    child: Padding(
+                      padding: const EdgeInsets.symmetric(
+                        horizontal: 10 * 3,
+                        vertical: 10 * 1.5,
+                      ),
+                      child: Row(
+                        children: [
+                          Container(
+                            padding: const EdgeInsets.all(16),
+                            decoration: const BoxDecoration(
+                              color: Color(0xffC9D7DD),
+                              shape: BoxShape.circle,
+                            ),
+                            child: Image.asset("assets/home/teacher.png"),
+                          ),
+                          const Gap(10 * 2),
+                          const Column(
+                            crossAxisAlignment: CrossAxisAlignment.start,
+                            children: [
+                              CustomText(
+                                strText: "Expert Teacher",
+                                fontWeight: FontWeight.w700,
+                                fontSize: 18,
+                              ),
+                              CustomText(strText: "with unlimited courses"),
+                            ],
+                          ),
+                        ],
+                      ),
+                    ),
+                  ),
+                  Card(
+                    child: Padding(
+                      padding: const EdgeInsets.symmetric(
+                        horizontal: 10 * 3,
+                        vertical: 10 * 1.5,
+                      ),
+                      child: Row(
+                        children: [
+                          Container(
+                            padding: const EdgeInsets.all(16),
+                            decoration: const BoxDecoration(
+                              color: Color(0xffC9D7DD),
+                              shape: BoxShape.circle,
+                            ),
+                            child: Image.asset("assets/home/book.png"),
+                          ),
+                          const Gap(10 * 2),
+                          const Column(
+                            crossAxisAlignment: CrossAxisAlignment.start,
+                            children: [
+                              CustomText(
+                                strText: "Sets Question",
+                                fontWeight: FontWeight.w700,
+                                fontSize: 18,
+                              ),
+                              CustomText(strText: "with unlimited courses"),
+                            ],
+                          ),
+                        ],
+                      ),
+                    ),
+                  ),
+                ],
+              ),
             ),
           ),
-        ),
+          const SliverToBoxAdapter(
+            child: HomeContentRecommendation(),
+          ),
+          const SliverToBoxAdapter(
+            child: FooterScreen(),
+          ),
+        ],
       ),
     );
   }

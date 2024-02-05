@@ -18,28 +18,31 @@ class FooterUI extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     final AppColor appColor = AppColor();
-    return Column(
-      children: [
-        SvgPicture.asset(
-          "assets/footer/images/$imageName",
-          width: 60,
-          height: 80,
-        ),
-        const SizedBox(
-          height: 12,
-        ),
-        CustomText(
-          strText: title,
-          fontSize: 22,
-          fontWeight: FontWeight.bold,
-          color: appColor.whiteColor,
-        ),
-        CustomText(
-          strText: subTitle,
-          fontSize: 18,
-          color: appColor.whiteColor,
-        ),
-      ],
+    return Padding(
+      padding: const EdgeInsets.symmetric(vertical: 32),
+      child: Column(
+        children: [
+          SvgPicture.asset(
+            "assets/footer/images/$imageName",
+            width: 60,
+            height: 80,
+          ),
+          const SizedBox(
+            height: 12,
+          ),
+          CustomText(
+            strText: title,
+            fontSize: 22,
+            fontWeight: FontWeight.bold,
+            color: appColor.whiteColor,
+          ),
+          CustomText(
+            strText: subTitle,
+            fontSize: 18,
+            color: appColor.whiteColor,
+          ),
+        ],
+      ),
     );
   }
 }

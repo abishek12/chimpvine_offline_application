@@ -1,0 +1,66 @@
+{
+    "count": 10,
+    "ic": [
+        {
+            "title": "Central processing unit (CPU)",
+            "image": "assets/games/game_one.png",
+            "path": "assets/games/FlyHighWebGL/index.html"
+        },
+        {
+            "title": "Do's and don'ts with a computer",
+            "image": "assets/games/game_one.png",
+            "path": "assets/games/FlyHighWebGL/index.html"
+        },
+        {
+            "title": "The keyboard",
+            "image": "assets/games/game_one.png",
+            "path": "assets/games/FlyHighWebGL/index.html"
+        },
+        {
+            "title": "Music player",
+            "image": "assets/games/game_one.png",
+            "path": "assets/games/FlyHighWebGL/index.html"
+        },
+        {
+            "title": "Let's paint using a computer",
+            "image": "assets/games/game_one.png",
+            "path": "assets/games/FlyHighWebGL/index.html"
+        },
+        {
+            "title": "Mighty mouse",
+            "image": "assets/games/game_one.png",
+            "path": "assets/games/FlyHighWebGL/index.html"
+        },
+        {
+            "title": "Computer (A Smart Machine) -- Book",
+            "image": "assets/games/game_one.png",
+            "path": "assets/games/FlyHighWebGL/index.html"
+        },
+        {
+            "title": "Computer (A Smart Machine) -- Quiz",
+            "image": "assets/games/game_one.png",
+            "path": "assets/games/FlyHighWebGL/index.html"
+        },
+        {
+            "title": "Monitor (display unit)",
+            "image": "assets/games/game_one.png",
+            "path": "assets/games/FlyHighWebGL/index.html"
+        },
+        {
+            "title": "Computer and its use",
+            "image": "assets/games/game_one.png",
+            "path": "assets/games/FlyHighWebGL/index.html"
+        },
+        {
+            "title": "Parts of a computer -- Book",
+            "image": "assets/games/game_one.png",
+            "path": "assets/games/FlyHighWebGL/index.html"
+        },
+        {
+            "title": "Parts of a computer -- Quiz",
+            "image": "assets/games/game_one.png",
+            "path": "assets/games/FlyHighWebGL/index.html"
+        }
+    ],
+    "games": []
+}

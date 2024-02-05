@@ -10,11 +10,13 @@ class HeadingWidget extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     final AppColor appColor = AppColor();
-    return CustomText(
-      strText: title,
-      fontSize: 40.0,
-      color: appColor.whiteColor,
-      fontWeight: FontWeight.w700,
+    return Center(
+      child: CustomText(
+        strText: title,
+        fontSize: 40.0,
+        color: appColor.whiteColor,
+        fontWeight: FontWeight.w700,
+      ),
     );
   }
 }

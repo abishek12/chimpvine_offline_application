@@ -1,0 +1,71 @@
+{
+    "count": 12,
+    "ic": [
+        {
+            "title": "Know your keyboard",
+            "image": "assets/games/game_one.png",
+            "path": "assets/games/FlyHighWebGL/index.html"
+        },
+        {
+            "title": "Using Keyboard",
+            "image": "assets/games/game_one.png",
+            "path": "assets/games/FlyHighWebGL/index.html"
+        },
+        {
+            "title": "Do's and Don'ts with the computer",
+            "image": "assets/games/game_one.png",
+            "path": "assets/games/FlyHighWebGL/index.html"
+        },
+        {
+            "title": "Know your Computer (Interactive Book)",
+            "image": "assets/games/game_one.png",
+            "path": "assets/games/FlyHighWebGL/index.html"
+        },
+        {
+            "title": "Know your Computer (Interactive Quiz)",
+            "image": "assets/games/game_one.png",
+            "path": "assets/games/FlyHighWebGL/index.html"
+        },
+        {
+            "title": "Fun with painting",
+            "image": "assets/games/game_one.png",
+            "path": "assets/games/FlyHighWebGL/index.html"
+        },
+        {
+            "title": "Parts of Computer System (Interactive Book)",
+            "image": "assets/games/game_one.png",
+            "path": "assets/games/FlyHighWebGL/index.html"
+        },
+        {
+            "title": "Parts of Computer System (Interactive Quiz)",
+            "image": "assets/games/game_one.png",
+            "path": "assets/games/FlyHighWebGL/index.html"
+        },
+        {
+            "title": "Learn about Notepad",
+            "image": "assets/games/game_one.png",
+            "path": "assets/games/FlyHighWebGL/index.html"
+        },
+        {
+            "title": "Using a Mouse",
+            "image": "assets/games/game_one.png",
+            "path": "assets/games/FlyHighWebGL/index.html"
+        },
+        {
+            "title": "Use of Computer (Interactive Book)",
+            "image": "assets/games/game_one.png",
+            "path": "assets/games/FlyHighWebGL/index.html"
+        },
+        {
+            "title": "Use of Computer (Interactive Quiz)",
+            "image": "assets/games/game_one.png",
+            "path": "assets/games/FlyHighWebGL/index.html"
+        },
+        {
+            "title": "Be Safe from Diseases",
+            "image": "assets/games/game_one.png",
+            "path": "assets/games/FlyHighWebGL/index.html"
+        }
+    ],
+    "games": []
+}

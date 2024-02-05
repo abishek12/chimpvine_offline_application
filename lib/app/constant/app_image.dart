@@ -8,6 +8,7 @@ class AppImage {
   final String about = "assets/appbar/about.svg";
   final String person = "assets/appbar/person.svg";
   final String logo = "assets/appbar/logo.png";
+  final String more = "assets/appbar/more.svg";
 
   final String computer = "assets/subject/images/computer.svg";
   final String english = "assets/subject/images/english.svg";

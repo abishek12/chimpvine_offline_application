@@ -1,0 +1,56 @@
+{
+    "count": 10,
+    "ic": [
+        {
+            "title": "Computer - a wonderful machine",
+            "image": "assets/games/game_one.png",
+            "path": "assets/games/FlyHighWebGL/index.html"
+        },
+        {
+            "title": "Let's use Wordpad",
+            "image": "assets/games/game_one.png",
+            "path": "assets/games/FlyHighWebGL/index.html"
+        },
+        {
+            "title": "Computer Hardware",
+            "image": "assets/games/game_one.png",
+            "path": "assets/games/FlyHighWebGL/index.html"
+        },
+        {
+            "title": "Creating magic with Wordpad",
+            "image": "assets/games/game_one.png",
+            "path": "assets/games/FlyHighWebGL/index.html"
+        },
+        {
+            "title": "Computer Software",
+            "image": "assets/games/game_one.png",
+            "path": "assets/games/FlyHighWebGL/index.html"
+        },
+        {
+            "title": "Typing Skills",
+            "image": "assets/games/game_one.png",
+            "path": "assets/games/FlyHighWebGL/index.html"
+        },
+        {
+            "title": "Ms-Paint",
+            "image": "assets/games/game_one.png",
+            "path": "assets/games/FlyHighWebGL/index.html"
+        },
+        {
+            "title": "History of Computer (Interactive Book)",
+            "image": "assets/games/game_one.png",
+            "path": "assets/games/FlyHighWebGL/index.html"
+        },
+        {
+            "title": "History of Computer (Interactive Quiz)",
+            "image": "assets/games/game_one.png",
+            "path": "assets/games/FlyHighWebGL/index.html"
+        },
+        {
+            "title": "Using the Calculator",
+            "image": "assets/games/game_one.png",
+            "path": "assets/games/FlyHighWebGL/index.html"
+        }
+    ],
+    "games": []
+}

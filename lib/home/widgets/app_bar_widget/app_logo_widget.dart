@@ -11,9 +11,9 @@ class AppLogoWidget extends StatelessWidget {
     return Center(
       child: Image.asset(
         appImage.logo,
-        width: MediaQuery.of(context).size.width * 0.30,
-        height: 120,
-        fit: BoxFit.cover,
+        width: 700,
+        height: 180,
+        fit: BoxFit.fill,
       ),
     );
   }

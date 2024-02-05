@@ -66,7 +66,7 @@ class HomeAppBar extends StatelessWidget {
                   ),
                 ),
                 child: IconContainerAppBarHome(
-                  iconName: appImage.school,
+                  iconName: appImage.more,
                 ),
               ),
             ],
