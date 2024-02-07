@@ -1,3 +1,4 @@
+import 'package:flutter/material.dart';
 import 'package:sqflite/sqflite.dart';
 
 import '../model/user_model.dart';
@@ -5,6 +6,7 @@ import '../model/user_model.dart';
 class DatabaseHelper {
   static const _databaseName = 'membership.db';
   static const _databaseVersion = 1;
+  static const int maxMemberships = 5;
 
   static Database? _database;
 
@@ -43,7 +45,21 @@ class DatabaseHelper {
   // Insert
   static Future<int> insertMembership(UserModel membership) async {
     final db = await database;
+    int? currentMemberships = Sqflite.firstIntValue(
+      await db.rawQuery('SELECT COUNT(*) FROM memberships'),
+    );
+
+    // If the limit is reached, display a message and do not insert the new membership
+    if (currentMemberships! >= maxMemberships) {
+      _displayLimitReachedMessage();
+      return -1;
+    }
     return await db.insert('memberships', membership.toMap());
+  }
+
+  // Display a message when the membership limit is reached
+  static void _displayLimitReachedMessage() {
+    debugPrint('Membership limit reached. Cannot add more memberships.');
   }
 
   // Read all

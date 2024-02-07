@@ -5,6 +5,8 @@ import 'package:gap/gap.dart';
 import 'package:go_router/go_router.dart';
 import 'package:shared_preferences/shared_preferences.dart';
 
+import '../widget/profile_list_members.dart';
+
 class ProfileScreen extends StatelessWidget {
   const ProfileScreen({super.key});
 
@@ -93,15 +95,8 @@ class ProfileScreen extends StatelessWidget {
                           fontSize: 10 * 3,
                           fontWeight: FontWeight.w700,
                         ),
-                      )
-                    ],
-                  ),
-                ),
-                const Gap(10 * 5),
-                Expanded(
-                  flex: 2,
-                  child: Column(
-                    children: [
+                      ),
+                      const Gap(10 * 5),
                       Container(
                         width: double.infinity,
                         padding: const EdgeInsets.symmetric(
@@ -119,7 +114,51 @@ class ProfileScreen extends StatelessWidget {
                           ],
                           borderRadius: BorderRadius.circular(6),
                         ),
-                        child: const Text("Children Model High School"),
+                        child: const CustomText(
+                          strText: "",
+                          fontSize: 10 * 3,
+                          fontWeight: FontWeight.w500,
+                        ),
+                      ),
+                    ],
+                  ),
+                ),
+                const Gap(10 * 5),
+                Expanded(
+                  flex: 2,
+                  child: Column(
+                    children: [
+                      Container(
+                        width: double.infinity,
+                        padding: const EdgeInsets.symmetric(
+                          horizontal: 10 * 3,
+                          vertical: 10 * 2,
+                        ),
+                        decoration: BoxDecoration(
+                          color: Colors.white,
+                          boxShadow: [
+                            BoxShadow(
+                              color: Colors.grey.shade300,
+                              blurRadius: 4,
+                              offset: const Offset(0, 2),
+                            ),
+                          ],
+                          borderRadius: BorderRadius.circular(6),
+                        ),
+                        child: const Column(
+                          crossAxisAlignment: CrossAxisAlignment.start,
+                          children: [
+                            Padding(
+                              padding: EdgeInsets.only(top: 10 * 2),
+                              child: CustomText(
+                                strText: "Accounts",
+                                fontSize: 10 * 2,
+                              ),
+                            ),
+                            Divider(),
+                            ProfileListMembers(),
+                          ],
+                        ),
                       )
                     ],
                   ),

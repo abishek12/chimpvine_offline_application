@@ -135,6 +135,7 @@ class _SignUpFormState extends State<SignUpForm> {
             barrierDismissible: false,
             context: context,
             builder: (context) => AlertDialog(
+                  title: const Text("Chimpvine"),
                   content: const Text("Account has been Created"),
                   actions: [
                     ElevatedButton(

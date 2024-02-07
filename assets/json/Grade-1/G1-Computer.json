@@ -4,7 +4,7 @@
         {
             "title": "Central processing unit (CPU)",
             "image": "assets/games/game_one.png",
-            "path": "assets/games/FlyHighWebGL/index.html"
+            "path": "assets/ic/Grade-1/computer/Central Processingindex.html"
         },
         {
             "title": "Do's and don'ts with a computer",
@@ -24,17 +24,17 @@
         {
             "title": "Let's paint using a computer",
             "image": "assets/games/game_one.png",
-            "path": "assets/games/FlyHighWebGL/index.html"
+            "path": "assets/ic/Grade-1/computer/Let's paint using a computer/index.html"
         },
         {
             "title": "Mighty mouse",
             "image": "assets/games/game_one.png",
-            "path": "assets/games/FlyHighWebGL/index.html"
+            "path": "assets/ic/Grade-1/computer/Mighty mouse/index.html"
         },
         {
             "title": "Computer (A Smart Machine) -- Book",
             "image": "assets/games/game_one.png",
-            "path": "assets/games/FlyHighWebGL/index.html"
+            "path": "assets/ic/Grade-1/computer/Computer (A Smart Machine)/index.html"
         },
         {
             "title": "Computer (A Smart Machine) -- Quiz",
@@ -49,12 +49,12 @@
         {
             "title": "Computer and its use",
             "image": "assets/games/game_one.png",
-            "path": "assets/games/FlyHighWebGL/index.html"
+            "path": "assets/ic/Grade-1/computer/Computer and its use/index.html"
         },
         {
             "title": "Parts of a computer -- Book",
             "image": "assets/games/game_one.png",
-            "path": "assets/games/FlyHighWebGL/index.html"
+            "path": "assets/ic/Grade-1/computer/Parts of a computer/index.html"
         },
         {
             "title": "Parts of a computer -- Quiz",

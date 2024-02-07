@@ -1,4 +1,3 @@
-import 'package:chimpvine_offline_application/home/widgets/home_content_recommendation.dart';
 import 'package:flutter/material.dart';
 import 'package:gap/gap.dart';
 import 'package:go_router/go_router.dart';
@@ -7,6 +6,7 @@ import '../../app/constant/app_button.dart';
 import '../../app/constant/app_image.dart';
 import '../../app/widgets/text_widget.dart';
 import '../../footer/footer_screen.dart';
+import '../widgets/home_content_recommendation.dart';
 import '../widgets/home_flexible_space.dart';
 
 class HomeScreen extends StatelessWidget {

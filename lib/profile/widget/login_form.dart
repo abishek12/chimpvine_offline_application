@@ -1,10 +1,10 @@
+import 'package:chimpvine_offline_application/app/widgets/text_widget.dart';
 import 'package:flutter/material.dart';
 import 'package:gap/gap.dart';
 import 'package:go_router/go_router.dart';
 import 'package:shared_preferences/shared_preferences.dart';
 
 import '../../membership/helper/membership_helper.dart';
-import '../../membership/model/user_model.dart';
 
 class LoginForm extends StatefulWidget {
   const LoginForm({super.key});
@@ -29,6 +29,11 @@ class _LoginFormState extends State<LoginForm> {
           child: Column(
             mainAxisAlignment: MainAxisAlignment.center,
             children: [
+              const CustomText(
+                strText: "Login",
+                fontWeight: FontWeight.bold,
+                fontSize: 10 * 3,
+              ),
               TextFormField(
                 controller: _usernameController,
                 decoration: const InputDecoration(labelText: 'School Username'),
@@ -53,7 +58,6 @@ class _LoginFormState extends State<LoginForm> {
               ElevatedButton(
                 onPressed: () {
                   if (_formKey.currentState?.validate() ?? false) {
-                    _setSetupKey();
                     _login();
                   }
                 },
@@ -75,12 +79,11 @@ class _LoginFormState extends State<LoginForm> {
     String username = _usernameController.text;
     String password = _passwordController.text;
 
-    UserModel? user = await DatabaseHelper.getMembershipByUsername(username);
-
-    if (user!.password == password) {
-      context.pushReplacementNamed("homeScreen");
-    } else {
-      print('Invalid username or password');
-    }
+    await DatabaseHelper.getMembershipByUsername(username).then((value) {
+      if (value!.password == password) {
+        context.pushReplacementNamed("homeScreen");
+        _setSetupKey();
+      }
+    });
   }
 }
