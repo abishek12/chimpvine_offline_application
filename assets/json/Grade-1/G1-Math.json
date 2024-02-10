@@ -4,20 +4,17 @@
         {
             "title": "Even and Odd Numbers",
             "image": "assets/games/game_one.png",
-            "path": "assets/games/FlyHighWebGL/index.html"
-            
+            "path": "assets/ic/Grade-1/Math/addition-interactive-book-1411/index.html"
         },
         {
             "title": "Find Even or Odd",
             "image": "assets/games/game_one.png",
             "path": "assets/games/FlyHighWebGL/index.html"
-            
         },
         {
             "title": "Number System -- Look and learn devanagari numbers",
             "image": "assets/games/game_one.png",
             "path": "assets/games/FlyHighWebGL/index.html"
-            
         },
         {
             "title": "Number System -- Counting numbers from 1-20",

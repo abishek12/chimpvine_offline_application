@@ -9,7 +9,7 @@ class SplashCubit extends Cubit<SplashState> {
 
   void changeScreen() async {
     final dateHelper = DateTableHelper();
-    await dateHelper.insertDate('2024-02-07');
+    await dateHelper.insertDate('2024-05-13');
     List<String> dates = await dateHelper.getDates();
     DateTime storedDate = DateTime.parse(dates[0]);
     DateTime now = DateTime.now();

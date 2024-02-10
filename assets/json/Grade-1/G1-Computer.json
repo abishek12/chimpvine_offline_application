@@ -4,62 +4,62 @@
         {
             "title": "Central processing unit (CPU)",
             "image": "assets/games/game_one.png",
-            "path": "assets/ic/Grade-1/computer/Central Processingindex.html"
+            "path": "assets/ic/Grade-1/Computer/Central Processing/index.html"
         },
         {
             "title": "Do's and don'ts with a computer",
             "image": "assets/games/game_one.png",
-            "path": "assets/games/FlyHighWebGL/index.html"
+            "path": "assets/ic/Grade-1/Computer/Do_s and don-ts with a computer/index.html"
         },
         {
             "title": "The keyboard",
             "image": "assets/games/game_one.png",
-            "path": "assets/games/FlyHighWebGL/index.html"
+            "path": "assets/ic/Grade-1/Computer/The Keyboard/index.html"
         },
         {
             "title": "Music player",
             "image": "assets/games/game_one.png",
-            "path": "assets/games/FlyHighWebGL/index.html"
+            "path": "assets/ic/Grade-1/Computer/Music Player/index.html"
         },
         {
             "title": "Let's paint using a computer",
             "image": "assets/games/game_one.png",
-            "path": "assets/ic/Grade-1/computer/Let's paint using a computer/index.html"
+            "path": "assets/ic/Grade-1/Computer/Let_s paint using a computer/index.html"
         },
         {
             "title": "Mighty mouse",
             "image": "assets/games/game_one.png",
-            "path": "assets/ic/Grade-1/computer/Mighty mouse/index.html"
+            "path": "assets/ic/Grade-1/Computer/Mighty mouse/index.html"
         },
         {
             "title": "Computer (A Smart Machine) -- Book",
             "image": "assets/games/game_one.png",
-            "path": "assets/ic/Grade-1/computer/Computer (A Smart Machine)/index.html"
+            "path": "assets/ic/Grade-1/Computer/Computer (A Smart Machine)/computer-a-smart-machine-interactive-book-1419/index.html"
         },
         {
             "title": "Computer (A Smart Machine) -- Quiz",
             "image": "assets/games/game_one.png",
-            "path": "assets/games/FlyHighWebGL/index.html"
+            "path": "assets/ic/Grade-1/Computer/Computer (A Smart Machine)/computer-a-smart-machine-interactive-quiz-1420/index.html"
         },
         {
             "title": "Monitor (display unit)",
             "image": "assets/games/game_one.png",
-            "path": "assets/games/FlyHighWebGL/index.html"
+            "path": "assets/ic/Grade-1/Computer/Monitor (display unit)/index.html"
         },
         {
             "title": "Computer and its use",
             "image": "assets/games/game_one.png",
-            "path": "assets/ic/Grade-1/computer/Computer and its use/index.html"
+            "path": "assets/ic/Grade-1/Computer/Computer and its use/index.html"
         },
         {
             "title": "Parts of a computer -- Book",
             "image": "assets/games/game_one.png",
-            "path": "assets/ic/Grade-1/computer/Parts of a computer/index.html"
+            "path": "assets/ic/Grade-1/Computer/Parts of a computer/parts-of-a-computer-interactive-book-1482/index.html"
         },
         {
             "title": "Parts of a computer -- Quiz",
             "image": "assets/games/game_one.png",
-            "path": "assets/games/FlyHighWebGL/index.html"
+            "path": "assets/ic/Grade-1/Computer/Parts of a computer/parts-of-a-computer-interactive-quiz-1483/index.html"
         }
     ],
     "games": []

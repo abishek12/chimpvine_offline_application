@@ -165,28 +165,879 @@ flutter:
     - assets/games/SubstractionEquationWebGL/TemplateData/
     - assets/games/SubstractionEquationWebGL/Build/
 
-  # An image asset can refer to one or more resolution-specific "variants", see
-  # https://flutter.dev/assets-and-images/#resolution-aware
+    - assets/ic/Grade-1/Computer/Central processing unit (CPU)/
+    - assets/ic/Grade-1/Computer/Central processing unit (CPU)/content/central-processing-unit-cpu-683/images/
+    - assets/ic/Grade-1/Computer/Central processing unit (CPU)/content/central-processing-unit-cpu-683/audios/
 
-  # For details regarding adding assets from package dependencies, see
-  # https://flutter.dev/assets-and-images/#from-packages
+    - assets/ic/Grade-1/Computer/Computer and its use/
+    - assets/ic/Grade-1/Computer/Computer and its use/content/computer-and-its-uses-699/images/
 
-  # To add custom fonts to your application, add a fonts section here,
-  # in this "flutter" section. Each entry in this list should have a
-  # "family" key with the font family name, and a "fonts" key with a
-  # list giving the asset and other descriptors for the font. For
-  # example:
-  # fonts:
-  #   - family: Schyler
-  #     fonts:
-  #       - asset: fonts/Schyler-Regular.ttf
-  #       - asset: fonts/Schyler-Italic.ttf
-  #         style: italic
-  #   - family: Trajan Pro
-  #     fonts:
-  #       - asset: fonts/TrajanPro.ttf
-  #       - asset: fonts/TrajanPro_Bold.ttf
-  #         weight: 700
-  #
-  # For details regarding fonts from package dependencies,
-  # see https://flutter.dev/custom-fonts/#from-packages
+    - assets/ic/Grade-1/Computer/The keyboard/
+    - assets/ic/Grade-1/Computer/The keyboard/content/the-keyboard-684/images/
+    - assets/ic/Grade-1/Computer/The keyboard/content/the-keyboard-684/audios/
+
+    - assets/ic/Grade-1/Computer/Music player/
+    - assets/ic/Grade-1/Computer/Music player/content/music-player-736/images/
+    - assets/ic/Grade-1/Computer/Music player/content/music-player-736/audios/
+
+    - assets/ic/Grade-1/Computer/Monitor (display unit)/
+    - assets/ic/Grade-1/Computer/Monitor (display unit)/content/monitor-display-unit-687/images/
+
+    - assets/ic/Grade-1/Computer/Mighty mouse/
+    - assets/ic/Grade-1/Computer/Mighty mouse/content/mighty-mouse-760/images/
+    - assets/ic/Grade-1/Computer/Mighty mouse/content/mighty-mouse-760/audios/
+
+    - assets/ic/Grade-1/Computer/Do_s and don_ts with a computer/
+    - assets/ic/Grade-1/Computer/Do_s and don_ts with a computer/content/do-039-s-and-don-039-ts-with-a-computer-731/images/
+    - assets/ic/Grade-1/Computer/Do_s and don_ts with a computer/content/do-039-s-and-don-039-ts-with-a-computer-731/audios/
+
+    - assets/ic/Grade-1/Computer/Let_s paint using a computer/
+    - assets/ic/Grade-1/Computer/Let_s paint using a computer/content/let-s-paint-using-a-computer-685/images/
+    - assets/ic/Grade-1/Computer/Let_s paint using a computer/content/let-s-paint-using-a-computer-685/audios/
+
+    - assets/ic/Grade-1/Computer/Parts of a computer/parts-of-a-computer-interactive-book-1482/
+    - assets/ic/Grade-1/Computer/Parts of a computer/parts-of-a-computer-interactive-book-1482/content/parts-of-a-computer-interactive-book-1482/images/
+    - assets/ic/Grade-1/Computer/Parts of a computer/parts-of-a-computer-interactive-book-1482/content/parts-of-a-computer-interactive-book-1482/audios/
+
+    - assets/ic/Grade-1/Computer/Parts of a computer/parts-of-a-computer-interactive-quiz-1483/
+    - assets/ic/Grade-1/Computer/Parts of a computer/parts-of-a-computer-interactive-quiz-1483/content/parts-of-a-computer-interactive-quiz-1483/images/
+    - assets/ic/Grade-1/Computer/Parts of a computer/parts-of-a-computer-interactive-quiz-1483/content/parts-of-a-computer-interactive-quiz-1483/audios/
+
+    - assets/ic/Grade-1/Computer/Computer (A Smart Machine)/computer-a-smart-machine-interactive-book-1419/
+    - assets/ic/Grade-1/Computer/Computer (A Smart Machine)/computer-a-smart-machine-interactive-book-1419/content/computer-a-smart-machine-interactive-book-1419/images/
+    - assets/ic/Grade-1/Computer/Computer (A Smart Machine)/computer-a-smart-machine-interactive-book-1419/content/computer-a-smart-machine-interactive-book-1419/audios/
+
+    - assets/ic/Grade-1/Computer/Computer (A Smart Machine)/computer-a-smart-machine-interactive-quiz-1420/
+    - assets/ic/Grade-1/Computer/Computer (A Smart Machine)/computer-a-smart-machine-interactive-quiz-1420/content/computer-a-smart-machine-interactive-quiz-1420/images/
+    - assets/ic/Grade-1/Computer/Computer (A Smart Machine)/computer-a-smart-machine-interactive-quiz-1420/content/computer-a-smart-machine-interactive-quiz-1420/audios/
+
+    - assets/ic/Grade-1/English/Adjective/adjective-1083/
+    - assets/ic/Grade-1/English/Adjective/adjective-1083/content/adjective-1083/images/
+    - assets/ic/Grade-1/English/Adjective/adjective-1083/content/adjective-1083/audios/
+
+    - assets/ic/Grade-1/English/AmIsAre/
+    - assets/ic/Grade-1/English/AmIsAre/content/am-is-are-1250/images/
+
+    - assets/ic/Grade-1/English/Adjective/identify-comparative-and-superlative-adjectives-1512/
+    - assets/ic/Grade-1/English/Adjective/identify-comparative-and-superlative-adjectives-1512/content/identify-comparative-and-superlative-adjectives-1512/images/
+    - assets/ic/Grade-1/English/Adjective/identify-comparative-and-superlative-adjectives-1512/content/identify-comparative-and-superlative-adjectives-1512/audios/
+
+    - assets/ic/Grade-1/English/Affirmative and negative sentences/
+    - assets/ic/Grade-1/English/Affirmative and negative sentences/content/affirmative-and-negative-sentences-dialogue-cards-527/images/
+    - assets/ic/Grade-1/English/Affirmative and negative sentences/content/affirmative-and-negative-sentences-dialogue-cards-527/audios/
+
+    - assets/ic/Grade-1/English/Articles/identify-articles-1656/
+    - assets/ic/Grade-1/English/Articles/identify-articles-1656/content/identify-articles-1656/images/
+    - assets/ic/Grade-1/English/Articles/identify-articles-1656/content/identify-articles-1656/audios/
+
+    - assets/ic/Grade-1/English/Articles/use-the-correct-article-a-or-an-1655/
+    - assets/ic/Grade-1/English/Articles/use-the-correct-article-a-or-an-1655/content/use-the-correct-article-a-or-an-1655/images/
+
+    - assets/ic/Grade-1/English/Doing words/
+    - assets/ic/Grade-1/English/Doing words/content/doing-words-flashcards-670/images/
+
+    - assets/ic/Grade-1/English/HasHave/
+    - assets/ic/Grade-1/English/HasHave/content/has-have-1282/images/
+    - assets/ic/Grade-1/English/HasHave/content/has-have-1282/audios/
+
+    - assets/ic/Grade-1/English/Singular and plural nouns/
+    - assets/ic/Grade-1/English/Singular and plural nouns/content/singular-and-plural-nouns-2-553/images/
+    - assets/ic/Grade-1/English/Singular and plural nouns/content/singular-and-plural-nouns-2-553/audios/
+
+    - assets/ic/Grade-1/English/Punctuation/
+    - assets/ic/Grade-1/English/Punctuation/content/punctuation-3-1294/images/
+
+    - assets/ic/Grade-1/English/Jumbled words and sentences/
+    - assets/ic/Grade-1/English/Jumbled words and sentences/content/jumbled-words-and-sentences-502/images/
+
+    - assets/ic/Grade-1/Math/addition-interactive-book-1411/
+    - assets/ic/Grade-1/Math/addition-interactive-book-1411/content/addition-interactive-book-1411/images/
+    - assets/ic/Grade-1/Math/addition-interactive-book-1411/content/addition-interactive-book-1411/audios/
+
+    - assets/ic/Grade-1/Math/addition-interactive-quiz-2-1412/
+    - assets/ic/Grade-1/Math/addition-interactive-quiz-2-1412/content/addition-interactive-quiz-2-1412/images/
+    - assets/ic/Grade-1/Math/addition-interactive-quiz-2-1412/content/addition-interactive-quiz-2-1412/audios/
+
+    - assets/ic/Grade-1/Math/counting-numbers-from-1-20-368/
+    - assets/ic/Grade-1/Math/counting-numbers-from-1-20-368/content/counting-numbers-from-1-20-368/images/
+    - assets/ic/Grade-1/Math/counting-numbers-from-1-20-368/content/counting-numbers-from-1-20-368/audios/
+
+    - assets/ic/Grade-1/Math/learn-addition-by-counting-on-3-1474/
+    - assets/ic/Grade-1/Math/learn-addition-by-counting-on-3-1474/content/learn-addition-by-counting-on-3-1474/images/
+
+    - assets/ic/Grade-1/Math/currency-flash-card-151/
+    - assets/ic/Grade-1/Math/currency-flash-card-151/content/currency-flash-card-151/images/
+
+    - assets/ic/Grade-1/Math/measure-using-an-inch-ruler-1636/
+    - assets/ic/Grade-1/Math/measure-using-an-inch-ruler-1636/content/measure-using-an-inch-ruler-1636/images/
+    - assets/ic/Grade-1/Math/measure-using-an-inch-ruler-1636/content/measure-using-an-inch-ruler-1636/audios/
+
+    - assets/ic/Grade-1/Math/months-of-the-year-interactive-quiz-1611/
+    - assets/ic/Grade-1/Math/months-of-the-year-interactive-quiz-1611/content/months-of-the-year-interactive-quiz-1611/images/
+    - assets/ic/Grade-1/Math/months-of-the-year-interactive-quiz-1611/content/months-of-the-year-interactive-quiz-1611/audios/
+
+    - assets/ic/Grade-1/Math/understand-subtraction-interactive-book-1506/
+    - assets/ic/Grade-1/Math/understand-subtraction-interactive-book-1506/content/understand-subtraction-interactive-book-1506/images/
+    - assets/ic/Grade-1/Math/understand-subtraction-interactive-book-1506/content/understand-subtraction-interactive-book-1506/audios/
+
+    - assets/ic/Grade-1/Math/non-standard-measurement-175/
+    - assets/ic/Grade-1/Math/non-standard-measurement-175/content/non-standard-measurement-175/images/
+    - assets/ic/Grade-1/Math/non-standard-measurement-175/content/non-standard-measurement-175/audios/
+
+    - assets/ic/Grade-1/Math/plane-figures-and-solid-objects-156/
+    - assets/ic/Grade-1/Math/plane-figures-and-solid-objects-156/content/plane-figures-and-solid-objects-156/images/
+
+    - assets/ic/Grade-1/Math/look-and-learn-devanagari-numbers-340/
+    - assets/ic/Grade-1/Math/look-and-learn-devanagari-numbers-340/content/look-and-learn-devanagari-numbers-340/images/
+
+    - assets/ic/Grade-1/Math/find-even-or-odd-2107/
+    - assets/ic/Grade-1/Math/find-even-or-odd-2107/content/find-even-or-odd-2107/images/
+
+    - assets/ic/Grade-1/Math/even-and-odd-numbers-82/
+    - assets/ic/Grade-1/Math/even-and-odd-numbers-82/content/even-and-odd-numbers-82/images/
+
+    - assets/ic/Grade-1/Math/analog-clock-and-time-1610/
+    - assets/ic/Grade-1/Math/analog-clock-and-time-1610/content/analog-clock-and-time-1610/images/
+
+    - assets/ic/Grade-1/Math/bigger-and-smaller-115/
+    - assets/ic/Grade-1/Math/bigger-and-smaller-115/content/bigger-and-smaller-115/images/
+
+    - assets/ic/Grade-1/Science/animals-having-wings-dialog-cards-848/
+    - assets/ic/Grade-1/Science/animals-having-wings-dialog-cards-848/content/animals-having-wings-dialog-cards-848/images/
+    - assets/ic/Grade-1/Science/animals-having-wings-dialog-cards-848/content/animals-having-wings-dialog-cards-848/audios/
+
+    - assets/ic/Grade-1/Science/clean-house-and-school-549/
+    - assets/ic/Grade-1/Science/clean-house-and-school-549/content/clean-house-and-school-549/images/
+    - assets/ic/Grade-1/Science/clean-house-and-school-549/content/clean-house-and-school-549/audios/
+
+    - assets/ic/Grade-1/Science/living-things-interactive-book-1475/
+    - assets/ic/Grade-1/Science/living-things-interactive-book-1475/content/living-things-interactive-book-1475/images/
+    - assets/ic/Grade-1/Science/living-things-interactive-book-1475/content/living-things-interactive-book-1475/audios/
+
+    - assets/ic/Grade-1/Science/plants-2-1395/
+    - assets/ic/Grade-1/Science/plants-2-1395/content/plants-2-1395/images/
+    - assets/ic/Grade-1/Science/plants-2-1395/content/plants-2-1395/audios/
+
+    - assets/ic/Grade-2/Computer/Do_s and don_ts with the computer/
+    - assets/ic/Grade-2/Computer/Do_s and don_ts with the computer/content/do-039-s-and-don-039-t-with-the-computer-688/images/
+
+    - assets/ic/Grade-2/Computer/Fun with painting/
+    - assets/ic/Grade-2/Computer/Fun with painting/content/fun-with-painting-689/images/
+    - assets/ic/Grade-2/Computer/Fun with painting/content/fun-with-painting-689/audios/
+
+    - assets/ic/Grade-2/Computer/Know your computer/know-your-computer-interactive-quiz-1424/
+    - assets/ic/Grade-2/Computer/Know your computer/know-your-computer-interactive-quiz-1424/content/know-your-computer-interactive-quiz-1424/images/
+    - assets/ic/Grade-2/Computer/Know your computer/know-your-computer-interactive-quiz-1424/content/know-your-computer-interactive-quiz-1424/audios/
+
+    - assets/ic/Grade-2/Computer/Know your computer/know-your-computer-interactive-book-1423/
+    - assets/ic/Grade-2/Computer/Know your computer/know-your-computer-interactive-book-1423/content/know-your-computer-interactive-book-1423/images/
+    - assets/ic/Grade-2/Computer/Know your computer/know-your-computer-interactive-book-1423/content/know-your-computer-interactive-book-1423/audios/
+    
+    - assets/ic/Grade-2/Computer/Know your keyboard/
+    - assets/ic/Grade-2/Computer/Know your keyboard/content/know-your-keyboard-686/images/
+
+    - assets/ic/Grade-2/Computer/Learn about notepad/
+    - assets/ic/Grade-2/Computer/Learn about notepad/content/learn-about-notepad-692/images/
+
+    - assets/ic/Grade-2/Computer/Parts of computer system/parts-of-computer-system-interactive-book-1453/
+    - assets/ic/Grade-2/Computer/Parts of computer system/parts-of-computer-system-interactive-book-1453/content/parts-of-computer-system-interactive-book-1453/images/
+    - assets/ic/Grade-2/Computer/Parts of computer system/parts-of-computer-system-interactive-book-1453/content/parts-of-computer-system-interactive-book-1453/audios/
+
+    - assets/ic/Grade-2/Computer/Parts of computer system/parts-of-computer-system-interactive-quiz-1454/
+    - assets/ic/Grade-2/Computer/Parts of computer system/parts-of-computer-system-interactive-quiz-1454/content/parts-of-computer-system-interactive-quiz-1454/images/
+    - assets/ic/Grade-2/Computer/Parts of computer system/parts-of-computer-system-interactive-quiz-1454/content/parts-of-computer-system-interactive-quiz-1454/audios/
+
+    - assets/ic/Grade-2/Computer/Uses of a computer/uses-of-a-computer-interactive-book-1490/
+    - assets/ic/Grade-2/Computer/Uses of a computer/uses-of-a-computer-interactive-book-1490/content/uses-of-a-computer-interactive-book-1490/images/
+    - assets/ic/Grade-2/Computer/Uses of a computer/uses-of-a-computer-interactive-book-1490/content/uses-of-a-computer-interactive-book-1490/audios/
+
+    - assets/ic/Grade-2/Computer/Uses of a computer/uses-of-a-computer-interactive-quiz-1491/
+    - assets/ic/Grade-2/Computer/Uses of a computer/uses-of-a-computer-interactive-quiz-1491/content/uses-of-a-computer-interactive-quiz-1491/images/
+    - assets/ic/Grade-2/Computer/Uses of a computer/uses-of-a-computer-interactive-quiz-1491/content/uses-of-a-computer-interactive-quiz-1491/audios/
+
+    - assets/ic/Grade-2/Computer/Using keyboard/
+    - assets/ic/Grade-2/Computer/Using keyboard/content/using-keyboard-700/images/
+    - assets/ic/Grade-2/Computer/Using keyboard/content/using-keyboard-700/audios/
+
+    - assets/ic/Grade-2/Computer/Using a mouse/
+    - assets/ic/Grade-2/Computer/Using a mouse/content/using-a-mouse-696/images/
+    - assets/ic/Grade-2/Computer/Using a mouse/content/using-a-mouse-696/audios/
+
+    - assets/ic/Grade-2/Science/Be safe from diseases/
+    - assets/ic/Grade-2/Science/Be safe from diseases/content/be-safe-from-diseases-821/images/
+    - assets/ic/Grade-2/Science/Be safe from diseases/content/be-safe-from-diseases-821/audios/
+
+    - assets/ic/Grade-2/Science/Drill/
+    - assets/ic/Grade-2/Science/Drill/content/drill-2-973/images/
+    - assets/ic/Grade-2/Science/Drill/content/drill-2-973/audios/
+
+    - assets/ic/Grade-2/Science/Local games/
+    - assets/ic/Grade-2/Science/Local games/content/local-games-2-980/images/
+
+    - assets/ic/Grade-2/Science/Physical training/
+    - assets/ic/Grade-2/Science/Physical training/content/physical-training-4-901/images/
+    - assets/ic/Grade-2/Science/Physical training/content/physical-training-4-901/audios/
+
+    - assets/ic/Grade-2/Math/Algebra/
+    - assets/ic/Grade-2/Math/Algebra/content/algebra-70/images/
+    - assets/ic/Grade-2/Math/Algebra/content/algebra-70/audios/
+
+    - assets/ic/Grade-2/Math/Fundamental process in mathematics/fundamental-process-in-mathematics-interactive-book-1496/
+    - assets/ic/Grade-2/Math/Fundamental process in mathematics/fundamental-process-in-mathematics-interactive-book-1496/content/fundamental-process-in-mathematics-interactive-book-1496/
+
+    - assets/ic/Grade-2/Math/Fundamental process in mathematics/revision-on-fundamental-process-interactive-quiz-1497/
+    - assets/ic/Grade-2/Math/Fundamental process in mathematics/revision-on-fundamental-process-interactive-quiz-1497/content/revision-on-fundamental-process-interactive-quiz-1497/
+
+    - assets/ic/Grade-2/Math/Geometry/geometry-1375/
+    - assets/ic/Grade-2/Math/Geometry/geometry-1375/content/geometry-1375/images/
+    - assets/ic/Grade-2/Math/Geometry/geometry-1375/content/geometry-1375/audios/
+
+    - assets/ic/Grade-2/Math/Geometry/revision-interactive-quiz-2-1508/
+    - assets/ic/Grade-2/Math/Geometry/revision-interactive-quiz-2-1508/content/revision-interactive-quiz-2-1508/images/
+    - assets/ic/Grade-2/Math/Geometry/revision-interactive-quiz-2-1508/content/revision-interactive-quiz-2-1508/audios/
+
+    - assets/ic/Grade-2/Math/Measurement/area-86/
+    - assets/ic/Grade-2/Math/Measurement/area-86/content/area-86/images/
+    - assets/ic/Grade-2/Math/Measurement/area-86/content/area-86/audios/
+
+    - assets/ic/Grade-2/Math/Measurement/capacity-89/
+    - assets/ic/Grade-2/Math/Measurement/capacity-89/content/capacity-89/images/
+    - assets/ic/Grade-2/Math/Measurement/capacity-89/content/capacity-89/audios/
+
+    - assets/ic/Grade-2/Math/Measurement/weight-2-95/
+    - assets/ic/Grade-2/Math/Measurement/weight-2-95/content/weight-2-95/images/
+
+    - assets/ic/Grade-2/Math/Number system/learning-number-names-167/
+    - assets/ic/Grade-2/Math/Number system/learning-number-names-167/content/learning-number-names-167/images/
+    - assets/ic/Grade-2/Math/Number system/learning-number-names-167/content/learning-number-names-167/audios/
+
+    - assets/ic/Grade-2/Math/Number system/odd-and-even-numbers-184/
+    - assets/ic/Grade-2/Math/Number system/odd-and-even-numbers-184/content/odd-and-even-numbers-184/images/
+
+    - assets/ic/Grade-2/Math/Sets/
+    - assets/ic/Grade-2/Math/Sets/content/identification-of-sets-69/images/
+    - assets/ic/Grade-2/Math/Sets/content/identification-of-sets-69/audios/
+
+    - assets/ic/Grade-2/Math/Statistics and probability/bar-graph-3-152/
+    - assets/ic/Grade-2/Math/Statistics and probability/bar-graph-3-152/content/bar-graph-3-152/images/
+    - assets/ic/Grade-2/Math/Statistics and probability/bar-graph-3-152/content/bar-graph-3-152/audios/
+
+    - assets/ic/Grade-2/Math/Statistics and probability/more-less-and-equally-likely-1513/
+    - assets/ic/Grade-2/Math/Statistics and probability/more-less-and-equally-likely-1513/content/more-less-and-equally-likely-1513/images/
+
+    - assets/ic/Grade-2/Math/Time/a-m-or-p-m-2137/
+    - assets/ic/Grade-2/Math/Time/a-m-or-p-m-2137/content/a-m-or-p-m-2137/images/
+    - assets/ic/Grade-2/Math/Time/a-m-or-p-m-2137/content/a-m-or-p-m-2137/audios/
+
+    - assets/ic/Grade-2/Math/Time/study-calendars-interactive-quiz-2-1679/
+    - assets/ic/Grade-2/Math/Time/study-calendars-interactive-quiz-2-1679/content/study-calendars-interactive-quiz-2-1679/images/
+    - assets/ic/Grade-2/Math/Time/study-calendars-interactive-quiz-2-1679/content/study-calendars-interactive-quiz-2-1679/audios/
+
+    - assets/ic/Grade-3/Math/Algebra/algebraic-terms-92/
+    - assets/ic/Grade-3/Math/Algebra/algebraic-terms-92/content/algebraic-terms-92/images/
+
+    - assets/ic/Grade-3/Math/Algebra/reviewing-algebra-293/
+    - assets/ic/Grade-3/Math/Algebra/reviewing-algebra-293/content/reviewing-algebra-293/images/
+
+    - assets/ic/Grade-3/Math/Bill and Budget/
+    - assets/ic/Grade-3/Math/Bill and Budget/content/bill-and-budget-116/images/
+
+    - assets/ic/Grade-3/Math/Fundamental process of mathematics/fundamental-process-of-mathematics-interactive-book-1406/
+    - assets/ic/Grade-3/Math/Fundamental process of mathematics/fundamental-process-of-mathematics-interactive-book-1406/content/fundamental-process-of-mathematics-interactive-book-1406/images/
+
+    - assets/ic/Grade-3/Math/Fundamental process of mathematics/addition-interactive-quiz-1407/
+    - assets/ic/Grade-3/Math/Fundamental process of mathematics/addition-interactive-quiz-1407/content/addition-interactive-quiz-1407/images/
+
+    - assets/ic/Grade-3/Math/Geometry/geometry-interactive-book-3-1446/
+    - assets/ic/Grade-3/Math/Geometry/geometry-interactive-book-3-1446/content/geometry-interactive-book-3-1446/images/
+
+    - assets/ic/Grade-3/Math/Geometry/revision-interactive-quiz-1447/
+    - assets/ic/Grade-3/Math/Geometry/revision-interactive-quiz-1447/content/revision-interactive-quiz-1447/images/
+
+    - assets/ic/Grade-3/Math/Number system/
+    - assets/ic/Grade-3/Math/Number system/content/odd-and-even-numbers-2-190/images/
+
+    - assets/ic/Grade-3/Math/Sets/review-column-question-71/
+    - assets/ic/Grade-3/Math/Sets/review-column-question-71/content/review-column-question-71/images/
+    
+    - assets/ic/Grade-3/Math/Sets/set-notations-83/
+    - assets/ic/Grade-3/Math/Sets/set-notations-83/content/set-notations-83/images/
+
+    - assets/ic/Grade-3/Math/Statistics/compare-the-distance-in-a-map-81/
+    - assets/ic/Grade-3/Math/Statistics/compare-the-distance-in-a-map-81/content/compare-the-distance-in-a-map-81/images/
+
+    - assets/ic/Grade-3/Math/Statistics/bar-graph-2-149/
+    - assets/ic/Grade-3/Math/Statistics/bar-graph-2-149/content/bar-graph-2-149/images/
+
+    - assets/ic/Grade-3/Math/Time-measurement/find-the-elapsed-time-1764/
+    - assets/ic/Grade-3/Math/Time-measurement/find-the-elapsed-time-1764/content/find-the-elapsed-time-1764/images/
+
+    - assets/ic/Grade-3/Math/Time-measurement/match-clocks-and-times-1763/
+    - assets/ic/Grade-3/Math/Time-measurement/match-clocks-and-times-1763/content/match-clocks-and-times-1763/images/
+
+    - assets/ic/Grade-3/Math/Volume- measurement/
+    - assets/ic/Grade-3/Math/Volume- measurement/content/volume-76/images/
+
+    - assets/ic/Grade-3/Computer/Computer - a wonderful machine/
+    - assets/ic/Grade-3/Computer/Computer - a wonderful machine/content/computer-a-wonderful-machine-719/images/
+
+    - assets/ic/Grade-3/Computer/Computer Hardware/
+    - assets/ic/Grade-3/Computer/Computer Hardware/content/computer-hardware-727/images/
+
+    - assets/ic/Grade-3/Computer/Computer software/
+    - assets/ic/Grade-3/Computer/Computer software/content/a-set-of-instructions-that-perform-some-kind-of-task-or-work-on-a-computer-is-called-softwar-730/images/
+
+    - assets/ic/Grade-3/Computer/Using the calculator/
+    - assets/ic/Grade-3/Computer/Using the calculator/content/using-the-calculator-744/images/
+
+    - assets/ic/Grade-3/Computer/Typing skills/
+    - assets/ic/Grade-3/Computer/Typing skills/content/typing-skill-867/images/
+
+    - assets/ic/Grade-3/Computer/MS - paint/
+    - assets/ic/Grade-3/Computer/MS - paint/content/ms-paint-733/images/
+
+    - assets/ic/Grade-3/Computer/History of computer/history-of-computer-interactive-book-1401/
+    - assets/ic/Grade-3/Computer/History of computer/history-of-computer-interactive-book-1401/content/history-of-computer-interactive-book-1401/images/
+
+    - assets/ic/Grade-3/Computer/History of computer/history-of-computer-interactive-quiz-1402/
+    - assets/ic/Grade-3/Computer/History of computer/history-of-computer-interactive-quiz-1402/content/history-of-computer-interactive-quiz-1402/images/
+
+    - assets/ic/Grade-3/Computer/Creating magic with wordpad/
+    - assets/ic/Grade-3/Computer/Creating magic with wordpad/content/creating-magic-with-wordpad-853/images/
+
+    - assets/ic/Grade-3/Computer/Let_s use wordpad/
+    - assets/ic/Grade-3/Computer/Let_s use wordpad/content/let-039-s-use-wordpad-745/images/
+
+    - assets/ic/Grade-3/Science/A cold day/
+    - assets/ic/Grade-3/Science/A cold day/content/cold-day-671/images/
+
+    - assets/ic/Grade-3/Science/Animals seen in different times and seasons/
+    - assets/ic/Grade-3/Science/Animals seen in different times and seasons/content/foods-and-feeding-habits-of-animals-2-1201/images/
+
+
+    - assets/ic/Grade-3/Science/Common characteristics of living things/
+    - assets/ic/Grade-3/Science/Common characteristics of living things/content/common-features-of-living-beings-1133/images/
+
+    - assets/ic/Grade-3/Science/Types of plants/
+    - assets/ic/Grade-3/Science/Types of plants/content/plants-1374/images/
+
+    - assets/ic/Grade-4/Science/Aquatic animals and their characteristics/
+    - assets/ic/Grade-4/Science/Aquatic animals and their characteristics/content/aquatic-animals-and-their-characteristics-1396/images/
+
+    - assets/ic/Grade-4/Science/Matter/
+    - assets/ic/Grade-4/Science/Matter/content/matter-interactive-book-1383/images/
+
+    - assets/ic/Grade-4/Science/Terrestrial plants and their characteristics/
+    - assets/ic/Grade-4/Science/Terrestrial plants and their characteristics/content/terrestrial-plants-and-their-characteristics-interactive-book-1458/images/
+
+    - assets/ic/Grade-4/Science/Throwing/
+    - assets/ic/Grade-4/Science/Throwing/content/throwing-1001/images/
+
+    - assets/ic/Grade-4/Math/Area/
+    - assets/ic/Grade-4/Math/Area/content/give-the-correct-answer-288/images/
+
+    - assets/ic/Grade-4/Math/Capacity/column-question-169/
+    - assets/ic/Grade-4/Math/Capacity/column-question-169/content/column-question-169/images/
+
+    - assets/ic/Grade-4/Math/Capacity/dialogue-card-2-77/
+    - assets/ic/Grade-4/Math/Capacity/dialogue-card-2-77/content/dialogue-card-2-77/images/
+
+    - assets/ic/Grade-4/Math/Concept of numbers/number-in-expanded-form-column-question-290/
+    - assets/ic/Grade-4/Math/Concept of numbers/number-in-expanded-form-column-question-290/content/number-in-expanded-form-column-question-290/images/
+
+    - assets/ic/Grade-4/Math/Concept of numbers/reading-and-writing-the-numbers-column-324/
+    - assets/ic/Grade-4/Math/Concept of numbers/reading-and-writing-the-numbers-column-324/content/reading-and-writing-the-numbers-column-324/images/
+
+    - assets/ic/Grade-4/Math/Fundamental Opearations/simplification-84/
+    - assets/ic/Grade-4/Math/Fundamental Opearations/simplification-84/content/simplification-84/images/
+
+    - assets/ic/Grade-4/Math/Fundamental Opearations/revision-3-133/
+    - assets/ic/Grade-4/Math/Fundamental Opearations/revision-3-133/content/revision-3-133/images/
+
+    - assets/ic/Grade-4/Math/Length/conversion-of-length-294/
+    - assets/ic/Grade-4/Math/Length/conversion-of-length-294/content/conversion-of-length-294/images/
+
+    - assets/ic/Grade-4/Math/Length/introduction-dialogue-cards-476/
+    - assets/ic/Grade-4/Math/Length/introduction-dialogue-cards-476/content/introduction-dialogue-cards-476/images/
+
+    - assets/ic/Grade-4/Math/Set/
+    - assets/ic/Grade-4/Math/Set/content/sets-322/images/
+
+    - assets/ic/Grade-4/Math/Time/
+    - assets/ic/Grade-4/Math/Time/content/introduction-to-time-93/images/
+
+    - assets/ic/Grade-4/Math/Volume/
+    - assets/ic/Grade-4/Math/Volume/content/introduction-of-volume-296/images/
+
+    - assets/ic/Grade-4/Math/Weight/
+    - assets/ic/Grade-4/Math/Weight/content/conversion-of-gram-and-kilogram-248/images/
+
+    - assets/ic/Grade-5/Science/Cell/
+    - assets/ic/Grade-5/Science/Cell/content/cell-introduction-1267/images/
+
+    - assets/ic/Grade-5/Math/Bills and budget/bills-143/
+    - assets/ic/Grade-5/Math/Bills and budget/bills-143/content/bills-143/images/
+
+    - assets/ic/Grade-5/Math/Bills and budget/budget-144/
+    - assets/ic/Grade-5/Math/Bills and budget/budget-144/content/budget-144/images/
+
+
+    - assets/ic/Grade-5/Math/Currency/conversion-of-money-174/
+    - assets/ic/Grade-5/Math/Currency/conversion-of-money-174/content/conversion-of-money-174/images/
+
+    - assets/ic/Grade-5/Math/Currency/introduction-of-money-158/
+    - assets/ic/Grade-5/Math/Currency/introduction-of-money-158/content/introduction-of-money-158/images/
+
+    - assets/ic/Grade-5/Math/Decimal/addition-and-subtraction-with-word-problems-253/
+    - assets/ic/Grade-5/Math/Decimal/addition-and-subtraction-with-word-problems-253/content/addition-and-subtraction-with-word-problems-253 (1)/images/
+
+    - assets/ic/Grade-5/Math/Decimal/conversion-of-fractions-into-decimals-336/
+    - assets/ic/Grade-5/Math/Decimal/conversion-of-fractions-into-decimals-336/content/conversion-of-fractions-into-decimals-336/images/
+
+    - assets/ic/Grade-5/Math/Four fundamental opearations/division-column-2-532/
+    - assets/ic/Grade-5/Math/Four fundamental opearations/division-column-2-532/content/division-column-2-532/images/
+
+    - assets/ic/Grade-5/Math/Four fundamental opearations/multiplication-2-447/
+    - assets/ic/Grade-5/Math/Four fundamental opearations/multiplication-2-447/content/multiplication-2-447/images/
+
+    - assets/ic/Grade-5/Math/Number system/
+    - assets/ic/Grade-5/Math/Number system/content/factors-and-multiples-2-281/images/
+
+    - assets/ic/Grade-5/Math/Perimeter, area, and volume/
+    - assets/ic/Grade-5/Math/Perimeter, area, and volume/content/introduction-to-perimeter-613/images/
+
+    - assets/ic/Grade-5/Math/Profit and loss/
+    - assets/ic/Grade-5/Math/Profit and loss/content/profit-and-loss-124/images/
+
+    - assets/ic/Grade-5/Math/Time/conversion-of-time-2-153/
+    - assets/ic/Grade-5/Math/Time/conversion-of-time-2-153/content/conversion-of-time-2-153/images/
+
+    - assets/ic/Grade-5/Math/Time/time-dialog-cards-267/
+    - assets/ic/Grade-5/Math/Time/time-dialog-cards-267/content/time-dialog-cards-267/images/
+
+    - assets/ic/Grade-5/Math/Weight/7-1-introduction-of-weight-dialog-card-232/
+    - assets/ic/Grade-5/Math/Weight/7-1-introduction-of-weight-dialog-card-232/content/7-1-introduction-of-weight-dialog-card-232/images/
+
+    - assets/ic/Grade-5/Math/Weight/7-2-conversion-of-units-of-weight-flash-card-233/
+    - assets/ic/Grade-5/Math/Weight/7-2-conversion-of-units-of-weight-flash-card-233/content/7-2-conversion-of-units-of-weight-flash-card-233/images/
+
+    - assets/ic/Grade-6/Science/Electricity/
+    - assets/ic/Grade-6/Science/Electricity/content/electricity-831/images/
+
+    - assets/ic/Grade-6/Science/Invertebrates/
+    - assets/ic/Grade-6/Science/Invertebrates/content/invertebrates-3-849/images/
+
+    - assets/ic/Grade-6/Math/Fraction and decimal/
+    - assets/ic/Grade-6/Math/Fraction and decimal/content/decimal-2-413/images/
+
+
+    - assets/ic/Grade-6/Math/Integers/
+    - assets/ic/Grade-6/Math/Integers/content/introduction-of-integer-268/images/
+
+    - assets/ic/Grade-6/Math/Number System/
+    - assets/ic/Grade-6/Math/Number System/content/grade-6-math-roman-numerals-47/images/
+
+    - assets/ic/Grade-6/Math/Opearation on whole number/prime-factors-261/
+    - assets/ic/Grade-6/Math/Opearation on whole number/prime-factors-261/content/prime-factors-261/images/
+
+    - assets/ic/Grade-6/Math/Opearation on whole number/squares-numbers-and-square-roots-265/
+    - assets/ic/Grade-6/Math/Opearation on whole number/squares-numbers-and-square-roots-265/content/squares-numbers-and-square-roots-265/images/
+
+    - assets/ic/Grade-6/Math/Perimeter, area and volume/area-of-rectangles-and-squares-157/
+    - assets/ic/Grade-6/Math/Perimeter, area and volume/area-of-rectangles-and-squares-157/content/area-of-rectangles-and-squares-157/images/
+
+    - assets/ic/Grade-6/Math/Perimeter, area and volume/area-of-regular-and-irregular-figures-154/
+    - assets/ic/Grade-6/Math/Perimeter, area and volume/area-of-regular-and-irregular-figures-154/content/area-of-regular-and-irregular-figures-154/images/
+
+    - assets/ic/Grade-6/Math/Properties of whole number/grade-6-math-test-of-divisibility-by-numbers-2-3-4-5-and-11-53/
+    - assets/ic/Grade-6/Math/Properties of whole number/grade-6-math-test-of-divisibility-by-numbers-2-3-4-5-and-11-53/content/grade-6-math-test-of-divisibility-by-numbers-2-3-4-5-and-11-53/images/
+
+    - assets/ic/Grade-6/Math/Properties of whole number/grade-six-math-properties-of-whole-numbers-52/
+    - assets/ic/Grade-6/Math/Properties of whole number/grade-six-math-properties-of-whole-numbers-52/content/grade-six-math-properties-of-whole-numbers-52/images/
+
+    - assets/ic/Grade-6/Math/Rational numbers/
+    - assets/ic/Grade-6/Math/Rational numbers/content/introduction-5-397/images/
+
+    - assets/ic/Grade-6/Math/Set/methods-of-describing-sets-191/
+    - assets/ic/Grade-6/Math/Set/methods-of-describing-sets-191/content/methods-of-describing-sets-191/images/
+
+    - assets/ic/Grade-6/Math/Set/types-of-sets-194/
+    - assets/ic/Grade-6/Math/Set/types-of-sets-194/content/types-of-sets-194/images/
+
+    - assets/ic/Grade-6/Math/Transformation/
+    - assets/ic/Grade-6/Math/Transformation/content/introduction-of-transformation-176/images/
+
+    - assets/ic/Grade-6/Math/Symmetrical figures, design of polygons and tesselations/introduction-2-183/
+    - assets/ic/Grade-6/Math/Symmetrical figures, design of polygons and tesselations/introduction-2-183/content/introduction-2-183/images/
+
+    - assets/ic/Grade-6/Math/Symmetrical figures, design of polygons and tesselations/patterns-and-designs-of-polygons-208/
+    - assets/ic/Grade-6/Math/Symmetrical figures, design of polygons and tesselations/patterns-and-designs-of-polygons-208/content/patterns-and-designs-of-polygons-208/images/
+
+    - assets/ic/Grade-7/Science/Measurement/
+    - assets/ic/Grade-7/Science/Measurement/content/measurement-4-1339/images/
+
+    - assets/ic/Grade-7/Science/Metals and non-metals/
+    - assets/ic/Grade-7/Science/Metals and non-metals/content/metal-and-non-metal-3-1167/images/
+
+    - assets/ic/Grade-7/Science/Mixture/
+    - assets/ic/Grade-7/Science/Mixture/content/mixture-2-1134/images/
+
+    - assets/ic/Grade-7/Math/Cube and cube roots of number/
+    - assets/ic/Grade-7/Math/Cube and cube roots of number/content/cube-and-cube-roots-of-number-277/images/
+
+    - assets/ic/Grade-7/Math/Factorization, HCF, and LCM/
+    - assets/ic/Grade-7/Math/Factorization, HCF, and LCM/content/h-c-f-and-l-c-m-2-282/images/
+
+    - assets/ic/Grade-7/Math/Geometry Construction/introduction-of-reflection-rotation-and-translation-180/
+    - assets/ic/Grade-7/Math/Geometry Construction/introduction-of-reflection-rotation-and-translation-180/content/introduction-of-reflection-rotation-and-translation-180/images/
+
+    - assets/ic/Grade-7/Math/Geometry Construction/transformation-rotation-177/
+    - assets/ic/Grade-7/Math/Geometry Construction/transformation-rotation-177/content/transformation-rotation-177/images/
+
+    - assets/ic/Grade-7/Math/Percentage, ratio and proportion/percentage-215/
+    - assets/ic/Grade-7/Math/Percentage, ratio and proportion/percentage-215/content/percentage-215/images/
+
+    - assets/ic/Grade-7/Math/Percentage, ration and proportion/proportion-212/
+    - assets/ic/Grade-7/Math/Percentage, ration and proportion/proportion-212/content/proportion-212/images/
+
+    - assets/ic/Grade-7/Math/Perimeter, Area and Volume/area-of-plane-figures-160/
+    - assets/ic/Grade-7/Math/Perimeter, Area and Volume/area-of-plane-figures-160/content/area-of-plane-figures-160/images/
+
+    - assets/ic/Grade-7/Math/Perimeter, Area and Volume/area-of-solid-figures-117/
+    - assets/ic/Grade-7/Math/Perimeter, Area and Volume/area-of-solid-figures-117/content/area-of-solid-figures-117/images/
+
+    - assets/ic/Grade-7/Math/Perimeter, Area and Volume/introduction-to-perimeter-area-and-volume-108/
+    - assets/ic/Grade-7/Math/Perimeter, Area and Volume/introduction-to-perimeter-area-and-volume-108/content/introduction-to-perimeter-area-and-volume-108/images/
+
+    - assets/ic/Grade-7/Math/Profit, Loss, and Simple Interest/profit-and-loss-2-216/
+    - assets/ic/Grade-7/Math/Profit, Loss, and Simple Interest/profit-and-loss-2-216/content/profit-and-loss-2-216/images/
+
+    - assets/ic/Grade-7/Math/Profit, Loss, and Simple Interest/simple-interest-using-formulae-244/
+    - assets/ic/Grade-7/Math/Profit, Loss, and Simple Interest/simple-interest-using-formulae-244/content/simple-interest-using-formulae-244/images/
+
+    - assets/ic/Grade-7/Math/Symmetry, Design, and Tesselation/line-and-point-symmetry-2-197/
+    - assets/ic/Grade-7/Math/Symmetry, Design, and Tesselation/line-and-point-symmetry-2-197/content/line-and-point-symmetry-2-197/images/
+
+    - assets/ic/Grade-7/Math/Symmetry, Design, and Tesselation/skeleton-models-of-tetra-hedron-octahedron-cone-and-cylinder-352/
+    - assets/ic/Grade-7/Math/Symmetry, Design, and Tesselation/skeleton-models-of-tetra-hedron-octahedron-cone-and-cylinder-352/content/skeleton-models-of-tetra-hedron-octahedron-cone-and-cylinder-352/images/
+
+    - assets/ic/Grade-7/Math/Symmetry, Design, and Tesselation/tessellation-203/
+    - assets/ic/Grade-7/Math/Symmetry, Design, and Tesselation/tessellation-203/content/tessellation-203/images/
+
+    - assets/ic/Grade-7/Math/Unitary method/
+
+    - assets/ic/Grade-8/Science/Cell and tissue/
+    - assets/ic/Grade-8/Science/Cell and tissue/content/cell-and-tissue-2-1307/images/
+
+    - assets/ic/Grade-8/Science/Environment and sustainable development/
+    - assets/ic/Grade-8/Science/Environment and sustainable development/content/sustainable-development-and-biodiversity-1300/images/
+
+    - assets/ic/Grade-8/Science/Environment degradation and its conservation/
+    - assets/ic/Grade-8/Science/Environment degradation and its conservation/content/environmental-degradation-and-conservation-1301/images/
+
+    - assets/ic/Grade-8/Science/Matter/
+    - assets/ic/Grade-8/Science/Matter/content/read-the-questions-carefully-and-answer-these-questions-824/images/
+
+    - assets/ic/Grade-8/Science/Metals and non-metals/
+    - assets/ic/Grade-8/Science/Metals and non-metals/content/metal-and-non-metals-817/images/
+
+    - assets/ic/Grade-8/Science/Simple machine/
+    - assets/ic/Grade-8/Science/Simple machine/content/simple-machine-2-1095/images/
+
+    - assets/ic/Grade-8/Science/Some useful chemicals/
+    - assets/ic/Grade-8/Science/Some useful chemicals/content/some-useful-chemicals-2-933/images/
+
+    - assets/ic/Grade-8/Science/Weather and climate/
+    - assets/ic/Grade-8/Science/Weather and climate/content/climate-and-weather-1308/images/
+
+    - assets/ic/Grade-8/Math/Algebraic expressions/factorization-2-536/
+    - assets/ic/Grade-8/Math/Algebraic expressions/factorization-2-536/content/factorization-2-536/images/
+
+    - assets/ic/Grade-8/Math/Algebraic expressions/factorization-of-difference-of-two-squares-521/
+    - assets/ic/Grade-8/Math/Algebraic expressions/factorization-of-difference-of-two-squares-521/content/factorization-of-difference-of-two-squares-521/images/
+
+    - assets/ic/Grade-8/Math/Circle/circle-401/
+    - assets/ic/Grade-8/Math/Circle/circle-401/content/circle-401/images/
+
+    - assets/ic/Grade-8/Math/Circle/relation-between-diameter-and-circumference-480/
+    - assets/ic/Grade-8/Math/Circle/relation-between-diameter-and-circumference-480/content/relation-between-diameter-and-circumference-480/images/
+
+    - assets/ic/Grade-8/Math/Geometry Quadrilaterals and regular polygons/construction-of-rectangles-284/
+    - assets/ic/Grade-8/Math/Geometry Quadrilaterals and regular polygons/construction-of-rectangles-284/content/construction-of-rectangles-284/images/
+
+    - assets/ic/Grade-8/Math/Geometry Quadrilaterals and regular polygons/construction-of-regular-polygons-275/
+    - assets/ic/Grade-8/Math/Geometry Quadrilaterals and regular polygons/construction-of-regular-polygons-275/content/construction-of-regular-polygons-275/images/
+
+    - assets/ic/Grade-8/Math/Geometry Quadrilaterals and regular polygons/verification-of-parallelograms-and-rectangles-279/
+    - assets/ic/Grade-8/Math/Geometry Quadrilaterals and regular polygons/verification-of-parallelograms-and-rectangles-279/content/verification-of-parallelograms-and-rectangles-279/images/
+
+    - assets/ic/Grade-8/Math/Geometry Triangles/interior-angle-theorem-iat-262/
+    - assets/ic/Grade-8/Math/Geometry Triangles/interior-angle-theorem-iat-262/content/interior-angle-theorem-iat-262/images/
+
+    - assets/ic/Grade-8/Math/Geometry Triangles/triangles-676/
+    - assets/ic/Grade-8/Math/Geometry Triangles/triangles-676/content/triangles-676/images/
+
+    - assets/ic/Grade-8/Math/Number Systems/
+    - assets/ic/Grade-8/Math/Number Systems/content/relation-between-binary-quinary-and-denary-2-845/images/
+
+    - assets/ic/Grade-8/Math/Ratio, proportion, and percentage/
+    - assets/ic/Grade-8/Math/Ratio, proportion, and percentage/content/ratio-proportion-and-percentage-492/images/
+
+    - assets/ic/Grade-8/Math/Sets/relation-of-sets-569/
+    - assets/ic/Grade-8/Math/Sets/relation-of-sets-569/content/relation-of-sets-569/images/
+
+    - assets/ic/Grade-8/Math/Sets/review-introduction-and-representation-478/
+    - assets/ic/Grade-8/Math/Sets/review-introduction-and-representation-478/content/review-introduction-and-representation-478/images/
+
+    - assets/ic/Grade-8/Math/Similarity and Congruency/congruent-triangles-and-their-conditions-375/
+    - assets/ic/Grade-8/Math/Similarity and Congruency/congruent-triangles-and-their-conditions-375/content/congruent-triangles-and-their-conditions-375/images/
+
+    - assets/ic/Grade-8/Math/Similarity and Congruency/similar-triangles-and-their-conditions-327/
+    - assets/ic/Grade-8/Math/Similarity and Congruency/similar-triangles-and-their-conditions-327/content/similar-triangles-and-their-conditions-327/images/
+
+    - assets/ic/Grade-4/Computer/Computer System/
+    - assets/ic/Grade-4/Computer/Computer System/content/computer-system-2-775/images/
+
+    - assets/ic/Grade-4/Computer/Input Device/
+    - assets/ic/Grade-4/Computer/Input Device/content/input-device-flash-cards-757/images/
+
+    - assets/ic/Grade-4/Computer/Introduction to the computer/
+    - assets/ic/Grade-4/Computer/Introduction to the computer/content/introduction-to-a-computer-883/images/
+
+    - assets/ic/Grade-4/Computer/More about Typing Skill/
+    - assets/ic/Grade-4/Computer/More about Typing Skill/content/more-about-typing-skill-781/images/
+
+    - assets/ic/Grade-4/Computer/Operating system/
+    - assets/ic/Grade-4/Computer/Operating system/content/operating-system-942/images/
+
+    - assets/ic/Grade-4/Computer/Output Device/
+    - assets/ic/Grade-4/Computer/Output Device/content/output-devices-766/images/
+
+    - assets/ic/Grade-4/Computer/Processing Unit/
+    - assets/ic/Grade-4/Computer/Processing Unit/content/processing-unit-771/images/
+
+    - assets/ic/Grade-4/Computer/Programming Language LOGO/
+    - assets/ic/Grade-4/Computer/Programming Language LOGO/content/programming-language-logo-944/images/
+
+    - assets/ic/Grade-4/Computer/Software/
+    - assets/ic/Grade-4/Computer/Software/content/software-897/images/
+
+    - assets/ic/Grade-4/Computer/Types of Computer/
+    - assets/ic/Grade-4/Computer/Types of Computer/content/types-of-computers-889/images/
+
+    - assets/ic/Grade-4/Computer/WordPad/
+    - assets/ic/Grade-4/Computer/WordPad/content/wordpad-769/images/
+
+    - assets/ic/Grade-5/Computer/Computer Introduction/characteristics-of-a-computer-936/
+    - assets/ic/Grade-5/Computer/Computer Introduction/characteristics-of-a-computer-936/content/characteristics-of-a-computer-936/images/
+
+    - assets/ic/Grade-5/Computer/Computer Introduction/limitation-of-computers-1185/
+    - assets/ic/Grade-5/Computer/Computer Introduction/limitation-of-computers-1185/content/limitation-of-computers-1185/images/
+
+    - assets/ic/Grade-5/Computer/Computer virus/antivirus-946/
+    - assets/ic/Grade-5/Computer/Computer virus/antivirus-946/content/antivirus-946/images/
+
+    - assets/ic/Grade-5/Computer/Computer virus/computer-virus-945/
+    - assets/ic/Grade-5/Computer/Computer virus/computer-virus-945/content/computer-virus-945/images/
+
+    - assets/ic/Grade-5/Computer/Computer virus/introduction-16-984/
+    - assets/ic/Grade-5/Computer/Computer virus/introduction-16-984/content/introduction-16-984/images/
+
+    - assets/ic/Grade-5/Computer/Computer virus/preventive-measures-986/
+    - assets/ic/Grade-5/Computer/Computer virus/preventive-measures-986/content/preventive-measures-986/images/
+
+    - assets/ic/Grade-5/Computer/History of computer/computer-generations-863/
+    - assets/ic/Grade-5/Computer/History of computer/computer-generations-863/content/computer-generations-863/images/
+
+    - assets/ic/Grade-5/Computer/History of computer/electro-mechanical-and-electronic-computers-2-862/
+    - assets/ic/Grade-5/Computer/History of computer/electro-mechanical-and-electronic-computers-2-862/content/electro-mechanical-and-electronic-computers-2-862/images/
+
+    - assets/ic/Grade-5/Computer/History of computer/introduction-10-832/
+    - assets/ic/Grade-5/Computer/History of computer/introduction-10-832/content/introduction-10-832/images/
+
+    - assets/ic/Grade-5/Computer/History of computer/pioneers-of-computer-842/
+    - assets/ic/Grade-5/Computer/History of computer/pioneers-of-computer-842/content/pioneers-of-computer-842/images/
+
+    - assets/ic/Grade-5/Computer/Input device/
+    - assets/ic/Grade-5/Computer/Input device/content/input-device-flash-cards-2-866/images/
+
+    - assets/ic/Grade-5/Computer/Memory device/primary-memory-858/
+    - assets/ic/Grade-5/Computer/Memory device/primary-memory-858/content/primary-memory-858/images/
+
+    - assets/ic/Grade-5/Computer/Memory device/secondary-memory-844/
+    - assets/ic/Grade-5/Computer/Memory device/secondary-memory-844/content/secondary-memory-844/images/
+
+    - assets/ic/Grade-5/Computer/Memory device/units-of-memory-840/
+    - assets/ic/Grade-5/Computer/Memory device/units-of-memory-840/content/units-of-memory-840/images/
+
+    - assets/ic/Grade-5/Computer/Network and the internet/birth-of-the-internet-59-dialog-cards-960/
+    - assets/ic/Grade-5/Computer/Network and the internet/birth-of-the-internet-59-dialog-cards-960/content/birth-of-the-internet-59-dialog-cards-960/images/
+
+    - assets/ic/Grade-5/Computer/Network and the internet/important-terms-related-to-the-internet-62-63-column-question-959/
+    - assets/ic/Grade-5/Computer/Network and the internet/important-terms-related-to-the-internet-62-63-column-question-959/content/important-terms-related-to-the-internet-62-63-column-question-959/images/
+
+    - assets/ic/Grade-5/Computer/Network and the internet/the-internet-60-61-column-question-958/
+    - assets/ic/Grade-5/Computer/Network and the internet/the-internet-60-61-column-question-958/content/the-internet-60-61-column-question-958/images/
+
+    - assets/ic/Grade-5/Computer/Network and the internet/types-of-computer-network-957/
+    - assets/ic/Grade-5/Computer/Network and the internet/types-of-computer-network-957/content/types-of-computer-network-957/images/
+
+    - assets/ic/Grade-5/Computer/Output device/output-device-dialog-cards-2-875/
+    - assets/ic/Grade-5/Computer/Output device/output-device-dialog-cards-2-875/content/output-device-dialog-cards-2-875/images/
+
+    - assets/ic/Grade-5/Computer/Output device/output-device-dialog-cards-870/
+    - assets/ic/Grade-5/Computer/Output device/output-device-dialog-cards-870/content/output-device-dialog-cards-870/images/
+
+    - assets/ic/Grade-5/Computer/Software of Computer/
+    - assets/ic/Grade-5/Computer/Software of Computer/content/computer-software-2-837/images/
+
+    - assets/ic/Grade-5/Computer/Working with Paint Brush/working-with-paint-brush-1181/
+    - assets/ic/Grade-5/Computer/Working with Paint Brush/working-with-paint-brush-1181/content/working-with-paint-brush-1181/images/
+
+    - assets/ic/Grade-5/Computer/Working with Paint Brush/working-with-shapes-1182/
+    - assets/ic/Grade-5/Computer/Working with Paint Brush/working-with-shapes-1182/content/working-with-shapes-1182/images/
+
+    - assets/ic/Grade-5/Computer/Working with Paint Brush/working-with-tabs-1323/
+    - assets/ic/Grade-5/Computer/Working with Paint Brush/working-with-tabs-1323/content/working-with-tabs-1323/images/
+
+    - assets/ic/Grade-5/Computer/Working with Word Pad/starting-and-componets-of-wordpad-1011/
+    - assets/ic/Grade-5/Computer/Working with Word Pad/starting-and-componets-of-wordpad-1011/content/starting-and-componets-of-wordpad-1011/images/
+
+    - assets/ic/Grade-5/Computer/Working with Word Pad/woking-on-home-tab-1121/
+    - assets/ic/Grade-5/Computer/Working with Word Pad/woking-on-home-tab-1121/content/woking-on-home-tab-1121/images/
+
+    - assets/ic/Grade-5/Computer/Working with Word Pad/working-with-find-replace-and-select-all-1130/
+    - assets/ic/Grade-5/Computer/Working with Word Pad/working-with-find-replace-and-select-all-1130/content/working-with-find-replace-and-select-all-1130/images/
+
+    - assets/ic/Grade-5/Computer/Working with Word Pad/working-with-view-tab-1173/
+    - assets/ic/Grade-5/Computer/Working with Word Pad/working-with-view-tab-1173/content/working-with-view-tab-1173/images/
+
+    - assets/ic/Grade-6/Computer/Computer Memory/introduction-and-units-of-memory-1160/
+    - assets/ic/Grade-6/Computer/Computer Memory/introduction-and-units-of-memory-1160/content/introduction-and-units-of-memory-1160/images/
+
+    - assets/ic/Grade-6/Computer/Computer Memory/primary-memory-2-1161/
+    - assets/ic/Grade-6/Computer/Computer Memory/primary-memory-2-1161/content/primary-memory-2-1161/images/
+
+    - assets/ic/Grade-6/Computer/Computer Memory/secondary-memory-2-1162/
+    - assets/ic/Grade-6/Computer/Computer Memory/secondary-memory-2-1162/content/secondary-memory-2-1162/images/
+
+    - assets/ic/Grade-6/Computer/Computer Software/application-software-3-1164/
+    - assets/ic/Grade-6/Computer/Computer Software/application-software-3-1164/content/application-software-3-1164/images/
+
+    - assets/ic/Grade-6/Computer/Computer Software/system-software-3-1163/
+    - assets/ic/Grade-6/Computer/Computer Software/system-software-3-1163/content/system-software-3-1163/images/
+
+    - assets/ic/Grade-6/Computer/Computer system/computer-software-and-hardware-1080/
+    - assets/ic/Grade-6/Computer/Computer system/computer-software-and-hardware-1080/content/computer-software-and-hardware-1080/images/
+
+    - assets/ic/Grade-6/Computer/Computer system/computer-system-3-1061/
+    - assets/ic/Grade-6/Computer/Computer system/computer-system-3-1061/content/computer-system-3-1061/images/
+
+    - assets/ic/Grade-6/Computer/Computer system/output-unit-1063/
+    - assets/ic/Grade-6/Computer/Computer system/output-unit-1063/content/output-unit-1063/images/
+
+    - assets/ic/Grade-6/Computer/Computer virus/introduction-and-types-of-computer-virus-1190/
+    - assets/ic/Grade-6/Computer/Computer virus/introduction-and-types-of-computer-virus-1190/content/introduction-and-types-of-computer-virus-1190/images/
+
+    - assets/ic/Grade-6/Computer/Computer virus/transmission-and-effects-of-computer-virus-2-1192/
+    - assets/ic/Grade-6/Computer/Computer virus/transmission-and-effects-of-computer-virus-2-1192/content/transmission-and-effects-of-computer-virus-2-1192/images/
+
+    - assets/ic/Grade-6/Computer/Computer virus/transmission-and-effects-of-computer-virus-1191/
+    - assets/ic/Grade-6/Computer/Computer virus/transmission-and-effects-of-computer-virus-1191/content/transmission-and-effects-of-computer-virus-1191/images/
+
+    - assets/ic/Grade-6/Computer/ICT and Computer ethics/computer-ethics-1273/
+    - assets/ic/Grade-6/Computer/ICT and Computer ethics/computer-ethics-1273/content/computer-ethics-1273/images/
+
+    - assets/ic/Grade-6/Computer/ICT and Computer ethics/introduction-of-ict-1234/
+    - assets/ic/Grade-6/Computer/ICT and Computer ethics/introduction-of-ict-1234/content/introduction-of-ict-1234/images/
+
+    - assets/ic/Grade-6/Computer/ICT and Computer ethics/usage-of-ict-in-daily-life-1260/
+    - assets/ic/Grade-6/Computer/ICT and Computer ethics/usage-of-ict-in-daily-life-1260/content/usage-of-ict-in-daily-life-1260/images/
+
+    - assets/ic/Grade-6/Computer/Introduction to computer and its generations/characteristics-of-a-computer-2-999/
+    - assets/ic/Grade-6/Computer/Introduction to computer and its generations/characteristics-of-a-computer-2-999/content/characteristics-of-a-computer-2-999/images/
+
+    - assets/ic/Grade-6/Computer/Introduction to computer and its generations/computer-generation-2-1025/
+    - assets/ic/Grade-6/Computer/Introduction to computer and its generations/computer-generation-2-1025/content/computer-generation-2-1025/images/
+
+
+    - assets/ic/Grade-6/Computer/Introduction to computer and its generations/computer-generation-column-1006/
+    - assets/ic/Grade-6/Computer/Introduction to computer and its generations/computer-generation-column-1006/content/computer-generation-column-1006/images/
+
+    - assets/ic/Grade-6/Computer/Introduction to computer and its generations/computer-generations-2-983/
+    - assets/ic/Grade-6/Computer/Introduction to computer and its generations/computer-generations-2-983/content/computer-generations-2-983/images/
+
+    - assets/ic/Grade-6/Computer/Introduction to computer and its generations/computer-generations-3-996/
+    - assets/ic/Grade-6/Computer/Introduction to computer and its generations/computer-generations-3-996/content/computer-generations-3-996/images/
+
+    - assets/ic/Grade-6/Computer/Introduction to computer and its generations/computer-generations-4-1000/
+    - assets/ic/Grade-6/Computer/Introduction to computer and its generations/computer-generations-4-1000/content/computer-generations-4-1000/images/
+
+    - assets/ic/Grade-6/Computer/Introduction to computer and its generations/introduction-to-computer-993/
+    - assets/ic/Grade-6/Computer/Introduction to computer and its generations/introduction-to-computer-993/content/introduction-to-computer-993/images/
+
+    - assets/ic/Grade-6/Computer/Introduction to computer and its generations/limitations-and-application-of-a-computer-1015/
+    - assets/ic/Grade-6/Computer/Introduction to computer and its generations/limitations-and-application-of-a-computer-1015/content/limitations-and-application-of-a-computer-1015/images/
+
+    - assets/ic/Grade-6/Computer/Introduction to internet and e-mail/email-1221/
+    - assets/ic/Grade-6/Computer/Introduction to internet and e-mail/email-1221/content/email-1221/images/
+
+
+    - assets/ic/Grade-6/Computer/Introduction to internet and e-mail/internet-1256/
+    - assets/ic/Grade-6/Computer/Introduction to internet and e-mail/internet-1256/content/internet-1256/images/
+
+    - assets/ic/Grade-6/Computer/Introduction to internet and e-mail/internet-based-services-and-terms-used-in-internet-1248/
+    - assets/ic/Grade-6/Computer/Introduction to internet and e-mail/internet-based-services-and-terms-used-in-internet-1248/content/internet-based-services-and-terms-used-in-internet-1248/images/
+
+    - assets/ic/Grade-6/Computer/Introduction to presentation software microsoft powerpoint/inserting-objects-in-powerpoint-116-118-flash-cards-1200/
+    - assets/ic/Grade-6/Computer/Introduction to presentation software microsoft powerpoint/inserting-objects-in-powerpoint-116-118-flash-cards-1200/content/inserting-objects-in-powerpoint-116-118-flash-cards-1200/images/
+
+    - assets/ic/Grade-6/Computer/Introduction to presentation software microsoft powerpoint/more-information-on-ms-powerpoint-1186/
+    - assets/ic/Grade-6/Computer/Introduction to presentation software microsoft powerpoint/more-information-on-ms-powerpoint-1186/content/more-information-on-ms-powerpoint-1186/images/
+
+    - assets/ic/Grade-6/Computer/Introduction to presentation software microsoft powerpoint/starting-ms-powerpoint-1195/
+    - assets/ic/Grade-6/Computer/Introduction to presentation software microsoft powerpoint/starting-ms-powerpoint-1195/content/starting-ms-powerpoint-1195/images/
+
+    - assets/ic/Grade-6/Computer/Introduction to QBASIC programming/constants-and-variables-1291/
+    - assets/ic/Grade-6/Computer/Introduction to QBASIC programming/constants-and-variables-1291/content/constants-and-variables-1291/images/
+
+    - assets/ic/Grade-6/Computer/Introduction to QBASIC programming/graphics-in-qbasic-1280/
+    - assets/ic/Grade-6/Computer/Introduction to QBASIC programming/graphics-in-qbasic-1280/content/graphics-in-qbasic-1280/images/
+
+    - assets/ic/Grade-6/Computer/Introduction to QBASIC programming/starting-qbasic-2-1290/
+    - assets/ic/Grade-6/Computer/Introduction to QBASIC programming/starting-qbasic-2-1290/content/starting-qbasic-2-1290/images/
+
+    - assets/ic/Grade-6/Computer/Introduction to QBASIC programming/operators-and-expressions-3-1292/
+    - assets/ic/Grade-6/Computer/Introduction to QBASIC programming/operators-and-expressions-3-1292/content/operators-and-expressions-3-1292/images/
+
+    - assets/ic/Grade-6/Computer/Introduction to QBASIC programming/qbasic-1289/
+    - assets/ic/Grade-6/Computer/Introduction to QBASIC programming/qbasic-1289/content/qbasic-1289/images/
+
+    - assets/ic/Grade-6/Computer/Introduction to QBASIC programming/qbasic-statements-2-1276/
+    - assets/ic/Grade-6/Computer/Introduction to QBASIC programming/qbasic-statements-2-1276/content/qbasic-statements-2-1276/images/
+
+    - assets/ic/Grade-6/Computer/Introduction to spreadsheet microsoft excel/the-ms-excel-screen-2-1139/
+    - assets/ic/Grade-6/Computer/Introduction to spreadsheet microsoft excel/the-ms-excel-screen-2-1139/content/the-ms-excel-screen-2-1139/images/
+
+    - assets/ic/Grade-6/Computer/Introduction to spreadsheet microsoft excel/working-with-chart-4-1169/
+    - assets/ic/Grade-6/Computer/Introduction to spreadsheet microsoft excel/working-with-chart-4-1169/content/working-with-chart-4-1169/images/
+
+    - assets/ic/Grade-6/Computer/Introduction to spreadsheet microsoft excel/working-with-chart-3-1155/
+    - assets/ic/Grade-6/Computer/Introduction to spreadsheet microsoft excel/working-with-chart-3-1155/content/working-with-chart-3-1155/images/
+
+    - assets/ic/Grade-6/Computer/Operating system/booting-1202/
+    - assets/ic/Grade-6/Computer/Operating system/booting-1202/content/booting-1202/images/
+
+    - assets/ic/Grade-6/Computer/Operating system/introduction-and-functions-of-operating-system-1150/
+
+    - assets/ic/Grade-6/Computer/Operating system/ms-dos-commands-1327/
+    - assets/ic/Grade-6/Computer/Operating system/ms-dos-commands-1327/content/ms-dos-commands-1327/images/
+
+    - assets/ic/Grade-6/Computer/Operating system/terms-used-in-ms-dos-1326/
+    - assets/ic/Grade-6/Computer/Operating system/terms-used-in-ms-dos-1326/content/terms-used-in-ms-dos-1326/images/
+    
+    - assets/ic/Grade-6/Computer/Operating system/the-user-interface-1188/
+    - assets/ic/Grade-6/Computer/Operating system/the-user-interface-1188/content/the-user-interface-1188/images/
+
+    - assets/ic/Grade-6/Computer/Operating system/windows-7-1158/
+    - assets/ic/Grade-6/Computer/Operating system/windows-7-1158/content/windows-7-1158/images/
