@@ -1,82 +1,81 @@
 {
-    "count": 10,
+    "count": 15,
     "ic": [
         {
-            "title": "History of Computer (Introduction)",
+            "title": "Introduction to Computer and its Generations (Limitations and Application)",
             "image": "assets/games/game_one.png",
             "path": "assets/ic/Grade-1/Computer/Parts of a computer/parts-of-a-computer-interactive-quiz-1483/index.html"
         },
         {
-            "title": "History of Computer (Eectro-mechanical and Electronic Computers)",
+            "title": "Introduction to Computer and its Generations (Fourth Generation Computers)",
             "image": "assets/games/game_one.png",
             "path": "assets/ic/Grade-1/Computer/Working with Word Pad/starting-and-componets-of-wordpad-1011/index.html"
         },
         {
-            "title": "History of Computer (Generation of Computer)",
+            "title": "Computer System (Input Unit)",
             "image": "assets/games/game_one.png",
             "path": "assets/ic/Grade-5/Computer/Working with Word Pad/woking-on-home-tab-1121/index.html"
         },
         {
-            "title": "Software of Computer (Computer Softwares)",
+            "title": "Computer System (Output Unit)",
             "image": "assets/games/game_one.png",
             "path": "assets/ic/Grade-1/Computer/The Keyboard/index.html"
         },
         {
-            "title": "Memory Device (Units of Memory)",
+            "title": "Computer System (Hardware and Software)",
             "image": "assets/games/game_one.png",
             "path": "assets/ic/Grade-1/Computer/Music Player/index.html"
         },
         {
-            "title": "Memory Device (Secondary Memory)",
+            "title": "Introduction to Word Processing : MS-Word (Date, time and Inserting Special Symbols)",
+            "image": "assets/games/game_one.png",
+            "path": "assets/ic/Grade-1/Computer/Music Player/index.html"
+        },
+        {
+            "title": "Introduction to Word Processing : MS-Word (Different Functions of Word)",
             "image": "assets/games/game_one.png",
             "path": "assets/ic/Grade-1/Computer/Let_s paint using a computer/index.html"
         },
         {
-            "title": "Computer Virus (Introduction)",
+            "title": "Introduction to Word Processing : MS-Word (Printing)",
             "image": "assets/games/game_one.png",
             "path": "assets/ic/Grade-1/Computer/Mighty mouse/index.html"
         },
         {
-            "title": "Computer Virus (Preventive Measures)",
+            "title": "Introduction to Spreadsheet : MS-Excel (The MS-Excel Screen)",
             "image": "assets/games/game_one.png",
             "path": "assets/ic/Grade-1/Computer/Computer (A Smart Machine)/computer-a-smart-machine-interactive-book-1419/index.html"
         },
         {
-            "title": "Network and the Internet (Types of Computer Network)",
+            "title": "Introduction to Spreadsheet : MS-Excel (Formulas in Worksheet)",
             "image": "assets/games/game_one.png",
             "path": "assets/ic/Grade-1/Computer/Computer (A Smart Machine)/computer-a-smart-machine-interactive-quiz-1420/index.html"
         },
         {
-            "title": "Network and the Internet (The Internet)",
+            "title": "Operating System (Terms used in MS-DOS)",
             "image": "assets/games/game_one.png",
             "path": "assets/ic/Grade-1/Computer/Monitor (display unit)/index.html"
         },
         {
-            "title": "Working with WordPad (Find, Replace and Select All)",
+            "title": "Operating System (MS-DOS Commands)",
             "image": "assets/games/game_one.png",
             "path": "assets/ic/Grade-1/Computer/Computer and its use/index.html"
         },
         {
-            "title": "Working with WordPad (Working with View Tab)",
+            "title": "Computer Memory (Introduction and units of memory)",
             "image": "assets/games/game_one.png",
             "path": "assets/ic/Grade-1/Computer/Parts of a computer/parts-of-a-computer-interactive-book-1482/index.html"
         },
         {
-            "title": "Working with Paint Brush (Introduction and Starting Paint in Windows 8)",
+            "title": "Computer Memory (Primary Memory)",
             "image": "assets/games/game_one.png",
             "path": "assets/ic/Grade-1/Computer/Parts of a computer/parts-of-a-computer-interactive-quiz-1483/index.html"
         },
         {
-            "title": "Working with Paint Brush (Working with Shapes)",
+            "title": "Introduction to presentation softwre: MS-Powerpoint",
             "image": "assets/games/game_one.png",
             "path": "assets/ic/Grade-1/Computer/Parts of a computer/parts-of-a-computer-interactive-quiz-1483/index.html"
-        },
-        {
-            "title": "Working with Paint Brush (Working with Tabs)",
-            "image": "assets/games/game_one.png",
-            "path": "assets/ic/Grade-1/Computer/Parts of a computer/parts-of-a-computer-interactive-quiz-1483/index.html"
-        }
-        
+        } 
     ],
     "games": []
 }

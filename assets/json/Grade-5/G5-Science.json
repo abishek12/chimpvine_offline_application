@@ -2,81 +2,80 @@
     "count": 10,
     "ic": [
         {
-            "title": "History of Computer (Introduction)",
-            "image": "assets/games/game_one.png",
-            "path": "assets/ic/Grade-1/Computer/Parts of a computer/parts-of-a-computer-interactive-quiz-1483/index.html"
-        },
-        {
-            "title": "History of Computer (Eectro-mechanical and Electronic Computers)",
+            "title": "Change in State of Matter",
             "image": "assets/games/game_one.png",
             "path": "assets/ic/Grade-1/Computer/Working with Word Pad/starting-and-componets-of-wordpad-1011/index.html"
         },
         {
-            "title": "History of Computer (Generation of Computer)",
+            "title": "Sources of Energy",
             "image": "assets/games/game_one.png",
             "path": "assets/ic/Grade-5/Computer/Working with Word Pad/woking-on-home-tab-1121/index.html"
         },
         {
-            "title": "Software of Computer (Computer Softwares)",
+            "title": "Environment Conservation",
             "image": "assets/games/game_one.png",
             "path": "assets/ic/Grade-1/Computer/The Keyboard/index.html"
         },
         {
-            "title": "Memory Device (Units of Memory)",
+            "title": "Monocot and Dicot Plants -- Structure of a Flowering Plant",
             "image": "assets/games/game_one.png",
             "path": "assets/ic/Grade-1/Computer/Music Player/index.html"
         },
         {
-            "title": "Memory Device (Secondary Memory)",
+            "title": "Simple Life Processes of Animals and Plants",
             "image": "assets/games/game_one.png",
             "path": "assets/ic/Grade-1/Computer/Let_s paint using a computer/index.html"
         },
         {
-            "title": "Computer Virus (Introduction)",
+            "title": "Physical Exerciem Rest and Sleep",
             "image": "assets/games/game_one.png",
             "path": "assets/ic/Grade-1/Computer/Mighty mouse/index.html"
         },
         {
-            "title": "Computer Virus (Preventive Measures)",
+            "title": "Physical Exerciem Rest and Sleep",
             "image": "assets/games/game_one.png",
             "path": "assets/ic/Grade-1/Computer/Computer (A Smart Machine)/computer-a-smart-machine-interactive-book-1419/index.html"
         },
         {
-            "title": "Network and the Internet (Types of Computer Network)",
+            "title": "Solid Waste",
             "image": "assets/games/game_one.png",
             "path": "assets/ic/Grade-1/Computer/Computer (A Smart Machine)/computer-a-smart-machine-interactive-quiz-1420/index.html"
         },
         {
-            "title": "Network and the Internet (The Internet)",
+            "title": "Safety and First Aid",
             "image": "assets/games/game_one.png",
             "path": "assets/ic/Grade-1/Computer/Monitor (display unit)/index.html"
         },
         {
-            "title": "Working with WordPad (Find, Replace and Select All)",
+            "title": "HIV and AIDS",
             "image": "assets/games/game_one.png",
             "path": "assets/ic/Grade-1/Computer/Computer and its use/index.html"
         },
         {
-            "title": "Working with WordPad (Working with View Tab)",
+            "title": "Balanced Diet",
             "image": "assets/games/game_one.png",
             "path": "assets/ic/Grade-1/Computer/Parts of a computer/parts-of-a-computer-interactive-book-1482/index.html"
         },
         {
-            "title": "Working with Paint Brush (Introduction and Starting Paint in Windows 8)",
+            "title": "Causes of Mainutrition and Preventive Measures",
             "image": "assets/games/game_one.png",
             "path": "assets/ic/Grade-1/Computer/Parts of a computer/parts-of-a-computer-interactive-quiz-1483/index.html"
         },
         {
-            "title": "Working with Paint Brush (Working with Shapes)",
+            "title": "Health Service and Community Health",
             "image": "assets/games/game_one.png",
             "path": "assets/ic/Grade-1/Computer/Parts of a computer/parts-of-a-computer-interactive-quiz-1483/index.html"
         },
         {
-            "title": "Working with Paint Brush (Working with Tabs)",
+            "title": "Vertebrates",
+            "image": "assets/games/game_one.png",
+            "path": "assets/ic/Grade-1/Computer/Parts of a computer/parts-of-a-computer-interactive-quiz-1483/index.html"
+        },
+        {
+            "title": "Communicable Diseases",
             "image": "assets/games/game_one.png",
             "path": "assets/ic/Grade-1/Computer/Parts of a computer/parts-of-a-computer-interactive-quiz-1483/index.html"
         }
-        
     ],
     "games": []
 }

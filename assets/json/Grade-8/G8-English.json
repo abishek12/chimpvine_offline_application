@@ -1,82 +1,81 @@
 {
-    "count": 10,
+    "count": 15,
     "ic": [
         {
-            "title": "History of Computer (Introduction)",
+            "title": "Articles",
             "image": "assets/games/game_one.png",
             "path": "assets/ic/Grade-1/Computer/Parts of a computer/parts-of-a-computer-interactive-quiz-1483/index.html"
         },
         {
-            "title": "History of Computer (Eectro-mechanical and Electronic Computers)",
+            "title": "Relative Clause",
+            "imaage": "assets/games/game_one.png",
+            "path": "assets/ic/Grade-1/Computer/The Keyboard/index.html"
+        },
+        {
+            "title": "Prepositions",
             "image": "assets/games/game_one.png",
             "path": "assets/ic/Grade-1/Computer/Working with Word Pad/starting-and-componets-of-wordpad-1011/index.html"
         },
         {
-            "title": "History of Computer (Generation of Computer)",
+            "title": "Sentence Transformation",
             "image": "assets/games/game_one.png",
             "path": "assets/ic/Grade-5/Computer/Working with Word Pad/woking-on-home-tab-1121/index.html"
         },
         {
-            "title": "Software of Computer (Computer Softwares)",
-            "image": "assets/games/game_one.png",
-            "path": "assets/ic/Grade-1/Computer/The Keyboard/index.html"
-        },
-        {
-            "title": "Memory Device (Units of Memory)",
+            "title": "Collective Nouns",
             "image": "assets/games/game_one.png",
             "path": "assets/ic/Grade-1/Computer/Music Player/index.html"
         },
         {
-            "title": "Memory Device (Secondary Memory)",
+            "title": "Irregular Verbs",
+            "image": "assets/games/game_one.png",
+            "path": "assets/ic/Grade-1/Computer/Music Player/index.html"
+        },
+        {
+            "title": "Concord",
             "image": "assets/games/game_one.png",
             "path": "assets/ic/Grade-1/Computer/Let_s paint using a computer/index.html"
         },
         {
-            "title": "Computer Virus (Introduction)",
+            "title": "Diminutives",
             "image": "assets/games/game_one.png",
             "path": "assets/ic/Grade-1/Computer/Mighty mouse/index.html"
         },
         {
-            "title": "Computer Virus (Preventive Measures)",
+            "title": "Voice",
             "image": "assets/games/game_one.png",
             "path": "assets/ic/Grade-1/Computer/Computer (A Smart Machine)/computer-a-smart-machine-interactive-book-1419/index.html"
         },
         {
-            "title": "Network and the Internet (Types of Computer Network)",
+            "title": "Conditional Sentences",
             "image": "assets/games/game_one.png",
             "path": "assets/ic/Grade-1/Computer/Computer (A Smart Machine)/computer-a-smart-machine-interactive-quiz-1420/index.html"
         },
         {
-            "title": "Network and the Internet (The Internet)",
+            "title": "Antonyms",
             "image": "assets/games/game_one.png",
-            "path": "assets/ic/Grade-1/Computer/Monitor (display unit)/index.html"
+            "path": "assets/ic/Grade-1/Computer/Computer (A Smart Machine)/computer-a-smart-machine-interactive-quiz-1420/index.html"
         },
         {
-            "title": "Working with WordPad (Find, Replace and Select All)",
+            "title": "Seen and Unseen Texts (Seen Texts)",
             "image": "assets/games/game_one.png",
             "path": "assets/ic/Grade-1/Computer/Computer and its use/index.html"
         },
         {
-            "title": "Working with WordPad (Working with View Tab)",
+            "title": "Seen and Unseen Texts (Unseen Texts)",
             "image": "assets/games/game_one.png",
             "path": "assets/ic/Grade-1/Computer/Parts of a computer/parts-of-a-computer-interactive-book-1482/index.html"
         },
         {
-            "title": "Working with Paint Brush (Introduction and Starting Paint in Windows 8)",
+            "title": "Connectives",
             "image": "assets/games/game_one.png",
             "path": "assets/ic/Grade-1/Computer/Parts of a computer/parts-of-a-computer-interactive-quiz-1483/index.html"
         },
         {
-            "title": "Working with Paint Brush (Working with Shapes)",
+            "title": "Tense",
             "image": "assets/games/game_one.png",
             "path": "assets/ic/Grade-1/Computer/Parts of a computer/parts-of-a-computer-interactive-quiz-1483/index.html"
-        },
-        {
-            "title": "Working with Paint Brush (Working with Tabs)",
-            "image": "assets/games/game_one.png",
-            "path": "assets/ic/Grade-1/Computer/Parts of a computer/parts-of-a-computer-interactive-quiz-1483/index.html"
-        }
-        
+        } 
     ],
     "games": []
 }

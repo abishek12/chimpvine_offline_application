@@ -1,82 +1,81 @@
 {
-    "count": 10,
+    "count": 15,
     "ic": [
         {
-            "title": "History of Computer (Introduction)",
+            "title": "Operation on Whole Number (Prime Factors)",
             "image": "assets/games/game_one.png",
             "path": "assets/ic/Grade-1/Computer/Parts of a computer/parts-of-a-computer-interactive-quiz-1483/index.html"
         },
         {
-            "title": "History of Computer (Eectro-mechanical and Electronic Computers)",
+            "title": "Operation on Whole Number (Squares Numbers and Square Roots)",
             "image": "assets/games/game_one.png",
             "path": "assets/ic/Grade-1/Computer/Working with Word Pad/starting-and-componets-of-wordpad-1011/index.html"
         },
         {
-            "title": "History of Computer (Generation of Computer)",
+            "title": "Number System (Roman Numerals)",
             "image": "assets/games/game_one.png",
             "path": "assets/ic/Grade-5/Computer/Working with Word Pad/woking-on-home-tab-1121/index.html"
         },
         {
-            "title": "Software of Computer (Computer Softwares)",
+            "title": "Properties of Whole Number (Properties of Whole Numbers -- Interactive Book)",
             "image": "assets/games/game_one.png",
             "path": "assets/ic/Grade-1/Computer/The Keyboard/index.html"
         },
         {
-            "title": "Memory Device (Units of Memory)",
+            "title": "Properties of Whole Number (Test of Divisibility by Numbers)",
             "image": "assets/games/game_one.png",
             "path": "assets/ic/Grade-1/Computer/Music Player/index.html"
         },
         {
-            "title": "Memory Device (Secondary Memory)",
+            "title": "Set (MMethos of Describing Sets -- Interactive Quiz)",
+            "image": "assets/games/game_one.png",
+            "path": "assets/ic/Grade-1/Computer/Music Player/index.html"
+        },
+        {
+            "title": "Set (Types of sets -- Interactive Quiz)",
             "image": "assets/games/game_one.png",
             "path": "assets/ic/Grade-1/Computer/Let_s paint using a computer/index.html"
         },
         {
-            "title": "Computer Virus (Introduction)",
+            "title": "Perimeter, Area, and Volume (Area of Regular and Irregular Figures)",
             "image": "assets/games/game_one.png",
             "path": "assets/ic/Grade-1/Computer/Mighty mouse/index.html"
         },
         {
-            "title": "Computer Virus (Preventive Measures)",
+            "title": "Perimeter, Area, and Volume (Area of Rectangles and Squares)",
             "image": "assets/games/game_one.png",
             "path": "assets/ic/Grade-1/Computer/Computer (A Smart Machine)/computer-a-smart-machine-interactive-book-1419/index.html"
         },
         {
-            "title": "Network and the Internet (Types of Computer Network)",
+            "title": "Fraction and Decimal (Decimal -- Interactive Quiz)",
             "image": "assets/games/game_one.png",
             "path": "assets/ic/Grade-1/Computer/Computer (A Smart Machine)/computer-a-smart-machine-interactive-quiz-1420/index.html"
         },
         {
-            "title": "Network and the Internet (The Internet)",
+            "title": "Symmetrical Figures, Design of Polygons and Tessellations (Introduction)",
             "image": "assets/games/game_one.png",
             "path": "assets/ic/Grade-1/Computer/Monitor (display unit)/index.html"
         },
         {
-            "title": "Working with WordPad (Find, Replace and Select All)",
+            "title": "Symmetrical Figures, Design of Polygons and Tessellations (Patterns and Designs of Polygons)",
             "image": "assets/games/game_one.png",
             "path": "assets/ic/Grade-1/Computer/Computer and its use/index.html"
         },
         {
-            "title": "Working with WordPad (Working with View Tab)",
+            "title": "Integers (Operation of Integers)",
             "image": "assets/games/game_one.png",
             "path": "assets/ic/Grade-1/Computer/Parts of a computer/parts-of-a-computer-interactive-book-1482/index.html"
         },
         {
-            "title": "Working with Paint Brush (Introduction and Starting Paint in Windows 8)",
+            "title": "Rational Number (Introduction of Rational Number)",
             "image": "assets/games/game_one.png",
             "path": "assets/ic/Grade-1/Computer/Parts of a computer/parts-of-a-computer-interactive-quiz-1483/index.html"
         },
         {
-            "title": "Working with Paint Brush (Working with Shapes)",
+            "title": "Question Tags",
             "image": "assets/games/game_one.png",
             "path": "assets/ic/Grade-1/Computer/Parts of a computer/parts-of-a-computer-interactive-quiz-1483/index.html"
-        },
-        {
-            "title": "Working with Paint Brush (Working with Tabs)",
-            "image": "assets/games/game_one.png",
-            "path": "assets/ic/Grade-1/Computer/Parts of a computer/parts-of-a-computer-interactive-quiz-1483/index.html"
-        }
-        
+        } 
     ],
     "games": []
 }

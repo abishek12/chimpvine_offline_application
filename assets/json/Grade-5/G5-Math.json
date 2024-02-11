@@ -2,81 +2,80 @@
     "count": 10,
     "ic": [
         {
-            "title": "History of Computer (Introduction)",
-            "image": "assets/games/game_one.png",
-            "path": "assets/ic/Grade-1/Computer/Parts of a computer/parts-of-a-computer-interactive-quiz-1483/index.html"
-        },
-        {
-            "title": "History of Computer (Eectro-mechanical and Electronic Computers)",
+            "title": "Profit and Loss",
             "image": "assets/games/game_one.png",
             "path": "assets/ic/Grade-1/Computer/Working with Word Pad/starting-and-componets-of-wordpad-1011/index.html"
         },
         {
-            "title": "History of Computer (Generation of Computer)",
+            "title": "Bills and Budget -- Bills",
             "image": "assets/games/game_one.png",
             "path": "assets/ic/Grade-5/Computer/Working with Word Pad/woking-on-home-tab-1121/index.html"
         },
         {
-            "title": "Software of Computer (Computer Softwares)",
+            "title": "Bills and Budget -- Budget",
             "image": "assets/games/game_one.png",
             "path": "assets/ic/Grade-1/Computer/The Keyboard/index.html"
         },
         {
-            "title": "Memory Device (Units of Memory)",
+            "title": "Time -- Conversion of Time",
             "image": "assets/games/game_one.png",
             "path": "assets/ic/Grade-1/Computer/Music Player/index.html"
         },
         {
-            "title": "Memory Device (Secondary Memory)",
+            "title": "Time -- Find the Elapsed Time",
             "image": "assets/games/game_one.png",
             "path": "assets/ic/Grade-1/Computer/Let_s paint using a computer/index.html"
         },
         {
-            "title": "Computer Virus (Introduction)",
+            "title": "Currency -- Introduction of Money",
             "image": "assets/games/game_one.png",
             "path": "assets/ic/Grade-1/Computer/Mighty mouse/index.html"
         },
         {
-            "title": "Computer Virus (Preventive Measures)",
+            "title": "Currency -- Conversion of Money",
             "image": "assets/games/game_one.png",
             "path": "assets/ic/Grade-1/Computer/Computer (A Smart Machine)/computer-a-smart-machine-interactive-book-1419/index.html"
         },
         {
-            "title": "Network and the Internet (Types of Computer Network)",
+            "title": "Four Fundamental Operations -- Multiplication",
             "image": "assets/games/game_one.png",
             "path": "assets/ic/Grade-1/Computer/Computer (A Smart Machine)/computer-a-smart-machine-interactive-quiz-1420/index.html"
         },
         {
-            "title": "Network and the Internet (The Internet)",
+            "title": "Four Fundamental Operations -- Divison",
             "image": "assets/games/game_one.png",
             "path": "assets/ic/Grade-1/Computer/Monitor (display unit)/index.html"
         },
         {
-            "title": "Working with WordPad (Find, Replace and Select All)",
+            "title": "Weight -- Introduction of Weight",
             "image": "assets/games/game_one.png",
             "path": "assets/ic/Grade-1/Computer/Computer and its use/index.html"
         },
         {
-            "title": "Working with WordPad (Working with View Tab)",
+            "title": "Weight -- Conversion of Units of Weight",
             "image": "assets/games/game_one.png",
             "path": "assets/ic/Grade-1/Computer/Parts of a computer/parts-of-a-computer-interactive-book-1482/index.html"
         },
         {
-            "title": "Working with Paint Brush (Introduction and Starting Paint in Windows 8)",
+            "title": "Decimal -- Addition & Subtraction of Decimals",
             "image": "assets/games/game_one.png",
             "path": "assets/ic/Grade-1/Computer/Parts of a computer/parts-of-a-computer-interactive-quiz-1483/index.html"
         },
         {
-            "title": "Working with Paint Brush (Working with Shapes)",
+            "title": "Decimal -- Conversion of Fraction into Decimals",
             "image": "assets/games/game_one.png",
             "path": "assets/ic/Grade-1/Computer/Parts of a computer/parts-of-a-computer-interactive-quiz-1483/index.html"
         },
         {
-            "title": "Working with Paint Brush (Working with Tabs)",
+            "title": "Number System -- Factors & Multiples",
+            "image": "assets/games/game_one.png",
+            "path": "assets/ic/Grade-1/Computer/Parts of a computer/parts-of-a-computer-interactive-quiz-1483/index.html"
+        },
+        {
+            "title": "Perimeter, Area, and Volume -- Introduction to Perimeter",
             "image": "assets/games/game_one.png",
             "path": "assets/ic/Grade-1/Computer/Parts of a computer/parts-of-a-computer-interactive-quiz-1483/index.html"
         }
-        
     ],
     "games": []
 }

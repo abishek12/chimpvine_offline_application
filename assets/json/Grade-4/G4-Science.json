@@ -1,58 +1,78 @@
 {
-    "count": 11,
+    "count": 15,
     "ic": [
         {
-            "title": "Input Device",
+            "title": "Some of our local Technologies",
             "image": "assets/games/game_one.png",
             "path": "assets/games/FlyHighWebGL/index.html"
         },
         {
-            "title": "Introduction to the Computer",
+            "title": "Healthy Environment and Healthy Life",
             "image": "assets/games/game_one.png",
             "path": "assets/games/FlyHighWebGL/index.html"
         },
         {
-            "title": "Output Device",
+            "title": "Energy",
             "image": "assets/games/game_one.png",
             "path": "assets/games/FlyHighWebGL/index.html"
         },
         {
-            "title": "Wordpad",
+            "title": "Locomotive Skills",
             "image": "assets/games/game_one.png",
             "path": "assets/games/FlyHighWebGL/index.html"
         },
         {
-            "title": "Types of Computer",
+            "title": "Weather",
             "image": "assets/games/game_one.png",
             "path": "assets/games/FlyHighWebGL/index.html"
         },
         {
-            "title": "Processing Unit",
+            "title": "Our Food and Nutrients",
             "image": "assets/games/game_one.png",
             "path": "assets/games/FlyHighWebGL/index.html"
         },
         {
-            "title": "Software",
+            "title": "Some Communicable diseases",
             "image": "assets/games/game_one.png",
             "path": "assets/games/FlyHighWebGL/index.html"
         },
         {
-            "title": "Computer System",
+            "title": "Our body and Personal Hygiene",
             "image": "assets/games/game_one.png",
             "path": "assets/games/FlyHighWebGL/index.html"
         },
         {
-            "title": "Operating System",
+            "title": "The Earth",
             "image": "assets/games/game_one.png",
             "path": "assets/games/FlyHighWebGL/index.html"
         },
         {
-            "title": "More About Typing Skill",
+            "title": "Throwing",
             "image": "assets/games/game_one.png",
             "path": "assets/games/FlyHighWebGL/index.html"
         },
         {
-            "title": "Programming Language LOGO",
+            "title": "Jumping",
+            "image": "assets/games/game_one.png",
+            "path": "assets/games/FlyHighWebGL/index.html"
+        },
+        {
+            "title": "Solar System",
+            "image": "assets/games/game_one.png",
+            "path": "assets/games/FlyHighWebGL/index.html"
+        },
+        {
+            "title": "Drill",
+            "image": "assets/games/game_one.png",
+            "path": "assets/games/FlyHighWebGL/index.html"
+        },
+        {
+            "title": "Means of Information and Communication",
+            "image": "assets/games/game_one.png",
+            "path": "assets/games/FlyHighWebGL/index.html"
+        },
+        {
+            "title": "Matter -- Interactive Book",
             "image": "assets/games/game_one.png",
             "path": "assets/games/FlyHighWebGL/index.html"
         }
