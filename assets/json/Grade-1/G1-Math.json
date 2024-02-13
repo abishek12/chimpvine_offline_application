@@ -4,88 +4,88 @@
         {
             "title": "Even and Odd Numbers",
             "image": "assets/games/game_one.png",
-            "path": "assets/ic/Grade-1/Math/addition-interactive-book-1411/index.html"
+            "path": "assets/ic/Grade-1/Math/even-and-odd-numbers-82/index.html"
         },
         {
             "title": "Find Even or Odd",
             "image": "assets/games/game_one.png",
-            "path": "assets/games/FlyHighWebGL/index.html"
+            "path": "assets/ic/Grade-1/Math/find-even-or-odd-2107/index.html"
         },
         {
             "title": "Number System -- Look and learn devanagari numbers",
             "image": "assets/games/game_one.png",
-            "path": "assets/games/FlyHighWebGL/index.html"
+            "path": "assets/ic/Grade-1/Math/look-and-learn-devanagari-numbers-340/index.html"
         },
         {
             "title": "Number System -- Counting numbers from 1-20",
             "image": "assets/games/game_one.png",
-            "path": "assets/games/FlyHighWebGL/index.html"
+            "path": "assets/ic/Grade-1/Math/counting-numbers-from-1-20-368/index.html"
             
         },
         {
             "title": "Measurement -- Non-standard measurement",
             "image": "assets/games/game_one.png",
-            "path": "assets/games/FlyHighWebGL/index.html"
+            "path": "assets/ic/Grade-1/Math/non-standard-measurement-175/index.html"
             
         },
         {
             "title": "Measurement -- Measure using an inch ruler",
             "image": "assets/games/game_one.png",
-            "path": "assets/games/FlyHighWebGL/index.html"
+            "path": "assets/ic/Grade-1/Math/measure-using-an-inch-ruler-1636/index.html"
             
         },
         {
             "title": "Shape, Size and place -- Bigger or smaller",
             "image": "assets/games/game_one.png",
-            "path": "assets/games/FlyHighWebGL/index.html"
+            "path": "assets/ic/Grade-1/Math/bigger-and-smaller-115/index.html"
             
         },
         {
             "title": "Shape, Size and place -- Plane figures and solid objects",
             "image": "assets/games/game_one.png",
-            "path": "assets/games/FlyHighWebGL/index.html"
+            "path": "assets/ic/Grade-1/Math/plane-figures-and-solid-objects-156/index.html"
             
         },
         {
             "title": "Time -- Analog clock and time",
             "image": "assets/games/game_one.png",
-            "path": "assets/games/FlyHighWebGL/index.html"
+            "path": "assets/ic/Grade-1/Math/analog-clock-and-time-1610/index.html"
             
         },
         {
             "title": "Time -- Months of the year",
             "image": "assets/games/game_one.png",
-            "path": "assets/games/FlyHighWebGL/index.html"
+            "path": "assets/ic/Grade-1/Math/months-of-the-year-interactive-quiz-1611/index.html"
             
         },
         {
             "title": "Addition -- Interactive book",
             "image": "assets/games/game_one.png",
-            "path": "assets/games/FlyHighWebGL/index.html"
+            "path": "assets/ic/Grade-1/Math/addition-interactive-book-1411/index.html"
             
         },
         {
             "title": "Addition -- Interactive quiz",
             "image": "assets/games/game_one.png",
-            "path": "assets/games/FlyHighWebGL/index.html"
+            "path": "assets/ic/Grade-1/Math/addition-interactive-quiz-2-1412/index.html"
             
         },
         {
             "title": "Addition -- Learn Addition by Counting on - Interactive video",
             "image": "assets/games/game_one.png",
-            "path": "assets/games/FlyHighWebGL/index.html"
+            "path": "assets/ic/Grade-1/Math/learn-addition-by-counting-on-3-1474/index.html"
             
         },
         {
             "title": "Currency -- Nepali coins and paper notes",
             "image": "assets/games/game_one.png",
-            "path": "assets/games/FlyHighWebGL/index.html"
+            "path": "assets/ic/Grade-1/Math/currency-flash-card-151/index.html"
             
         },
         {
             "title": "Subtraction",
             "image": "assets/games/game_one.png",
-            "path": "assets/games/FlyHighWebGL/index.html"
+            "path": "assets/ic/Grade-1/Math/understand-subtraction-interactive-book-1506/index.html"
             
         }
     ],
