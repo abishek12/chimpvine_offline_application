@@ -229,10 +229,7 @@ flutter:
     - assets/ic/Grade-1/English/Articles/identify-articles-1656/
     - assets/ic/Grade-1/English/Articles/identify-articles-1656/content/identify-articles-1656/images/
     - assets/ic/Grade-1/English/Articles/identify-articles-1656/content/identify-articles-1656/audios/
-
-    - assets/ic/Grade-1/English/Articles/use-the-correct-article-a-or-an-1655/
-    - assets/ic/Grade-1/English/Articles/use-the-correct-article-a-or-an-1655/content/use-the-correct-article-a-or-an-1655/images/
-
+    
     - assets/ic/Grade-1/English/Doing words/
     - assets/ic/Grade-1/English/Doing words/content/doing-words-flashcards-670/images/
 
@@ -267,7 +264,7 @@ flutter:
     - assets/ic/Grade-1/English/Smart writing activities/smart-guessing-activities-524/content/smart-guessing-activities-524/images/
 
     - assets/ic/Grade-1/English/Smart writing activities/smart-writing-activities-3-2136/
-    - assets/ic/Grade-1/English/Smart writing activities/smart-writing-activities-3-2136/contentsmart-writing-activities-3-2136/images/
+    - assets/ic/Grade-1/English/Smart writing activities/smart-writing-activities-3-2136/content/smart-writing-activities-3-2136/images/
 
     - assets/ic/Grade-1/Math/addition-interactive-book-1411/
     - assets/ic/Grade-1/Math/addition-interactive-book-1411/content/addition-interactive-book-1411/images/
@@ -716,8 +713,8 @@ flutter:
     - assets/ic/Grade-7/Math/Percentage, ratio and proportion/percentage-215/
     - assets/ic/Grade-7/Math/Percentage, ratio and proportion/percentage-215/content/percentage-215/images/
 
-    - assets/ic/Grade-7/Math/Percentage, ration and proportion/proportion-212/
-    - assets/ic/Grade-7/Math/Percentage, ration and proportion/proportion-212/content/proportion-212/images/
+    - assets/ic/Grade-7/Math/Percentage, ratio and proportion/proportion-212/
+    - assets/ic/Grade-7/Math/Percentage, ratio and proportion/proportion-212/content/proportion-212/images/
 
     - assets/ic/Grade-7/Math/Perimeter, Area and Volume/area-of-plane-figures-160/
     - assets/ic/Grade-7/Math/Perimeter, Area and Volume/area-of-plane-figures-160/content/area-of-plane-figures-160/images/
