@@ -35,7 +35,7 @@ dependencies:
   # The following adds the Cupertino Icons font to your application.
   # Use with the CupertinoIcons class for iOS style icons.
   cupertino_icons: ^1.0.2
-  go_router: ^12.1.0
+  go_router: ^13.2.0
   flutter_svg: ^2.0.9
   flutter_bloc: ^8.1.3
   equatable: ^2.0.5
@@ -61,7 +61,7 @@ dev_dependencies:
   # activated in the `analysis_options.yaml` file located at the root of your
   # package. See that file for information about deactivating specific lint
   # rules and activating additional ones.
-  flutter_lints: ^2.0.0
+  flutter_lints: ^3.0.1
 
 # For information on the generic Dart part of this file, see the
 # following page: https://dart.dev/tools/pub/pubspec
@@ -165,157 +165,275 @@ flutter:
     - assets/games/SubstractionEquationWebGL/TemplateData/
     - assets/games/SubstractionEquationWebGL/Build/
 
-    - assets/ic/Grade-1/Computer/Central processing unit (CPU)/
-    - assets/ic/Grade-1/Computer/Central processing unit (CPU)/content/central-processing-unit-cpu-683/images/
-    - assets/ic/Grade-1/Computer/Central processing unit (CPU)/content/central-processing-unit-cpu-683/audios/
+    - assets/ic/Grade-1/Computer/Central-processing-unit-(CPU)/
+    - assets/ic/Grade-1/Computer/Central-processing-unit-(CPU)/libraries/h5pcore/
+    - assets/ic/Grade-1/Computer/Central-processing-unit-(CPU)/content/central-processing-unit-cpu-683/
+    - assets/ic/Grade-1/Computer/Central-processing-unit-(CPU)/libraries/FontAwesome-4.5/
+    - assets/ic/Grade-1/Computer/Central-processing-unit-(CPU)/content/central-processing-unit-cpu-683/images/
+    - assets/ic/Grade-1/Computer/Central-processing-unit-(CPU)/content/central-processing-unit-cpu-683/audios/
 
-    - assets/ic/Grade-1/Computer/Computer and its use/
-    - assets/ic/Grade-1/Computer/Computer and its use/content/computer-and-its-uses-699/images/
+    - assets/ic/Grade-1/Computer/Computer-and-its-use/
+    - assets/ic/Grade-1/Computer/Computer-and-its-use/libraries/h5pcore/
+    - assets/ic/Grade-1/Computer/Computer-and-its-use/content/computer-and-its-uses-699/
+    - assets/ic/Grade-1/Computer/Computer-and-its-use/content/computer-and-its-uses-699/images/
+    - assets/ic/Grade-1/Computer/Computer-and-its-use/libraries/FontAwesome-4.5/
+    - assets/ic/Grade-1/Computer/Computer-and-its-use/libraries/H5P.FontIcons-1.0/fonts/
 
-    - assets/ic/Grade-1/Computer/The keyboard/
-    - assets/ic/Grade-1/Computer/The keyboard/content/the-keyboard-684/images/
-    - assets/ic/Grade-1/Computer/The keyboard/content/the-keyboard-684/audios/
+    - assets/ic/Grade-1/Computer/The-Keyboard/
+    - assets/ic/Grade-1/Computer/The-Keyboard/libraries/h5pcore/
+    - assets/ic/Grade-1/Computer/The-Keyboard/content/the-keyboard-684/
+    - assets/ic/Grade-1/Computer/The-Keyboard/libraries/FontAwesome-4.5/
+    - assets/ic/Grade-1/Computer/The-Keyboard/libraries/H5P.FontIcons-1.0/fonts/
+    - assets/ic/Grade-1/Computer/The-Keyboard/content/the-keyboard-684/images/
+    - assets/ic/Grade-1/Computer/The-Keyboard/content/the-keyboard-684/audios/
 
-    - assets/ic/Grade-1/Computer/Music player/
-    - assets/ic/Grade-1/Computer/Music player/content/music-player-736/images/
-    - assets/ic/Grade-1/Computer/Music player/content/music-player-736/audios/
+    - assets/ic/Grade-1/Computer/Music-player/
+    - assets/ic/Grade-1/Computer/Music-player/content/music-player-736/
+    - assets/ic/Grade-1/Computer/Music-player/libraries/h5pcore/
+    - assets/ic/Grade-1/Computer/Music-player/libraries/H5P.FontIcons-1.0/fonts/
+    - assets/ic/Grade-1/Computer/Music-player/libraries/H5P.MultiChoice-1.16/fonts/
+    - assets/ic/Grade-1/Computer/Music-player/libraries/FontAwesome-4.5/
+    - assets/ic/Grade-1/Computer/Music-player/content/music-player-736/images/
+    - assets/ic/Grade-1/Computer/Music-player/content/music-player-736/audios/
 
-    - assets/ic/Grade-1/Computer/Monitor (display unit)/
-    - assets/ic/Grade-1/Computer/Monitor (display unit)/content/monitor-display-unit-687/images/
+    - assets/ic/Grade-1/Computer/Monitor-(display-unit)/
+    - assets/ic/Grade-1/Computer/Monitor-(display-unit)/libraries/h5pcore/
+    - assets/ic/Grade-1/Computer/Monitor-(display-unit)/libraries/FontAwesome-4.5/
+    - assets/ic/Grade-1/Computer/Monitor-(display-unit)/libraries/H5P.FontIcons-1.0/fonts/
+    - assets/ic/Grade-1/Computer/Monitor-(display-unit)/content/monitor-display-unit-687/
+    - assets/ic/Grade-1/Computer/Monitor-(display-unit)/content/monitor-display-unit-687/images/
 
-    - assets/ic/Grade-1/Computer/Mighty mouse/
-    - assets/ic/Grade-1/Computer/Mighty mouse/content/mighty-mouse-760/images/
-    - assets/ic/Grade-1/Computer/Mighty mouse/content/mighty-mouse-760/audios/
+    - assets/ic/Grade-1/Computer/Mighty-mouse/
+    - assets/ic/Grade-1/Computer/Mighty-mouse/content/mighty-mouse-760/
+    - assets/ic/Grade-1/Computer/Mighty-mouse/libraries/h5pcore/
+    - assets/ic/Grade-1/Computer/Mighty-mouse/libraries/FontAwesome-4.5/
+    - assets/ic/Grade-1/Computer/Mighty-mouse/libraries/H5P.FontIcons-1.0/fonts/
+    - assets/ic/Grade-1/Computer/Mighty-mouse/content/mighty-mouse-760/images/
+    - assets/ic/Grade-1/Computer/Mighty-mouse/content/mighty-mouse-760/audios/
 
-    - assets/ic/Grade-1/Computer/Do_s and don_ts with a computer/
-    - assets/ic/Grade-1/Computer/Do_s and don_ts with a computer/content/do-039-s-and-don-039-ts-with-a-computer-731/images/
-    - assets/ic/Grade-1/Computer/Do_s and don_ts with a computer/content/do-039-s-and-don-039-ts-with-a-computer-731/audios/
+    - assets/ic/Grade-1/Computer/Do_s-and-don_ts-with-a-computer/
+    - assets/ic/Grade-1/Computer/Do_s-and-don_ts-with-a-computer/libraries/h5pcore/
+    - assets/ic/Grade-1/Computer/Do_s-and-don_ts-with-a-computer/libraries/FontAwesome-4.5/
+    - assets/ic/Grade-1/Computer/Do_s-and-don_ts-with-a-computer/libraries/H5P.MultiChoice-1.16/fonts/
+    - assets/ic/Grade-1/Computer/Do_s-and-don_ts-with-a-computer/libraries/H5P.FontIcons-1.0/fonts/
+    - assets/ic/Grade-1/Computer/Do_s-and-don_ts-with-a-computer/content/do-039-s-and-don-039-ts-with-a-computer-731/
+    - assets/ic/Grade-1/Computer/Do_s-and-don_ts-with-a-computer/content/do-039-s-and-don-039-ts-with-a-computer-731/images/
+    - assets/ic/Grade-1/Computer/Do_s-and-don_ts-with-a-computer/content/do-039-s-and-don-039-ts-with-a-computer-731/audios/
 
-    - assets/ic/Grade-1/Computer/Let_s paint using a computer/
-    - assets/ic/Grade-1/Computer/Let_s paint using a computer/content/let-s-paint-using-a-computer-685/images/
-    - assets/ic/Grade-1/Computer/Let_s paint using a computer/content/let-s-paint-using-a-computer-685/audios/
+    - assets/ic/Grade-1/Computer/Let_s-paint-using-a-computer/
+    - assets/ic/Grade-1/Computer/Let_s-paint-using-a-computer/content/let-s-paint-using-a-computer-685/
+    - assets/ic/Grade-1/Computer/Let_s-paint-using-a-computer/libraries/h5pcore/
+    - assets/ic/Grade-1/Computer/Let_s-paint-using-a-computer/libraries/FontAwesome-4.5/
+    - assets/ic/Grade-1/Computer/Music-player/libraries/H5P.FontIcons-1.0/fonts/
+    - assets/ic/Grade-1/Computer/Let_s-paint-using-a-computer/content/let-s-paint-using-a-computer-685/images/
+    - assets/ic/Grade-1/Computer/Let_s-paint-using-a-computer/content/let-s-paint-using-a-computer-685/audios/
 
-    - assets/ic/Grade-1/Computer/Parts of a computer/parts-of-a-computer-interactive-book-1482/
-    - assets/ic/Grade-1/Computer/Parts of a computer/parts-of-a-computer-interactive-book-1482/content/parts-of-a-computer-interactive-book-1482/images/
-    - assets/ic/Grade-1/Computer/Parts of a computer/parts-of-a-computer-interactive-book-1482/content/parts-of-a-computer-interactive-book-1482/audios/
+    - assets/ic/Grade-1/Computer/Parts-of-a-computer/parts-of-a-computer-interactive-book-1482/
+    - assets/ic/Grade-1/Computer/Parts-of-a-computer/parts-of-a-computer-interactive-book-1482/content/parts-of-a-computer-interactive-book-1482/
+    - assets/ic/Grade-1/Computer/Parts-of-a-computer/parts-of-a-computer-interactive-book-1482/libraries/h5pcore/
+    - assets/ic/Grade-1/Computer/Parts-of-a-computer/parts-of-a-computer-interactive-quiz-1483/libraries/FontAwesome-4.5/
+    - assets/ic/Grade-1/Computer/Parts-of-a-computer/parts-of-a-computer-interactive-book-1482/content/parts-of-a-computer-interactive-book-1482/images/
+    - assets/ic/Grade-1/Computer/Parts-of-a-computer/parts-of-a-computer-interactive-book-1482/content/parts-of-a-computer-interactive-book-1482/audios/
 
-    - assets/ic/Grade-1/Computer/Parts of a computer/parts-of-a-computer-interactive-quiz-1483/
-    - assets/ic/Grade-1/Computer/Parts of a computer/parts-of-a-computer-interactive-quiz-1483/content/parts-of-a-computer-interactive-quiz-1483/images/
-    - assets/ic/Grade-1/Computer/Parts of a computer/parts-of-a-computer-interactive-quiz-1483/content/parts-of-a-computer-interactive-quiz-1483/audios/
+    - assets/ic/Grade-1/Computer/Parts-of-a-computer/parts-of-a-computer-interactive-quiz-1483/
+    - assets/ic/Grade-1/Computer/Parts-of-a-computer/parts-of-a-computer-interactive-quiz-1483/content/parts-of-a-computer-interactive-quiz-1483/
+    - assets/ic/Grade-1/Computer/Parts-of-a-computer/parts-of-a-computer-interactive-quiz-1483/libraries/h5pcore/
+    - assets/ic/Grade-1/Computer/Parts-of-a-computer/parts-of-a-computer-interactive-quiz-1483/content/parts-of-a-computer-interactive-quiz-1483/images/
+    - assets/ic/Grade-1/Computer/Parts-of-a-computer/parts-of-a-computer-interactive-quiz-1483/content/parts-of-a-computer-interactive-quiz-1483/audios/
 
-    - assets/ic/Grade-1/Computer/Computer (A Smart Machine)/computer-a-smart-machine-interactive-book-1419/
-    - assets/ic/Grade-1/Computer/Computer (A Smart Machine)/computer-a-smart-machine-interactive-book-1419/content/computer-a-smart-machine-interactive-book-1419/images/
-    - assets/ic/Grade-1/Computer/Computer (A Smart Machine)/computer-a-smart-machine-interactive-book-1419/content/computer-a-smart-machine-interactive-book-1419/audios/
+    - assets/ic/Grade-1/Computer/Computer-(A-Smart-Machine)/computer-a-smart-machine-interactive-book-1419/
+    - assets/ic/Grade-1/Computer/Computer-(A-Smart-Machine)/computer-a-smart-machine-interactive-book-1419/libraries/h5pcore/
+    - assets/ic/Grade-1/Computer/Computer-(A-Smart-Machine)/computer-a-smart-machine-interactive-quiz-1420/libraries/FontAwesome-4.5/
+    - assets/ic/Grade-1/Computer/Computer-(A-Smart-Machine)/computer-a-smart-machine-interactive-book-1419/content/computer-a-smart-machine-interactive-book-1419/
+    - assets/ic/Grade-1/Computer/Computer-(A-Smart-Machine)/computer-a-smart-machine-interactive-book-1419/content/computer-a-smart-machine-interactive-book-1419/images/
+    - assets/ic/Grade-1/Computer/Computer-(A-Smart-Machine)/computer-a-smart-machine-interactive-book-1419/content/computer-a-smart-machine-interactive-book-1419/audios/
 
-    - assets/ic/Grade-1/Computer/Computer (A Smart Machine)/computer-a-smart-machine-interactive-quiz-1420/
-    - assets/ic/Grade-1/Computer/Computer (A Smart Machine)/computer-a-smart-machine-interactive-quiz-1420/content/computer-a-smart-machine-interactive-quiz-1420/images/
-    - assets/ic/Grade-1/Computer/Computer (A Smart Machine)/computer-a-smart-machine-interactive-quiz-1420/content/computer-a-smart-machine-interactive-quiz-1420/audios/
+    - assets/ic/Grade-1/Computer/Computer-(A-Smart-Machine)/computer-a-smart-machine-interactive-quiz-1420/
+    - assets/ic/Grade-1/Computer/Computer-(A-Smart-Machine)/computer-a-smart-machine-interactive-quiz-1420/libraries/h5pcore/
+    - assets/ic/Grade-1/Computer/Computer-(A-Smart-Machine)/computer-a-smart-machine-interactive-quiz-1420/content/computer-a-smart-machine-interactive-quiz-1420/
+    - assets/ic/Grade-1/Computer/Computer-(A-Smart-Machine)/computer-a-smart-machine-interactive-quiz-1420/content/computer-a-smart-machine-interactive-quiz-1420/images/
+    - assets/ic/Grade-1/Computer/Computer-(A-Smart-Machine)/computer-a-smart-machine-interactive-quiz-1420/content/computer-a-smart-machine-interactive-quiz-1420/audios/
 
     - assets/ic/Grade-1/English/Adjective/adjective-1083/
+    - assets/ic/Grade-1/English/Adjective/adjective-1083/content/adjective-1083/
     - assets/ic/Grade-1/English/Adjective/adjective-1083/content/adjective-1083/images/
     - assets/ic/Grade-1/English/Adjective/adjective-1083/content/adjective-1083/audios/
 
     - assets/ic/Grade-1/English/AmIsAre/
+    - assets/ic/Grade-1/English/AmIsAre/content/am-is-are-1250/
     - assets/ic/Grade-1/English/AmIsAre/content/am-is-are-1250/images/
+    - assets/ic/Grade-1/English/AmIsAre/content/am-is-are-1250/script.js
+    - assets/ic/Grade-1/English/AmIsAre/content/am-is-are-1250/style.css
 
     - assets/ic/Grade-1/English/Adjective/identify-comparative-and-superlative-adjectives-1512/
+    - assets/ic/Grade-1/English/Adjective/identify-comparative-and-superlative-adjectives-1512/content/
     - assets/ic/Grade-1/English/Adjective/identify-comparative-and-superlative-adjectives-1512/content/identify-comparative-and-superlative-adjectives-1512/images/
     - assets/ic/Grade-1/English/Adjective/identify-comparative-and-superlative-adjectives-1512/content/identify-comparative-and-superlative-adjectives-1512/audios/
 
-    - assets/ic/Grade-1/English/Affirmative and negative sentences/
-    - assets/ic/Grade-1/English/Affirmative and negative sentences/content/affirmative-and-negative-sentences-dialogue-cards-527/images/
-    - assets/ic/Grade-1/English/Affirmative and negative sentences/content/affirmative-and-negative-sentences-dialogue-cards-527/audios/
+    - assets/ic/Grade-1/English/Affirmative-and-negative-sentences/
+    - assets/ic/Grade-1/English/Affirmative-and-negative-sentences/content/affirmative-and-negative-sentences-dialogue-cards-527/
+    - assets/ic/Grade-1/English/Affirmative-and-negative-sentences/content/affirmative-and-negative-sentences-dialogue-cards-527/images/
+    - assets/ic/Grade-1/English/Affirmative-and-negative-sentences/content/affirmative-and-negative-sentences-dialogue-cards-527/audios/
 
     - assets/ic/Grade-1/English/Articles/identify-articles-1656/
+    - assets/ic/Grade-1/English/Articles/identify-articles-1656/content/identify-articles-1656/
     - assets/ic/Grade-1/English/Articles/identify-articles-1656/content/identify-articles-1656/images/
     - assets/ic/Grade-1/English/Articles/identify-articles-1656/content/identify-articles-1656/audios/
     
-    - assets/ic/Grade-1/English/Doing words/
-    - assets/ic/Grade-1/English/Doing words/content/doing-words-flashcards-670/images/
+    - assets/ic/Grade-1/English/Doing-words/
+    - assets/ic/Grade-1/English/Doing-words/content/doing-words-flashcards-670/
+    - assets/ic/Grade-1/English/Doing-words/content/doing-words-flashcards-670/images/
+    - assets/ic/Grade-1/English/Doing-words/content/doing-words-flashcards-670/script.js
 
     - assets/ic/Grade-1/English/HasHave/
+    - assets/ic/Grade-1/English/HasHave/content/has-have-1282/
     - assets/ic/Grade-1/English/HasHave/content/has-have-1282/images/
     - assets/ic/Grade-1/English/HasHave/content/has-have-1282/audios/
 
-    - assets/ic/Grade-1/English/Singular and plural nouns/
-    - assets/ic/Grade-1/English/Singular and plural nouns/content/singular-and-plural-nouns-2-553/images/
-    - assets/ic/Grade-1/English/Singular and plural nouns/content/singular-and-plural-nouns-2-553/audios/
+    - assets/ic/Grade-1/English/Singular-and-plural-nouns/
+    - assets/ic/Grade-1/English/Singular-and-plural-nouns/content/singular-and-plural-nouns-2-553
+    - assets/ic/Grade-1/English/Singular-and-plural-nouns/content/singular-and-plural-nouns-2-553/images/
+    - assets/ic/Grade-1/English/Singular-and-plural-nouns/content/singular-and-plural-nouns-2-553/audios/
 
     - assets/ic/Grade-1/English/Punctuation/
+    - assets/ic/Grade-1/English/Punctuation/content/punctuation-3-1294/
     - assets/ic/Grade-1/English/Punctuation/content/punctuation-3-1294/images/
 
-    - assets/ic/Grade-1/English/Articles/use-the-correct-article-a-or-an-1655/
-    - assets/ic/Grade-1/English/Articles/use-the-correct-article-a-or-an-1655/content/use-the-correct-article-a-or-an-1655/images
-
     - assets/ic/Grade-1/English/Articles/identify-articles-1656/
+    - assets/ic/Grade-1/English/Articles/identify-articles-1656/content/identify-articles-1656/
     - assets/ic/Grade-1/English/Articles/identify-articles-1656/content/identify-articles-1656/images/
     - assets/ic/Grade-1/English/Articles/identify-articles-1656/content/identify-articles-1656/audios/
 
-    - assets/ic/Grade-1/English/Doing words/
-    - assets/ic/Grade-1/English/Doing words/content/doing-words-flashcards-670/images/
-
     - assets/ic/Grade-1/English/Pronoun/replacing-words-738/
+    - assets/ic/Grade-1/English/Pronoun/replacing-words-738/content/replacing-words-738/
     - assets/ic/Grade-1/English/Pronoun/replacing-words-738/content/replacing-words-738/images/
 
     - assets/ic/Grade-1/English/Pronoun/he-group-and-she-group-1024/
+    - assets/ic/Grade-1/English/Pronoun/he-group-and-she-group-1024/content/he-group-and-she-group-1024/
     - assets/ic/Grade-1/English/Pronoun/he-group-and-she-group-1024/content/he-group-and-she-group-1024/images/
 
-    - assets/ic/Grade-1/English/Smart writing activities/smart-guessing-activities-524/
-    - assets/ic/Grade-1/English/Smart writing activities/smart-guessing-activities-524/content/smart-guessing-activities-524/images/
+    - assets/ic/Grade-1/English/Smart-writing-activities/smart-guessing-activities-524/
+    - assets/ic/Grade-1/English/Smart-writing-activities/smart-guessing-activities-524/content/smart-guessing-activities-524/
+    - assets/ic/Grade-1/English/Smart-writing-activities/smart-guessing-activities-524/content/smart-guessing-activities-524/images/
 
-    - assets/ic/Grade-1/English/Smart writing activities/smart-writing-activities-3-2136/
-    - assets/ic/Grade-1/English/Smart writing activities/smart-writing-activities-3-2136/content/smart-writing-activities-3-2136/images/
+    - assets/ic/Grade-1/English/Smart-writing-activities/smart-writing-activities-3-2136/
+    - assets/ic/Grade-1/English/Smart-writing-activities/smart-writing-activities-3-2136/content/smart-writing-activities-3-2136/
+    - assets/ic/Grade-1/English/Smart-writing-activities/smart-writing-activities-3-2136/content/smart-writing-activities-3-2136/images/
 
     - assets/ic/Grade-1/Math/addition-interactive-book-1411/
+    - assets/ic/Grade-1/Math/addition-interactive-book-1411/libraries/h5pcore/
+    - assets/ic/Grade-1/Math/addition-interactive-book-1411/libraries/FontAwesome-4.5/
+    - assets/ic/Grade-1/Math/addition-interactive-book-1411/libraries/H5P.MultiChoice-1.16/fonts/
+    - assets/ic/Grade-1/Math/addition-interactive-book-1411/libraries/H5P.InteractiveBook-1.7/dist/
+    - assets/ic/Grade-1/Math/addition-interactive-book-1411/content/addition-interactive-book-1411/
     - assets/ic/Grade-1/Math/addition-interactive-book-1411/content/addition-interactive-book-1411/images/
     - assets/ic/Grade-1/Math/addition-interactive-book-1411/content/addition-interactive-book-1411/audios/
 
     - assets/ic/Grade-1/Math/addition-interactive-quiz-2-1412/
+    - assets/ic/Grade-1/Math/addition-interactive-quiz-2-1412/libraries/h5pcore/
+    - assets/ic/Grade-1/Math/addition-interactive-quiz-2-1412/libraries/H5P.FontIcons-1.0/fonts/
+    - assets/ic/Grade-1/Math/addition-interactive-quiz-2-1412/libraries/H5P.MultiChoice-1.16/fonts/
+    - assets/ic/Grade-1/Math/addition-interactive-quiz-2-1412/libraries/FontAwesome-4.5/
+    - assets/ic/Grade-1/Math/addition-interactive-quiz-2-1412/content/addition-interactive-quiz-2-1412/
     - assets/ic/Grade-1/Math/addition-interactive-quiz-2-1412/content/addition-interactive-quiz-2-1412/images/
     - assets/ic/Grade-1/Math/addition-interactive-quiz-2-1412/content/addition-interactive-quiz-2-1412/audios/
 
     - assets/ic/Grade-1/Math/counting-numbers-from-1-20-368/
+    - assets/ic/Grade-1/Math/counting-numbers-from-1-20-368/libraries/h5pcore/
+    - assets/ic/Grade-1/Math/counting-numbers-from-1-20-368/libraries/FontAwesome-4.5/
+    - assets/ic/Grade-1/Math/counting-numbers-from-1-20-368/libraries/H5P.MultiChoice-1.16/fonts/
+    - assets/ic/Grade-1/Math/counting-numbers-from-1-20-368/libraries/H5P.FontIcons-1.0/fonts/
+    - assets/ic/Grade-1/Math/counting-numbers-from-1-20-368/content/counting-numbers-from-1-20-368/
     - assets/ic/Grade-1/Math/counting-numbers-from-1-20-368/content/counting-numbers-from-1-20-368/images/
     - assets/ic/Grade-1/Math/counting-numbers-from-1-20-368/content/counting-numbers-from-1-20-368/audios/
 
     - assets/ic/Grade-1/Math/learn-addition-by-counting-on-3-1474/
+    - assets/ic/Grade-1/Math/learn-addition-by-counting-on-3-1474/libraries/h5pcore/
+    - assets/ic/Grade-1/Math/learn-addition-by-counting-on-3-1474/libraries/FontAwesome-4.5/
+    - assets/ic/Grade-1/Math/learn-addition-by-counting-on-3-1474/libraries/H5P.InteractiveVideo-1.22/dist/fonts/
+    - assets/ic/Grade-1/Math/learn-addition-by-counting-on-3-1474/content/learn-addition-by-counting-on-3-1474/videos/
+    - assets/ic/Grade-1/Math/learn-addition-by-counting-on-3-1474/content/learn-addition-by-counting-on-3-1474/
     - assets/ic/Grade-1/Math/learn-addition-by-counting-on-3-1474/content/learn-addition-by-counting-on-3-1474/images/
 
     - assets/ic/Grade-1/Math/currency-flash-card-151/
+    - assets/ic/Grade-1/Math/currency-flash-card-151/libraries/h5pcore/
+    - assets/ic/Grade-1/Math/currency-flash-card-151/libraries/FontAwesome-4.5/
+    - assets/ic/Grade-1/Math/currency-flash-card-151/libraries/H5P.FontIcons-1.0/
+    - assets/ic/Grade-1/Math/currency-flash-card-151/libraries/H5P.FontIcons-1.0/fonts/
+    - assets/ic/Grade-1/Math/currency-flash-card-151/content/currency-flash-card-151/
     - assets/ic/Grade-1/Math/currency-flash-card-151/content/currency-flash-card-151/images/
 
     - assets/ic/Grade-1/Math/measure-using-an-inch-ruler-1636/
+    - assets/ic/Grade-1/Math/measure-using-an-inch-ruler-1636/libraries/h5pcore/
+    - assets/ic/Grade-1/Math/measure-using-an-inch-ruler-1636/libraries/H5P.MultiChoice-1.16/fonts/
+    - assets/ic/Grade-1/Math/measure-using-an-inch-ruler-1636/libraries/FontAwesome-4.5/
+    - assets/ic/Grade-1/Math/measure-using-an-inch-ruler-1636/content/measure-using-an-inch-ruler-1636/
     - assets/ic/Grade-1/Math/measure-using-an-inch-ruler-1636/content/measure-using-an-inch-ruler-1636/images/
     - assets/ic/Grade-1/Math/measure-using-an-inch-ruler-1636/content/measure-using-an-inch-ruler-1636/audios/
 
     - assets/ic/Grade-1/Math/months-of-the-year-interactive-quiz-1611/
+    - assets/ic/Grade-1/Math/months-of-the-year-interactive-quiz-1611/libraries/FontAwesome-4.5/
+    - assets/ic/Grade-1/Math/months-of-the-year-interactive-quiz-1611/libraries/h5pcore/
+    - assets/ic/Grade-1/Math/months-of-the-year-interactive-quiz-1611/content/months-of-the-year-interactive-quiz-1611/
     - assets/ic/Grade-1/Math/months-of-the-year-interactive-quiz-1611/content/months-of-the-year-interactive-quiz-1611/images/
     - assets/ic/Grade-1/Math/months-of-the-year-interactive-quiz-1611/content/months-of-the-year-interactive-quiz-1611/audios/
 
     - assets/ic/Grade-1/Math/understand-subtraction-interactive-book-1506/
+    - assets/ic/Grade-1/Math/understand-subtraction-interactive-book-1506/libraries/h5pcore/
+    - assets/ic/Grade-1/Math/understand-subtraction-interactive-book-1506/libraries/FontAwesome-4.5/
+    - assets/ic/Grade-1/Math/understand-subtraction-interactive-book-1506/libraries/H5P.InteractiveBook-1.7/dist/
+    - assets/ic/Grade-1/Math/understand-subtraction-interactive-book-1506/content/understand-subtraction-interactive-book-1506/
     - assets/ic/Grade-1/Math/understand-subtraction-interactive-book-1506/content/understand-subtraction-interactive-book-1506/images/
     - assets/ic/Grade-1/Math/understand-subtraction-interactive-book-1506/content/understand-subtraction-interactive-book-1506/audios/
 
     - assets/ic/Grade-1/Math/non-standard-measurement-175/
+    - assets/ic/Grade-1/Math/non-standard-measurement-175/content/non-standard-measurement-175/
+    - assets/ic/Grade-1/Math/non-standard-measurement-175/libraries/h5pcore/
+    - assets/ic/Grade-1/Math/non-standard-measurement-175/libraries/FontAwesome-4.5/
+    - assets/ic/Grade-1/Math/non-standard-measurement-175/libraries/H5P.FontIcons-1.0/fonts/
     - assets/ic/Grade-1/Math/non-standard-measurement-175/content/non-standard-measurement-175/images/
     - assets/ic/Grade-1/Math/non-standard-measurement-175/content/non-standard-measurement-175/audios/
 
     - assets/ic/Grade-1/Math/plane-figures-and-solid-objects-156/
+    - assets/ic/Grade-1/Math/plane-figures-and-solid-objects-156/libraries/h5pcore/
+    - assets/ic/Grade-1/Math/plane-figures-and-solid-objects-156/libraries/H5P.FontIcons-1.0/fonts/
+    - assets/ic/Grade-1/Math/plane-figures-and-solid-objects-156/libraries/FontAwesome-4.5/
+    - assets/ic/Grade-1/Math/plane-figures-and-solid-objects-156/content/plane-figures-and-solid-objects-156/
     - assets/ic/Grade-1/Math/plane-figures-and-solid-objects-156/content/plane-figures-and-solid-objects-156/images/
 
     - assets/ic/Grade-1/Math/look-and-learn-devanagari-numbers-340/
+    - assets/ic/Grade-1/Math/look-and-learn-devanagari-numbers-340/libraries/h5pcore/
+    - assets/ic/Grade-1/Math/look-and-learn-devanagari-numbers-340/libraries/FontAwesome-4.5/
+    - assets/ic/Grade-1/Math/look-and-learn-devanagari-numbers-340/libraries/H5P.FontIcons-1.0/fonts/
+    - assets/ic/Grade-1/Math/look-and-learn-devanagari-numbers-340/content/look-and-learn-devanagari-numbers-340/
     - assets/ic/Grade-1/Math/look-and-learn-devanagari-numbers-340/content/look-and-learn-devanagari-numbers-340/images/
 
     - assets/ic/Grade-1/Math/find-even-or-odd-2107/
+    - assets/ic/Grade-1/Math/find-even-or-odd-2107/content/find-even-or-odd-2107/
+    - assets/ic/Grade-1/Math/find-even-or-odd-2107/libraries/h5pcore/
+    - assets/ic/Grade-1/Math/find-even-or-odd-2107/libraries/FontAwesome-4.5/
     - assets/ic/Grade-1/Math/find-even-or-odd-2107/content/find-even-or-odd-2107/images/
+    - assets/ic/Grade-1/Math/find-even-or-odd-2107/libraries/H5P.FontIcons-1.0/fonts/
 
     - assets/ic/Grade-1/Math/even-and-odd-numbers-82/
+    - assets/ic/Grade-1/Math/even-and-odd-numbers-82/content/even-and-odd-numbers-82/
+    - assets/ic/Grade-1/Math/even-and-odd-numbers-82/libraries/h5pcore/
+    - assets/ic/Grade-1/Math/even-and-odd-numbers-82/libraries/FontAwesome-4.5/
+    - assets/ic/Grade-1/Math/even-and-odd-numbers-82/libraries/H5P.FontIcons-1.0/fonts/
     - assets/ic/Grade-1/Math/even-and-odd-numbers-82/content/even-and-odd-numbers-82/images/
 
     - assets/ic/Grade-1/Math/analog-clock-and-time-1610/
+    - assets/ic/Grade-1/Math/analog-clock-and-time-1610/libraries/h5pcore/
+    - assets/ic/Grade-1/Math/analog-clock-and-time-1610/libraries/FontAwesome-4.5/
+    - assets/ic/Grade-1/Math/analog-clock-and-time-1610/libraries/H5P.FontIcons-1.0/fonts/
+    - assets/ic/Grade-1/Math/analog-clock-and-time-1610/content/analog-clock-and-time-1610/
     - assets/ic/Grade-1/Math/analog-clock-and-time-1610/content/analog-clock-and-time-1610/images/
 
     - assets/ic/Grade-1/Math/bigger-and-smaller-115/
+    - assets/ic/Grade-1/Math/bigger-and-smaller-115/libraries/h5pcore/
+    - assets/ic/Grade-1/Math/bigger-and-smaller-115/libraries/H5P.FontIcons-1.0/fonts/
+    - assets/ic/Grade-1/Math/bigger-and-smaller-115/libraries/FontAwesome-4.5/
+    - assets/ic/Grade-1/Math/bigger-and-smaller-115/content/bigger-and-smaller-115/
     - assets/ic/Grade-1/Math/bigger-and-smaller-115/content/bigger-and-smaller-115/images/
 
     - assets/ic/Grade-1/Science/animals-having-wings-dialog-cards-848/

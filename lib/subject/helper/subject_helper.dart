@@ -8,5 +8,5 @@ String subjectHelper(String index) {
   if (index == "2") {
     return "Science";
   }
-  return "Math";
+  return "Computer";
 }

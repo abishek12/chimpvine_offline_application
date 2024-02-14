@@ -1,6 +1,7 @@
 import 'package:chimpvine_offline_application/app/widgets/text_widget.dart';
 import 'package:flutter/material.dart';
 import 'package:gap/gap.dart';
+import 'package:go_router/go_router.dart';
 
 class GamesPlayGround extends StatelessWidget {
   final List items;
@@ -45,7 +46,12 @@ class GamesPlayGround extends StatelessWidget {
                     ),
                     const Gap(10),
                     ElevatedButton.icon(
-                      onPressed: () {},
+                      onPressed: () => context.pushNamed(
+                        "playgroundDetails",
+                        pathParameters: {
+                          "path": data["path"],
+                        },
+                      ),
                       icon: const Icon(Icons.arrow_circle_right_sharp),
                       label: const Text("Play now"),
                     ),
