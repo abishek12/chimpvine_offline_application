@@ -4,67 +4,62 @@
         {
             "title": "Know your keyboard",
             "image": "assets/games/game_one.png",
-            "path": "assets/games/FlyHighWebGL/index.html"
+            "path": "assets/ic/Grade-2/Computer/Know-your-keyboard/index.html"
         },
         {
             "title": "Using Keyboard",
             "image": "assets/games/game_one.png",
-            "path": "assets/games/FlyHighWebGL/index.html"
+            "path": "assets/ic/Grade-2/Computer/Using-keyboard/index.html"
         },
         {
             "title": "Do's and Don'ts with the computer",
             "image": "assets/games/game_one.png",
-            "path": "assets/games/FlyHighWebGL/index.html"
+            "path": "assets/ic/Grade-2/Computer/Do_s-and-don_ts-with-the-computer/index.html"
         },
         {
             "title": "Know your Computer (Interactive Book)",
             "image": "assets/games/game_one.png",
-            "path": "assets/games/FlyHighWebGL/index.html"
+            "path": "assets/ic/Grade-2/Computer/Know-your-computer/know-your-computer-interactive-book-1423/index.html"
         },
         {
             "title": "Know your Computer (Interactive Quiz)",
             "image": "assets/games/game_one.png",
-            "path": "assets/games/FlyHighWebGL/index.html"
+            "path": "assets/ic/Grade-2/Computer/Know-your-computer/know-your-computer-interactive-quiz-1424/index.html"
         },
         {
             "title": "Fun with painting",
             "image": "assets/games/game_one.png",
-            "path": "assets/games/FlyHighWebGL/index.html"
+            "path": "assets/ic/Grade-2/Computer/Fun-with-painting/index.html"
         },
         {
             "title": "Parts of Computer System (Interactive Book)",
             "image": "assets/games/game_one.png",
-            "path": "assets/games/FlyHighWebGL/index.html"
+            "path": "assets/ic/Grade-2/Computer/Parts-of-computer-system/parts-of-computer-system-interactive-book-1453/index.html"
         },
         {
             "title": "Parts of Computer System (Interactive Quiz)",
             "image": "assets/games/game_one.png",
-            "path": "assets/games/FlyHighWebGL/index.html"
+            "path": "assets/ic/Grade-2/Computer/Parts-of-computer-system/parts-of-computer-system-interactive-quiz-1454/index.html"
         },
         {
             "title": "Learn about Notepad",
             "image": "assets/games/game_one.png",
-            "path": "assets/games/FlyHighWebGL/index.html"
+            "path": "assets/ic/Grade-2/Computer/Learn-about-notepad/index.html"
         },
         {
             "title": "Using a Mouse",
             "image": "assets/games/game_one.png",
-            "path": "assets/games/FlyHighWebGL/index.html"
+            "path": "assets/ic/Grade-2/Computer/Using-a-mouse/index.html"
         },
         {
             "title": "Use of Computer (Interactive Book)",
             "image": "assets/games/game_one.png",
-            "path": "assets/games/FlyHighWebGL/index.html"
+            "path": "assets/ic/Grade-2/Computer/Uses-of-a-computer/uses-of-a-computer-interactive-book-1490/index.html"
         },
         {
             "title": "Use of Computer (Interactive Quiz)",
             "image": "assets/games/game_one.png",
-            "path": "assets/games/FlyHighWebGL/index.html"
-        },
-        {
-            "title": "Be Safe from Diseases",
-            "image": "assets/games/game_one.png",
-            "path": "assets/games/FlyHighWebGL/index.html"
+            "path": "assets/ic/Grade-2/Computer/Uses-of-a-computer/uses-of-a-computer-interactive-quiz-1491/index.html"
         }
     ],
     "games": []

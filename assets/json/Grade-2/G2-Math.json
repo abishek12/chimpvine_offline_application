@@ -4,77 +4,77 @@
         {
             "title": "Number System (Learning number names)",
             "image": "assets/games/game_one.png",
-            "path": "assets/games/FlyHighWebGL/index.html"
+            "path": "assets/ic/Grade-2/Math/Number-system/learning-number-names-167/index.html"
         },
         {
             "title": "Number System (Even or odd numbers)",
             "image": "assets/games/game_one.png",
-            "path": "assets/games/FlyHighWebGL/index.html"
+            "path": "assets/ic/Grade-2/Math/Number-system/odd-and-even-numbers-184/index.html"
         },
         {
             "title": "Geometry (Interactive book)",
             "image": "assets/games/game_one.png",
-            "path": "assets/games/FlyHighWebGL/index.html"
+            "path": "assets/ic/Grade-2/Math/Geometry/geometry-1375/index.html"
         },
         {
             "title": "Geometry (Revision)",
             "image": "assets/games/game_one.png",
-            "path": "assets/games/FlyHighWebGL/index.html"
+            "path": "assets/ic/Grade-2/Math/Geometry/revision-interactive-quiz-2-1508/index.html"
         },
         {
             "title": "Sets (Identification of Sets)",
             "image": "assets/games/game_one.png",
-            "path": "assets/games/FlyHighWebGL/index.html"
+            "path": "assets/ic/Grade-2/Math/Sets/index.html"
         },
         {
             "title": "Fundamental process in mathematics (Interactive Book)",
             "image": "assets/games/game_one.png",
-            "path": "assets/games/FlyHighWebGL/index.html"
+            "path": "assets/ic/Grade-2/Math/Fundamental-process-in-mathematics/fundamental-process-in-mathematics-interactive-book-1496/index.html"
         },
         {
             "title": "Fundamental process in mathematics (Revision)",
             "image": "assets/games/game_one.png",
-            "path": "assets/games/FlyHighWebGL/index.html"
+            "path": "assets/ic/Grade-2/Math/Fundamental-process-in-mathematics/revision-on-fundamental-process-interactive-quiz-1497/index.html"
         },
         {
             "title": "Algebra",
             "image": "assets/games/game_one.png",
-            "path": "assets/games/FlyHighWebGL/index.html"
+            "path": "assets/ic/Grade-2/Math/Algebra/index.html"
         },
         {
             "title": "Measurement (Area)",
             "image": "assets/games/game_one.png",
-            "path": "assets/games/FlyHighWebGL/index.html"
+            "path": "assets/ic/Grade-2/Math/Measurement/area-86/index.html"
         },
         {
             "title": "Measurement (Capacity)",
             "image": "assets/games/game_one.png",
-            "path": "assets/games/FlyHighWebGL/index.html"
+            "path": "assets/ic/Grade-2/Math/Measurement/capacity-89/index.html"
         },
         {
             "title": "Measurement (Weight)",
             "image": "assets/games/game_one.png",
-            "path": "assets/games/FlyHighWebGL/index.html"
+            "path": "assets/ic/Grade-2/Math/Measurement/weight-2-95/index.html"
         },
         {
             "title": "Time (Study calendars)",
             "image": "assets/games/game_one.png",
-            "path": "assets/games/FlyHighWebGL/index.html"
+            "path": "assets/ic/Grade-2/Math/Time/study-calendars-interactive-quiz-2-1679/index.html"
         },
         {
             "title": "Time (A.M or P.M)",
             "image": "assets/games/game_one.png",
-            "path": "assets/games/FlyHighWebGL/index.html"
+            "path": "assets/ic/Grade-2/Math/Time/a-m-or-p-m-2137/index.html"
         },
         {
             "title": "Statistics and Probability (Bar Graph)",
             "image": "assets/games/game_one.png",
-            "path": "assets/games/FlyHighWebGL/index.html"
+            "path": "assets/ic/Grade-2/Math/Statistics-and-probability/bar-graph-3-152/index.html"
         },
         {
             "title": "Statistics and Probability (More, less and equally likely)",
             "image": "assets/games/game_one.png",
-            "path": "assets/games/FlyHighWebGL/index.html"
+            "path": "assets/ic/Grade-2/Math/Statistics-and-probability/more-less-and-equally-likely-1513/index.html"
         }
     ],
     "games": []
