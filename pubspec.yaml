@@ -93,9 +93,13 @@ flutter:
     - assets/json/Grade-2/
     - assets/json/Grade-3/
 
-    - assets/games/Animal_Quiz/
-    - assets/games/Animal_Quiz/TemplateData/
-    - assets/games/Animal_Quiz/Build/
+    - assets/games/Grade-1/English/Animal-Quiz/
+    - assets/games/Grade-1/English/Animal-Quiz/TemplateData/
+    - assets/games/Grade-1/English/Animal-Quiz/Build/
+
+    - assets/games/Grade-1/English/ArcherBoy-G1-Eng-WebGL/
+    - assets/games/Grade-1/English/ArcherBoy-G1-Eng-WebGL/TemplateData/
+    - assets/games/Grade-1/English/ArcherBoy-G1-Eng-WebGL/Build/
 
     - assets/ic/Grade-1/Computer/Central-processing-unit-(CPU)/
     - assets/ic/Grade-1/Computer/Central-processing-unit-(CPU)/libraries/h5pcore/
