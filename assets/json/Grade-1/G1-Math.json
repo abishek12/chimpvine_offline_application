@@ -89,5 +89,36 @@
             
         }
     ],
-    "games": []
+    "games": [
+        {
+            "title": "Hungry Fish",
+            "image": "assets/games/game_one.png",
+            "path": "assets/games/Grade-1/Math/HungryFishWebGL/index.html"
+            
+        },
+        {
+            "title": "Eat Up",
+            "image": "assets/games/game_one.png",
+            "path": "assets/games/Grade-1/Math/EatUpWebGL/index.html"
+            
+        },
+        {
+            "title": "Combine the Shape",
+            "image": "assets/games/game_one.png",
+            "path": "assets/games/Grade-1/Math/CombiningShapeWebGl/index.html"
+            
+        },
+        {
+            "title": "Missing Number",
+            "image": "assets/games/game_one.png",
+            "path": "assets/games/Grade-1/Math/MissingNumberWebGL/index.html"
+            
+        },
+        {
+            "title": "Park Order",
+            "image": "assets/games/game_one.png",
+            "path": "assets/games/Grade-1/Math/ParkOrderWebGL/index.html"
+            
+        }
+    ]
 }

@@ -77,5 +77,21 @@
             "path": "assets/ic/Grade-1/Computer/Parts of a computer/parts-of-a-computer-interactive-quiz-1483/index.html"
         } 
     ],
-    "games": []
+    "games": [
+        {
+            "title": "Archer Boy",
+            "image": "assets/games/game_one.png",
+            "path": "assets/games/Grade-6/Science/ArcherBoy-G6-Sci-WebGL/index.html"
+        },
+        {
+            "title": "Experiment(Physics)",
+            "image": "assets/games/game_one.png",
+            "path": "assets/games/Grade-6/Science/Experiment(Physics)WebGL/index.html"
+        },
+        {
+            "title": "Shoot The Price",
+            "image": "assets/games/game_one.png",
+            "path": "assets/games/Grade-6/Science/ShootThePriceWebGL/index.html"
+        }
+    ]
 }

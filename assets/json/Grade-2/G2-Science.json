@@ -77,5 +77,16 @@
             "path": "assets/games/FlyHighWebGL/index.html"
         }
     ],
-    "games": []
+    "games": [
+        {
+            "title": "Ant Invasion",
+            "image": "assets/games/game_one.png",
+            "path": "assets/games/Grade-2/Science/AntInvasionWebGL/index.html"
+        },
+        {
+            "title": "Archer Boy",
+            "image": "assets/games/game_one.png",
+            "path": "assets/games/Grade-2/Science/ArcherBoy-G2-Sci-WebGL/index.html"
+        }
+    ]
 }

@@ -77,5 +77,21 @@
             "path": "assets/games/FlyHighWebGL/index.html"
         }
     ],
-    "games": []
+    "games": [
+        {
+            "title": "Articlees",
+            "image": "assets/games/game_one.png",
+            "path": "assets/games/Grade-2/English/ArticlesWebGL/index.html"
+        },
+        {
+            "title": "Guess the Sound",
+            "image": "assets/games/game_one.png",
+            "path": "assets/games/Grade-2/English/GuessTheSoundWebGL/index.html"
+        },
+        {
+            "title": "Grain Guard",
+            "image": "assets/games/game_one.png",
+            "path": "assets/games/Grade-2/English/GrainnGuardWebGL/index.html"
+        }
+    ]
 }

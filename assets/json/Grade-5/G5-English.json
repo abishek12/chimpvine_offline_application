@@ -77,5 +77,26 @@
             "path": "assets/games/FlyHighWebGL/index.html"
         }
     ],
-    "games": []
+    "games": [
+        {
+            "title": "Mono Jump",
+            "image": "assets/games/game_one.png",
+            "path": "assets/games/Grade-5/English/MJ-G5-Maths-WebGL/index.html"
+        },
+        {
+            "title": "Fly High",
+            "image": "assets/games/game_one.png",
+            "path": "assets/games/Grade-5/English/FlyHighWebGL/index.html"
+        },
+        {
+            "title": "Archer Boy",
+            "image": "assets/games/game_one.png",
+            "path": "assets/games/Grade-5/English/ArcherBoy-G5-Eng-WebGL/index.html"
+        },
+        {
+            "title": "Hot Air Ballon",
+            "image": "assets/games/game_one.png",
+            "path": "assets/games/Grade-5/English/HotAirBallonRaceWebGL/index.html"
+        }
+    ]
 }

@@ -77,5 +77,26 @@
             "path": "assets/games/FlyHighWebGL/index.html"
         }
     ],
-    "games": []
+    "games": [
+        {
+            "title": "Flappy Plane",
+            "image": "assets/games/game_one.png",
+            "path": "assets/games/Grade-3/English/FlappyPlaneG2-EngWebGL/index.html"
+        },
+        {
+            "title": "Synonym Hunter",
+            "image": "assets/games/game_one.png",
+            "path": "assets/games/Grade-3/English/SynonymHunterWebGL/index.html"
+        },
+        {
+            "title": "Noun Pronoun",
+            "image": "assets/games/game_one.png",
+            "path": "assets/games/Grade-3/English/NounPronounWebGL/index.html"
+        },
+        {
+            "title": "Archer Boy",
+            "image": "assets/games/game_one.png",
+            "path": "assets/games/Grade-3/English/ArcherBoy-G3-Eng-WebGL/index.html"
+        }
+    ]
 }

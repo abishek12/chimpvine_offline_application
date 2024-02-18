@@ -77,5 +77,26 @@
             "path": "assets/ic/Grade-1/Computer/Parts of a computer/parts-of-a-computer-interactive-quiz-1483/index.html"
         } 
     ],
-    "games": []
+    "games": [
+        {
+            "title": "Mono Jump",
+            "image": "assets/games/game_one.png",
+            "path": "assets/games/Grade-6/English/MJ-G6-Eng-WebGL/index.html"
+        },
+        {
+            "title": "Letter Shooter",
+            "image": "assets/games/game_one.png",
+            "path": "assets/games/Grade-6/English/LetterShooterWebGL/index.html"
+        },
+        {
+            "title": "Archer Boy",
+            "image": "assets/games/game_one.png",
+            "path": "assets/games/Grade-6/English/ArcherBoy-G6-Eng-WebGL/index.html"
+        },
+        {
+            "title": "Dart Shooter",
+            "image": "assets/games/game_one.png",
+            "path": "assets/games/Grade-6/English/DartShooterWebGL/index.html"
+        }
+    ]
 }

@@ -72,5 +72,26 @@
             "path": "assets/games/FlyHighWebGL/index.html"
         }
     ],
-    "games": []
+    "games": [
+        {
+            "title": "Mono Jumps",
+            "image": "assets/games/game_one.png",
+            "path": "assets/games/Grade-4/English/MJ-G4-Eng-WebGL/index.html"
+        },
+        {
+            "title": "Flappy Plane",
+            "image": "assets/games/game_one.png",
+            "path": "assets/games/Grade-4/English/FlappyPlaneG4-EngWebGL/index.html"
+        },
+        {
+            "title": "Jumping Ninja",
+            "image": "assets/games/game_one.png",
+            "path": "assets/games/Grade-4/English/JumpingNinjaWebGL/index.html"
+        },
+        {
+            "title": "Turbo",
+            "image": "assets/games/game_one.png",
+            "path": "assets/games/Grade-4/English/TurboWebGL/index.html"
+        }
+    ]
 }

@@ -77,5 +77,36 @@
             "path": "assets/ic/Grade-1/Computer/Parts of a computer/parts-of-a-computer-interactive-quiz-1483/index.html"
         }
     ],
-    "games": []
+    "games": [
+        {
+            "title": "Mono Jump",
+            "image": "assets/games/game_one.png",
+            "path": "assets/games/Grade-5/Math/MJ-G5-Maths-WebGL/index.html"
+        },
+        {
+            "title": "Archer Boy",
+            "image": "assets/games/game_one.png",
+            "path": "assets/games/Grade-5/Math/ArcherBoy-G5-Maths-WebGL/index.html"
+        },
+        {
+            "title": "Net It",
+            "image": "assets/games/game_one.png",
+            "path": "assets/games/Grade-5/Math/NetItWebGL/index.html"
+        },
+        {
+            "title": "Alien Bird",
+            "image": "assets/games/game_one.png",
+            "path": "assets/games/Grade-5/Math/AlienBirdWebGL/index.html"
+        },
+        {
+            "title": "Division Equation",
+            "image": "assets/games/game_one.png",
+            "path": "assets/games/Grade-5/Math/DivisionEquationWebGL/index.html"
+        },
+        {
+            "title": "Floaty Friends",
+            "image": "assets/games/game_one.png",
+            "path": "assets/games/Grade-5/Math/FloatyFriendsWebGL/index.html"
+        }
+    ]
 }

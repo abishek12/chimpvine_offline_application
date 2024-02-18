@@ -91,5 +91,36 @@
             "path": "assets/ic/Grade-1/English/Smart-writing-activities/smart-writing-activities-3-2136/index.html"
         }
     ],
-    "games":[]
+    "games":[
+        {
+            "title": "Animal Quiz",
+            "image": "assets/games/game_one.png",
+            "path": "assets/games/Grade-1/English/Animal-Quiz/index.html"
+        },
+        {
+            "title": "Pronounciation",
+            "image": "assets/games/game_one.png",
+            "path": "assets/games/Grade-1/English/PronunciationWebGL/index.html"
+        },
+        {
+            "title": "Drag and Drop",
+            "image": "assets/games/game_one.png",
+            "path": "assets/games/Grade-1/English/Drang-And-Drop/index.html"
+        },
+        {
+            "title": "Colour Drop",
+            "image": "assets/games/game_one.png",
+            "path": "assets/games/Grade-1/English/ColourDropWebGL/index.html"
+        },
+        {
+            "title": "Archer Boy",
+            "image": "assets/games/game_one.png",
+            "path": "assets/games/Grade-1/English/ArcherBoy-G1-Eng-WebGL/index.html"
+        },
+        {
+            "title": "Missing Letters",
+            "image": "assets/games/game_one.png",
+            "path": "assets/games/Grade-1/English/MissingLetterWebGL/index.html"
+        }
+    ]
 }

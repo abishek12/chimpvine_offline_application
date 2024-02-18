@@ -77,5 +77,21 @@
             "path": "assets/ic/Grade-1/Computer/Parts of a computer/parts-of-a-computer-interactive-quiz-1483/index.html"
         } 
     ],
-    "games": []
+    "games": [
+        {
+            "title": "Archer Boy",
+            "image": "assets/games/game_one.png",
+            "path": "assets/games/Grade-8/Science/ArcherBoy-G8-Sci-WebGL/index.html"
+        },
+        {
+            "title": "Experiment Me(Chemistry)",
+            "image": "assets/games/game_one.png",
+            "path": "assets/games/Grade-8/Science/ExperimentChemistryWebGL/index.html"
+        },
+        {
+            "title": "Mono Jump",
+            "image": "assets/games/game_one.png",
+            "path": "assets/games/Grade-8/Science/MJ-G8-Sci-WebGL/index.html"
+        }
+    ]
 }

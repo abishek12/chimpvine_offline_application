@@ -72,5 +72,41 @@
             "path": "assets/games/FlyHighWebGL/index.html"
         }
     ],
-    "games": []
+    "games": [
+        {
+            "title": "Mono Jump",
+            "image": "assets/games/game_one.png",
+            "path": "assets/games/Grade-4/Math/MJ-G4-Maths-WebGL/index.html"
+        },
+        {
+            "title": "Mind Math",
+            "image": "assets/games/game_one.png",
+            "path": "assets/games/Grade-4/Math/MindMathWebGL/index.html"
+        },
+        {
+            "title": "Pancake Flip",
+            "image": "assets/games/game_one.png",
+            "path": "assets/games/Grade-4/Math/PanCakeFlipWebGL/index.html"
+        },
+        {
+            "title": "Multiples Games",
+            "image": "assets/games/game_one.png",
+            "path": "assets/games/Grade-4/Math/MultiplesGameWebGL/index.html"
+        },
+        {
+            "title": "Multiples Equation",
+            "image": "assets/games/game_one.png",
+            "path": "assets/games/Grade-4/Math/MultiplesEquationWebGL/index.html"
+        },
+        {
+            "title": "Flappy Plane",
+            "image": "assets/games/game_one.png",
+            "path": "assets/games/Grade-4/Math/FlappyPlaneG4-MathsWebGL/index.html"
+        },
+        {
+            "title": "Space Trail Run",
+            "image": "assets/games/game_one.png",
+            "path": "assets/games/Grade-4/Math/SpaceTrailRunWebGL/index.html"
+        }
+    ]
 }

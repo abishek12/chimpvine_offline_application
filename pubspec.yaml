@@ -101,6 +101,186 @@ flutter:
     - assets/games/Grade-1/English/ArcherBoy-G1-Eng-WebGL/TemplateData/
     - assets/games/Grade-1/English/ArcherBoy-G1-Eng-WebGL/Build/
 
+    - assets/games/Grade-1/English/ColourDropWebGL/
+    - assets/games/Grade-1/English/ColourDropWebGL/TemplateData/
+    - assets/games/Grade-1/English/ColourDropWebGL/Build/
+
+    - assets/games/Grade-1/English/Drang-And-Drop/
+    - assets/games/Grade-1/English/Drang-And-Drop/TemplateData/
+    - assets/games/Grade-1/English/Drang-And-Drop/Build/
+
+    - assets/games/Grade-1/English/MissingLetterWebGL/
+    - assets/games/Grade-1/English/MissingLetterWebGL/TemplateData/
+    - assets/games/Grade-1/English/MissingLetterWebGL/Build/
+
+    - assets/games/Grade-1/English/PronunciationWebGL/
+    - assets/games/Grade-1/English/PronunciationWebGL/TemplateData/
+    - assets/games/Grade-1/English/PronunciationWebGL/Build/
+
+    - assets/games/Grade-1/Math/CombiningShapeWebGl/
+    - assets/games/Grade-1/Math/CombiningShapeWebGl/TemplateData/
+    - assets/games/Grade-1/Math/CombiningShapeWebGl/Build/
+
+    - assets/games/Grade-1/Math/EatUpWebGL/
+    - assets/games/Grade-1/Math/EatUpWebGL/TemplateData/
+    - assets/games/Grade-1/Math/EatUpWebGL/Build/
+
+    - assets/games/Grade-1/Math/HungryFishWebGL/
+    - assets/games/Grade-1/Math/HungryFishWebGL/TemplateData/
+    - assets/games/Grade-1/Math/HungryFishWebGL/Build/
+
+    - assets/games/Grade-1/Math/MissingNumberWebGL/
+    - assets/games/Grade-1/Math/MissingNumberWebGL/TemplateData/
+    - assets/games/Grade-1/Math/MissingNumberWebGL/Build/
+
+    - assets/games/Grade-1/Math/ParkOrderWebGL/
+    - assets/games/Grade-1/Math/ParkOrderWebGL/TemplateData/
+    - assets/games/Grade-1/Math/ParkOrderWebGL/Build/
+
+    - assets/games/Grade-2/English/ArticlesWebGl/
+    - assets/games/Grade-2/English/ArticlesWebGl/TemplateData/
+    - assets/games/Grade-2/English/ArticlesWebGl/Build/
+
+    - assets/games/Grade-2/English/GrainGuardWebGL/
+    - assets/games/Grade-2/English/GrainGuardWebGL/TemplateData/
+    - assets/games/Grade-2/English/GrainGuardWebGL/Build/
+
+    - assets/games/Grade-2/English/GuessTheSoundWebGL/
+    - assets/games/Grade-2/English/GuessTheSoundWebGL/TemplateData/
+    - assets/games/Grade-2/English/GuessTheSoundWebGL/Build/
+
+    - assets/games/Grade-2/Math/AdditionEquationWebGL/
+    - assets/games/Grade-2/Math/AdditionEquationWebGL/TemplateData/
+    - assets/games/Grade-2/Math/AdditionEquationWebGL/Build/
+
+    - assets/games/Grade-2/Math/BallSearchWebGL/
+    - assets/games/Grade-2/Math/BallSearchWebGL/TemplateData/
+    - assets/games/Grade-2/Math/BallSearchWebGL/Build/
+
+    - assets/games/Grade-2/Math/SoontaFarmWebGL/
+    - assets/games/Grade-2/Math/SoontaFarmWebGL/TemplateData/
+    - assets/games/Grade-2/Math/SoontaFarmWebGL/Build/
+
+    - assets/games/Grade-2/Math/SubstractionEquationWebGL/
+    - assets/games/Grade-2/Math/SubstractionEquationWebGL/TemplateData/
+    - assets/games/Grade-2/Math/SubstractionEquationWebGL/Build/
+
+    - assets/games/Grade-2/Math/WackAMoleWebGL/
+    - assets/games/Grade-2/Math/WackAMoleWebGL/TemplateData/
+    - assets/games/Grade-2/Math/WackAMoleWebGL/Build/
+
+    - assets/games/Grade-2/Science/AntinvasionWebGL/
+    - assets/games/Grade-2/Science/AntinvasionWebGL/TemplateData/
+    - assets/games/Grade-2/Science/AntinvasionWebGL/Build/
+
+    - assets/games/Grade-2/Science/ArcherBoy-G2-Sci-WebGL/
+    - assets/games/Grade-2/Science/ArcherBoy-G2-Sci-WebGL/TemplateData/
+    - assets/games/Grade-2/Science/ArcherBoy-G2-Sci-WebGL/Build/
+
+    - assets/games/Grade-2/Science/MJ-G2-Sci-WebGL/
+    - assets/games/Grade-2/Science/MJ-G2-Sci-WebGL/TemplateData/
+    - assets/games/Grade-2/Science/MJ-G2-Sci-WebGL/Build/
+
+    - assets/games/Grade-3/English/ArcherBoy-G3-Eng-WebGL/
+    - assets/games/Grade-3/English/ArcherBoy-G3-Eng-WebGL/TemplateData/
+    - assets/games/Grade-3/English/ArcherBoy-G3-Eng-WebGL/Build/
+
+    - assets/games/Grade-3/English/FlappyPlaneG2-EngWebGL/
+    - assets/games/Grade-3/English/ArcherBoy-G3-Eng-WebGL/TemplateData/
+    - assets/games/Grade-3/English/ArcherBoy-G3-Eng-WebGL/Build/
+
+    - assets/games/Grade-3/English/NounPronounWebGL/
+    - assets/games/Grade-3/English/NounPronounWebGL/TemplateData/
+    - assets/games/Grade-3/English/NounPronounWebGL/Build/
+
+    - assets/games/Grade-3/English/SynonymHunterWebGL/
+    - assets/games/Grade-3/English/NounPronounWebGL/TemplateData/
+    - assets/games/Grade-3/English/NounPronounWebGL/Build/
+
+    - assets/games/Grade-3/Math/ArithmeticaWebGL/
+    - assets/games/Grade-3/Math/ArithmeticaWebGL/TemplateData/
+    - assets/games/Grade-3/Math/ArithmeticaWebGL/Build/
+
+    - assets/games/Grade-3/Math/BubbleMultiplesWebGL/
+    - assets/games/Grade-3/Math/BubbleMultiplesWebGL/TemplateData/
+    - assets/games/Grade-3/Math/BubbleMultiplesWebGL/Build/
+
+    - assets/games/Grade-3/Math/HighorLowWebGL/
+    - assets/games/Grade-3/Math/HighorLowWebGL/TemplateData/
+    - assets/games/Grade-3/Math/HighorLowWebGL/Build/
+
+    - assets/games/Grade-3/Math/HoneyHuntWebGL/
+    - assets/games/Grade-3/Math/HoneyHuntWebGL/TemplateData/
+    - assets/games/Grade-3/Math/HoneyHuntWebGL/Build/
+
+    - assets/games/Grade-3/Math/MJ-G3-Maths-WebGL/
+    - assets/games/Grade-3/Math/MJ-G3-Maths-WebGL/TemplateData/
+    - assets/games/Grade-3/Math/MJ-G3-Maths-WebGL/Build/
+
+    - assets/games/Grade-3/Math/WaterTrailRunWebGl/
+    - assets/games/Grade-3/Math/WaterTrailRunWebGl/TemplateData/
+    - assets/games/Grade-3/Math/WaterTrailRunWebGl/Build/
+
+    - assets/games/Grade-3/Science/ArcherBoy-G3-Sci-WebGL/
+    - assets/games/Grade-3/Science/ArcherBoy-G3-Sci-WebGL/TemplateData/
+    - assets/games/Grade-3/Science/ArcherBoy-G3-Sci-WebGL/Build/
+
+    - assets/games/Grade-3/Science/MJ-G3-Sci-WebGL/
+    - assets/games/Grade-3/Science/MJ-G3-Sci-WebGL/TemplateData/
+    - assets/games/Grade-3/Science/MJ-G3-Sci-WebGL/Build/
+
+    - assets/games/Grade-4/English/FlappyPlaneG4-EngWebGL/
+    - assets/games/Grade-4/English/FlappyPlaneG4-EngWebGL/TemplateData/
+    - assets/games/Grade-4/English/FlappyPlaneG4-EngWebGL/Build/
+
+    - assets/games/Grade-4/English/JumpingNinjaWebGL/
+    - assets/games/Grade-4/English/FlappyPlaneG4-EngWebGL/TemplateData/
+    - assets/games/Grade-4/English/FlappyPlaneG4-EngWebGL/Build/
+
+    - assets/games/Grade-4/English/MJ-G4-Eng-WebGL/
+    - assets/games/Grade-4/English/MJ-G4-Eng-WebGL/TemplateData/
+    - assets/games/Grade-4/English/MJ-G4-Eng-WebGL/Build/
+
+    - assets/games/Grade-4/English/TurboWebGL/
+    - assets/games/Grade-4/English/TurboWebGL/TemplateData/
+    - assets/games/Grade-4/English/TurboWebGL/Build/
+
+    - assets/games/Grade-4/Math/FlappyPlaneG4-MathsWebGL/
+    - assets/games/Grade-4/Math/FlappyPlaneG4-MathsWebGL/TemplateData/
+    - assets/games/Grade-4/Math/FlappyPlaneG4-MathsWebGL/Build/
+
+    - assets/games/Grade-4/Math/MindMathWebGL/
+    - assets/games/Grade-4/Math/MindMathWebGL/TemplateData/
+    - assets/games/Grade-4/Math/MindMathWebGL/Build/
+
+    - assets/games/Grade-4/Math/MJ-G4-Maths-WebGL/
+    - assets/games/Grade-4/Math/MJ-G4-Maths-WebGL/TemplateData/
+    - assets/games/Grade-4/Math/MJ-G4-Maths-WebGL/Build/
+
+    - assets/games/Grade-4/Math/MultiplesEquationWebGL/
+    - assets/games/Grade-4/Math/MultiplesEquationWebGL/TemplateData/
+    - assets/games/Grade-4/Math/MultiplesEquationWebGL/Build/
+
+    - assets/games/Grade-4/Math/MultiplesGameWebGL/
+    - assets/games/Grade-4/Math/MultiplesGameWebGL/TemplateData/
+    - assets/games/Grade-4/Math/MultiplesGameWebGL/Build/
+
+    - assets/games/Grade-4/Math/PancakeFlipWebGL/
+    - assets/games/Grade-4/Math/PancakeFlipWebGL/TemplateData/
+    - assets/games/Grade-4/Math/PancakeFlipWebGL/Build/
+
+    - assets/games/Grade-4/Science/ArcherBoy-G4-Sci-WebGL/
+    - assets/games/Grade-4/Science/ArcherBoy-G4-Sci-WebGL/TemplateData/
+    - assets/games/Grade-4/Science/ArcherBoy-G4-Sci-WebGL/Build/
+
+    - assets/games/Grade-4/Science/MJ-G4-Sci-WebGL/
+    - assets/games/Grade-4/Science/MJ-G4-Sci-WebGL/TemplateData/
+    - assets/games/Grade-4/Science/MJ-G4-Sci-WebGL/Build/
+
+    - assets/games/Grade-4/Science/SpaceShooterWebGL/
+    - assets/games/Grade-4/Science/SpaceShooterWebGL/TemplateData/
+    - assets/games/Grade-4/Science/SpaceShooterWebGL/Build/
+
     - assets/ic/Grade-1/Computer/Central-processing-unit-(CPU)/
     - assets/ic/Grade-1/Computer/Central-processing-unit-(CPU)/libraries/h5pcore/
     - assets/ic/Grade-1/Computer/Central-processing-unit-(CPU)/content/central-processing-unit-cpu-683/

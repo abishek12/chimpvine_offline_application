@@ -77,5 +77,31 @@
             "path": "assets/ic/Grade-2/Math/Statistics-and-probability/more-less-and-equally-likely-1513/index.html"
         }
     ],
-    "games": []
+    "games": [
+        {
+            "title": "Walk a Mole",
+            "image": "assets/games/game_one.png",
+            "path": "assets/games/Grade-2/Math/WalkAMoleWebGL/index.html"
+        },
+        {
+            "title": "Ball Search",
+            "image": "assets/games/game_one.png",
+            "path": "assets/games/Grade-2/Math/BallSearchWebGL/index.html"
+        },
+        {
+            "title": "Addition Equation",
+            "image": "assets/games/game_one.png",
+            "path": "assets/games/Grade-2/Math/AdditionEquationWebGL/index.html"
+        },
+        {
+            "title": "Subtraction Equation",
+            "image": "assets/games/game_one.png",
+            "path": "assets/games/Grade-2/Math/SubstractionEquationWebGL/index.html"
+        },
+        {
+            "title": "Soonta Farm",
+            "image": "assets/games/game_one.png",
+            "path": "assets/games/Grade-2/Math/SoontaFarmWebGL/index.html"
+        }
+    ]
 }
