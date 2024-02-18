@@ -81,17 +81,17 @@
         {
             "title": "Mono Jump",
             "image": "assets/games/game_one.png",
-            "path": "assets/games/Grade-7/English/MJ-G7-Sci-WebGL/index.html"
+            "path": "assets/games/Grade-7/Science/MJ-G7-Sci-WebGL/index.html"
         },
         {
             "title": "Archer Boy",
             "image": "assets/games/game_one.png",
-            "path": "assets/games/Grade-7/English/ArcherBoy-G7-Sci-WebGL/index.html"
+            "path": "assets/games/Grade-7/Science/ArcherBoy-G7-Sci-WebGL/index.html"
         },
         {
             "title": "Element Cruiser",
             "image": "assets/games/game_one.png",
-            "path": "assets/games/Grade-7/English/ElementCruiserWebGL/index.html"
+            "path": "assets/games/Grade-7/Science/ElementCruiserWebGL/index.html"
         }
     ]
 }
