@@ -4,52 +4,52 @@
         {
             "title": "Computer - a wonderful machine",
             "image": "assets/games/game_one.png",
-            "path": "assets/games/FlyHighWebGL/index.html"
+            "path": "assets/ic/Grade-3/Computer/Computer-a-wonderful-machine/index.html"
         },
         {
             "title": "Let's use Wordpad",
             "image": "assets/games/game_one.png",
-            "path": "assets/games/FlyHighWebGL/index.html"
+            "path": "assets/ic/Grade-3/Computer/Let_s-use-wordpad/index.html"
         },
         {
             "title": "Computer Hardware",
             "image": "assets/games/game_one.png",
-            "path": "assets/games/FlyHighWebGL/index.html"
+            "path": "assets/ic/Grade-3/Computer/Computer-hardware/index.html"
         },
         {
             "title": "Creating magic with Wordpad",
             "image": "assets/games/game_one.png",
-            "path": "assets/games/FlyHighWebGL/index.html"
+            "path": "assets/ic/Grade-3/Computer/Creating-magic-with-wordpad/index.html"
         },
         {
             "title": "Computer Software",
             "image": "assets/games/game_one.png",
-            "path": "assets/games/FlyHighWebGL/index.html"
+            "path": "assets/ic/Grade-3/Computer/Computer-software/index.html"
         },
         {
             "title": "Typing Skills",
             "image": "assets/games/game_one.png",
-            "path": "assets/games/FlyHighWebGL/index.html"
+            "path": "assets/ic/Grade-3/Computer/Typing-skills/index.html"
         },
         {
             "title": "Ms-Paint",
             "image": "assets/games/game_one.png",
-            "path": "assets/games/FlyHighWebGL/index.html"
+            "path": "assets/ic/Grade-3/Computer/MS-paint/index.html"
         },
         {
             "title": "History of Computer (Interactive Book)",
             "image": "assets/games/game_one.png",
-            "path": "assets/games/FlyHighWebGL/index.html"
+            "path": "assets/ic/Grade-3/Computer/History-of-Computer/history-of-computer-interactive-book-1401/index.html"
         },
         {
             "title": "History of Computer (Interactive Quiz)",
             "image": "assets/games/game_one.png",
-            "path": "assets/games/FlyHighWebGL/index.html"
+            "path": "assets/ic/Grade-3/Computer/History-of-Computer/history-of-computer-interactive-quiz-1402/index.html"
         },
         {
             "title": "Using the Calculator",
             "image": "assets/games/game_one.png",
-            "path": "assets/games/FlyHighWebGL/index.html"
+            "path": "assets/ic/Grade-3/Computer/Using-the-calculator/index.html"
         }
     ],
     "games": []

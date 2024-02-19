@@ -4,57 +4,57 @@
         {
             "title": "Input Device",
             "image": "assets/games/game_one.png",
-            "path": "assets/games/FlyHighWebGL/index.html"
+            "path": "assets/ic/Grade-4/Computer/Input-Device/index.html"
         },
         {
             "title": "Introduction to the Computer",
             "image": "assets/games/game_one.png",
-            "path": "assets/games/FlyHighWebGL/index.html"
+            "path": "assets/ic/Grade-4/Computer/Introduction-to-the-computer/index.html"
         },
         {
             "title": "Output Device",
             "image": "assets/games/game_one.png",
-            "path": "assets/games/FlyHighWebGL/index.html"
+            "path": "assets/ic/Grade-4/Computer/Output-Device/index.html"
         },
         {
             "title": "Wordpad",
             "image": "assets/games/game_one.png",
-            "path": "assets/games/FlyHighWebGL/index.html"
+            "path": "assets/ic/Grade-4/Computer/WordPad/index.html"
         },
         {
             "title": "Types of Computer",
             "image": "assets/games/game_one.png",
-            "path": "assets/games/FlyHighWebGL/index.html"
+            "path": "assets/ic/Grade-4/Computer/Types-Of-Computer/index.html"
         },
         {
             "title": "Processing Unit",
             "image": "assets/games/game_one.png",
-            "path": "assets/games/FlyHighWebGL/index.html"
+            "path": "assets/ic/Grade-4/Computer/Processing-Unit/index.html"
         },
         {
             "title": "Software",
             "image": "assets/games/game_one.png",
-            "path": "assets/games/FlyHighWebGL/index.html"
+            "path": "assets/ic/Grade-4/Computer/Software/index.html"
         },
         {
             "title": "Computer System",
             "image": "assets/games/game_one.png",
-            "path": "assets/games/FlyHighWebGL/index.html"
+            "path": "assets/ic/Grade-4/Computer/Computer-System/index.html"
         },
         {
             "title": "Operating System",
             "image": "assets/games/game_one.png",
-            "path": "assets/games/FlyHighWebGL/index.html"
+            "path": "assets/ic/Grade-4/Computer/Operating-system/index.html"
         },
         {
             "title": "More About Typing Skill",
             "image": "assets/games/game_one.png",
-            "path": "assets/games/FlyHighWebGL/index.html"
+            "path": "assets/ic/Grade-4/Computer/More-about-Typing-Skill/index.html"
         },
         {
             "title": "Programming Language LOGO",
             "image": "assets/games/game_one.png",
-            "path": "assets/games/FlyHighWebGL/index.html"
+            "path": "assets/ic/Grade-4/Computer/Programming-Language-LOGO/index.html"
         }
     ],
     "games": []

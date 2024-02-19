@@ -2,84 +2,79 @@
     "count": 15,
     "ic": [
         {
-            "title": "Setss (Review)",
+            "title": "Sets (Review)",
             "image": "assets/games/game_one.png",
-            "path": "assets/games/FlyHighWebGL/index.html"
+            "path": "assets/games/Sets/review-column-question-71/index.html"
         },
         {
             "title": "Sets (Set Notations)",
             "image": "assets/games/game_one.png",
-            "path": "assets/games/FlyHighWebGL/index.html"
+            "path": "assets/ic/Grade-3/Math/set-notations-83/index.html"
         },
         {
             "title": "Volume",
             "image": "assets/games/game_one.png",
-            "path": "assets/games/FlyHighWebGL/index.html"
+            "path": "assets/ic/Grade-3/Math/Volume-Measurement/index.html"
         },
         {
             "title": "Statistics (Compare the distance in a map)",
             "image": "assets/games/game_one.png",
-            "path": "assets/games/FlyHighWebGL/index.html"
+            "path": "assets/ic/Grade-3/Math/Statistics/bar-graph-2-149/index.html"
         },
         {
             "title": "Statistics (Bar Graph)",
             "image": "assets/games/game_one.png",
-            "path": "assets/games/FlyHighWebGL/index.html"
+            "path": "assets/ic/Grade-3/Math/Statistics/compare-the-distance-in-a-map-81/index.html"
         },
         {
             "title": "Fundamental Process of Mathematics (Interactive Book)",
             "image": "assets/games/game_one.png",
-            "path": "assets/games/FlyHighWebGL/index.html"
+            "path": "assets/ic/Grade-3/Math/Fundamental-process-of-mathematics/addition-interactive-quiz-1407/index.html"
         },
         {
             "title": "Fundamental Process of Mathematics (Interactive Quiz)",
             "image": "assets/games/game_one.png",
-            "path": "assets/games/FlyHighWebGL/index.html"
+            "path": "assets/ic/Grade-3/Math/Fundamental-process-of-mathematics/fundamental-process-of-mathematics-interactive-book-1406/index.html"
         },
         {
             "title": "Algebra (Algebraic Terms)",
             "image": "assets/games/game_one.png",
-            "path": "assets/games/FlyHighWebGL/index.html"
+            "path": "assets/ic/Grade-3/Math/Algebra/algebraic-terms-92/index.html"
         },
         {
             "title": "Algebra (Reviewing Algebra)",
             "image": "assets/games/game_one.png",
-            "path": "assets/games/FlyHighWebGL/index.html"
+            "path": "assets/ic/Grade-3/Math/Algebra/reviewing-algebra-293/index.html"
         },
         {
             "title": "Geometry (Interactive Book)",
             "image": "assets/games/game_one.png",
-            "path": "assets/games/FlyHighWebGL/index.html"
+            "path": "assets/ic/Grade-3/Math/Geometry/geometry-interactive-book-3-1446/index.html"
         },
         {
             "title": "Geometry (Revision)",
             "image": "assets/games/game_one.png",
-            "path": "assets/games/FlyHighWebGL/index.html"
+            "path": "assets/ic/Grade-3/Math/Geometry/revision-interactive-quiz-1447/index.html"
         },
         {
             "title": "Bill and Budget",
             "image": "assets/games/game_one.png",
-            "path": "assets/games/FlyHighWebGL/index.html"
+            "path": "assets/ic/Grade-3/Math/Bill-and-Budget/index.html"
         },
         {
             "title": "Time Measurement (Match clocks and times)",
             "image": "assets/games/game_one.png",
-            "path": "assets/games/FlyHighWebGL/index.html"
+            "path": "assets/ic/Grade-3/Math/Time-measurement/match-clocks-and-times-1763/index.html"
         },
         {
             "title": "Time Measurement (Find the elapsed time)",
             "image": "assets/games/game_one.png",
-            "path": "assets/games/FlyHighWebGL/index.html"
+            "path": "assets/ic/Grade-3/Math/Time-measurement/find-the-elapsed-time-1764/index.html"
         },
         {
             "title": "Number System (Odd and Even Numbers)",
             "image": "assets/games/game_one.png",
-            "path": "assets/games/FlyHighWebGL/index.html"
-        },
-        {
-            "title": "Adjectives and Adverbs (Adjectives)",
-            "image": "assets/games/game_one.png",
-            "path": "assets/games/FlyHighWebGL/index.html"
+            "path": "assets/ic/Grade-3/Math/Number-system/index.html"
         }
     ],
     "games": [
