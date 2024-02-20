@@ -788,6 +788,8 @@ flutter:
     
     - assets/ic/Grade-2/Computer/Know-your-keyboard/
     - assets/ic/Grade-2/Computer/Know-your-keyboard/libraries/h5pcore/
+    - assets/ic/Grade-2/Computer/Know-your-keyboard/libraries/FontAwesome-4.5/
+    - assets/ic/Grade-2/Computer/Know-your-keyboard/libraries/H5P.FontIcons-1.0/fonts/
     - assets/ic/Grade-2/Computer/Know-your-keyboard/content/know-your-keyboard-686/
     - assets/ic/Grade-2/Computer/Know-your-keyboard/content/know-your-keyboard-686/images/
 
@@ -862,186 +864,289 @@ flutter:
     - assets/ic/Grade-2/Math/Algebra/
     - assets/ic/Grade-2/Math/Algebra/content/algebra-70/
     - assets/ic/Grade-2/Math/Algebra/libraries/h5pcore/
+    - assets/ic/Grade-2/Math/Algebra/libraries/FontAwesome-4.5/
+    - assets/ic/Grade-2/Math/Algebra/libraries/H5P.FontIcons-1.0/fonts/
+    - assets/ic/Grade-2/Math/Algebra/libraries/H5P.MultiChoice-1.16/fonts/
     - assets/ic/Grade-2/Math/Algebra/content/algebra-70/images/
     - assets/ic/Grade-2/Math/Algebra/content/algebra-70/audios/
 
     - assets/ic/Grade-2/Math/Fundamental-process-in-mathematics/fundamental-process-in-mathematics-interactive-book-1496/
     - assets/ic/Grade-2/Math/Fundamental-process-in-mathematics/fundamental-process-in-mathematics-interactive-book-1496/content/fundamental-process-in-mathematics-interactive-book-1496/
     - assets/ic/Grade-2/Math/Fundamental-process-in-mathematics/fundamental-process-in-mathematics-interactive-book-1496/libraries/h5pcore/
+    - assets/ic/Grade-2/Math/Fundamental-process-in-mathematics/fundamental-process-in-mathematics-interactive-book-1496/libraries/H5P.MultiChoice-1.16/fonts/
+    - assets/ic/Grade-2/Math/Fundamental-process-in-mathematics/fundamental-process-in-mathematics-interactive-book-1496/libraries/FontAwesome-4.5/
+    - assets/ic/Grade-2/Math/Fundamental-process-in-mathematics/fundamental-process-in-mathematics-interactive-book-1496/content/fundamental-process-in-mathematics-interactive-book-1496/audios/
     - assets/ic/Grade-2/Math/Fundamental-process-in-mathematics/fundamental-process-in-mathematics-interactive-book-1496/content/fundamental-process-in-mathematics-interactive-book-1496/images/
 
     - assets/ic/Grade-2/Math/Fundamental-process-in-mathematics/revision-on-fundamental-process-interactive-quiz-1497/
+    - assets/ic/Grade-2/Math/Fundamental-process-in-mathematics/revision-on-fundamental-process-interactive-quiz-1497/libraries/h5pcore/
     - assets/ic/Grade-2/Math/Fundamental-process-in-mathematics/revision-on-fundamental-process-interactive-quiz-1497/content/revision-on-fundamental-process-interactive-quiz-1497/
 
     - assets/ic/Grade-2/Math/Geometry/geometry-1375/
     - assets/ic/Grade-2/Math/Geometry/geometry-1375/content/geometry-1375/
     - assets/ic/Grade-2/Math/Geometry/geometry-1375/libraries/h5pcore/
+    - assets/ic/Grade-2/Math/Geometry/geometry-1375/libraries/FontAwesome-4.5/
+    - assets/ic/Grade-2/Math/Geometry/geometry-1375/libraries/H5P.InteractiveBook-1.7/dist/
     - assets/ic/Grade-2/Math/Geometry/geometry-1375/content/geometry-1375/images/
     - assets/ic/Grade-2/Math/Geometry/geometry-1375/content/geometry-1375/audios/
 
     - assets/ic/Grade-2/Math/Geometry/revision-interactive-quiz-2-1508/
     - assets/ic/Grade-2/Math/Geometry/revision-interactive-quiz-2-1508/content/revision-interactive-quiz-2-1508/
     - assets/ic/Grade-2/Math/Geometry/revision-interactive-quiz-2-1508/libraries/h5pcore/
+    - assets/ic/Grade-2/Math/Geometry/revision-interactive-quiz-2-1508/libraries/FontAwesome-4.5/
+    - assets/ic/Grade-2/Math/Geometry/revision-interactive-quiz-2-1508/libraries/H5P.FontIcons-1.0/
+    - assets/ic/Grade-2/Math/Geometry/revision-interactive-quiz-2-1508/libraries/H5P.MultiChoice-1.16/fonts/
     - assets/ic/Grade-2/Math/Geometry/revision-interactive-quiz-2-1508/content/revision-interactive-quiz-2-1508/images/
     - assets/ic/Grade-2/Math/Geometry/revision-interactive-quiz-2-1508/content/revision-interactive-quiz-2-1508/audios/
 
     - assets/ic/Grade-2/Math/Measurement/area-86/
     - assets/ic/Grade-2/Math/Measurement/area-86/content/area-86/
     - assets/ic/Grade-2/Math/Measurement/area-86/libraries/h5pcore/
+    - assets/ic/Grade-2/Math/Measurement/area-86/libraries/FontAwesome-4.5/
+    - assets/ic/Grade-2/Math/Measurement/area-86/libraries/H5P.MultiChoice-1.16/fonts/
+    - assets/ic/Grade-2/Math/Measurement/area-86/libraries/H5P.FontIcons-1.0/fonts/
     - assets/ic/Grade-2/Math/Measurement/area-86/content/area-86/images/
     - assets/ic/Grade-2/Math/Measurement/area-86/content/area-86/audios/
 
     - assets/ic/Grade-2/Math/Measurement/capacity-89/
     - assets/ic/Grade-2/Math/Measurement/capacity-89/content/capacity-89/
     - assets/ic/Grade-2/Math/Measurement/capacity-89/libraries/h5pcore/
+    - assets/ic/Grade-2/Math/Measurement/capacity-89/libraries/FontAwesome-4.5/
+    - assets/ic/Grade-2/Math/Measurement/capacity-89/libraries/H5P.MultiChoice-1.16/fonts/
     - assets/ic/Grade-2/Math/Measurement/capacity-89/content/capacity-89/images/
     - assets/ic/Grade-2/Math/Measurement/capacity-89/content/capacity-89/audios/
 
     - assets/ic/Grade-2/Math/Measurement/weight-2-95/
     - assets/ic/Grade-2/Math/Measurement/capacity-89/content/capacity-89/
+    - assets/ic/Grade-2/Math/Measurement/weight-2-95/content/weight-2-95/
     - assets/ic/Grade-2/Math/Measurement/capacity-89/libraries/h5pcore/
     - assets/ic/Grade-2/Math/Measurement/weight-2-95/content/weight-2-95/images/
 
     - assets/ic/Grade-2/Math/Number-system/learning-number-names-167/
     - assets/ic/Grade-2/Math/Number-system/learning-number-names-167/content/learning-number-names-167/
     - assets/ic/Grade-2/Math/Number-system/learning-number-names-167/libraries/h5pcore/
+    - assets/ic/Grade-2/Math/Number-system/learning-number-names-167/libraries/H5P.MultiChoice-1.16/fonts/
+    - assets/ic/Grade-2/Math/Number-system/learning-number-names-167/libraries/FontAwesome-4.5/
+    - assets/ic/Grade-2/Math/Number-system/learning-number-names-167/libraries/H5P.FontIcons-1.0/fonts/
     - assets/ic/Grade-2/Math/Number-system/learning-number-names-167/content/learning-number-names-167/images/
     - assets/ic/Grade-2/Math/Number-system/learning-number-names-167/content/learning-number-names-167/audios/
 
     - assets/ic/Grade-2/Math/Number-system/odd-and-even-numbers-184/
     - assets/ic/Grade-2/Math/Number-system/odd-and-even-numbers-184/content/odd-and-even-numbers-184/
+    - assets/ic/Grade-2/Math/Number-system/odd-and-even-numbers-184/libraries/FontAwesome-4.5/
+    - assets/ic/Grade-2/Math/Number-system/odd-and-even-numbers-184/libraries/H5P.FontIcons-1.0/fonts/
     - assets/ic/Grade-2/Math/Number-system/odd-and-even-numbers-184/libraries/h5pcore/
     - assets/ic/Grade-2/Math/Number-system/odd-and-even-numbers-184/content/odd-and-even-numbers-184/images/
 
     - assets/ic/Grade-2/Math/Sets/
     - assets/ic/Grade-2/Math/Sets/content/identification-of-sets-69/
     - assets/ic/Grade-2/Math/Sets/libraries/h5pcore/
+    - assets/ic/Grade-2/Math/Sets/libraries/FontAwesome-4.5/
     - assets/ic/Grade-2/Math/Sets/content/identification-of-sets-69/images/
     - assets/ic/Grade-2/Math/Sets/content/identification-of-sets-69/audios/
 
     - assets/ic/Grade-2/Math/Statistics-and-probability/bar-graph-3-152/
     - assets/ic/Grade-2/Math/Statistics-and-probability/bar-graph-3-152/content/bar-graph-3-152/
     - assets/ic/Grade-2/Math/Statistics-and-probability/bar-graph-3-152/libraries/h5pcore/
+    - assets/ic/Grade-2/Math/Statistics-and-probability/bar-graph-3-152/libraries/FontAwesome-4.5/
+    - assets/ic/Grade-2/Math/Statistics-and-probability/bar-graph-3-152/libraries/H5P.MultiChoice-1.16/fonts/
+    - assets/ic/Grade-2/Math/Statistics-and-probability/bar-graph-3-152/libraries/H5P.FontIcons-1.0/
     - assets/ic/Grade-2/Math/Statistics-and-probability/bar-graph-3-152/content/bar-graph-3-152/images/
     - assets/ic/Grade-2/Math/Statistics-and-probability/bar-graph-3-152/content/bar-graph-3-152/audios/
 
     - assets/ic/Grade-2/Math/Statistics-and-probability/more-less-and-equally-likely-1513/
     - assets/ic/Grade-2/Math/Statistics-and-probability/more-less-and-equally-likely-1513/content/more-less-and-equally-likely-1513/
     - assets/ic/Grade-2/Math/Statistics-and-probability/more-less-and-equally-likely-1513/libraries/h5pcore/
+    - assets/ic/Grade-2/Math/Statistics-and-probability/more-less-and-equally-likely-1513/libraries/H5P.MultiChoice-1.16/fonts/
+    - assets/ic/Grade-2/Math/Statistics-and-probability/more-less-and-equally-likely-1513/libraries/FontAwesome-4.5/
+    - assets/ic/Grade-2/Math/Statistics-and-probability/more-less-and-equally-likely-1513/content/more-less-and-equally-likely-1513/audios/
     - assets/ic/Grade-2/Math/Statistics-and-probability/more-less-and-equally-likely-1513/content/more-less-and-equally-likely-1513/images/
 
     - assets/ic/Grade-2/Math/Time/a-m-or-p-m-2137/
     - assets/ic/Grade-2/Math/Time/a-m-or-p-m-2137/content/a-m-or-p-m-2137/
     - assets/ic/Grade-2/Math/Time/a-m-or-p-m-2137/libraries/h5pcore/
+    - assets/ic/Grade-2/Math/Time/a-m-or-p-m-2137/libraries/FontAwesome-4.5/
+    - assets/ic/Grade-2/Math/Time/a-m-or-p-m-2137/libraries/H5P.MultiChoice-1.16/fonts/
     - assets/ic/Grade-2/Math/Time/a-m-or-p-m-2137/content/a-m-or-p-m-2137/images/
     - assets/ic/Grade-2/Math/Time/a-m-or-p-m-2137/content/a-m-or-p-m-2137/audios/
 
     - assets/ic/Grade-2/Math/Time/study-calendars-interactive-quiz-2-1679/
     - assets/ic/Grade-2/Math/Time/study-calendars-interactive-quiz-2-1679/content/study-calendars-interactive-quiz-2-1679/
     - assets/ic/Grade-2/Math/Time/study-calendars-interactive-quiz-2-1679/libraries/h5pcore/
+    - assets/ic/Grade-2/Math/Time/study-calendars-interactive-quiz-2-1679/libraries/FontAwesome-4.5/
+    - assets/ic/Grade-2/Math/Time/study-calendars-interactive-quiz-2-1679/libraries/H5P.MultiChoice-1.16/fonts/
     - assets/ic/Grade-2/Math/Time/study-calendars-interactive-quiz-2-1679/content/study-calendars-interactive-quiz-2-1679/images/
     - assets/ic/Grade-2/Math/Time/study-calendars-interactive-quiz-2-1679/content/study-calendars-interactive-quiz-2-1679/audios/
 
     - assets/ic/Grade-3/Math/Algebra/algebraic-terms-92/
+    - assets/ic/Grade-3/Math/Algebra/algebraic-terms-92/libraries/H5P.MultiChoice-1.16/fonts/
+    - assets/ic/Grade-3/Math/Algebra/algebraic-terms-92/libraries/H5P.FontIcons-1.0/fonts/
+    - assets/ic/Grade-3/Math/Algebra/algebraic-terms-92/libraries/FontAwesome-4.5/
+    - assets/ic/Grade-3/Math/Algebra/algebraic-terms-92/content/algebraic-terms-92/
     - assets/ic/Grade-3/Math/Algebra/algebraic-terms-92/libraries/h5pcore/
     - assets/ic/Grade-3/Math/Algebra/algebraic-terms-92/content/algebraic-terms-92/images/
 
     - assets/ic/Grade-3/Math/Algebra/reviewing-algebra-293/
+    - assets/ic/Grade-3/Math/Algebra/algebraic-terms-92/libraries/H5P.FontIcons-1.0/fonts/
+    - assets/ic/Grade-3/Math/Algebra/algebraic-terms-92/libraries/H5P.MultiChoice-1.16/fonts/
+    - assets/ic/Grade-3/Math/Algebra/algebraic-terms-92/libraries/H5P.FontIcons-1.0/fonts/
+    - assets/ic/Grade-3/Math/Algebra/reviewing-algebra-293/content/reviewing-algebra-293/
     - assets/ic/Grade-3/Math/Algebra/reviewing-algebra-293/libraries/h5pcore/
     - assets/ic/Grade-3/Math/Algebra/reviewing-algebra-293/content/reviewing-algebra-293/images/
 
     - assets/ic/Grade-3/Math/Bill-and-Budget/
+    - assets/ic/Grade-3/Math/Bill-and-Budget/content/bill-and-budget-116/
     - assets/ic/Grade-3/Math/Bill-and-Budget/libraries/h5pcore/
+    - assets/ic/Grade-3/Math/Bill-and-Budget/libraries/H5P.FontIcons-1.0/fonts/
+    - assets/ic/Grade-3/Math/Bill-and-Budget/libraries/FontAwesome-4.5/
     - assets/ic/Grade-3/Math/Bill-and-Budget/content/bill-and-budget-116/images/
 
     - assets/ic/Grade-3/Math/Fundamental-process-of-mathematics/fundamental-process-of-mathematics-interactive-book-1406/
+    - assets/ic/Grade-3/Math/Fundamental-process-of-mathematics/fundamental-process-of-mathematics-interactive-book-1406/libraries/FontAwesome-4.5/
+    - assets/ic/Grade-3/Math/Fundamental-process-of-mathematics/fundamental-process-of-mathematics-interactive-book-1406/content/fundamental-process-of-mathematics-interactive-book-1406/
     - assets/ic/Grade-3/Math/Fundamental-process-of-mathematics/fundamental-process-of-mathematics-interactive-book-1406/libraries/h5pcore/
+    - assets/ic/Grade-3/Math/Fundamental-process-of-mathematics/fundamental-process-of-mathematics-interactive-book-1406/content/fundamental-process-of-mathematics-interactive-book-1406/audios/
     - assets/ic/Grade-3/Math/Fundamental-process-of-mathematics/fundamental-process-of-mathematics-interactive-book-1406/content/fundamental-process-of-mathematics-interactive-book-1406/images/
 
     - assets/ic/Grade-3/Math/Fundamental-process-of-mathematics/addition-interactive-quiz-1407/
+    - assets/ic/Grade-3/Math/Fundamental-process-of-mathematics/addition-interactive-quiz-1407/libraries/H5P.MultiChoice-1.16/fonts/
+    - assets/ic/Grade-3/Math/Fundamental-process-of-mathematics/addition-interactive-quiz-1407/libraries/FontAwesome-4.5/
+    - assets/ic/Grade-3/Math/Fundamental-process-of-mathematics/addition-interactive-quiz-1407/content/addition-interactive-quiz-1407/
     - assets/ic/Grade-3/Math/Fundamental-process-of-mathematics/addition-interactive-quiz-1407/libraries/h5pcore/
     - assets/ic/Grade-3/Math/Fundamental-process-of-mathematics/addition-interactive-quiz-1407/content/addition-interactive-quiz-1407/images/
 
     - assets/ic/Grade-3/Math/Geometry/geometry-interactive-book-3-1446/
+    - assets/ic/Grade-3/Math/Geometry/geometry-interactive-book-3-1446/libraries/FontAwesome-4.5/
+    - assets/ic/Grade-3/Math/Geometry/geometry-interactive-book-3-1446/libraries/H5P.InteractiveBook-1.7/dist/
+    - assets/ic/Grade-3/Math/Geometry/geometry-interactive-book-3-1446/libraries/H5P.MultiChoice-1.16/fonts/
+    - assets/ic/Grade-3/Math/Geometry/geometry-interactive-book-3-1446/content/geometry-interactive-book-3-1446/audios/
+    - assets/ic/Grade-3/Math/Geometry/geometry-interactive-book-3-1446/content/geometry-interactive-book-3-1446/
     - assets/ic/Grade-3/Math/Geometry/geometry-interactive-book-3-1446/content/geometry-interactive-book-3-1446/images/
 
     - assets/ic/Grade-3/Math/Geometry/revision-interactive-quiz-1447/
-    - assets/ic/Grade-3/Math/Geometry/geometry-interactive-book-3-1446/libraries/h5pcore/
+    - assets/ic/Grade-3/Math/Geometry/revision-interactive-quiz-1447/libraries/h5pcore/
+    - assets/ic/Grade-3/Math/Geometry/revision-interactive-quiz-1447/libraries/FontAwesome-4.5/
+    - assets/ic/Grade-3/Math/Geometry/revision-interactive-quiz-1447/content/revision-interactive-quiz-1447/
     - assets/ic/Grade-3/Math/Geometry/revision-interactive-quiz-1447/content/revision-interactive-quiz-1447/images/
 
     - assets/ic/Grade-3/Math/Number-system/
+    - assets/ic/Grade-3/Math/Number-system/libraries/FontAwesome-4.5/
     - assets/ic/Grade-3/Math/Number-system/libraries/h5pcore/
+    - assets/ic/Grade-3/Math/Number-system/content/odd-and-even-numbers-2-190/
     - assets/ic/Grade-3/Math/Number-system/content/odd-and-even-numbers-2-190/images/
 
     - assets/ic/Grade-3/Math/Sets/review-column-question-71/
     - assets/ic/Grade-3/Math/Sets/review-column-question-71/libraries/h5pcore/
+    - assets/ic/Grade-3/Math/Sets/review-column-question-71/content/review-column-question-71/
     - assets/ic/Grade-3/Math/Sets/review-column-question-71/content/review-column-question-71/images/
     
     - assets/ic/Grade-3/Math/Sets/set-notations-83/
+    - assets/ic/Grade-3/Math/Sets/set-notations-83/libraries/FontAwesome-4.5/
     - assets/ic/Grade-3/Math/Sets/set-notations-83/libraries/h5pcore/
+    - assets/ic/Grade-3/Math/Sets/set-notations-83/libraries/H5P.FontIcons-1.0/fonts/
+    - assets/ic/Grade-3/Math/Sets/set-notations-83/content/set-notations-83/
     - assets/ic/Grade-3/Math/Sets/set-notations-83/content/set-notations-83/images/
 
     - assets/ic/Grade-3/Math/Statistics/compare-the-distance-in-a-map-81/
+    - assets/ic/Grade-3/Math/Statistics/bar-graph-2-149/content/bar-graph-2-149/
+    - assets/ic/Grade-3/Math/Statistics/compare-the-distance-in-a-map-81/libraries/FontAwesome-4.5/
+    - assets/ic/Grade-3/Math/Statistics/compare-the-distance-in-a-map-81/libraries/H5P.FontIcons-1.0/fonts/
     - assets/ic/Grade-3/Math/Statistics/compare-the-distance-in-a-map-81/libraries/h5pcore/
     - assets/ic/Grade-3/Math/Statistics/compare-the-distance-in-a-map-81/content/compare-the-distance-in-a-map-81/images/
 
     - assets/ic/Grade-3/Math/Statistics/bar-graph-2-149/
+    - assets/ic/Grade-3/Math/Statistics/bar-graph-2-149/libraries/H5P.MultiChoice-1.16/fonts/
+    - assets/ic/Grade-3/Math/Statistics/bar-graph-2-149/libraries/FontAwesome-4.5/
+    - assets/ic/Grade-3/Math/Statistics/compare-the-distance-in-a-map-81/content/compare-the-distance-in-a-map-81/
     - assets/ic/Grade-3/Math/Statistics/bar-graph-2-149/libraries/h5pcore/
     - assets/ic/Grade-3/Math/Statistics/bar-graph-2-149/content/bar-graph-2-149/images/
 
     - assets/ic/Grade-3/Math/Time-measurement/find-the-elapsed-time-1764/
+    - assets/ic/Grade-3/Math/Time-measurement/match-clocks-and-times-1763/libraries/FontAwesome-4.5/
+    - assets/ic/Grade-3/Math/Time-measurement/match-clocks-and-times-1763/libraries/H5P.MultiChoice-1.16/fonts/
+    - assets/ic/Grade-3/Math/Time-measurement/match-clocks-and-times-1763/libraries/H5P.FontIcons-1.0/fonts/
     - assets/ic/Grade-3/Math/Time-measurement/find-the-elapsed-time-1764/libraries/h5pcore/
+    - assets/ic/Grade-3/Math/Time-measurement/find-the-elapsed-time-1764/content/find-the-elapsed-time-1764/
     - assets/ic/Grade-3/Math/Time-measurement/find-the-elapsed-time-1764/content/find-the-elapsed-time-1764/images/
 
     - assets/ic/Grade-3/Math/Time-measurement/match-clocks-and-times-1763/
+    - assets/ic/Grade-3/Math/Time-measurement/find-the-elapsed-time-1764/libraries/FontAwesome-4.5/
+    - assets/ic/Grade-3/Math/Time-measurement/find-the-elapsed-time-1764/libraries/H5P.MultiChoice-1.16/fonts/
     - assets/ic/Grade-3/Math/Time-measurement/match-clocks-and-times-1763/libraries/h5pcore/
+    - assets/ic/Grade-3/Math/Time-measurement/match-clocks-and-times-1763/content/match-clocks-and-times-1763/
     - assets/ic/Grade-3/Math/Time-measurement/match-clocks-and-times-1763/content/match-clocks-and-times-1763/images/
 
     - assets/ic/Grade-3/Math/Volume-measurement/
+    - assets/ic/Grade-3/Math/Volume-measurement/content/volume-76/
     - assets/ic/Grade-3/Math/Volume-measurement/libraries/h5pcore/
     - assets/ic/Grade-3/Math/Volume-measurement/content/volume-76/images/
 
     - assets/ic/Grade-3/Computer/Computer-a-wonderful-machine/
+    - assets/ic/Grade-3/Computer/Computer-a-wonderful-machine/libraries/FontAwesome-4.5/
+    - assets/ic/Grade-3/Computer/Computer-a-wonderful-machine/libraries/H5P.FontIcons-1.0/fonts/
+    - assets/ic/Grade-3/Computer/Computer-a-wonderful-machine/libraries/H5P.MultiChoice-1.16/fonts/
+    - assets/ic/Grade-3/Computer/Computer-a-wonderful-machine/content/computer-a-wonderful-machine-719/
     - assets/ic/Grade-3/Computer/Computer-a-wonderful-machine/libraries/h5pcore/
     - assets/ic/Grade-3/Computer/Computer-a-wonderful-machine/content/computer-a-wonderful-machine-719/images/
 
     - assets/ic/Grade-3/Computer/Computer-Hardware/
+    - assets/ic/Grade-3/Computer/Computer-Hardware/content/computer-hardware-727/
     - assets/ic/Grade-3/Computer/Computer-Hardware/libraries/h5pcore/
     - assets/ic/Grade-3/Computer/Computer-Hardware/content/computer-hardware-727/images/
 
     - assets/ic/Grade-3/Computer/Computer-software/
+    - assets/ic/Grade-3/Computer/Computer-software/libraries/FontAwesome-4.5/
+    - assets/ic/Grade-3/Computer/Computer-software/libraries/H5P.FontIcons-1.0/fonts/
+    - assets/ic/Grade-3/Computer/Computer-software/content/a-set-of-instructions-that-perform-some-kind-of-task-or-work-on-a-computer-is-called-softwar-730/
     - assets/ic/Grade-3/Computer/Computer-software/libraries/h5pcore/
     - assets/ic/Grade-3/Computer/Computer-software/content/a-set-of-instructions-that-perform-some-kind-of-task-or-work-on-a-computer-is-called-softwar-730/images/
 
     - assets/ic/Grade-3/Computer/Using-the-calculator/
+    - assets/ic/Grade-3/Computer/Using-the-calculator/libraries/FontAwesome-4.5/
+    - assets/ic/Grade-3/Computer/Using-the-calculator/content/using-the-calculator-744/
     - assets/ic/Grade-3/Computer/Using-the-calculator/libraries/h5pcore/
     - assets/ic/Grade-3/Computer/Using-the-calculator/content/using-the-calculator-744/images/
 
     - assets/ic/Grade-3/Computer/Typing-skills/
+    - assets/ic/Grade-3/Computer/Typing-skills/libraries/FontAwesome-4.5/
+    - assets/ic/Grade-3/Computer/Typing-skills/content/typing-skill-867/
     - assets/ic/Grade-3/Computer/Typing-skills/libraries/h5pcore/
     - assets/ic/Grade-3/Computer/Typing-skills/content/typing-skill-867/images/
 
     - assets/ic/Grade-3/Computer/MS-paint/
+    - assets/ic/Grade-3/Computer/MS-paint/libraries/FontAwesome-4.5/
+    - assets/ic/Grade-3/Computer/MS-paint/libraries/H5P.MultiChoice-1.16/fonts/
+    - assets/ic/Grade-3/Computer/MS-paint/libraries/H5P.FontIcons-1.0/fonts/
+    - assets/ic/Grade-3/Computer/MS-paint/content/ms-paint-733/
     - assets/ic/Grade-3/Computer/MS-paint/libraries/h5pcore/
     - assets/ic/Grade-3/Computer/MS-paint/content/ms-paint-733/images/
 
     - assets/ic/Grade-3/Computer/History-of-computer/history-of-computer-interactive-book-1401/
+    - assets/ic/Grade-3/Computer/History-of-computer/history-of-computer-interactive-book-1401/content/history-of-computer-interactive-book-1401/
     - assets/ic/Grade-3/Computer/History-of-computer/history-of-computer-interactive-book-1401/libraries/h5pcore/
     - assets/ic/Grade-3/Computer/History-of-computer/history-of-computer-interactive-book-1401/content/history-of-computer-interactive-book-1401/images/
 
     - assets/ic/Grade-3/Computer/History-of-computer/history-of-computer-interactive-quiz-1402/
+    - assets/ic/Grade-3/Computer/History-of-computer/history-of-computer-interactive-quiz-1402/content/history-of-computer-interactive-quiz-1402/
     - assets/ic/Grade-3/Computer/History-of-computer/history-of-computer-interactive-quiz-1402/libraries/h5pcore/
     - assets/ic/Grade-3/Computer/History-of-computer/history-of-computer-interactive-quiz-1402/content/history-of-computer-interactive-quiz-1402/images/
 
     - assets/ic/Grade-3/Computer/Creating-magic-with-wordpad/
+    - assets/ic/Grade-3/Computer/Creating-magic-with-wordpad/libraries/FontAwesome-4.5/
+    - assets/ic/Grade-3/Computer/Creating-magic-with-wordpad/libraries/H5P.MultiChoice-1.16/fonts/
+    - assets/ic/Grade-3/Computer/Creating-magic-with-wordpad/libraries/H5P.FontIcons-1.0/fonts/
+    - assets/ic/Grade-3/Computer/Creating-magic-with-wordpad/content/creating-magic-with-wordpad-853/
     - assets/ic/Grade-3/Computer/Creating-magic-with-wordpad/libraries/h5pcore/
     - assets/ic/Grade-3/Computer/Creating-magic-with-wordpad/content/creating-magic-with-wordpad-853/images/
 
     - assets/ic/Grade-3/Computer/Let_s-use-wordpad/
+    - assets/ic/Grade-3/Computer/Let_s-use-wordpad/libraries/FontAwesome-4.5/
+    - assets/ic/Grade-3/Computer/Let_s-use-wordpad/content/let-039-s-use-wordpad-745/
     - assets/ic/Grade-3/Computer/Let_s-use-wordpad/libraries/h5pcore/
     - assets/ic/Grade-3/Computer/Let_s-use-wordpad/content/let-039-s-use-wordpad-745/images/
 
     - assets/ic/Grade-3/Science/A-cold-day/
+    - assets/ic/Grade-3/Science/A-cold-day/content/cold-day-671/
     - assets/ic/Grade-3/Science/A-cold-day/libraries/h5pcore/
     - assets/ic/Grade-3/Science/A-cold-day/content/cold-day-671/images/
 
@@ -1066,54 +1171,68 @@ flutter:
     - assets/ic/Grade-4/Science/Throwing/content/throwing-1001/images/
 
     - assets/ic/Grade-4/Math/Area/
+    - assets/ic/Grade-4/Math/Area/content/give-the-correct-answer-288/
+    - assets/ic/Grade-4/Math/Area/libraries/FontAwesome-4.5/
     - assets/ic/Grade-4/Math/Area/libraries/h5pcore/
     - assets/ic/Grade-4/Math/Area/content/give-the-correct-answer-288/images/
 
     - assets/ic/Grade-4/Math/Capacity/column-question-169/
     - assets/ic/Grade-4/Math/Capacity/column-question-169/libraries/h5pcore/
+    - assets/ic/Grade-4/Math/Capacity/column-question-169/content/column-question-169/
     - assets/ic/Grade-4/Math/Capacity/column-question-169/content/column-question-169/images/
 
     - assets/ic/Grade-4/Math/Capacity/dialogue-card-2-77/
     - assets/ic/Grade-4/Math/Capacity/dialogue-card-2-77/libraries/h5pcore/
+    - assets/ic/Grade-4/Math/Capacity/dialogue-card-2-77/content/dialogue-card-2-77/
     - assets/ic/Grade-4/Math/Capacity/dialogue-card-2-77/content/dialogue-card-2-77/images/
 
     - assets/ic/Grade-4/Math/Concept-of-numbers/number-in-expanded-form-column-question-290/
+    - assets/ic/Grade-4/Math/Concept-of-numbers/number-in-expanded-form-column-question-290/content/number-in-expanded-form-column-question-290/
     - assets/ic/Grade-4/Math/Concept-of-numbers/number-in-expanded-form-column-question-290/libraries/h5pcore/
     - assets/ic/Grade-4/Math/Concept-of-numbers/number-in-expanded-form-column-question-290/content/number-in-expanded-form-column-question-290/images/
 
     - assets/ic/Grade-4/Math/Concept-of-numbers/reading-and-writing-the-numbers-column-324/
+    - assets/ic/Grade-4/Math/Concept-of-numbers/reading-and-writing-the-numbers-column-324/content/reading-and-writing-the-numbers-column-324/
     - assets/ic/Grade-4/Math/Concept-of-numbers/reading-and-writing-the-numbers-column-324/libraries/h5pcore/
     - assets/ic/Grade-4/Math/Concept-of-numbers/reading-and-writing-the-numbers-column-324/content/reading-and-writing-the-numbers-column-324/images/
 
     - assets/ic/Grade-4/Math/Fundamental-Opearations/simplification-84/
+    - assets/ic/Grade-4/Math/Fundamental-Opearations/simplification-84/content/simplification-84/
     - assets/ic/Grade-4/Math/Fundamental-Opearations/simplification-84/libraries/h5pcore/
     - assets/ic/Grade-4/Math/Fundamental-Opearations/simplification-84/content/simplification-84/images/
 
     - assets/ic/Grade-4/Math/Fundamental-Opearations/revision-3-133/
+    - assets/ic/Grade-4/Math/Fundamental-Opearations/revision-3-133/content/revision-3-133/
     - assets/ic/Grade-4/Math/Fundamental-Opearations/revision-3-133/libraries/h5pcore/
     - assets/ic/Grade-4/Math/Fundamental-Opearations/revision-3-133/content/revision-3-133/images/
 
     - assets/ic/Grade-4/Math/Length/conversion-of-length-294/
+    - assets/ic/Grade-4/Math/Length/conversion-of-length-294/content/conversion-of-length-294/
     - assets/ic/Grade-4/Math/Length/conversion-of-length-294/libraries/h5pcore/
     - assets/ic/Grade-4/Math/Length/conversion-of-length-294/content/conversion-of-length-294/images/
 
     - assets/ic/Grade-4/Math/Length/introduction-dialogue-cards-476/
+    - assets/ic/Grade-4/Math/Length/introduction-dialogue-cards-476/content/introduction-dialogue-cards-476/
     - assets/ic/Grade-4/Math/Length/introduction-dialogue-cards-476/libraries/h5pcore/
     - assets/ic/Grade-4/Math/Length/introduction-dialogue-cards-476/content/introduction-dialogue-cards-476/images/
 
     - assets/ic/Grade-4/Math/Set/
+    - assets/ic/Grade-4/Math/Set/content/sets-322/
     - assets/ic/Grade-4/Math/Set/libraries/h5pcore/
     - assets/ic/Grade-4/Math/Set/content/sets-322/images/
 
     - assets/ic/Grade-4/Math/Time/
+    - assets/ic/Grade-4/Math/Time/content/introduction-to-time-93/
     - assets/ic/Grade-4/Math/Time/libraries/h5pcore/
     - assets/ic/Grade-4/Math/Time/content/introduction-to-time-93/images/
 
     - assets/ic/Grade-4/Math/Volume/
+    - assets/ic/Grade-4/Math/Volume/content/introduction-of-volume-296/
     - assets/ic/Grade-4/Math/Volume/libraries/h5pcore/
     - assets/ic/Grade-4/Math/Volume/content/introduction-of-volume-296/images/
 
     - assets/ic/Grade-4/Math/Weight/
+    - assets/ic/Grade-4/Math/Weight/content/conversion-of-gram-and-kilogram-248/
     - assets/ic/Grade-4/Math/Weight/libraries/h5pcore/
     - assets/ic/Grade-4/Math/Weight/content/conversion-of-gram-and-kilogram-248/images/
 
@@ -1122,138 +1241,172 @@ flutter:
     - assets/ic/Grade-5/Science/Cell/content/cell-introduction-1267/images/
 
     - assets/ic/Grade-5/Math/Bills-and-budget/bills-143/
+    - assets/ic/Grade-5/Math/Bills-and-budget/bills-143/content/bills-143/
     - assets/ic/Grade-5/Math/Bills-and-budget/bills-143/libraries/h5pcore/
     - assets/ic/Grade-5/Math/Bills-and-budget/bills-143/content/bills-143/images/
 
     - assets/ic/Grade-5/Math/Bills-and-budget/budget-144/
+    - assets/ic/Grade-5/Math/Bills-and-budget/budget-144/content/budget-144/
     - assets/ic/Grade-5/Math/Bills-and-budget/budget-144/libraries/h5pcore/
     - assets/ic/Grade-5/Math/Bills-and-budget/budget-144/content/budget-144/images/
 
     - assets/ic/Grade-5/Math/Currency/conversion-of-money-174/
+    - assets/ic/Grade-5/Math/Currency/conversion-of-money-174/content/conversion-of-money-174/
     - assets/ic/Grade-5/Math/Currency/conversion-of-money-174/libraries/h5pcore/
     - assets/ic/Grade-5/Math/Currency/conversion-of-money-174/content/conversion-of-money-174/images/
 
     - assets/ic/Grade-5/Math/Currency/introduction-of-money-158/
+    - assets/ic/Grade-5/Math/Currency/introduction-of-money-158/content/introduction-of-money-158/
     - assets/ic/Grade-5/Math/Currency/introduction-of-money-158/libraries/h5pcore/
     - assets/ic/Grade-5/Math/Currency/introduction-of-money-158/content/introduction-of-money-158/images/
 
     - assets/ic/Grade-5/Math/Decimal/addition-and-subtraction-with-word-problems-253/
+    - assets/ic/Grade-5/Math/Decimal/addition-and-subtraction-with-word-problems-253/content/addition-and-subtraction-with-word-problems-253 (1)/
     - assets/ic/Grade-5/Math/Decimal/addition-and-subtraction-with-word-problems-253/libraries/h5pcore/
     - assets/ic/Grade-5/Math/Decimal/addition-and-subtraction-with-word-problems-253/content/addition-and-subtraction-with-word-problems-253 (1)/images/
 
     - assets/ic/Grade-5/Math/Decimal/conversion-of-fractions-into-decimals-336/
+    - assets/ic/Grade-5/Math/Decimal/conversion-of-fractions-into-decimals-336/content/conversion-of-fractions-into-decimals-336/
     - assets/ic/Grade-5/Math/Decimal/conversion-of-fractions-into-decimals-336/libraries/h5pcore/
     - assets/ic/Grade-5/Math/Decimal/conversion-of-fractions-into-decimals-336/content/conversion-of-fractions-into-decimals-336/images/
 
     - assets/ic/Grade-5/Math/Four-fundamental-opearations/division-column-2-532/
+    - assets/ic/Grade-5/Math/Four-fundamental-opearations/division-column-2-532/content/division-column-2-532/
     - assets/ic/Grade-5/Math/Four-fundamental-opearations/division-column-2-532/libraries/h5pcore/
     - assets/ic/Grade-5/Math/Four-fundamental-opearations/division-column-2-532/content/division-column-2-532/images/
 
     - assets/ic/Grade-5/Math/Four-fundamental-opearations/multiplication-2-447/
+    - assets/ic/Grade-5/Math/Four-fundamental-opearations/multiplication-2-447/content/multiplication-2-447/
     - assets/ic/Grade-5/Math/Four-fundamental-opearations/multiplication-2-447/libraries/h5pcore/
     - assets/ic/Grade-5/Math/Four-fundamental-opearations/multiplication-2-447/content/multiplication-2-447/images/
 
     - assets/ic/Grade-5/Math/Number-system/
+    - assets/ic/Grade-5/Math/Number-system/content/factors-and-multiples-2-281/
     - assets/ic/Grade-5/Math/Number-system/libraries/h5pcore/
     - assets/ic/Grade-5/Math/Number-system/content/factors-and-multiples-2-281/images/
 
     - assets/ic/Grade-5/Math/Perimeter,-area,-and-volume/
+    - assets/ic/Grade-5/Math/Perimeter,-area,-and-volume/content/introduction-to-perimeter-613/
     - assets/ic/Grade-5/Math/Perimeter,-area,-and-volume/libraries/h5pcore/
     - assets/ic/Grade-5/Math/Perimeter,-area,-and-volume/content/introduction-to-perimeter-613/images/
 
     - assets/ic/Grade-5/Math/Profit-and-loss/
+    - assets/ic/Grade-5/Math/Profit-and-loss/content/profit-and-loss-124/
     - assets/ic/Grade-5/Math/Profit-and-loss/libraries/h5pcore/
     - assets/ic/Grade-5/Math/Profit-and-loss/content/profit-and-loss-124/images/
 
     - assets/ic/Grade-5/Math/Time/conversion-of-time-2-153/
+    - assets/ic/Grade-5/Math/Time/conversion-of-time-2-153/content/conversion-of-time-2-153/
     - assets/ic/Grade-5/Math/Time/conversion-of-time-2-153/libraries/h5pcore/
     - assets/ic/Grade-5/Math/Time/conversion-of-time-2-153/content/conversion-of-time-2-153/images/
 
     - assets/ic/Grade-5/Math/Time/time-dialog-cards-267/
+    - assets/ic/Grade-5/Math/Time/time-dialog-cards-267/content/time-dialog-cards-267/
     - assets/ic/Grade-5/Math/Time/time-dialog-cards-267/libraries/h5pcore/
     - assets/ic/Grade-5/Math/Time/time-dialog-cards-267/content/time-dialog-cards-267/images/
 
     - assets/ic/Grade-5/Math/Weight/7-1-introduction-of-weight-dialog-card-232/
+    - assets/ic/Grade-5/Math/Weight/7-1-introduction-of-weight-dialog-card-232/content/7-1-introduction-of-weight-dialog-card-232/
     - assets/ic/Grade-5/Math/Weight/7-1-introduction-of-weight-dialog-card-232/libraries/h5pcore/
     - assets/ic/Grade-5/Math/Weight/7-1-introduction-of-weight-dialog-card-232/content/7-1-introduction-of-weight-dialog-card-232/images/
 
     - assets/ic/Grade-5/Math/Weight/7-2-conversion-of-units-of-weight-flash-card-233/
+    - assets/ic/Grade-5/Math/Weight/7-2-conversion-of-units-of-weight-flash-card-233/content/7-2-conversion-of-units-of-weight-flash-card-233/
     - assets/ic/Grade-5/Math/Weight/7-2-conversion-of-units-of-weight-flash-card-233/libraries/h5pcore/
     - assets/ic/Grade-5/Math/Weight/7-2-conversion-of-units-of-weight-flash-card-233/content/7-2-conversion-of-units-of-weight-flash-card-233/images/
 
     - assets/ic/Grade-6/Science/Electricity/
+    - assets/ic/Grade-6/Science/Electricity/content/electricity-831/
     - assets/ic/Grade-6/Science/Electricity/libraries/h5pcore/
     - assets/ic/Grade-6/Science/Electricity/content/electricity-831/images/
 
     - assets/ic/Grade-6/Science/Invertebrates/
+    - assets/ic/Grade-6/Science/Invertebrates/content/invertebrates-3-849/
     - assets/ic/Grade-6/Science/Invertebrates/libraries/h5pcore/
     - assets/ic/Grade-6/Science/Invertebrates/content/invertebrates-3-849/images/
 
     - assets/ic/Grade-6/Math/Fraction-and-decimal/
+    - assets/ic/Grade-6/Math/Fraction-and-decimal/content/decimal-2-413/
     - assets/ic/Grade-6/Math/Fraction-and-decimal/libraries/h5pcore/
     - assets/ic/Grade-6/Math/Fraction-and-decimal/content/decimal-2-413/images/
 
     - assets/ic/Grade-6/Math/Integers/
+    - assets/ic/Grade-6/Math/Integers/content/introduction-of-integer-268/
     - assets/ic/Grade-6/Math/Integers/libraries/h5pcore/
     - assets/ic/Grade-6/Math/Integers/content/introduction-of-integer-268/images/
 
     - assets/ic/Grade-6/Math/Number-System/
+    - assets/ic/Grade-6/Math/Number-System/content/grade-6-math-roman-numerals-47/
     - assets/ic/Grade-6/Math/Number-System/libraries/h5pcore/
     - assets/ic/Grade-6/Math/Number-System/content/grade-6-math-roman-numerals-47/images/
 
     - assets/ic/Grade-6/Math/Opearation-on-whole-number/prime-factors-261/
+    - assets/ic/Grade-6/Math/Opearation-on-whole-number/prime-factors-261/content/prime-factors-261/
     - assets/ic/Grade-6/Math/Opearation-on-whole-number/prime-factors-261/libraries/h5pcore/
     - assets/ic/Grade-6/Math/Opearation-on-whole-number/prime-factors-261/content/prime-factors-261/images/
 
     - assets/ic/Grade-6/Math/Opearation-on-whole-number/squares-numbers-and-square-roots-265/
+    - assets/ic/Grade-6/Math/Opearation-on-whole-number/squares-numbers-and-square-roots-265/content/squares-numbers-and-square-roots-265/
     - assets/ic/Grade-6/Math/Opearation-on-whole-number/squares-numbers-and-square-roots-265/libraries/h5pcore/
     - assets/ic/Grade-6/Math/Opearation-on-whole-number/squares-numbers-and-square-roots-265/content/squares-numbers-and-square-roots-265/images/
 
     - assets/ic/Grade-6/Math/Perimeter,-area-and-volume/area-of-rectangles-and-squares-157/
+    - assets/ic/Grade-6/Math/Perimeter,-area-and-volume/area-of-rectangles-and-squares-157/content/area-of-rectangles-and-squares-157/
     - assets/ic/Grade-6/Math/Perimeter,-area-and-volume/area-of-rectangles-and-squares-157/libraries/h5pcore/
     - assets/ic/Grade-6/Math/Perimeter,-area-and-volume/area-of-rectangles-and-squares-157/content/area-of-rectangles-and-squares-157/images/
 
     - assets/ic/Grade-6/Math/Perimeter,-area-and-volume/area-of-regular-and-irregular-figures-154/
+    - assets/ic/Grade-6/Math/Perimeter,-area-and-volume/area-of-regular-and-irregular-figures-154/content/area-of-regular-and-irregular-figures-154/
     - assets/ic/Grade-6/Math/Perimeter,-area-and-volume/area-of-regular-and-irregular-figures-154/libraries/h5pcore/
     - assets/ic/Grade-6/Math/Perimeter,-area-and-volume/area-of-regular-and-irregular-figures-154/content/area-of-regular-and-irregular-figures-154/images/
 
     - assets/ic/Grade-6/Math/Properties-of-whole-number/grade-6-math-test-of-divisibility-by-numbers-2-3-4-5-and-11-53/
+    - assets/ic/Grade-6/Math/Properties-of-whole-number/grade-6-math-test-of-divisibility-by-numbers-2-3-4-5-and-11-53/content/grade-6-math-test-of-divisibility-by-numbers-2-3-4-5-and-11-53/
     - assets/ic/Grade-6/Math/Properties-of-whole-number/grade-6-math-test-of-divisibility-by-numbers-2-3-4-5-and-11-53/libraries/h5pcore/
     - assets/ic/Grade-6/Math/Properties-of-whole-number/grade-6-math-test-of-divisibility-by-numbers-2-3-4-5-and-11-53/content/grade-6-math-test-of-divisibility-by-numbers-2-3-4-5-and-11-53/images/
 
     - assets/ic/Grade-6/Math/Properties-of-whole-number/grade-six-math-properties-of-whole-numbers-52/
+    - assets/ic/Grade-6/Math/Properties-of-whole-number/grade-six-math-properties-of-whole-numbers-52/content/grade-six-math-properties-of-whole-numbers-52/
     - assets/ic/Grade-6/Math/Properties-of-whole-number/grade-six-math-properties-of-whole-numbers-52/libraries/h5pcore/
     - assets/ic/Grade-6/Math/Properties-of-whole-number/grade-six-math-properties-of-whole-numbers-52/content/grade-six-math-properties-of-whole-numbers-52/images/
 
     - assets/ic/Grade-6/Math/Rational-numbers/
+    - assets/ic/Grade-6/Math/Rational-numbers/content/introduction-5-397/
     - assets/ic/Grade-6/Math/Rational-numbers/libraries/h5pcore/
     - assets/ic/Grade-6/Math/Rational-numbers/content/introduction-5-397/images/
 
     - assets/ic/Grade-6/Math/Set/methods-of-describing-sets-191/
+    - assets/ic/Grade-6/Math/Set/methods-of-describing-sets-191/content/methods-of-describing-sets-191/
     - assets/ic/Grade-6/Math/Set/methods-of-describing-sets-191/libraries/h5pcore/
     - assets/ic/Grade-6/Math/Set/methods-of-describing-sets-191/content/methods-of-describing-sets-191/images/
 
     - assets/ic/Grade-6/Math/Set/types-of-sets-194/
+    - assets/ic/Grade-6/Math/Set/types-of-sets-194/content/types-of-sets-194/
     - assets/ic/Grade-6/Math/Set/types-of-sets-194/libraries/h5pcore/
     - assets/ic/Grade-6/Math/Set/types-of-sets-194/content/types-of-sets-194/images/
 
     - assets/ic/Grade-6/Math/Transformation/
+    - assets/ic/Grade-6/Math/Transformation/content/introduction-of-transformation-176/
     - assets/ic/Grade-6/Math/Transformation/libraries/h5pcore/
     - assets/ic/Grade-6/Math/Transformation/content/introduction-of-transformation-176/images/
 
     - assets/ic/Grade-6/Math/Symmetrical-figures,-design-of-polygons-and-tesselations/introduction-2-183/
+    - assets/ic/Grade-6/Math/Symmetrical-figures,-design-of-polygons-and-tesselations/introduction-2-183/content/introduction-2-183/
     - assets/ic/Grade-6/Math/Symmetrical-figures,-design-of-polygons-and-tesselations/introduction-2-183/libraries/h5pcore/
     - assets/ic/Grade-6/Math/Symmetrical-figures,-design-of-polygons-and-tesselations/introduction-2-183/content/introduction-2-183/images/
 
     - assets/ic/Grade-6/Math/Symmetrical-figures,-design-of-polygons-and-tesselations/patterns-and-designs-of-polygons-208/
+    - assets/ic/Grade-6/Math/Symmetrical-figures,-design-of-polygons-and-tesselations/patterns-and-designs-of-polygons-208/content/patterns-and-designs-of-polygons-208/
     - assets/ic/Grade-6/Math/Symmetrical-figures,-design-of-polygons-and-tesselations/patterns-and-designs-of-polygons-208/libraries/h5pcore/
     - assets/ic/Grade-6/Math/Symmetrical-figures,-design-of-polygons-and-tesselations/patterns-and-designs-of-polygons-208/content/patterns-and-designs-of-polygons-208/images/
 
     - assets/ic/Grade-7/Science/Measurement/
+    - assets/ic/Grade-7/Science/Measurement/content/measurement-4-1339/
     - assets/ic/Grade-7/Science/Measurement/libraries/h5pcore/
     - assets/ic/Grade-7/Science/Measurement/content/measurement-4-1339/images/
 
     - assets/ic/Grade-7/Science/Metals-and-non-metals/
+    - assets/ic/Grade-7/Science/Metals-and-non-metals/content/metal-and-non-metal-3-1167/
     - assets/ic/Grade-7/Science/Metals-and-non-metals/libraries/h5pcore/
     - assets/ic/Grade-7/Science/Metals-and-non-metals/content/metal-and-non-metal-3-1167/images/
 
@@ -1390,122 +1543,161 @@ flutter:
     - assets/ic/Grade-8/Math/Similarity and Congruency/similar-triangles-and-their-conditions-327/
     - assets/ic/Grade-8/Math/Similarity and Congruency/similar-triangles-and-their-conditions-327/content/similar-triangles-and-their-conditions-327/images/
 
-    - assets/ic/Grade-4/Computer/Computer System/
-    - assets/ic/Grade-4/Computer/Computer System/content/computer-system-2-775/images/
+    - assets/ic/Grade-4/Computer/Computer-System/
+    - assets/ic/Grade-4/Computer/Computer-System/libraries/h5pcore/
+    - assets/ic/Grade-4/Computer/Computer-System/content/computer-system-2-775/images/
 
-    - assets/ic/Grade-4/Computer/Input Device/
-    - assets/ic/Grade-4/Computer/Input Device/content/input-device-flash-cards-757/images/
+    - assets/ic/Grade-4/Computer/Input-Device/
+    - assets/ic/Grade-4/Computer/Input-Device/libraries/h5pcore/
+    - assets/ic/Grade-4/Computer/Input-Device/content/input-device-flash-cards-757/images/
 
-    - assets/ic/Grade-4/Computer/Introduction to the computer/
-    - assets/ic/Grade-4/Computer/Introduction to the computer/content/introduction-to-a-computer-883/images/
+    - assets/ic/Grade-4/Computer/Introduction-to-the-computer/
+    - assets/ic/Grade-4/Computer/Introduction-to-the-computer/libraries/h5pcore/
+    - assets/ic/Grade-4/Computer/Introduction-to-the-computer/content/introduction-to-a-computer-883/images/
 
-    - assets/ic/Grade-4/Computer/More about Typing Skill/
-    - assets/ic/Grade-4/Computer/More about Typing Skill/content/more-about-typing-skill-781/images/
+    - assets/ic/Grade-4/Computer/More-about-Typing-Skill/
+    - assets/ic/Grade-4/Computer/More-about-Typing-Skill/libraries/h5pcore/
+    - assets/ic/Grade-4/Computer/More-about-Typing-Skill/content/more-about-typing-skill-781/images/
 
-    - assets/ic/Grade-4/Computer/Operating system/
-    - assets/ic/Grade-4/Computer/Operating system/content/operating-system-942/images/
+    - assets/ic/Grade-4/Computer/Operating-system/
+    - assets/ic/Grade-4/Computer/Operating-system/libraries/h5pcore/
+    - assets/ic/Grade-4/Computer/Operating-system/content/operating-system-942/images/
 
-    - assets/ic/Grade-4/Computer/Output Device/
-    - assets/ic/Grade-4/Computer/Output Device/content/output-devices-766/images/
+    - assets/ic/Grade-4/Computer/Output-Device/
+    - assets/ic/Grade-4/Computer/Output-Device/libraries/h5pcore/
+    - assets/ic/Grade-4/Computer/Output-Device/content/output-devices-766/images/
 
-    - assets/ic/Grade-4/Computer/Processing Unit/
-    - assets/ic/Grade-4/Computer/Processing Unit/content/processing-unit-771/images/
+    - assets/ic/Grade-4/Computer/Processing-Unit/
+    - assets/ic/Grade-4/Computer/Processing-Unit/libraries/h5pcore/
+    - assets/ic/Grade-4/Computer/Processing-Unit/content/processing-unit-771/images/
 
-    - assets/ic/Grade-4/Computer/Programming Language LOGO/
-    - assets/ic/Grade-4/Computer/Programming Language LOGO/content/programming-language-logo-944/images/
+    - assets/ic/Grade-4/Computer/Programming-Language-LOGO/
+    - assets/ic/Grade-4/Computer/Programming-Language-LOGO/libraries/h5pcore/
+    - assets/ic/Grade-4/Computer/Programming-Language-LOGO/content/programming-language-logo-944/images/
 
     - assets/ic/Grade-4/Computer/Software/
+    - assets/ic/Grade-4/Computer/Software/libraries/h5pcore/
     - assets/ic/Grade-4/Computer/Software/content/software-897/images/
 
-    - assets/ic/Grade-4/Computer/Types of Computer/
-    - assets/ic/Grade-4/Computer/Types of Computer/content/types-of-computers-889/images/
+    - assets/ic/Grade-4/Computer/Types-of-Computer/
+    - assets/ic/Grade-4/Computer/Types-of-Computer/libraries/h5pcore/
+    - assets/ic/Grade-4/Computer/Types-of-Computer/content/types-of-computers-889/images/
 
     - assets/ic/Grade-4/Computer/WordPad/
+    - assets/ic/Grade-4/Computer/WordPad/libraries/h5pcore/
     - assets/ic/Grade-4/Computer/WordPad/content/wordpad-769/images/
 
-    - assets/ic/Grade-5/Computer/Computer Introduction/characteristics-of-a-computer-936/
-    - assets/ic/Grade-5/Computer/Computer Introduction/characteristics-of-a-computer-936/content/characteristics-of-a-computer-936/images/
+    - assets/ic/Grade-5/Computer/Computer-Introduction/characteristics-of-a-computer-936/
+    - assets/ic/Grade-5/Computer/Computer-Introduction/characteristics-of-a-computer-936/libraries/h5pcore/
+    - assets/ic/Grade-5/Computer/Computer-Introduction/characteristics-of-a-computer-936/content/characteristics-of-a-computer-936/
+    - assets/ic/Grade-5/Computer/Computer-Introduction/characteristics-of-a-computer-936/content/characteristics-of-a-computer-936/images/
 
-    - assets/ic/Grade-5/Computer/Computer Introduction/limitation-of-computers-1185/
-    - assets/ic/Grade-5/Computer/Computer Introduction/limitation-of-computers-1185/content/limitation-of-computers-1185/images/
+    - assets/ic/Grade-5/Computer/Computer-Introduction/limitation-of-computers-1185/
+    - assets/ic/Grade-5/Computer/Computer-Introduction/limitation-of-computers-1185/libraries/h5pcore/
+    - assets/ic/Grade-5/Computer/Computer-Introduction/limitation-of-computers-1185/content/limitation-of-computers-1185/
+    - assets/ic/Grade-5/Computer/Computer-Introduction/limitation-of-computers-1185/content/limitation-of-computers-1185/images/
 
-    - assets/ic/Grade-5/Computer/Computer virus/antivirus-946/
-    - assets/ic/Grade-5/Computer/Computer virus/antivirus-946/content/antivirus-946/images/
+    - assets/ic/Grade-5/Computer/Computer-virus/antivirus-946/
+    - assets/ic/Grade-5/Computer/Computer-virus/antivirus-946/libraries/h5pcore/
+    - assets/ic/Grade-5/Computer/Computer-virus/antivirus-946/content/antivirus-946/
+    - assets/ic/Grade-5/Computer/Computer-virus/antivirus-946/content/antivirus-946/images/
 
-    - assets/ic/Grade-5/Computer/Computer virus/computer-virus-945/
-    - assets/ic/Grade-5/Computer/Computer virus/computer-virus-945/content/computer-virus-945/images/
+    - assets/ic/Grade-5/Computer/Computer-virus/computer-virus-945/
+    - assets/ic/Grade-5/Computer/Computer-virus/computer-virus-945/libraries/h5pcore/
+    - assets/ic/Grade-5/Computer/Computer-virus/computer-virus-945/content/computer-virus-945/
+    - assets/ic/Grade-5/Computer/Computer-virus/computer-virus-945/content/computer-virus-945/images/
 
-    - assets/ic/Grade-5/Computer/Computer virus/introduction-16-984/
-    - assets/ic/Grade-5/Computer/Computer virus/introduction-16-984/content/introduction-16-984/images/
+    - assets/ic/Grade-5/Computer/Computer-virus/introduction-16-984/
+    - assets/ic/Grade-5/Computer/Computer-virus/introduction-16-984/libraries/h5pcore/
+    - assets/ic/Grade-5/Computer/Computer-virus/introduction-16-984/content/introduction-16-984/
+    - assets/ic/Grade-5/Computer/Computer-virus/introduction-16-984/content/introduction-16-984/images/
 
-    - assets/ic/Grade-5/Computer/Computer virus/preventive-measures-986/
-    - assets/ic/Grade-5/Computer/Computer virus/preventive-measures-986/content/preventive-measures-986/images/
+    - assets/ic/Grade-5/Computer/Computer-virus/preventive-measures-986/
+    - assets/ic/Grade-5/Computer/Computer-virus/preventive-measures-986/libraries/h5pcore/
+    - assets/ic/Grade-5/Computer/Computer-virus/preventive-measures-986/content/preventive-measures-986/
+    - assets/ic/Grade-5/Computer/Computer-virus/preventive-measures-986/content/preventive-measures-986/images/
 
-    - assets/ic/Grade-5/Computer/History of computer/computer-generations-863/
-    - assets/ic/Grade-5/Computer/History of computer/computer-generations-863/content/computer-generations-863/images/
+    - assets/ic/Grade-5/Computer/History-of-computer/computer-generations-863/
+    - assets/ic/Grade-5/Computer/History-of-computer/computer-generations-863/libraries/h5pcore/
+    - assets/ic/Grade-5/Computer/History-of-computer/computer-generations-863/content/computer-generations-863/
+    - assets/ic/Grade-5/Computer/History-of-computer/computer-generations-863/content/computer-generations-863/images/
 
-    - assets/ic/Grade-5/Computer/History of computer/electro-mechanical-and-electronic-computers-2-862/
-    - assets/ic/Grade-5/Computer/History of computer/electro-mechanical-and-electronic-computers-2-862/content/electro-mechanical-and-electronic-computers-2-862/images/
+    - assets/ic/Grade-5/Computer/History-of-computer/electro-mechanical-and-electronic-computers-2-862/
+    - assets/ic/Grade-5/Computer/History-of-computer/electro-mechanical-and-electronic-computers-2-862/libraries/h5pcore/
+    - assets/ic/Grade-5/Computer/History-of-computer/electro-mechanical-and-electronic-computers-2-862/content/electro-mechanical-and-electronic-computers-2-862/
+    - assets/ic/Grade-5/Computer/History-of-computer/electro-mechanical-and-electronic-computers-2-862/content/electro-mechanical-and-electronic-computers-2-862/images/
 
-    - assets/ic/Grade-5/Computer/History of computer/introduction-10-832/
-    - assets/ic/Grade-5/Computer/History of computer/introduction-10-832/content/introduction-10-832/images/
+    - assets/ic/Grade-5/Computer/History-of-computer/introduction-10-832/
+    - assets/ic/Grade-5/Computer/History-of-computer/introduction-10-832/libraries/h5pcore/
+    - assets/ic/Grade-5/Computer/History-of-computer/introduction-10-832/content/introduction-10-832/
+    - assets/ic/Grade-5/Computer/History-of-computer/introduction-10-832/content/introduction-10-832/images/
 
-    - assets/ic/Grade-5/Computer/History of computer/pioneers-of-computer-842/
-    - assets/ic/Grade-5/Computer/History of computer/pioneers-of-computer-842/content/pioneers-of-computer-842/images/
+    - assets/ic/Grade-5/Computer/History-of-computer/pioneers-of-computer-842/
+    - assets/ic/Grade-5/Computer/History-of-computer/pioneers-of-computer-842/libraries/h5pcore/
+    - assets/ic/Grade-5/Computer/History-of-computer/pioneers-of-computer-842/content/pioneers-of-computer-842/
+    - assets/ic/Grade-5/Computer/History-of-computer/pioneers-of-computer-842/content/pioneers-of-computer-842/images/
 
-    - assets/ic/Grade-5/Computer/Input device/
-    - assets/ic/Grade-5/Computer/Input device/content/input-device-flash-cards-2-866/images/
+    - assets/ic/Grade-5/Computer/Input-device/
+    - assets/ic/Grade-5/Computer/Input-device/libraries/h5pcore/
+    - assets/ic/Grade-5/Computer/Input-device/content/input-device-flash-cards-2-866/
+    - assets/ic/Grade-5/Computer/Input-device/content/input-device-flash-cards-2-866/images/
 
-    - assets/ic/Grade-5/Computer/Memory device/primary-memory-858/
-    - assets/ic/Grade-5/Computer/Memory device/primary-memory-858/content/primary-memory-858/images/
+    - assets/ic/Grade-5/Computer/Memory-device/primary-memory-858/
+    - assets/ic/Grade-5/Computer/Memory-device/primary-memory-858/libraries/h5pcore/
+    - assets/ic/Grade-5/Computer/Memory-device/primary-memory-858/content/primary-memory-858/
+    - assets/ic/Grade-5/Computer/Memory-device/primary-memory-858/content/primary-memory-858/images/
 
-    - assets/ic/Grade-5/Computer/Memory device/secondary-memory-844/
-    - assets/ic/Grade-5/Computer/Memory device/secondary-memory-844/content/secondary-memory-844/images/
+    - assets/ic/Grade-5/Computer/Memory-device/secondary-memory-844/
+    - assets/ic/Grade-5/Computer/Memory-device/secondary-memory-844/libraries/h5pcore/
+    - assets/ic/Grade-5/Computer/Memory-device/secondary-memory-844/content/secondary-memory-844/
+    - assets/ic/Grade-5/Computer/Memory-device/secondary-memory-844/content/secondary-memory-844/images/
 
-    - assets/ic/Grade-5/Computer/Memory device/units-of-memory-840/
-    - assets/ic/Grade-5/Computer/Memory device/units-of-memory-840/content/units-of-memory-840/images/
+    - assets/ic/Grade-5/Computer/Memory-device/units-of-memory-840/
+    - assets/ic/Grade-5/Computer/Memory-device/units-of-memory-840/libraries/h5pcore/
+    - assets/ic/Grade-5/Computer/Memory-device/units-of-memory-840/content/units-of-memory-840/
+    - assets/ic/Grade-5/Computer/Memory-device/units-of-memory-840/content/units-of-memory-840/images/
 
-    - assets/ic/Grade-5/Computer/Network and the internet/birth-of-the-internet-59-dialog-cards-960/
-    - assets/ic/Grade-5/Computer/Network and the internet/birth-of-the-internet-59-dialog-cards-960/content/birth-of-the-internet-59-dialog-cards-960/images/
+    - assets/ic/Grade-5/Computer/Network-and-the-internet/birth-of-the-internet-59-dialog-cards-960/
+    - assets/ic/Grade-5/Computer/Network-and-the-internet/birth-of-the-internet-59-dialog-cards-960/content/birth-of-the-internet-59-dialog-cards-960/images/
 
-    - assets/ic/Grade-5/Computer/Network and the internet/important-terms-related-to-the-internet-62-63-column-question-959/
-    - assets/ic/Grade-5/Computer/Network and the internet/important-terms-related-to-the-internet-62-63-column-question-959/content/important-terms-related-to-the-internet-62-63-column-question-959/images/
+    - assets/ic/Grade-5/Computer/Network-and-the-internet/important-terms-related-to-the-internet-62-63-column-question-959/
+    - assets/ic/Grade-5/Computer/Network-and-the-internet/important-terms-related-to-the-internet-62-63-column-question-959/content/important-terms-related-to-the-internet-62-63-column-question-959/images/
 
-    - assets/ic/Grade-5/Computer/Network and the internet/the-internet-60-61-column-question-958/
-    - assets/ic/Grade-5/Computer/Network and the internet/the-internet-60-61-column-question-958/content/the-internet-60-61-column-question-958/images/
+    - assets/ic/Grade-5/Computer/Network-and-the-internet/the-internet-60-61-column-question-958/
+    - assets/ic/Grade-5/Computer/Network-and-the-internet/the-internet-60-61-column-question-958/content/the-internet-60-61-column-question-958/images/
 
-    - assets/ic/Grade-5/Computer/Network and the internet/types-of-computer-network-957/
-    - assets/ic/Grade-5/Computer/Network and the internet/types-of-computer-network-957/content/types-of-computer-network-957/images/
+    - assets/ic/Grade-5/Computer/Network-and-the-internet/types-of-computer-network-957/
+    - assets/ic/Grade-5/Computer/Network-and-the-internet/types-of-computer-network-957/content/types-of-computer-network-957/images/
 
-    - assets/ic/Grade-5/Computer/Output device/output-device-dialog-cards-2-875/
-    - assets/ic/Grade-5/Computer/Output device/output-device-dialog-cards-2-875/content/output-device-dialog-cards-2-875/images/
+    - assets/ic/Grade-5/Computer/Output-device/output-device-dialog-cards-2-875/
+    - assets/ic/Grade-5/Computer/Output-device/output-device-dialog-cards-2-875/content/output-device-dialog-cards-2-875/images/
 
-    - assets/ic/Grade-5/Computer/Output device/output-device-dialog-cards-870/
-    - assets/ic/Grade-5/Computer/Output device/output-device-dialog-cards-870/content/output-device-dialog-cards-870/images/
+    - assets/ic/Grade-5/Computer/Output-device/output-device-dialog-cards-870/
+    - assets/ic/Grade-5/Computer/Output-device/output-device-dialog-cards-870/content/output-device-dialog-cards-870/images/
 
-    - assets/ic/Grade-5/Computer/Software of Computer/
-    - assets/ic/Grade-5/Computer/Software of Computer/content/computer-software-2-837/images/
+    - assets/ic/Grade-5/Computer/Software-of-Computer/
+    - assets/ic/Grade-5/Computer/Software-of-Computer/content/computer-software-2-837/images/
 
-    - assets/ic/Grade-5/Computer/Working with Paint Brush/working-with-paint-brush-1181/
-    - assets/ic/Grade-5/Computer/Working with Paint Brush/working-with-paint-brush-1181/content/working-with-paint-brush-1181/images/
+    - assets/ic/Grade-5/Computer/Working-with-Paint-Brush/working-with-paint-brush-1181/
+    - assets/ic/Grade-5/Computer/Working-with-Paint-Brush/working-with-paint-brush-1181/content/working-with-paint-brush-1181/images/
 
-    - assets/ic/Grade-5/Computer/Working with Paint Brush/working-with-shapes-1182/
-    - assets/ic/Grade-5/Computer/Working with Paint Brush/working-with-shapes-1182/content/working-with-shapes-1182/images/
+    - assets/ic/Grade-5/Computer/Working-with-Paint-Brush/working-with-shapes-1182/
+    - assets/ic/Grade-5/Computer/Working-with-Paint-Brush/working-with-shapes-1182/content/working-with-shapes-1182/images/
 
-    - assets/ic/Grade-5/Computer/Working with Paint Brush/working-with-tabs-1323/
-    - assets/ic/Grade-5/Computer/Working with Paint Brush/working-with-tabs-1323/content/working-with-tabs-1323/images/
+    - assets/ic/Grade-5/Computer/Working-with-Paint-Brush/working-with-tabs-1323/
+    - assets/ic/Grade-5/Computer/Working-with-Paint-Brush/working-with-tabs-1323/content/working-with-tabs-1323/images/
 
-    - assets/ic/Grade-5/Computer/Working with Word Pad/starting-and-componets-of-wordpad-1011/
-    - assets/ic/Grade-5/Computer/Working with Word Pad/starting-and-componets-of-wordpad-1011/content/starting-and-componets-of-wordpad-1011/images/
+    - assets/ic/Grade-5/Computer/Working-with-Word-Pad/starting-and-componets-of-wordpad-1011/
+    - assets/ic/Grade-5/Computer/Working-with-Word-Pad/starting-and-componets-of-wordpad-1011/content/starting-and-componets-of-wordpad-1011/images/
 
-    - assets/ic/Grade-5/Computer/Working with Word Pad/woking-on-home-tab-1121/
-    - assets/ic/Grade-5/Computer/Working with Word Pad/woking-on-home-tab-1121/content/woking-on-home-tab-1121/images/
+    - assets/ic/Grade-5/Computer/Working-with-Word-Pad/woking-on-home-tab-1121/
+    - assets/ic/Grade-5/Computer/Working-with-Word-Pad/woking-on-home-tab-1121/content/woking-on-home-tab-1121/images/
 
-    - assets/ic/Grade-5/Computer/Working with Word Pad/working-with-find-replace-and-select-all-1130/
-    - assets/ic/Grade-5/Computer/Working with Word Pad/working-with-find-replace-and-select-all-1130/content/working-with-find-replace-and-select-all-1130/images/
+    - assets/ic/Grade-5/Computer/Working-with-Word-Pad/working-with-find-replace-and-select-all-1130/
+    - assets/ic/Grade-5/Computer/Working-with-Word-Pad/working-with-find-replace-and-select-all-1130/content/working-with-find-replace-and-select-all-1130/images/
 
-    - assets/ic/Grade-5/Computer/Working with Word Pad/working-with-view-tab-1173/
-    - assets/ic/Grade-5/Computer/Working with Word Pad/working-with-view-tab-1173/content/working-with-view-tab-1173/images/
+    - assets/ic/Grade-5/Computer/Working-with-Word-Pad/working-with-view-tab-1173/
+    - assets/ic/Grade-5/Computer/Working-with-Word-Pad/working-with-view-tab-1173/content/working-with-view-tab-1173/images/
 
     - assets/ic/Grade-6/Computer/Computer Memory/introduction-and-units-of-memory-1160/
     - assets/ic/Grade-6/Computer/Computer Memory/introduction-and-units-of-memory-1160/content/introduction-and-units-of-memory-1160/images/

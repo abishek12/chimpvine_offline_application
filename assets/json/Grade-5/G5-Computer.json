@@ -4,77 +4,82 @@
         {
             "title": "History of Computer (Introduction)",
             "image": "assets/games/game_one.png",
-            "path": "assets/ic/Grade-1/Computer/Parts of a computer/parts-of-a-computer-interactive-quiz-1483/index.html"
+            "path": "assets/ic/Grade-5/Computer/History-of-computer/introduction-10-832/index.html"
         },
         {
             "title": "History of Computer (Eectro-mechanical and Electronic Computers)",
             "image": "assets/games/game_one.png",
-            "path": "assets/ic/Grade-1/Computer/Working with Word Pad/starting-and-componets-of-wordpad-1011/index.html"
+            "path": "assets/ic/Grade-5/Computer/History-of-computer/electro-mechanical-and-electronic-computers-2-862/index.html"
         },
         {
             "title": "History of Computer (Generation of Computer)",
             "image": "assets/games/game_one.png",
-            "path": "assets/ic/Grade-5/Computer/Working with Word Pad/woking-on-home-tab-1121/index.html"
+            "path": "assets/ic/Grade-5/Computer/History-of-computer/computer-generations-863/index.html"
         },
         {
             "title": "Software of Computer (Computer Softwares)",
             "image": "assets/games/game_one.png",
-            "path": "assets/ic/Grade-1/Computer/The Keyboard/index.html"
+            "path": "assets/ic/Grade-5/Computer/Software-of-Computer/index.html"
         },
         {
             "title": "Memory Device (Units of Memory)",
             "image": "assets/games/game_one.png",
-            "path": "assets/ic/Grade-1/Computer/Music Player/index.html"
+            "path": "assets/ic/Grade-5/Computer/Memory-device/units-of-memory-840/index.html"
+        },
+        {
+            "title": "Memory Device (Primary Memory)",
+            "image": "assets/games/game_one.png",
+            "path": "assets/ic/Grade-5/Computer/Memory-device/primary-memory-858/index.html"
         },
         {
             "title": "Memory Device (Secondary Memory)",
             "image": "assets/games/game_one.png",
-            "path": "assets/ic/Grade-1/Computer/Let_s paint using a computer/index.html"
+            "path": "assets/ic/Grade-5/Computer/Memory-device/secondary-memory-844/index.html"
         },
         {
             "title": "Computer Virus (Introduction)",
             "image": "assets/games/game_one.png",
-            "path": "assets/ic/Grade-1/Computer/Mighty mouse/index.html"
+            "path": "assets/ic/Grade-5/Computer/Computer-virus/introduction-16-984/index.html"
         },
         {
             "title": "Computer Virus (Preventive Measures)",
             "image": "assets/games/game_one.png",
-            "path": "assets/ic/Grade-1/Computer/Computer (A Smart Machine)/computer-a-smart-machine-interactive-book-1419/index.html"
-        },
-        {
-            "title": "Network and the Internet (Types of Computer Network)",
-            "image": "assets/games/game_one.png",
-            "path": "assets/ic/Grade-1/Computer/Computer (A Smart Machine)/computer-a-smart-machine-interactive-quiz-1420/index.html"
+            "path": "assets/ic/Grade-5/Computer/Computer-virus/preventive-measures-986/index.html"
         },
         {
             "title": "Network and the Internet (The Internet)",
             "image": "assets/games/game_one.png",
-            "path": "assets/ic/Grade-1/Computer/Monitor (display unit)/index.html"
+            "path": "assets/ic/Grade-5/Computer/Network-and-the-Internet/types-of-computer-network-957/index.html"
+        },
+        {
+            "title": "Network and the Internet (Types of Computer Network)",
+            "image": "assets/games/game_one.png",
+            "path": "assets/ic/Grade-5/Computer/Network-and-the-Internet/types-of-computer-network-957/index.html"
         },
         {
             "title": "Working with WordPad (Find, Replace and Select All)",
             "image": "assets/games/game_one.png",
-            "path": "assets/ic/Grade-1/Computer/Computer and its use/index.html"
+            "path": "assets/ic/Grade-5/Computer/Working-with-Word-Pad/working-with-find-replace-and-select-all-1130/index.html"
         },
         {
             "title": "Working with WordPad (Working with View Tab)",
             "image": "assets/games/game_one.png",
-            "path": "assets/ic/Grade-1/Computer/Parts of a computer/parts-of-a-computer-interactive-book-1482/index.html"
+            "path": "assets/ic/Grade-1/Computer/Working-with-Word-Pad/working-with-view-tab-1173/index.html"
         },
         {
             "title": "Working with Paint Brush (Introduction and Starting Paint in Windows 8)",
             "image": "assets/games/game_one.png",
-            "path": "assets/ic/Grade-1/Computer/Parts of a computer/parts-of-a-computer-interactive-quiz-1483/index.html"
+            "path": "assets/ic/Grade-1/Computer/Working-with-Paint-Brush/working-with-paint-brush-1181/index.html"
         },
         {
             "title": "Working with Paint Brush (Working with Shapes)",
             "image": "assets/games/game_one.png",
-            "path": "assets/ic/Grade-1/Computer/Parts of a computer/parts-of-a-computer-interactive-quiz-1483/index.html"
+            "path": "assets/ic/Grade-1/Computer/Working-with-Paint-Brush/working-with-shapes-1182/index.html"
         },
         {
             "title": "Working with Paint Brush (Working with Tabs)",
             "image": "assets/games/game_one.png",
-            "path": "assets/ic/Grade-1/Computer/Parts of a computer/parts-of-a-computer-interactive-quiz-1483/index.html"
+            "path": "assets/ic/Grade-1/Computer/Working-with-Paint-Brush/working-with-tabs-1323/index.html"
         }
         
     ],
