@@ -5,6 +5,7 @@ import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 import 'package:flutter_staggered_grid_view/flutter_staggered_grid_view.dart';
 import 'package:gap/gap.dart';
+import 'package:go_router/go_router.dart';
 
 class HomeContentRecommendation extends StatefulWidget {
   const HomeContentRecommendation({super.key});
@@ -82,7 +83,7 @@ class _HomeContentRecommendationState extends State<HomeContentRecommendation> {
                         ),
                         const Gap(10),
                         ElevatedButton(
-                          onPressed: () {},
+                          onPressed: () => context.pushNamed("searchScreen"),
                           child: const Text("Play Now"),
                         ),
                       ],

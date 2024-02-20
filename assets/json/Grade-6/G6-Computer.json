@@ -1,80 +1,80 @@
 {
-    "count": 15,
+    "count": 65,
     "ic": [
         {
             "title": "Introduction to Computer and its Generations (Limitations and Application)",
             "image": "assets/games/game_one.png",
-            "path": "assets/ic/Grade-1/Computer/Parts of a computer/parts-of-a-computer-interactive-quiz-1483/index.html"
+            "path": "assets/ic/Grade-6/Computer/Parts of a computer/parts-of-a-computer-interactive-quiz-6483/index.html"
         },
         {
             "title": "Introduction to Computer and its Generations (Fourth Generation Computers)",
             "image": "assets/games/game_one.png",
-            "path": "assets/ic/Grade-1/Computer/Working with Word Pad/starting-and-componets-of-wordpad-1011/index.html"
+            "path": "assets/ic/Grade-6/Computer/Working with Word Pad/starting-and-componets-of-wordpad-6066/index.html"
         },
         {
             "title": "Computer System (Input Unit)",
             "image": "assets/games/game_one.png",
-            "path": "assets/ic/Grade-5/Computer/Working with Word Pad/woking-on-home-tab-1121/index.html"
+            "path": "assets/ic/Grade-5/Computer/Working with Word Pad/woking-on-home-tab-6626/index.html"
         },
         {
             "title": "Computer System (Output Unit)",
             "image": "assets/games/game_one.png",
-            "path": "assets/ic/Grade-1/Computer/The Keyboard/index.html"
+            "path": "assets/ic/Grade-6/Computer/The Keyboard/index.html"
         },
         {
             "title": "Computer System (Hardware and Software)",
             "image": "assets/games/game_one.png",
-            "path": "assets/ic/Grade-1/Computer/Music Player/index.html"
+            "path": "assets/ic/Grade-6/Computer/Music Player/index.html"
         },
         {
             "title": "Introduction to Word Processing : MS-Word (Date, time and Inserting Special Symbols)",
             "image": "assets/games/game_one.png",
-            "path": "assets/ic/Grade-1/Computer/Music Player/index.html"
+            "path": "assets/ic/Grade-6/Computer/Music Player/index.html"
         },
         {
             "title": "Introduction to Word Processing : MS-Word (Different Functions of Word)",
             "image": "assets/games/game_one.png",
-            "path": "assets/ic/Grade-1/Computer/Let_s paint using a computer/index.html"
+            "path": "assets/ic/Grade-6/Computer/Let_s paint using a computer/index.html"
         },
         {
             "title": "Introduction to Word Processing : MS-Word (Printing)",
             "image": "assets/games/game_one.png",
-            "path": "assets/ic/Grade-1/Computer/Mighty mouse/index.html"
+            "path": "assets/ic/Grade-6/Computer/Mighty mouse/index.html"
         },
         {
             "title": "Introduction to Spreadsheet : MS-Excel (The MS-Excel Screen)",
             "image": "assets/games/game_one.png",
-            "path": "assets/ic/Grade-1/Computer/Computer (A Smart Machine)/computer-a-smart-machine-interactive-book-1419/index.html"
+            "path": "assets/ic/Grade-6/Computer/Computer (A Smart Machine)/computer-a-smart-machine-interactive-book-6469/index.html"
         },
         {
             "title": "Introduction to Spreadsheet : MS-Excel (Formulas in Worksheet)",
             "image": "assets/games/game_one.png",
-            "path": "assets/ic/Grade-1/Computer/Computer (A Smart Machine)/computer-a-smart-machine-interactive-quiz-1420/index.html"
+            "path": "assets/ic/Grade-6/Computer/Computer (A Smart Machine)/computer-a-smart-machine-interactive-quiz-6420/index.html"
         },
         {
             "title": "Operating System (Terms used in MS-DOS)",
             "image": "assets/games/game_one.png",
-            "path": "assets/ic/Grade-1/Computer/Monitor (display unit)/index.html"
+            "path": "assets/ic/Grade-6/Computer/Monitor (display unit)/index.html"
         },
         {
             "title": "Operating System (MS-DOS Commands)",
             "image": "assets/games/game_one.png",
-            "path": "assets/ic/Grade-1/Computer/Computer and its use/index.html"
+            "path": "assets/ic/Grade-6/Computer/Computer and its use/index.html"
         },
         {
             "title": "Computer Memory (Introduction and units of memory)",
             "image": "assets/games/game_one.png",
-            "path": "assets/ic/Grade-1/Computer/Parts of a computer/parts-of-a-computer-interactive-book-1482/index.html"
+            "path": "assets/ic/Grade-6/Computer/Parts of a computer/parts-of-a-computer-interactive-book-6482/index.html"
         },
         {
             "title": "Computer Memory (Primary Memory)",
             "image": "assets/games/game_one.png",
-            "path": "assets/ic/Grade-1/Computer/Parts of a computer/parts-of-a-computer-interactive-quiz-1483/index.html"
+            "path": "assets/ic/Grade-6/Computer/Parts of a computer/parts-of-a-computer-interactive-quiz-6483/index.html"
         },
         {
             "title": "Introduction to presentation softwre: MS-Powerpoint",
             "image": "assets/games/game_one.png",
-            "path": "assets/ic/Grade-1/Computer/Parts of a computer/parts-of-a-computer-interactive-quiz-1483/index.html"
+            "path": "assets/ic/Grade-6/Computer/Parts of a computer/parts-of-a-computer-interactive-quiz-6483/index.html"
         } 
     ],
     "games": []

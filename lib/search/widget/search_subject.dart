@@ -20,7 +20,7 @@ class _SearchSubjectWidget extends State<SearchSubjectWidget> {
       padding: const EdgeInsets.symmetric(
         horizontal: 48.0,
       ),
-      height: 450,
+      height: 400,
       child: GridView.builder(
           gridDelegate: const SliverGridDelegateWithFixedCrossAxisCount(
             crossAxisCount: 4,
@@ -62,7 +62,7 @@ class _SearchSubjectWidget extends State<SearchSubjectWidget> {
                   children: [
                     Image.asset(
                       "assets/grades/${subjectHelper('$index')}.jpg",
-                      height: 360,
+                      height: 310,
                       fit: BoxFit.cover,
                     ),
                     CustomText(

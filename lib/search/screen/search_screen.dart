@@ -38,7 +38,7 @@ class _SearchScreenState extends State<SearchScreen> {
                 bottomRight: Radius.circular(20.0),
               ),
             ),
-            expandedHeight: MediaQuery.of(context).size.height * 0.45,
+            expandedHeight: MediaQuery.of(context).size.height * 0.35,
             flexibleSpace: const MyFlexibleSpace(),
             pinned: true,
             snap: false,

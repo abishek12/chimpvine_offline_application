@@ -742,22 +742,6 @@ flutter:
     - assets/ic/Grade-1/Math/bigger-and-smaller-115/content/bigger-and-smaller-115/
     - assets/ic/Grade-1/Math/bigger-and-smaller-115/content/bigger-and-smaller-115/images/
 
-    - assets/ic/Grade-1/Science/animals-having-wings-dialog-cards-848/
-    - assets/ic/Grade-1/Science/animals-having-wings-dialog-cards-848/content/animals-having-wings-dialog-cards-848/images/
-    - assets/ic/Grade-1/Science/animals-having-wings-dialog-cards-848/content/animals-having-wings-dialog-cards-848/audios/
-
-    - assets/ic/Grade-1/Science/clean-house-and-school-549/
-    - assets/ic/Grade-1/Science/clean-house-and-school-549/content/clean-house-and-school-549/images/
-    - assets/ic/Grade-1/Science/clean-house-and-school-549/content/clean-house-and-school-549/audios/
-
-    - assets/ic/Grade-1/Science/living-things-interactive-book-1475/
-    - assets/ic/Grade-1/Science/living-things-interactive-book-1475/content/living-things-interactive-book-1475/images/
-    - assets/ic/Grade-1/Science/living-things-interactive-book-1475/content/living-things-interactive-book-1475/audios/
-
-    - assets/ic/Grade-1/Science/plants-2-1395/
-    - assets/ic/Grade-1/Science/plants-2-1395/content/plants-2-1395/images/
-    - assets/ic/Grade-1/Science/plants-2-1395/content/plants-2-1395/audios/
-
     - assets/ic/Grade-2/Computer/Do_s-and-don_ts-with-the-computer/
     - assets/ic/Grade-2/Computer/Do_s-and-don_ts-with-the-computer/libraries/H5P.FontIcons-1.0/fonts/
     - assets/ic/Grade-2/Computer/Do_s-and-don_ts-with-the-computer/libraries/FontAwesome-4.5/
@@ -1412,25 +1396,31 @@ flutter:
 
     - assets/ic/Grade-7/Science/Mixture/
     - assets/ic/Grade-7/Science/Mixture/libraries/h5pcore/
+    - assets/ic/Grade-7/Science/Mixture/content/mixture-2-1134/
     - assets/ic/Grade-7/Science/Mixture/content/mixture-2-1134/images/
 
     - assets/ic/Grade-7/Math/Cube-and-cube-roots-of-number/
+    - assets/ic/Grade-7/Math/Cube-and-cube-roots-of-number/content/cube-and-cube-roots-of-number-277/
     - assets/ic/Grade-7/Math/Cube-and-cube-roots-of-number/libraries/h5pcore/
     - assets/ic/Grade-7/Math/Cube-and-cube-roots-of-number/content/cube-and-cube-roots-of-number-277/images/
 
     - assets/ic/Grade-7/Math/Factorization,-HCF,-and-LCM/
+    - assets/ic/Grade-7/Math/Factorization,-HCF,-and-LCM/content/h-c-f-and-l-c-m-2-282/
     - assets/ic/Grade-7/Math/Factorization,-HCF,-and-LCM/libraries/h5pcore/
     - assets/ic/Grade-7/Math/Factorization,-HCF,-and-LCM/content/h-c-f-and-l-c-m-2-282/images/
 
     - assets/ic/Grade-7/Math/Geometry-Construction/introduction-of-reflection-rotation-and-translation-180/
+    - assets/ic/Grade-7/Math/Geometry-Construction/introduction-of-reflection-rotation-and-translation-180/content/introduction-of-reflection-rotation-and-translation-180/
     - assets/ic/Grade-7/Math/Geometry-Construction/introduction-of-reflection-rotation-and-translation-180/libraries/h5pcore/
     - assets/ic/Grade-7/Math/Geometry-Construction/introduction-of-reflection-rotation-and-translation-180/content/introduction-of-reflection-rotation-and-translation-180/images/
 
     - assets/ic/Grade-7/Math/Geometry-Construction/transformation-rotation-177/
+    - assets/ic/Grade-7/Math/Geometry-Construction/transformation-rotation-177/content/transformation-rotation-177/
     - assets/ic/Grade-7/Math/Geometry-Construction/transformation-rotation-177/libraries/h5pcore/
     - assets/ic/Grade-7/Math/Geometry-Construction/transformation-rotation-177/content/transformation-rotation-177/images/
 
     - assets/ic/Grade-7/Math/Percentage,-ratio-and-proportion/percentage-215/
+    - assets/ic/Grade-7/Math/Percentage,-ratio-and-proportion/percentage-215/content/percentage-215/
     - assets/ic/Grade-7/Math/Percentage,-ratio-and-proportion/percentage-215/libraries/h5pcore/
     - assets/ic/Grade-7/Math/Percentage,-ratio-and-proportion/percentage-215/content/percentage-215/images/
 
@@ -1439,40 +1429,49 @@ flutter:
     - assets/ic/Grade-7/Math/Percentage,-ratio-and-proportion/proportion-212/content/proportion-212/images/
 
     - assets/ic/Grade-7/Math/Perimeter,-Area-and-Volume/area-of-plane-figures-160/
+    - assets/ic/Grade-7/Math/Perimeter,-Area-and-Volume/area-of-plane-figures-160/content/area-of-plane-figures-160/
     - assets/ic/Grade-7/Math/Perimeter,-Area-and-Volume/area-of-plane-figures-160/libraries/h5pcore/
     - assets/ic/Grade-7/Math/Perimeter,-Area-and-Volume/area-of-plane-figures-160/content/area-of-plane-figures-160/images/
 
     - assets/ic/Grade-7/Math/Perimeter,-Area-and-Volume/area-of-solid-figures-117/
+    - assets/ic/Grade-7/Math/Perimeter,-Area-and-Volume/area-of-solid-figures-117/content/area-of-solid-figures-117/
     - assets/ic/Grade-7/Math/Perimeter,-Area-and-Volume/area-of-solid-figures-117/libraries/h5pcore/
     - assets/ic/Grade-7/Math/Perimeter,-Area-and-Volume/area-of-solid-figures-117/content/area-of-solid-figures-117/images/
 
     - assets/ic/Grade-7/Math/Perimeter,-Area-and-Volume/introduction-to-perimeter-area-and-volume-108/
+    - assets/ic/Grade-7/Math/Perimeter,-Area-and-Volume/introduction-to-perimeter-area-and-volume-108/content/introduction-to-perimeter-area-and-volume-108/
     - assets/ic/Grade-7/Math/Perimeter,-Area-and-Volume/introduction-to-perimeter-area-and-volume-108/libraries/h5pcore/
     - assets/ic/Grade-7/Math/Perimeter,-Area-and-Volume/introduction-to-perimeter-area-and-volume-108/content/introduction-to-perimeter-area-and-volume-108/images/
 
     - assets/ic/Grade-7/Math/Profit,-Loss,-and-Simple-Interest/profit-and-loss-2-216/
+    - assets/ic/Grade-7/Math/Profit,-Loss,-and-Simple-Interest/profit-and-loss-2-216/content/profit-and-loss-2-216/
     - assets/ic/Grade-7/Math/Profit,-Loss,-and-Simple-Interest/profit-and-loss-2-216/libraries/h5pcore/
     - assets/ic/Grade-7/Math/Profit,-Loss,-and-Simple-Interest/profit-and-loss-2-216/content/profit-and-loss-2-216/images/
 
     - assets/ic/Grade-7/Math/Profit,-Loss,-and-Simple-Interest/simple-interest-using-formulae-244/
+    - assets/ic/Grade-7/Math/Profit,-Loss,-and-Simple-Interest/simple-interest-using-formulae-244/content/simple-interest-using-formulae-244/
     - assets/ic/Grade-7/Math/Profit,-Loss,-and-Simple-Interest/simple-interest-using-formulae-244/libraries/h5pcore/
     - assets/ic/Grade-7/Math/Profit,-Loss,-and-Simple-Interest/simple-interest-using-formulae-244/content/simple-interest-using-formulae-244/images/
 
     - assets/ic/Grade-7/Math/Symmetry,-Design,-and-Tesselation/line-and-point-symmetry-2-197/
+    - assets/ic/Grade-7/Math/Symmetry,-Design,-and-Tesselation/line-and-point-symmetry-2-197/content/line-and-point-symmetry-2-197/
     - assets/ic/Grade-7/Math/Symmetry,-Design,-and-Tesselation/line-and-point-symmetry-2-197/libraries/h5pcore/
     - assets/ic/Grade-7/Math/Symmetry,-Design,-and-Tesselation/line-and-point-symmetry-2-197/content/line-and-point-symmetry-2-197/images/
 
     - assets/ic/Grade-7/Math/Symmetry,-Design,-and-Tesselation/skeleton-models-of-tetra-hedron-octahedron-cone-and-cylinder-352/
+    - assets/ic/Grade-7/Math/Symmetry,-Design,-and-Tesselation/skeleton-models-of-tetra-hedron-octahedron-cone-and-cylinder-352/content/skeleton-models-of-tetra-hedron-octahedron-cone-and-cylinder-352/
     - assets/ic/Grade-7/Math/Symmetry,-Design,-and-Tesselation/skeleton-models-of-tetra-hedron-octahedron-cone-and-cylinder-352/libraries/h5pcore/
     - assets/ic/Grade-7/Math/Symmetry,-Design,-and-Tesselation/skeleton-models-of-tetra-hedron-octahedron-cone-and-cylinder-352/content/skeleton-models-of-tetra-hedron-octahedron-cone-and-cylinder-352/images/
 
     - assets/ic/Grade-7/Math/Symmetry,-Design,-and-Tesselation/tessellation-203/
+    - assets/ic/Grade-7/Math/Symmetry,-Design,-and-Tesselation/tessellation-203/content/tessellation-203/
     - assets/ic/Grade-7/Math/Symmetry,-Design,-and-Tesselation/tessellation-203/libraries/h5pcore/
     - assets/ic/Grade-7/Math/Symmetry,-Design,-and-Tesselation/tessellation-203/content/tessellation-203/images/
 
     - assets/ic/Grade-7/Math/Unitary-method/
     - assets/ic/Grade-7/Math/Unitary-method/libraries/h5pcore/
-    - assets/ic/Grade-7/Math/Unitary-method/
+    - assets/ic/Grade-7/Math/Unitary-method/content/unitary-method-involving-direct-and-indirect-variations-243/
+    - assets/ic/Grade-7/Math/Unitary-method/content/unitary-method-involving-direct-and-indirect-variations-243/images/
 
     - assets/ic/Grade-8/Science/Cell and tissue/
     - assets/ic/Grade-8/Science/Cell and tissue/content/cell-and-tissue-2-1307/images/
@@ -1544,46 +1543,57 @@ flutter:
     - assets/ic/Grade-8/Math/Similarity and Congruency/similar-triangles-and-their-conditions-327/content/similar-triangles-and-their-conditions-327/images/
 
     - assets/ic/Grade-4/Computer/Computer-System/
+    - assets/ic/Grade-4/Computer/Computer-System/content/computer-system-2-775/
     - assets/ic/Grade-4/Computer/Computer-System/libraries/h5pcore/
     - assets/ic/Grade-4/Computer/Computer-System/content/computer-system-2-775/images/
 
     - assets/ic/Grade-4/Computer/Input-Device/
+    - assets/ic/Grade-4/Computer/Input-Device/content/input-device-flash-cards-757/
     - assets/ic/Grade-4/Computer/Input-Device/libraries/h5pcore/
     - assets/ic/Grade-4/Computer/Input-Device/content/input-device-flash-cards-757/images/
 
     - assets/ic/Grade-4/Computer/Introduction-to-the-computer/
+    - assets/ic/Grade-4/Computer/Introduction-to-the-computer/content/introduction-to-a-computer-883/
     - assets/ic/Grade-4/Computer/Introduction-to-the-computer/libraries/h5pcore/
     - assets/ic/Grade-4/Computer/Introduction-to-the-computer/content/introduction-to-a-computer-883/images/
 
     - assets/ic/Grade-4/Computer/More-about-Typing-Skill/
+    - assets/ic/Grade-4/Computer/More-about-Typing-Skill/content/more-about-typing-skill-781/
     - assets/ic/Grade-4/Computer/More-about-Typing-Skill/libraries/h5pcore/
     - assets/ic/Grade-4/Computer/More-about-Typing-Skill/content/more-about-typing-skill-781/images/
 
     - assets/ic/Grade-4/Computer/Operating-system/
+    - assets/ic/Grade-4/Computer/Operating-system/content/operating-system-942/
     - assets/ic/Grade-4/Computer/Operating-system/libraries/h5pcore/
     - assets/ic/Grade-4/Computer/Operating-system/content/operating-system-942/images/
 
     - assets/ic/Grade-4/Computer/Output-Device/
+    - assets/ic/Grade-4/Computer/Output-Device/content/output-devices-766/
     - assets/ic/Grade-4/Computer/Output-Device/libraries/h5pcore/
     - assets/ic/Grade-4/Computer/Output-Device/content/output-devices-766/images/
 
     - assets/ic/Grade-4/Computer/Processing-Unit/
+    - assets/ic/Grade-4/Computer/Processing-Unit/content/processing-unit-771/
     - assets/ic/Grade-4/Computer/Processing-Unit/libraries/h5pcore/
     - assets/ic/Grade-4/Computer/Processing-Unit/content/processing-unit-771/images/
 
     - assets/ic/Grade-4/Computer/Programming-Language-LOGO/
+    - assets/ic/Grade-4/Computer/Programming-Language-LOGO/content/programming-language-logo-944/
     - assets/ic/Grade-4/Computer/Programming-Language-LOGO/libraries/h5pcore/
     - assets/ic/Grade-4/Computer/Programming-Language-LOGO/content/programming-language-logo-944/images/
 
     - assets/ic/Grade-4/Computer/Software/
+    - assets/ic/Grade-4/Computer/Software/content/software-897/
     - assets/ic/Grade-4/Computer/Software/libraries/h5pcore/
     - assets/ic/Grade-4/Computer/Software/content/software-897/images/
 
     - assets/ic/Grade-4/Computer/Types-of-Computer/
+    - assets/ic/Grade-4/Computer/Types-of-Computer/content/types-of-computers-889/
     - assets/ic/Grade-4/Computer/Types-of-Computer/libraries/h5pcore/
     - assets/ic/Grade-4/Computer/Types-of-Computer/content/types-of-computers-889/images/
 
     - assets/ic/Grade-4/Computer/WordPad/
+    - assets/ic/Grade-4/Computer/WordPad/content/wordpad-769/
     - assets/ic/Grade-4/Computer/WordPad/libraries/h5pcore/
     - assets/ic/Grade-4/Computer/WordPad/content/wordpad-769/images/
 
@@ -1658,117 +1668,143 @@ flutter:
     - assets/ic/Grade-5/Computer/Memory-device/units-of-memory-840/content/units-of-memory-840/images/
 
     - assets/ic/Grade-5/Computer/Network-and-the-internet/birth-of-the-internet-59-dialog-cards-960/
+    - assets/ic/Grade-5/Computer/Network-and-the-internet/birth-of-the-internet-59-dialog-cards-960/libraries/h5pcore/
+    - assets/ic/Grade-5/Computer/Network-and-the-internet/birth-of-the-internet-59-dialog-cards-960/content/birth-of-the-internet-59-dialog-cards-960/
     - assets/ic/Grade-5/Computer/Network-and-the-internet/birth-of-the-internet-59-dialog-cards-960/content/birth-of-the-internet-59-dialog-cards-960/images/
 
     - assets/ic/Grade-5/Computer/Network-and-the-internet/important-terms-related-to-the-internet-62-63-column-question-959/
+    - assets/ic/Grade-5/Computer/Network-and-the-internet/important-terms-related-to-the-internet-62-63-column-question-959/libraries/h5pcore/
+    - assets/ic/Grade-5/Computer/Network-and-the-internet/important-terms-related-to-the-internet-62-63-column-question-959/content/important-terms-related-to-the-internet-62-63-column-question-959/
     - assets/ic/Grade-5/Computer/Network-and-the-internet/important-terms-related-to-the-internet-62-63-column-question-959/content/important-terms-related-to-the-internet-62-63-column-question-959/images/
 
     - assets/ic/Grade-5/Computer/Network-and-the-internet/the-internet-60-61-column-question-958/
+    - assets/ic/Grade-5/Computer/Network-and-the-internet/the-internet-60-61-column-question-958/libraries/h5pcore/
+    - assets/ic/Grade-5/Computer/Network-and-the-internet/the-internet-60-61-column-question-958/content/the-internet-60-61-column-question-958/
     - assets/ic/Grade-5/Computer/Network-and-the-internet/the-internet-60-61-column-question-958/content/the-internet-60-61-column-question-958/images/
 
     - assets/ic/Grade-5/Computer/Network-and-the-internet/types-of-computer-network-957/
+    - assets/ic/Grade-5/Computer/Network-and-the-internet/types-of-computer-network-957/libraries/h5pcore/
+    - assets/ic/Grade-5/Computer/Network-and-the-internet/types-of-computer-network-957/content/types-of-computer-network-957/
     - assets/ic/Grade-5/Computer/Network-and-the-internet/types-of-computer-network-957/content/types-of-computer-network-957/images/
 
     - assets/ic/Grade-5/Computer/Output-device/output-device-dialog-cards-2-875/
+    - assets/ic/Grade-5/Computer/Output-device/output-device-dialog-cards-2-875/libraries/h5pcore/
+    - assets/ic/Grade-5/Computer/Output-device/output-device-dialog-cards-2-875/content/output-device-dialog-cards-2-875/
     - assets/ic/Grade-5/Computer/Output-device/output-device-dialog-cards-2-875/content/output-device-dialog-cards-2-875/images/
 
     - assets/ic/Grade-5/Computer/Output-device/output-device-dialog-cards-870/
+    - assets/ic/Grade-5/Computer/Output-device/output-device-dialog-cards-870/libraries/h5pcore/
+    - assets/ic/Grade-5/Computer/Output-device/output-device-dialog-cards-870/content/output-device-dialog-cards-870/
     - assets/ic/Grade-5/Computer/Output-device/output-device-dialog-cards-870/content/output-device-dialog-cards-870/images/
 
     - assets/ic/Grade-5/Computer/Software-of-Computer/
+    - assets/ic/Grade-5/Computer/Software-of-Computer/libraries/h5pcore/
+    - assets/ic/Grade-5/Computer/Software-of-Computer/content/computer-software-2-837/
     - assets/ic/Grade-5/Computer/Software-of-Computer/content/computer-software-2-837/images/
 
     - assets/ic/Grade-5/Computer/Working-with-Paint-Brush/working-with-paint-brush-1181/
+    - assets/ic/Grade-5/Computer/Working-with-Paint-Brush/working-with-paint-brush-1181/libraries/h5pcore/
+    - assets/ic/Grade-5/Computer/Working-with-Paint-Brush/working-with-paint-brush-1181/content/working-with-paint-brush-1181/
     - assets/ic/Grade-5/Computer/Working-with-Paint-Brush/working-with-paint-brush-1181/content/working-with-paint-brush-1181/images/
 
     - assets/ic/Grade-5/Computer/Working-with-Paint-Brush/working-with-shapes-1182/
+    - assets/ic/Grade-5/Computer/Working-with-Paint-Brush/working-with-shapes-1182/libraries/h5pcore/
+    - assets/ic/Grade-5/Computer/Working-with-Paint-Brush/working-with-shapes-1182/content/working-with-shapes-1182/
     - assets/ic/Grade-5/Computer/Working-with-Paint-Brush/working-with-shapes-1182/content/working-with-shapes-1182/images/
 
     - assets/ic/Grade-5/Computer/Working-with-Paint-Brush/working-with-tabs-1323/
+    - assets/ic/Grade-5/Computer/Working-with-Paint-Brush/working-with-tabs-1323/libraries/h5pcore/
+    - assets/ic/Grade-5/Computer/Working-with-Paint-Brush/working-with-tabs-1323/content/working-with-tabs-1323/
     - assets/ic/Grade-5/Computer/Working-with-Paint-Brush/working-with-tabs-1323/content/working-with-tabs-1323/images/
 
     - assets/ic/Grade-5/Computer/Working-with-Word-Pad/starting-and-componets-of-wordpad-1011/
+    - assets/ic/Grade-5/Computer/Working-with-Word-Pad/starting-and-componets-of-wordpad-1011/libraries/h5pcore/
+    - assets/ic/Grade-5/Computer/Working-with-Word-Pad/starting-and-componets-of-wordpad-1011/content/starting-and-componets-of-wordpad-1011/
     - assets/ic/Grade-5/Computer/Working-with-Word-Pad/starting-and-componets-of-wordpad-1011/content/starting-and-componets-of-wordpad-1011/images/
 
     - assets/ic/Grade-5/Computer/Working-with-Word-Pad/woking-on-home-tab-1121/
+    - assets/ic/Grade-5/Computer/Working-with-Word-Pad/woking-on-home-tab-1121/libraries/h5pcore/
+    - assets/ic/Grade-5/Computer/Working-with-Word-Pad/woking-on-home-tab-1121/content/woking-on-home-tab-1121/
     - assets/ic/Grade-5/Computer/Working-with-Word-Pad/woking-on-home-tab-1121/content/woking-on-home-tab-1121/images/
 
     - assets/ic/Grade-5/Computer/Working-with-Word-Pad/working-with-find-replace-and-select-all-1130/
+    - assets/ic/Grade-5/Computer/Working-with-Word-Pad/working-with-find-replace-and-select-all-1130/libraries/h5pcore/
+    - assets/ic/Grade-5/Computer/Working-with-Word-Pad/working-with-find-replace-and-select-all-1130/content/working-with-find-replace-and-select-all-1130/
     - assets/ic/Grade-5/Computer/Working-with-Word-Pad/working-with-find-replace-and-select-all-1130/content/working-with-find-replace-and-select-all-1130/images/
 
     - assets/ic/Grade-5/Computer/Working-with-Word-Pad/working-with-view-tab-1173/
+    - assets/ic/Grade-5/Computer/Working-with-Word-Pad/working-with-view-tab-1173/libraries/h5pcore/
+    - assets/ic/Grade-5/Computer/Working-with-Word-Pad/working-with-view-tab-1173/content/working-with-view-tab-1173/
     - assets/ic/Grade-5/Computer/Working-with-Word-Pad/working-with-view-tab-1173/content/working-with-view-tab-1173/images/
 
-    - assets/ic/Grade-6/Computer/Computer Memory/introduction-and-units-of-memory-1160/
-    - assets/ic/Grade-6/Computer/Computer Memory/introduction-and-units-of-memory-1160/content/introduction-and-units-of-memory-1160/images/
+    - assets/ic/Grade-6/Computer/Computer-Memory/introduction-and-units-of-memory-1160/
+    - assets/ic/Grade-6/Computer/Computer-Memory/introduction-and-units-of-memory-1160/content/introduction-and-units-of-memory-1160/images/
 
-    - assets/ic/Grade-6/Computer/Computer Memory/primary-memory-2-1161/
-    - assets/ic/Grade-6/Computer/Computer Memory/primary-memory-2-1161/content/primary-memory-2-1161/images/
+    - assets/ic/Grade-6/Computer/Computer-Memory/primary-memory-2-1161/
+    - assets/ic/Grade-6/Computer/Computer-Memory/primary-memory-2-1161/content/primary-memory-2-1161/images/
 
-    - assets/ic/Grade-6/Computer/Computer Memory/secondary-memory-2-1162/
-    - assets/ic/Grade-6/Computer/Computer Memory/secondary-memory-2-1162/content/secondary-memory-2-1162/images/
+    - assets/ic/Grade-6/Computer/Computer-Memory/secondary-memory-2-1162/
+    - assets/ic/Grade-6/Computer/Computer-Memory/secondary-memory-2-1162/content/secondary-memory-2-1162/images/
 
-    - assets/ic/Grade-6/Computer/Computer Software/application-software-3-1164/
-    - assets/ic/Grade-6/Computer/Computer Software/application-software-3-1164/content/application-software-3-1164/images/
+    - assets/ic/Grade-6/Computer/Computer-Software/application-software-3-1164/
+    - assets/ic/Grade-6/Computer/Computer-Software/application-software-3-1164/content/application-software-3-1164/images/
 
-    - assets/ic/Grade-6/Computer/Computer Software/system-software-3-1163/
-    - assets/ic/Grade-6/Computer/Computer Software/system-software-3-1163/content/system-software-3-1163/images/
+    - assets/ic/Grade-6/Computer/Computer-Software/system-software-3-1163/
+    - assets/ic/Grade-6/Computer/Computer-Software/system-software-3-1163/content/system-software-3-1163/images/
 
-    - assets/ic/Grade-6/Computer/Computer system/computer-software-and-hardware-1080/
-    - assets/ic/Grade-6/Computer/Computer system/computer-software-and-hardware-1080/content/computer-software-and-hardware-1080/images/
+    - assets/ic/Grade-6/Computer/Computer-system/computer-software-and-hardware-1080/
+    - assets/ic/Grade-6/Computer/Computer-system/computer-software-and-hardware-1080/content/computer-software-and-hardware-1080/images/
 
-    - assets/ic/Grade-6/Computer/Computer system/computer-system-3-1061/
-    - assets/ic/Grade-6/Computer/Computer system/computer-system-3-1061/content/computer-system-3-1061/images/
+    - assets/ic/Grade-6/Computer/Computer-system/computer-system-3-1061/
+    - assets/ic/Grade-6/Computer/Computer-system/computer-system-3-1061/content/computer-system-3-1061/images/
 
-    - assets/ic/Grade-6/Computer/Computer system/output-unit-1063/
-    - assets/ic/Grade-6/Computer/Computer system/output-unit-1063/content/output-unit-1063/images/
+    - assets/ic/Grade-6/Computer/Computer-system/output-unit-1063/
+    - assets/ic/Grade-6/Computer/Computer-system/output-unit-1063/content/output-unit-1063/images/
 
-    - assets/ic/Grade-6/Computer/Computer virus/introduction-and-types-of-computer-virus-1190/
-    - assets/ic/Grade-6/Computer/Computer virus/introduction-and-types-of-computer-virus-1190/content/introduction-and-types-of-computer-virus-1190/images/
+    - assets/ic/Grade-6/Computer/Computer-virus/introduction-and-types-of-computer-virus-1190/
+    - assets/ic/Grade-6/Computer/Computer-virus/introduction-and-types-of-computer-virus-1190/content/introduction-and-types-of-computer-virus-1190/images/
 
-    - assets/ic/Grade-6/Computer/Computer virus/transmission-and-effects-of-computer-virus-2-1192/
-    - assets/ic/Grade-6/Computer/Computer virus/transmission-and-effects-of-computer-virus-2-1192/content/transmission-and-effects-of-computer-virus-2-1192/images/
+    - assets/ic/Grade-6/Computer/Computer-virus/transmission-and-effects-of-computer-virus-2-1192/
+    - assets/ic/Grade-6/Computer/Computer-virus/transmission-and-effects-of-computer-virus-2-1192/content/transmission-and-effects-of-computer-virus-2-1192/images/
 
-    - assets/ic/Grade-6/Computer/Computer virus/transmission-and-effects-of-computer-virus-1191/
-    - assets/ic/Grade-6/Computer/Computer virus/transmission-and-effects-of-computer-virus-1191/content/transmission-and-effects-of-computer-virus-1191/images/
+    - assets/ic/Grade-6/Computer/Computer-virus/transmission-and-effects-of-computer-virus-1191/
+    - assets/ic/Grade-6/Computer/Computer-virus/transmission-and-effects-of-computer-virus-1191/content/transmission-and-effects-of-computer-virus-1191/images/
 
-    - assets/ic/Grade-6/Computer/ICT and Computer ethics/computer-ethics-1273/
-    - assets/ic/Grade-6/Computer/ICT and Computer ethics/computer-ethics-1273/content/computer-ethics-1273/images/
+    - assets/ic/Grade-6/Computer/ICT-and-Computer-ethics/computer-ethics-1273/
+    - assets/ic/Grade-6/Computer/ICT-and-Computer-ethics/computer-ethics-1273/content/computer-ethics-1273/images/
 
-    - assets/ic/Grade-6/Computer/ICT and Computer ethics/introduction-of-ict-1234/
-    - assets/ic/Grade-6/Computer/ICT and Computer ethics/introduction-of-ict-1234/content/introduction-of-ict-1234/images/
+    - assets/ic/Grade-6/Computer/ICT-and-Computer-ethics/introduction-of-ict-1234/
+    - assets/ic/Grade-6/Computer/ICT-and-Computer-ethics/introduction-of-ict-1234/content/introduction-of-ict-1234/images/
 
-    - assets/ic/Grade-6/Computer/ICT and Computer ethics/usage-of-ict-in-daily-life-1260/
-    - assets/ic/Grade-6/Computer/ICT and Computer ethics/usage-of-ict-in-daily-life-1260/content/usage-of-ict-in-daily-life-1260/images/
+    - assets/ic/Grade-6/Computer/ICT-and-Computer-ethics/usage-of-ict-in-daily-life-1260/
+    - assets/ic/Grade-6/Computer/ICT-and-Computer-ethics/usage-of-ict-in-daily-life-1260/content/usage-of-ict-in-daily-life-1260/images/
 
-    - assets/ic/Grade-6/Computer/Introduction to computer and its generations/characteristics-of-a-computer-2-999/
-    - assets/ic/Grade-6/Computer/Introduction to computer and its generations/characteristics-of-a-computer-2-999/content/characteristics-of-a-computer-2-999/images/
+    - assets/ic/Grade-6/Computer/Introduction-to-computer-and-its-generations/characteristics-of-a-computer-2-999/
+    - assets/ic/Grade-6/Computer/Introduction-to-computer-and-its-generations/characteristics-of-a-computer-2-999/content/characteristics-of-a-computer-2-999/images/
 
-    - assets/ic/Grade-6/Computer/Introduction to computer and its generations/computer-generation-2-1025/
-    - assets/ic/Grade-6/Computer/Introduction to computer and its generations/computer-generation-2-1025/content/computer-generation-2-1025/images/
+    - assets/ic/Grade-6/Computer/Introduction-to-computer-and-its-generations/computer-generation-2-1025/
+    - assets/ic/Grade-6/Computer/Introduction-to-computer-and-its-generations/computer-generation-2-1025/content/computer-generation-2-1025/images/
 
+    - assets/ic/Grade-6/Computer/Introduction-to-computer-and-its-generations/computer-generation-column-1006/
+    - assets/ic/Grade-6/Computer/Introduction-to-computer-and-its-generations/computer-generation-column-1006/content/computer-generation-column-1006/images/
 
-    - assets/ic/Grade-6/Computer/Introduction to computer and its generations/computer-generation-column-1006/
-    - assets/ic/Grade-6/Computer/Introduction to computer and its generations/computer-generation-column-1006/content/computer-generation-column-1006/images/
+    - assets/ic/Grade-6/Computer/Introduction-to-computer-and-its-generations/computer-generations-2-983/
+    - assets/ic/Grade-6/Computer/Introduction-to-computer-and-its-generations/computer-generations-2-983/content/computer-generations-2-983/images/
 
-    - assets/ic/Grade-6/Computer/Introduction to computer and its generations/computer-generations-2-983/
-    - assets/ic/Grade-6/Computer/Introduction to computer and its generations/computer-generations-2-983/content/computer-generations-2-983/images/
+    - assets/ic/Grade-6/Computer/Introduction-to-computer-and-its-generations/computer-generations-3-996/
+    - assets/ic/Grade-6/Computer/Introduction-to-computer-and-its-generations/computer-generations-3-996/content/computer-generations-3-996/images/
 
-    - assets/ic/Grade-6/Computer/Introduction to computer and its generations/computer-generations-3-996/
-    - assets/ic/Grade-6/Computer/Introduction to computer and its generations/computer-generations-3-996/content/computer-generations-3-996/images/
+    - assets/ic/Grade-6/Computer/Introduction-to-computer-and-its-generations/computer-generations-4-1000/
+    - assets/ic/Grade-6/Computer/Introduction-to-computer-and-its-generations/computer-generations-4-1000/content/computer-generations-4-1000/images/
 
-    - assets/ic/Grade-6/Computer/Introduction to computer and its generations/computer-generations-4-1000/
-    - assets/ic/Grade-6/Computer/Introduction to computer and its generations/computer-generations-4-1000/content/computer-generations-4-1000/images/
+    - assets/ic/Grade-6/Computer/Introduction-to-computer-and-its-generations/introduction-to-computer-993/
+    - assets/ic/Grade-6/Computer/Introduction-to-computer-and-its-generations/introduction-to-computer-993/content/introduction-to-computer-993/images/
 
-    - assets/ic/Grade-6/Computer/Introduction to computer and its generations/introduction-to-computer-993/
-    - assets/ic/Grade-6/Computer/Introduction to computer and its generations/introduction-to-computer-993/content/introduction-to-computer-993/images/
-
-    - assets/ic/Grade-6/Computer/Introduction to computer and its generations/limitations-and-application-of-a-computer-1015/
-    - assets/ic/Grade-6/Computer/Introduction to computer and its generations/limitations-and-application-of-a-computer-1015/content/limitations-and-application-of-a-computer-1015/images/
+    - assets/ic/Grade-6/Computer/Introduction-to-computer-and-its-generations/limitations-and-application-of-a-computer-1015/
+    - assets/ic/Grade-6/Computer/Introduction-to-computer-and-its-generations/limitations-and-application-of-a-computer-1015/content/limitations-and-application-of-a-computer-1015/images/
 
     - assets/ic/Grade-6/Computer/Introduction to internet and e-mail/email-1221/
     - assets/ic/Grade-6/Computer/Introduction to internet and e-mail/email-1221/content/email-1221/images/
-
 
     - assets/ic/Grade-6/Computer/Introduction to internet and e-mail/internet-1256/
     - assets/ic/Grade-6/Computer/Introduction to internet and e-mail/internet-1256/content/internet-1256/images/
