@@ -742,6 +742,24 @@ flutter:
     - assets/ic/Grade-1/Math/bigger-and-smaller-115/content/bigger-and-smaller-115/
     - assets/ic/Grade-1/Math/bigger-and-smaller-115/content/bigger-and-smaller-115/images/
 
+    - assets/ic/Grade-1/Science/Animals-Have-Babies/
+    - assets/ic/Grade-1/Science/Animals-Have-Babies/libraries/h5pcore/
+    - assets/ic/Grade-1/Science/Animals-Have-Babies/libraries/FontAwesome-4.5/
+    - assets/ic/Grade-1/Science/Animals-Have-Babies/content/animals-with-their-babies-flash-cards-273/
+    - assets/ic/Grade-1/Science/Animals-Have-Babies/content/animals-with-their-babies-flash-cards-273/images/
+
+    - assets/ic/Grade-1/Science/Animals-Having-Wings/
+    - assets/ic/Grade-1/Science/Animals-Having-Wings/libraries/h5pcore/
+    - assets/ic/Grade-1/Science/Animals-Having-Wings/libraries/FontAwesome-4.5/
+    - assets/ic/Grade-1/Science/Animals-Having-Wings/content/animals-having-wings-dialog-cards-848/
+    - assets/ic/Grade-1/Science/Animals-Having-Wings/content/animals-having-wings-dialog-cards-848/images/
+
+    - assets/ic/Grade-1/Science/Care-for-Animals/
+    - assets/ic/Grade-1/Science/Care-for-Animals/libraries/h5pcore/
+    - assets/ic/Grade-1/Science/Care-for-Animals/libraries/FontAwesome-4.5/
+    - assets/ic/Grade-1/Science/Care-for-Animals/content/care-for-animals-364/
+    - assets/ic/Grade-1/Science/Care-for-Animals/content/care-for-animals-364/images/
+
     - assets/ic/Grade-2/Computer/Do_s-and-don_ts-with-the-computer/
     - assets/ic/Grade-2/Computer/Do_s-and-don_ts-with-the-computer/libraries/H5P.FontIcons-1.0/fonts/
     - assets/ic/Grade-2/Computer/Do_s-and-don_ts-with-the-computer/libraries/FontAwesome-4.5/
@@ -830,20 +848,68 @@ flutter:
     - assets/ic/Grade-2/Computer/Using-a-mouse/content/using-a-mouse-696/images/
     - assets/ic/Grade-2/Computer/Using-a-mouse/content/using-a-mouse-696/audios/
 
-    - assets/ic/Grade-2/Science/Be safe from diseases/
-    - assets/ic/Grade-2/Science/Be safe from diseases/content/be-safe-from-diseases-821/images/
-    - assets/ic/Grade-2/Science/Be safe from diseases/content/be-safe-from-diseases-821/audios/
+    - assets/ic/Grade-2/Science/Basic-and-Moving-Skills-of-Physical-Exercise/
+    - assets/ic/Grade-2/Science/Basic-and-Moving-Skills-of-Physical-Exercise/content/basic-and-moving-skills-of-physical-exercise-734/
+    - assets/ic/Grade-2/Science/Basic-and-Moving-Skills-of-Physical-Exercise/content/basic-and-moving-skills-of-physical-exercise-734/images/
+    - assets/ic/Grade-2/Science/Basic-and-Moving-Skills-of-Physical-Exercise/content/basic-and-moving-skills-of-physical-exercise-734/audios/
 
-    - assets/ic/Grade-2/Science/Drill/
-    - assets/ic/Grade-2/Science/Drill/content/drill-2-973/images/
-    - assets/ic/Grade-2/Science/Drill/content/drill-2-973/audios/
+    - assets/ic/Grade-2/Science/Be-safe-from-Diseases/
+    - assets/ic/Grade-2/Science/Be-safe-from-Diseases/content/be-safe-from-diseases-821/
+    - assets/ic/Grade-2/Science/Be-safe-from-Diseases/content/be-safe-from-diseases-821/images/
+    - assets/ic/Grade-2/Science/Be-safe-from-Diseases/content/be-safe-from-diseases-821/audios/
 
-    - assets/ic/Grade-2/Science/Local games/
-    - assets/ic/Grade-2/Science/Local games/content/local-games-2-980/images/
+    - assets/ic/Grade-2/Science/Day-and-Night/
+    - assets/ic/Grade-2/Science/Day-and-Night/content/day-and-night-418/
+    - assets/ic/Grade-2/Science/Day-and-Night/content/day-and-night-418/images/
 
-    - assets/ic/Grade-2/Science/Physical training/
-    - assets/ic/Grade-2/Science/Physical training/content/physical-training-4-901/images/
-    - assets/ic/Grade-2/Science/Physical training/content/physical-training-4-901/audios/
+    - assets/ic/Grade-2/Science/Different-Parts-of-Plant/
+    - assets/ic/Grade-2/Science/Different-Parts-of-Plant/content/parts-of-plants-393/
+    - assets/ic/Grade-2/Science/Different-Parts-of-Plant/content/parts-of-plants-393/images/
+
+    - assets/ic/Grade-2/Science/Different-Types-of-Plants/
+    - assets/ic/Grade-2/Science/Different-Types-of-Plants/content/types-of-plants-384/
+    - assets/ic/Grade-2/Science/Different-Types-of-Plants/content/types-of-plants-384/images/
+    - assets/ic/Grade-2/Science/Different-Types-of-Plants/content/types-of-plants-384/audios/
+
+    - assets/ic/Grade-2/Science/Drinking-Water/
+    - assets/ic/Grade-2/Science/Drinking-Water/content/drinking-water-629/
+    - assets/ic/Grade-2/Science/Drinking-Water/content/drinking-water-629/images/
+
+    - assets/ic/Grade-2/Science/Exercises-at-a-Fixed-Position/
+    - assets/ic/Grade-2/Science/Exercises-at-a-Fixed-Position/content/exercises-at-a-fixed-position-737/
+    - assets/ic/Grade-2/Science/Exercises-at-a-Fixed-Position/content/exercises-at-a-fixed-position-737/images/
+
+    - assets/ic/Grade-2/Science/Food-from-Plants-and-Animals/
+    - assets/ic/Grade-2/Science/Food-from-Plants-and-Animals/content/food-from-plants-and-animals-434/
+    - assets/ic/Grade-2/Science/Food-from-Plants-and-Animals/content/food-from-plants-and-animals-434/images/
+
+    - assets/ic/Grade-2/Science/Habitats-of-Animals/
+    - assets/ic/Grade-2/Science/Habitats-of-Animals/content/habitats-of-animals-462/
+    - assets/ic/Grade-2/Science/Habitats-of-Animals/content/habitats-of-animals-462/images/
+
+    - assets/ic/Grade-2/Science/Health-Services/
+    - assets/ic/Grade-2/Science/Health-Services/content/health-services-2-786/
+    - assets/ic/Grade-2/Science/Health-Services/content/health-services-2-786/images/
+
+    - assets/ic/Grade-2/Science/Living-beings-and-their-features/
+    - assets/ic/Grade-2/Science/Living-beings-and-their-features/content/living-beings-and-their-features-441/
+    - assets/ic/Grade-2/Science/Living-beings-and-their-features/content/living-beings-and-their-features-441/images/
+
+    - assets/ic/Grade-2/Science/Matter-of-Different-Colour,-Taste-and-Smell/
+    - assets/ic/Grade-2/Science/Matter-of-Different-Colour,-Taste-and-Smell/content/matter-of-different-colour-taste-and-smell-410/
+    - assets/ic/Grade-2/Science/Matter-of-Different-Colour,-Taste-and-Smell/content/matter-of-different-colour-taste-and-smell-410/images/
+
+    - assets/ic/Grade-2/Science/Physical-training/
+    - assets/ic/Grade-2/Science/Physical-training/content/physical-training-4-901/images/
+    - assets/ic/Grade-2/Science/Physical-training/content/physical-training-4-901/audios/
+
+    - assets/ic/Grade-2/Science/Safety-and-First-Aid/
+    - assets/ic/Grade-2/Science/Safety-and-First-Aid/content/safety-and-first-aid-4-777/images/
+    - assets/ic/Grade-2/Science/Safety-and-First-Aid/content/safety-and-first-aid-4-777/audios/
+
+    - assets/ic/Grade-2/Science/The-Sunny-Day/
+    - assets/ic/Grade-2/Science/The-Sunny-Day/content/the-sunny-day-417/images/
+    - assets/ic/Grade-2/Science/The-Sunny-Day/content/the-sunny-day-417/audios/
 
     - assets/ic/Grade-2/Math/Algebra/
     - assets/ic/Grade-2/Math/Algebra/content/algebra-70/
