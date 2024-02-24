@@ -1,6 +1,5 @@
 import 'dart:convert';
 
-import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 import 'package:shared_preferences/shared_preferences.dart';
 
@@ -18,6 +17,5 @@ Future<List> searchPlaygroundHelper() async {
   final items = jsonDecode(data);
   final List ic = items["ic"];
   final List games = items["games"];
-  debugPrint(ic.toString());
   return [games, ic];
 }

@@ -1,80 +1,80 @@
 {
-    "count": 15,
+    "count": 85,
     "ic": [
         {
             "title": "Geommetry Triangle (Interior Angle Theorem (IAT))",
             "image": "assets/games/game_one.png",
-            "path": "assets/ic/Grade-1/Computer/Parts of a computer/parts-of-a-computer-interactive-quiz-1483/index.html"
+            "path": "assets/ic/Grade-8/Math/Geometry-Triangles/interior-angle-theorem-iat-262/index.html"
         },
         {
             "title": "Geometry Triangle (Triangle)",
             "image": "assets/games/game_one.png",
-            "path": "assets/ic/Grade-1/Computer/The Keyboard/index.html"
+            "path": "assets/ic/Grade-8/Math/Geometry-Triangles/triangles-676/index.html"
         },
         {
             "title": "Geometry: quadrilaterals and regular polygons (Interior angles of regular polygons)",
             "image": "assets/games/game_one.png",
-            "path": "assets/ic/Grade-1/Computer/Working with Word Pad/starting-and-componets-of-wordpad-1011/index.html"
+            "path": "assets/ic/Grade-8/Math/Geometry-Quadrilaterals-and-regular-polygons/construction-of-regular-polygons-275/index.html"
         },
         {
             "title": "Geometry: quadrilaterals and regular polygons (Verification of parallelograms and rectangles)",
             "image": "assets/games/game_one.png",
-            "path": "assets/ic/Grade-5/Computer/Working with Word Pad/woking-on-home-tab-1121/index.html"
+            "path": "assets/ic/Grade-8/Math/Geometry-Quadrilaterals-and-regular-polygons/verification-of-parallelograms-and-rectangles-279/index.html/index.html"
         },
         {
             "title": "Geometry: quadrilaterals and regular polygons (Parallelogram: rectangle and square)",
             "image": "assets/games/game_one.png",
-            "path": "assets/ic/Grade-1/Computer/Music Player/index.html"
+            "path": "assets/ic/Grade-8/Math/Geometry-Quadrilaterals-and-regular-polygons/construction-of-rectangles-284/index.html"
         },
         {
             "title": "Similarity and Congruency (Similar triangles and their conditions)",
             "image": "assets/games/game_one.png",
-            "path": "assets/ic/Grade-1/Computer/Music Player/index.html"
+            "path": "assets/ic/Grade-8/Math/Similarity-and-Congruency/similar-triangles-and-their-conditions-327/index.html"
         },
         {
             "title": "Similarity and Congruency (Congruent triangles and their conditions)",
             "image": "assets/games/game_one.png",
-            "path": "assets/ic/Grade-1/Computer/Let_s paint using a computer/index.html"
+            "path": "assets/ic/Grade-8/Math/Similarity-and-Congruency/congruent-triangles-and-their-conditions-375/index.html"
         },
         {
             "title": "Circle",
             "image": "assets/games/game_one.png",
-            "path": "assets/ic/Grade-1/Computer/Mighty mouse/index.html"
+            "path": "assets/ic/Grade-8/Math/Circle/circle-401/index.html"
         },
         {
             "title": "Circle (Relation between diameter and circumference)",
             "image": "assets/games/game_one.png",
-            "path": "assets/ic/Grade-1/Computer/Computer (A Smart Machine)/computer-a-smart-machine-interactive-book-1419/index.html"
+            "path": "assets/ic/Grade-8/Math/Circle/relation-between-diameter-and-circumference-480/index.html/index.html"
         },
         {
             "title": "Algebraic Expression (Factorization)",
             "image": "assets/games/game_one.png",
-            "path": "assets/ic/Grade-1/Computer/Computer (A Smart Machine)/computer-a-smart-machine-interactive-quiz-1420/index.html"
+            "path": "assets/ic/Grade-8/Math/Algebraic-expressions/factorization-2-536/index.html"
         },
         {
             "title": "Algebraic Expression (Factorization of difference of two squares)",
             "image": "assets/games/game_one.png",
-            "path": "assets/ic/Grade-1/Computer/Computer (A Smart Machine)/computer-a-smart-machine-interactive-quiz-1420/index.html"
+            "path": "assets/ic/Grade-8/Math/Algebraic-expressions/factorization-of-difference-of-two-squares-521/index.html"
         },
         {
             "title": "Sets (Review / introduction and representation)",
             "image": "assets/games/game_one.png",
-            "path": "assets/ic/Grade-1/Computer/Computer and its use/index.html"
+            "path": "assets/ic/Grade-8/Math/Sets/review-introduction-and-representation-478/index.html"
         },
         {
             "title": "Sets (Relation of sets)",
             "image": "assets/games/game_one.png",
-            "path": "assets/ic/Grade-1/Computer/Parts of a computer/parts-of-a-computer-interactive-book-1482/index.html"
+            "path": "assets/ic/Grade-8/Math/Sets/relation-of-sets-569/index.html"
         },
         {
             "title": "Number Systems (Relation between binary, quinary and denary)",
             "image": "assets/games/game_one.png",
-            "path": "assets/ic/Grade-1/Computer/Parts of a computer/parts-of-a-computer-interactive-quiz-1483/index.html"
+            "path": "assets/ic/Grade-8/Math/Number-Systems/index.html"
         },
         {
             "title": "Ratio, Proportion and Percentage (Ratio, proportion and percentage)",
             "image": "assets/games/game_one.png",
-            "path": "assets/ic/Grade-1/Computer/Parts of a computer/parts-of-a-computer-interactive-quiz-1483/index.html"
+            "path": "assets/ic/Grade-8/Math/Ratio,-proportion,-and-percentage/index.html"
         } 
     ],
     "games": [

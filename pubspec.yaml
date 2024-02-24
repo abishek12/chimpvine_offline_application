@@ -1728,6 +1728,7 @@ flutter:
 
     - assets/ic/Grade-7/Math/Percentage,-ratio-and-proportion/proportion-212/
     - assets/ic/Grade-7/Math/Percentage,-ratio-and-proportion/proportion-212/libraries/h5pcore/
+    - assets/ic/Grade-7/Math/Percentage,-ratio-and-proportion/proportion-212/content/proportion-212/
     - assets/ic/Grade-7/Math/Percentage,-ratio-and-proportion/proportion-212/content/proportion-212/images/
 
     - assets/ic/Grade-7/Math/Perimeter,-Area-and-Volume/area-of-plane-figures-160/
@@ -1799,50 +1800,79 @@ flutter:
     - assets/ic/Grade-8/Science/Weather and climate/
     - assets/ic/Grade-8/Science/Weather and climate/content/climate-and-weather-1308/images/
 
-    - assets/ic/Grade-8/Math/Algebraic expressions/factorization-2-536/
-    - assets/ic/Grade-8/Math/Algebraic expressions/factorization-2-536/content/factorization-2-536/images/
+    - assets/ic/Grade-8/Math/Algebraic-expressions/factorization-2-536/
+    - assets/ic/Grade-8/Math/Algebraic-expressions/factorization-2-536/libraries/h5pcore/
+    - assets/ic/Grade-8/Math/Algebraic-expressions/factorization-2-536/content/factorization-2-536/
+    - assets/ic/Grade-8/Math/Algebraic-expressions/factorization-2-536/content/factorization-2-536/images/
 
-    - assets/ic/Grade-8/Math/Algebraic expressions/factorization-of-difference-of-two-squares-521/
-    - assets/ic/Grade-8/Math/Algebraic expressions/factorization-of-difference-of-two-squares-521/content/factorization-of-difference-of-two-squares-521/images/
+    - assets/ic/Grade-8/Math/Algebraic-expressions/factorization-of-difference-of-two-squares-521/
+    - assets/ic/Grade-8/Math/Algebraic-expressions/factorization-of-difference-of-two-squares-521/libraries/h5pcore/
+    - assets/ic/Grade-8/Math/Algebraic-expressions/factorization-of-difference-of-two-squares-521/content/factorization-of-difference-of-two-squares-521/
+    - assets/ic/Grade-8/Math/Algebraic-expressions/factorization-of-difference-of-two-squares-521/content/factorization-of-difference-of-two-squares-521/images/
 
     - assets/ic/Grade-8/Math/Circle/circle-401/
+    - assets/ic/Grade-8/Math/Circle/circle-401/libraries/h5pcore/
+    - assets/ic/Grade-8/Math/Circle/circle-401/content/circle-401/
     - assets/ic/Grade-8/Math/Circle/circle-401/content/circle-401/images/
 
     - assets/ic/Grade-8/Math/Circle/relation-between-diameter-and-circumference-480/
+    - assets/ic/Grade-8/Math/Circle/relation-between-diameter-and-circumference-480/libraries/h5pcore/
+    - assets/ic/Grade-8/Math/Circle/relation-between-diameter-and-circumference-480/content/relation-between-diameter-and-circumference-480/
     - assets/ic/Grade-8/Math/Circle/relation-between-diameter-and-circumference-480/content/relation-between-diameter-and-circumference-480/images/
 
-    - assets/ic/Grade-8/Math/Geometry Quadrilaterals and regular polygons/construction-of-rectangles-284/
-    - assets/ic/Grade-8/Math/Geometry Quadrilaterals and regular polygons/construction-of-rectangles-284/content/construction-of-rectangles-284/images/
+    - assets/ic/Grade-8/Math/Geometry-Quadrilaterals-and-regular-polygons/construction-of-rectangles-284/
+    - assets/ic/Grade-8/Math/Geometry-Quadrilaterals-and-regular-polygons/construction-of-rectangles-284/libraries/h5pcore/
+    - assets/ic/Grade-8/Math/Geometry-Quadrilaterals-and-regular-polygons/construction-of-rectangles-284/content/construction-of-rectangles-284/
+    - assets/ic/Grade-8/Math/Geometry-Quadrilaterals-and-regular-polygons/construction-of-rectangles-284/content/construction-of-rectangles-284/images/
 
-    - assets/ic/Grade-8/Math/Geometry Quadrilaterals and regular polygons/construction-of-regular-polygons-275/
-    - assets/ic/Grade-8/Math/Geometry Quadrilaterals and regular polygons/construction-of-regular-polygons-275/content/construction-of-regular-polygons-275/images/
+    - assets/ic/Grade-8/Math/Geometry-Quadrilaterals-and-regular-polygons/construction-of-regular-polygons-275/
+    - assets/ic/Grade-8/Math/Geometry-Quadrilaterals-and-regular-polygons/construction-of-regular-polygons-275/libraries/h5pcore/
+    - assets/ic/Grade-8/Math/Geometry-Quadrilaterals-and-regular-polygons/construction-of-regular-polygons-275/content/construction-of-regular-polygons-275/
+    - assets/ic/Grade-8/Math/Geometry-Quadrilaterals-and-regular-polygons/construction-of-regular-polygons-275/content/construction-of-regular-polygons-275/images/
+    - assets/ic/Grade-8/Math/Geometry-Quadrilaterals-and-regular-polygons/verification-of-parallelograms-and-rectangles-279/
+    - assets/ic/Grade-8/Math/Geometry-Quadrilaterals-and-regular-polygons/verification-of-parallelograms-and-rectangles-279/libraries/h5pcore/
+    - assets/ic/Grade-8/Math/Geometry-Quadrilaterals-and-regular-polygons/verification-of-parallelograms-and-rectangles-279/content/verification-of-parallelograms-and-rectangles-279/
+    - assets/ic/Grade-8/Math/Geometry-Quadrilaterals-and-regular-polygons/verification-of-parallelograms-and-rectangles-279/content/verification-of-parallelograms-and-rectangles-279/images/
 
-    - assets/ic/Grade-8/Math/Geometry Quadrilaterals and regular polygons/verification-of-parallelograms-and-rectangles-279/
-    - assets/ic/Grade-8/Math/Geometry Quadrilaterals and regular polygons/verification-of-parallelograms-and-rectangles-279/content/verification-of-parallelograms-and-rectangles-279/images/
+    - assets/ic/Grade-8/Math/Geometry-Triangles/interior-angle-theorem-iat-262/
+    - assets/ic/Grade-8/Math/Geometry-Triangles/interior-angle-theorem-iat-262/libraries/h5pcore/
+    - assets/ic/Grade-8/Math/Geometry-Triangles/interior-angle-theorem-iat-262/content/interior-angle-theorem-iat-262/
+    - assets/ic/Grade-8/Math/Geometry-Triangles/interior-angle-theorem-iat-262/content/interior-angle-theorem-iat-262/images/
 
-    - assets/ic/Grade-8/Math/Geometry Triangles/interior-angle-theorem-iat-262/
-    - assets/ic/Grade-8/Math/Geometry Triangles/interior-angle-theorem-iat-262/content/interior-angle-theorem-iat-262/images/
+    - assets/ic/Grade-8/Math/Geometry-Triangles/triangles-676/
+    - assets/ic/Grade-8/Math/Geometry-Triangles/triangles-676/libraries/h5pcore/
+    - assets/ic/Grade-8/Math/Geometry-Triangles/triangles-676/content/triangles-676/
+    - assets/ic/Grade-8/Math/Geometry-Triangles/triangles-676/content/triangles-676/images/
 
-    - assets/ic/Grade-8/Math/Geometry Triangles/triangles-676/
-    - assets/ic/Grade-8/Math/Geometry Triangles/triangles-676/content/triangles-676/images/
+    - assets/ic/Grade-8/Math/Number-Systems/
+    - assets/ic/Grade-8/Math/Number-Systems/libraries/h5pcore/
+    - assets/ic/Grade-8/Math/Number-Systems/content/relation-between-binary-quinary-and-denary-2-845/
+    - assets/ic/Grade-8/Math/Number-Systems/content/relation-between-binary-quinary-and-denary-2-845/images/
 
-    - assets/ic/Grade-8/Math/Number Systems/
-    - assets/ic/Grade-8/Math/Number Systems/content/relation-between-binary-quinary-and-denary-2-845/images/
-
-    - assets/ic/Grade-8/Math/Ratio, proportion, and percentage/
-    - assets/ic/Grade-8/Math/Ratio, proportion, and percentage/content/ratio-proportion-and-percentage-492/images/
+    - assets/ic/Grade-8/Math/Ratio,-proportion,-and-percentage/
+    - assets/ic/Grade-8/Math/Ratio,-proportion,-and-percentage/libraries/h5pcore/
+    - assets/ic/Grade-8/Math/Ratio,-proportion,-and-percentage/content/ratio-proportion-and-percentage-492/
+    - assets/ic/Grade-8/Math/Ratio,-proportion,-and-percentage/content/ratio-proportion-and-percentage-492/images/
 
     - assets/ic/Grade-8/Math/Sets/relation-of-sets-569/
+    - assets/ic/Grade-8/Math/Sets/relation-of-sets-569/libraries/h5pcore/
+    - assets/ic/Grade-8/Math/Sets/relation-of-sets-569/content/relation-of-sets-569/
     - assets/ic/Grade-8/Math/Sets/relation-of-sets-569/content/relation-of-sets-569/images/
 
     - assets/ic/Grade-8/Math/Sets/review-introduction-and-representation-478/
+    - assets/ic/Grade-8/Math/Sets/review-introduction-and-representation-478/libraries/h5pcore/
+    - assets/ic/Grade-8/Math/Sets/review-introduction-and-representation-478/content/review-introduction-and-representation-478/
     - assets/ic/Grade-8/Math/Sets/review-introduction-and-representation-478/content/review-introduction-and-representation-478/images/
 
-    - assets/ic/Grade-8/Math/Similarity and Congruency/congruent-triangles-and-their-conditions-375/
-    - assets/ic/Grade-8/Math/Similarity and Congruency/congruent-triangles-and-their-conditions-375/content/congruent-triangles-and-their-conditions-375/images/
+    - assets/ic/Grade-8/Math/Similarity-and-Congruency/congruent-triangles-and-their-conditions-375/
+    - assets/ic/Grade-8/Math/Similarity-and-Congruency/congruent-triangles-and-their-conditions-375/libraries/h5pcore/
+    - assets/ic/Grade-8/Math/Similarity-and-Congruency/congruent-triangles-and-their-conditions-375/content/congruent-triangles-and-their-conditions-375/
+    - assets/ic/Grade-8/Math/Similarity-and-Congruency/congruent-triangles-and-their-conditions-375/content/congruent-triangles-and-their-conditions-375/images/
 
-    - assets/ic/Grade-8/Math/Similarity and Congruency/similar-triangles-and-their-conditions-327/
-    - assets/ic/Grade-8/Math/Similarity and Congruency/similar-triangles-and-their-conditions-327/content/similar-triangles-and-their-conditions-327/images/
+    - assets/ic/Grade-8/Math/Similarity-and-Congruency/similar-triangles-and-their-conditions-327/
+    - assets/ic/Grade-8/Math/Similarity-and-Congruency/similar-triangles-and-their-conditions-327/libraries/h5pcore/
+    - assets/ic/Grade-8/Math/Similarity-and-Congruency/similar-triangles-and-their-conditions-327/content/similar-triangles-and-their-conditions-327/
+    - assets/ic/Grade-8/Math/Similarity-and-Congruency/similar-triangles-and-their-conditions-327/content/similar-triangles-and-their-conditions-327/images/
 
     - assets/ic/Grade-4/Computer/Computer-System/
     - assets/ic/Grade-4/Computer/Computer-System/content/computer-system-2-775/
@@ -2040,60 +2070,80 @@ flutter:
     - assets/ic/Grade-5/Computer/Working-with-Word-Pad/working-with-view-tab-1173/content/working-with-view-tab-1173/images/
 
     - assets/ic/Grade-6/Computer/Computer-Memory/introduction-and-units-of-memory-1160/
+    - assets/ic/Grade-6/Computer/Computer-Memory/introduction-and-units-of-memory-1160/libraries/h5pcore/
+    - assets/ic/Grade-6/Computer/Computer-Memory/introduction-and-units-of-memory-1160/content/introduction-and-units-of-memory-1160/
     - assets/ic/Grade-6/Computer/Computer-Memory/introduction-and-units-of-memory-1160/content/introduction-and-units-of-memory-1160/images/
 
     - assets/ic/Grade-6/Computer/Computer-Memory/primary-memory-2-1161/
+    - assets/ic/Grade-6/Computer/Computer-Memory/primary-memory-2-1161/content/primary-memory-2-1161/
     - assets/ic/Grade-6/Computer/Computer-Memory/primary-memory-2-1161/content/primary-memory-2-1161/images/
 
     - assets/ic/Grade-6/Computer/Computer-Memory/secondary-memory-2-1162/
+    - assets/ic/Grade-6/Computer/Computer-Memory/secondary-memory-2-1162/content/secondary-memory-2-1162/
     - assets/ic/Grade-6/Computer/Computer-Memory/secondary-memory-2-1162/content/secondary-memory-2-1162/images/
 
     - assets/ic/Grade-6/Computer/Computer-Software/application-software-3-1164/
+    - assets/ic/Grade-6/Computer/Computer-Software/application-software-3-1164/content/application-software-3-1164/
     - assets/ic/Grade-6/Computer/Computer-Software/application-software-3-1164/content/application-software-3-1164/images/
 
     - assets/ic/Grade-6/Computer/Computer-Software/system-software-3-1163/
+    - assets/ic/Grade-6/Computer/Computer-Software/system-software-3-1163/content/system-software-3-1163/
     - assets/ic/Grade-6/Computer/Computer-Software/system-software-3-1163/content/system-software-3-1163/images/
 
     - assets/ic/Grade-6/Computer/Computer-system/computer-software-and-hardware-1080/
+    - assets/ic/Grade-6/Computer/Computer-system/computer-software-and-hardware-1080/content/computer-software-and-hardware-1080/
     - assets/ic/Grade-6/Computer/Computer-system/computer-software-and-hardware-1080/content/computer-software-and-hardware-1080/images/
 
     - assets/ic/Grade-6/Computer/Computer-system/computer-system-3-1061/
+    - assets/ic/Grade-6/Computer/Computer-system/computer-system-3-1061/content/computer-system-3-1061/
     - assets/ic/Grade-6/Computer/Computer-system/computer-system-3-1061/content/computer-system-3-1061/images/
 
     - assets/ic/Grade-6/Computer/Computer-system/output-unit-1063/
+    - assets/ic/Grade-6/Computer/Computer-system/output-unit-1063/content/output-unit-1063/
     - assets/ic/Grade-6/Computer/Computer-system/output-unit-1063/content/output-unit-1063/images/
 
     - assets/ic/Grade-6/Computer/Computer-virus/introduction-and-types-of-computer-virus-1190/
+    - assets/ic/Grade-6/Computer/Computer-virus/introduction-and-types-of-computer-virus-1190/content/introduction-and-types-of-computer-virus-1190/
     - assets/ic/Grade-6/Computer/Computer-virus/introduction-and-types-of-computer-virus-1190/content/introduction-and-types-of-computer-virus-1190/images/
 
     - assets/ic/Grade-6/Computer/Computer-virus/transmission-and-effects-of-computer-virus-2-1192/
+    - assets/ic/Grade-6/Computer/Computer-virus/transmission-and-effects-of-computer-virus-2-1192/content/transmission-and-effects-of-computer-virus-2-1192/
     - assets/ic/Grade-6/Computer/Computer-virus/transmission-and-effects-of-computer-virus-2-1192/content/transmission-and-effects-of-computer-virus-2-1192/images/
 
     - assets/ic/Grade-6/Computer/Computer-virus/transmission-and-effects-of-computer-virus-1191/
+    - assets/ic/Grade-6/Computer/Computer-virus/transmission-and-effects-of-computer-virus-1191/content/transmission-and-effects-of-computer-virus-1191/
     - assets/ic/Grade-6/Computer/Computer-virus/transmission-and-effects-of-computer-virus-1191/content/transmission-and-effects-of-computer-virus-1191/images/
 
     - assets/ic/Grade-6/Computer/ICT-and-Computer-ethics/computer-ethics-1273/
+    - assets/ic/Grade-6/Computer/ICT-and-Computer-ethics/computer-ethics-1273/content/computer-ethics-1273/
     - assets/ic/Grade-6/Computer/ICT-and-Computer-ethics/computer-ethics-1273/content/computer-ethics-1273/images/
 
     - assets/ic/Grade-6/Computer/ICT-and-Computer-ethics/introduction-of-ict-1234/
+    - assets/ic/Grade-6/Computer/ICT-and-Computer-ethics/introduction-of-ict-1234/content/introduction-of-ict-1234/
     - assets/ic/Grade-6/Computer/ICT-and-Computer-ethics/introduction-of-ict-1234/content/introduction-of-ict-1234/images/
 
     - assets/ic/Grade-6/Computer/ICT-and-Computer-ethics/usage-of-ict-in-daily-life-1260/
+    - assets/ic/Grade-6/Computer/ICT-and-Computer-ethics/usage-of-ict-in-daily-life-1260/content/usage-of-ict-in-daily-life-1260/
     - assets/ic/Grade-6/Computer/ICT-and-Computer-ethics/usage-of-ict-in-daily-life-1260/content/usage-of-ict-in-daily-life-1260/images/
 
     - assets/ic/Grade-6/Computer/Introduction-to-computer-and-its-generations/characteristics-of-a-computer-2-999/
+    - assets/ic/Grade-6/Computer/Introduction-to-computer-and-its-generations/characteristics-of-a-computer-2-999/content/characteristics-of-a-computer-2-999/
     - assets/ic/Grade-6/Computer/Introduction-to-computer-and-its-generations/characteristics-of-a-computer-2-999/content/characteristics-of-a-computer-2-999/images/
 
     - assets/ic/Grade-6/Computer/Introduction-to-computer-and-its-generations/computer-generation-2-1025/
+    - assets/ic/Grade-6/Computer/Introduction-to-computer-and-its-generations/computer-generation-2-1025/content/computer-generation-2-1025/
     - assets/ic/Grade-6/Computer/Introduction-to-computer-and-its-generations/computer-generation-2-1025/content/computer-generation-2-1025/images/
 
     - assets/ic/Grade-6/Computer/Introduction-to-computer-and-its-generations/computer-generation-column-1006/
+    - assets/ic/Grade-6/Computer/Introduction-to-computer-and-its-generations/computer-generation-column-1006/content/computer-generation-column-1006/
     - assets/ic/Grade-6/Computer/Introduction-to-computer-and-its-generations/computer-generation-column-1006/content/computer-generation-column-1006/images/
 
     - assets/ic/Grade-6/Computer/Introduction-to-computer-and-its-generations/computer-generations-2-983/
+    - assets/ic/Grade-6/Computer/Introduction-to-computer-and-its-generations/computer-generations-2-983/content/computer-generations-2-983/
     - assets/ic/Grade-6/Computer/Introduction-to-computer-and-its-generations/computer-generations-2-983/content/computer-generations-2-983/images/
 
     - assets/ic/Grade-6/Computer/Introduction-to-computer-and-its-generations/computer-generations-3-996/
+    - assets/ic/Grade-6/Computer/Introduction-to-computer-and-its-generations/computer-generations-3-996/content/computer-generations-3-996/
     - assets/ic/Grade-6/Computer/Introduction-to-computer-and-its-generations/computer-generations-3-996/content/computer-generations-3-996/images/
 
     - assets/ic/Grade-6/Computer/Introduction-to-computer-and-its-generations/computer-generations-4-1000/
