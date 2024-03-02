@@ -1,4 +1,3 @@
-
 import 'package:flutter/material.dart';
 
 class OnBoardingEndWidget extends StatelessWidget {
@@ -6,6 +5,16 @@ class OnBoardingEndWidget extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    return const Placeholder();
+    final wContext = MediaQuery.of(context);
+    return Container(
+      width: wContext.size.width,
+      height: wContext.size.height,
+      decoration: const BoxDecoration(
+        color: Colors.red,
+      ),
+      child: const Stack(
+        children: [],
+      ),
+    );
   }
 }

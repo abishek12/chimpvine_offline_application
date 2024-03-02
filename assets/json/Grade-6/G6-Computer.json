@@ -4,77 +4,77 @@
         {
             "title": "Introduction to Computer and its Generations (Limitations and Application)",
             "image": "assets/games/game_one.png",
-            "path": "assets/ic/Grade-6/Computer/Parts of a computer/parts-of-a-computer-interactive-quiz-6483/index.html"
+            "path": "assets/ic/Grade-6/Computer/Introduction-to-computer-and-its-generations/limitations-and-application-of-a-computer-1015/index.html"
         },
         {
             "title": "Introduction to Computer and its Generations (Fourth Generation Computers)",
             "image": "assets/games/game_one.png",
-            "path": "assets/ic/Grade-6/Computer/Working with Word Pad/starting-and-componets-of-wordpad-6066/index.html"
+            "path": "assets/ic/Grade-6/Computer/Introduction-to-computer-and-its-generations/computer-generations-4-1000/index.html"
         },
         {
             "title": "Computer System (Input Unit)",
             "image": "assets/games/game_one.png",
-            "path": "assets/ic/Grade-5/Computer/Working with Word Pad/woking-on-home-tab-6626/index.html"
+            "path": "assets/ic/Grade-6/Computer/Computer-system/computer-system-3-1061/index.html"
         },
         {
             "title": "Computer System (Output Unit)",
             "image": "assets/games/game_one.png",
-            "path": "assets/ic/Grade-6/Computer/The Keyboard/index.html"
+            "path": "assets/ic/Grade-6/Computer/Computer-system/output-unit-1063/index.html"
         },
         {
             "title": "Computer System (Hardware and Software)",
             "image": "assets/games/game_one.png",
-            "path": "assets/ic/Grade-6/Computer/Music Player/index.html"
-        },
-        {
-            "title": "Introduction to Word Processing : MS-Word (Date, time and Inserting Special Symbols)",
-            "image": "assets/games/game_one.png",
-            "path": "assets/ic/Grade-6/Computer/Music Player/index.html"
+            "path": "assets/ic/Grade-6/Computer/Computer-system/computer-software-and-hardware-1080/index.html"
         },
         {
             "title": "Introduction to Word Processing : MS-Word (Different Functions of Word)",
             "image": "assets/games/game_one.png",
-            "path": "assets/ic/Grade-6/Computer/Let_s paint using a computer/index.html"
+            "path": "assets/ic/Grade-6/Computer/Introduction-to-word-processing-microsoft-word/different-functions-of-word-1110/index.html"
         },
         {
             "title": "Introduction to Word Processing : MS-Word (Printing)",
             "image": "assets/games/game_one.png",
-            "path": "assets/ic/Grade-6/Computer/Mighty mouse/index.html"
+            "path": "assets/ic/Grade-6/Computer/Introduction-to-word-processing-microsoft-word/printing-1091/index.html"
         },
         {
             "title": "Introduction to Spreadsheet : MS-Excel (The MS-Excel Screen)",
             "image": "assets/games/game_one.png",
-            "path": "assets/ic/Grade-6/Computer/Computer (A Smart Machine)/computer-a-smart-machine-interactive-book-6469/index.html"
+            "path": "assets/ic/Grade-6/Computer/Introduction-to-spreadsheet-microsoft-excel/the-ms-excel-screen-2-1139/index.html"
         },
         {
             "title": "Introduction to Spreadsheet : MS-Excel (Formulas in Worksheet)",
             "image": "assets/games/game_one.png",
-            "path": "assets/ic/Grade-6/Computer/Computer (A Smart Machine)/computer-a-smart-machine-interactive-quiz-6420/index.html"
+            "path": "assets/ic/Grade-6/Computer/Introduction-to-spreadsheet-microsoft-excel/working-with-chart-3-1155/index.html"
         },
         {
             "title": "Operating System (Terms used in MS-DOS)",
             "image": "assets/games/game_one.png",
-            "path": "assets/ic/Grade-6/Computer/Monitor (display unit)/index.html"
+            "path": "assets/ic/Grade-6/Computer/Operating-system/terms-used-in-ms-dos-1326/index.html"
         },
         {
             "title": "Operating System (MS-DOS Commands)",
             "image": "assets/games/game_one.png",
-            "path": "assets/ic/Grade-6/Computer/Computer and its use/index.html"
+            "path": "assets/ic/Grade-6/Computer/Operating-system/ms-dos-commands-1327/index.html"
         },
         {
             "title": "Computer Memory (Introduction and units of memory)",
             "image": "assets/games/game_one.png",
-            "path": "assets/ic/Grade-6/Computer/Parts of a computer/parts-of-a-computer-interactive-book-6482/index.html"
+            "path": "assets/ic/Grade-6/Computer/Computer-Memory/introduction-and-units-of-memory-1160/index.html"
         },
         {
             "title": "Computer Memory (Primary Memory)",
             "image": "assets/games/game_one.png",
-            "path": "assets/ic/Grade-6/Computer/Parts of a computer/parts-of-a-computer-interactive-quiz-6483/index.html"
+            "path": "assets/ic/Grade-6/Computer/Computer-Memory/primary-memory-2-1161/index.html"
+        },
+        {
+            "title": "Computer Memory (Secondary Memory)",
+            "image": "assets/games/game_one.png",
+            "path": "assets/ic/Grade-6/Computer/Computer-Memory/secondary-memory-2-1162/index.html"
         },
         {
             "title": "Introduction to presentation softwre: MS-Powerpoint",
             "image": "assets/games/game_one.png",
-            "path": "assets/ic/Grade-6/Computer/Parts of a computer/parts-of-a-computer-interactive-quiz-6483/index.html"
+            "path": "assets/ic/Grade-6/Computer/Introduction-to-presentation-software-microsoft-powerpoint/inserting-objects-in-powerpoint-116-118-flash-cards-1200/index.html"
         } 
     ],
     "games": []

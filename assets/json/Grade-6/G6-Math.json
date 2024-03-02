@@ -1,81 +1,77 @@
+
 {
     "count": 15,
     "ic": [
         {
             "title": "Operation on Whole Number (Prime Factors)",
             "image": "assets/games/game_one.png",
-            "path": "assets/ic/Grade-1/Computer/Parts of a computer/parts-of-a-computer-interactive-quiz-1483/index.html"
+            "path": "assets/ic/Grade-6/Math/Opearation-on-whole-number/prime-factors-261/index.html"
         },
         {
             "title": "Operation on Whole Number (Squares Numbers and Square Roots)",
             "image": "assets/games/game_one.png",
-            "path": "assets/ic/Grade-1/Computer/Working with Word Pad/starting-and-componets-of-wordpad-1011/index.html"
+            "path": "assets/ic/Grade-6/Math/Opearation-on-whole-number/squares-numbers-and-square-roots-265/index.html"
         },
         {
             "title": "Number System (Roman Numerals)",
             "image": "assets/games/game_one.png",
-            "path": "assets/ic/Grade-5/Computer/Working with Word Pad/woking-on-home-tab-1121/index.html"
+            "path": "assets/ic/Grade-6/Math/Number-System/index.html"
         },
         {
             "title": "Properties of Whole Number (Properties of Whole Numbers -- Interactive Book)",
             "image": "assets/games/game_one.png",
-            "path": "assets/ic/Grade-1/Computer/The Keyboard/index.html"
+            "path": "assets/ic/Grade-6/Math/Properties-of-whole-number/grade-six-math-properties-of-whole-numbers-52/index.html"
         },
         {
             "title": "Properties of Whole Number (Test of Divisibility by Numbers)",
             "image": "assets/games/game_one.png",
-            "path": "assets/ic/Grade-1/Computer/Music Player/index.html"
+            "path": "assets/ic/Grade-6/Math/Properties-of-whole-number/grade-6-math-test-of-divisibility-by-numbers-2-3-4-5-and-11-53/index.html"
         },
         {
-            "title": "Set (MMethos of Describing Sets -- Interactive Quiz)",
+            "title": "Set (Methos of Describing Sets -- Interactive Quiz)",
             "image": "assets/games/game_one.png",
-            "path": "assets/ic/Grade-1/Computer/Music Player/index.html"
+            "path": "assets/ic/Grade-6/Math/Set/methods-of-describing-sets-191/index.html"
         },
         {
             "title": "Set (Types of sets -- Interactive Quiz)",
             "image": "assets/games/game_one.png",
-            "path": "assets/ic/Grade-1/Computer/Let_s paint using a computer/index.html"
+            "path": "assets/ic/Grade-6/Math/Set/types-of-sets-194/index.html"
         },
         {
             "title": "Perimeter, Area, and Volume (Area of Regular and Irregular Figures)",
             "image": "assets/games/game_one.png",
-            "path": "assets/ic/Grade-1/Computer/Mighty mouse/index.html"
+            "path": "assets/ic/Grade-6/Math/Perimeter,-area-and-volume/area-of-regular-and-irregular-figures-154/index.html"
         },
         {
             "title": "Perimeter, Area, and Volume (Area of Rectangles and Squares)",
             "image": "assets/games/game_one.png",
-            "path": "assets/ic/Grade-1/Computer/Computer (A Smart Machine)/computer-a-smart-machine-interactive-book-1419/index.html"
+            "path": "assets/ic/Grade-6/Math/Perimeter,-area-and-volume/area-of-rectangles-and-squares-157/index.html"
         },
         {
             "title": "Fraction and Decimal (Decimal -- Interactive Quiz)",
             "image": "assets/games/game_one.png",
-            "path": "assets/ic/Grade-1/Computer/Computer (A Smart Machine)/computer-a-smart-machine-interactive-quiz-1420/index.html"
+            "path": "assets/ic/Grade-6/Math/Fraction-and-decimal/index.html"
         },
         {
             "title": "Symmetrical Figures, Design of Polygons and Tessellations (Introduction)",
             "image": "assets/games/game_one.png",
-            "path": "assets/ic/Grade-1/Computer/Monitor (display unit)/index.html"
+            "path": "assets/ic/Grade-6/Math/Symmetrical-figures,-design-of-polygons-and-tesselations/introduction-2-183/index.html"
         },
         {
             "title": "Symmetrical Figures, Design of Polygons and Tessellations (Patterns and Designs of Polygons)",
             "image": "assets/games/game_one.png",
-            "path": "assets/ic/Grade-1/Computer/Computer and its use/index.html"
+            "path": "assets/ic/Grade-6/Math/Symmetrical-figures,-design-of-polygons-and-tesselations/patterns-and-designs-of-polygons-208/index.html"
         },
         {
             "title": "Integers (Operation of Integers)",
             "image": "assets/games/game_one.png",
-            "path": "assets/ic/Grade-1/Computer/Parts of a computer/parts-of-a-computer-interactive-book-1482/index.html"
+            "path": "assets/ic/Grade-6/Math/Integers/index.html"
         },
         {
             "title": "Rational Number (Introduction of Rational Number)",
             "image": "assets/games/game_one.png",
-            "path": "assets/ic/Grade-1/Computer/Parts of a computer/parts-of-a-computer-interactive-quiz-1483/index.html"
-        },
-        {
-            "title": "Question Tags",
-            "image": "assets/games/game_one.png",
-            "path": "assets/ic/Grade-1/Computer/Parts of a computer/parts-of-a-computer-interactive-quiz-1483/index.html"
-        } 
+            "path": "assets/ic/Grade-6/Math/Rational-numbers/index.html"
+        }
     ],
     "games": [
         {
