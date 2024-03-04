@@ -1,80 +1,80 @@
 {
-    "count": 15,
+    "count": 77,
     "ic": [
         {
             "title": "Light",
             "image": "assets/games/game_one.png",
-            "path": "assets/ic/Grade-1/Computer/Parts of a computer/parts-of-a-computer-interactive-quiz-1483/index.html"
+            "path": "assets/ic/Grade-7/Science/Light/index.html"
         },
         {
             "title": "Sound",
             "image": "assets/games/game_one.png",
-            "path": "assets/ic/Grade-1/Computer/The Keyboard/index.html"
+            "path": "assets/ic/Grade-7/Science/Sound/index.html"
         },
         {
             "title": "Magnet",
             "image": "assets/games/game_one.png",
-            "path": "assets/ic/Grade-1/Computer/Working with Word Pad/starting-and-componets-of-wordpad-1011/index.html"
+            "path": "assets/ic/Grade-7/Science/Magnet/index.html"
         },
         {
             "title": "Heat",
             "image": "assets/games/game_one.png",
-            "path": "assets/ic/Grade-5/Computer/Working with Word Pad/woking-on-home-tab-1121/index.html"
+            "path": "assets/ic/Grade-7/Science/Heat/index.html"
         },
         {
             "title": "Cell and tissue",
             "image": "assets/games/game_one.png",
-            "path": "assets/ic/Grade-1/Computer/Music Player/index.html"
+            "path": "assets/ic/Grade-7/Science/Cell-and-tissue/index.html"
         },
         {
             "title": "Life Processes",
             "image": "assets/games/game_one.png",
-            "path": "assets/ic/Grade-1/Computer/Music Player/index.html"
+            "path": "assets/ic/Grade-7/Science/Life-processes/index.html"
         },
         {
             "title": "Structure of Earth",
             "image": "assets/games/game_one.png",
-            "path": "assets/ic/Grade-1/Computer/Let_s paint using a computer/index.html"
+            "path": "assets/ic/Grade-7/Science/Structure-of-earth/index.html"
         },
         {
             "title": "Weather and Climate",
             "image": "assets/games/game_one.png",
-            "path": "assets/ic/Grade-1/Computer/Mighty mouse/index.html"
+            "path": "assets/ic/Grade-7/Science/Weather-and-climate/index.html"
         },
         {
             "title": "Force and Motion",
             "image": "assets/games/game_one.png",
-            "path": "assets/ic/Grade-1/Computer/Computer (A Smart Machine)/computer-a-smart-machine-interactive-book-1419/index.html"
+            "path": "assets/ic/Grade-7/Science/Force-and-motion/index.html"
         },
         {
             "title": "Simple Machine",
             "image": "assets/games/game_one.png",
-            "path": "assets/ic/Grade-1/Computer/Computer (A Smart Machine)/computer-a-smart-machine-interactive-quiz-1420/index.html"
+            "path": "assets/ic/Grade-7/Science/Simple-machine/index.html"
         },
         {
             "title": "The Earth and Space",
             "image": "assets/games/game_one.png",
-            "path": "assets/ic/Grade-1/Computer/Monitor (display unit)/index.html"
+            "path": "assets/ic/Grade-7/Science/The-earth-and-space/index.html"
         },
         {
             "title": "Electricity",
             "image": "assets/games/game_one.png",
-            "path": "assets/ic/Grade-1/Computer/Computer and its use/index.html"
+            "path": "assets/ic/Grade-7/Science/Electricity/index.html"
         },
         {
             "title": "Matter",
             "image": "assets/games/game_one.png",
-            "path": "assets/ic/Grade-1/Computer/Parts of a computer/parts-of-a-computer-interactive-book-1482/index.html"
+            "path": "assets/ic/Grade-7/Science/Matter/index.html"
         },
         {
             "title": "Mixture",
             "image": "assets/games/game_one.png",
-            "path": "assets/ic/Grade-1/Computer/Parts of a computer/parts-of-a-computer-interactive-quiz-1483/index.html"
+            "path": "assets/ic/Grade-7/Science/Mixture/index.html"
         },
         {
             "title": "Metals and Non-Metals",
             "image": "assets/games/game_one.png",
-            "path": "assets/ic/Grade-1/Computer/Parts of a computer/parts-of-a-computer-interactive-quiz-1483/index.html"
+            "path": "assets/ic/Grade-7/Science/Metals-and-non-metals/index.html"
         } 
     ],
     "games": [

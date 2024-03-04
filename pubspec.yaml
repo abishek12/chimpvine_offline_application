@@ -1748,7 +1748,6 @@ flutter:
 
     - assets/ic/Grade-4/English/Nouns/singular-and-plural-nouns-543/
     - assets/ic/Grade-4/English/Nouns/singular-and-plural-nouns-543/libraries/h5pcore/
-    - assets/ic/Grade-4/English/Nouns/singular-and-plural-nouns-543/libraries/H5P.FontIcons-1.0/fonts
     - assets/ic/Grade-4/English/Nouns/singular-and-plural-nouns-543/libraries/FontAwesome-4.5/
     - assets/ic/Grade-4/English/Nouns/singular-and-plural-nouns-543/content/singular-and-plural-nouns-543/
     - assets/ic/Grade-4/English/Nouns/singular-and-plural-nouns-543/content/singular-and-plural-nouns-543/images/
@@ -2037,14 +2036,11 @@ flutter:
 
     - assets/ic/Grade-5/Science/Physical-Exercise,-Rest-and-Sleep/exercise-rest-and-sleep-1286/
     - assets/ic/Grade-5/Science/Physical-Exercise,-Rest-and-Sleep/exercise-rest-and-sleep-1286/libraries/H5P.MultiChoice-1.16/fonts/
-    - assets/ic/Grade-5/Science/Physical-Exercise,-Rest-and-Sleep/exercise-rest-and-sleep-1286/libraries/H5P.FontIcons-1.0/fonts/
-    - assets/ic/Grade-5/Science/Physical-Exercise,-Rest-and-Sleep/exercise-rest-and-sleep-1286/libraries/H5P.FontIcons-1.0/fonts
     - assets/ic/Grade-5/Science/Physical-Exercise,-Rest-and-Sleep/exercise-rest-and-sleep-1286/content/exercise-rest-and-sleep-1286/
     - assets/ic/Grade-5/Science/Physical-Exercise,-Rest-and-Sleep/exercise-rest-and-sleep-1286/libraries/h5pcore/
     - assets/ic/Grade-5/Science/Physical-Exercise,-Rest-and-Sleep/exercise-rest-and-sleep-1286/content/exercise-rest-and-sleep-1286/images/
 
     - assets/ic/Grade-5/Science/Physical-Exercise,-Rest-and-Sleep/physical-training-3-703/
-    - assets/ic/Grade-5/Science/Physical-Exercise,-Rest-and-Sleep/physical-training-3-703/libraries/H5P.FontIcons-1.0/fonts/
     - assets/ic/Grade-5/Science/Physical-Exercise,-Rest-and-Sleep/physical-training-3-703/libraries/FontAwesome-4.5/
     - assets/ic/Grade-5/Science/Physical-Exercise,-Rest-and-Sleep/physical-training-3-703/content/physical-training-3-703/
     - assets/ic/Grade-5/Science/Physical-Exercise,-Rest-and-Sleep/physical-training-3-703/libraries/h5pcore/
@@ -2059,8 +2055,6 @@ flutter:
 
     - assets/ic/Grade-5/Science/Health-service-and-communit-health/
     - assets/ic/Grade-5/Science/Health-service-and-communit-health/libraries/H5P.MultiChoice-1.16/fonts/
-    - assets/ic/Grade-5/Science/Health-service-and-communit-health/libraries/H5P.FontIcons-1.0/fonts/
-    - assets/ic/Grade-5/Science/Health-service-and-communit-health/libraries/H5P.FontIcons-1.0/fonts
     - assets/ic/Grade-5/Science/Health-service-and-communit-health/content/health-services-and-community-health-part-3-792/
     - assets/ic/Grade-5/Science/Health-service-and-communit-health/libraries/h5pcore/
     - assets/ic/Grade-5/Science/Health-service-and-communit-health/content/health-services-and-community-health-part-3-792/images/
@@ -3313,165 +3307,232 @@ flutter:
     - assets/ic/Grade-7/English/Verbs/verbs-2-988/content/verbs-2-988/images/
 
     - assets/ic/Grade-8/Science/Matter/
+    - assets/ic/Grade-8/Science/Matter/libraries/H5P.FontIcons-1.0/fonts/
+    - assets/ic/Grade-8/Science/Matter/libraries/FontAwesome-4.5/
     - assets/ic/Grade-8/Science/Matter/libraries/h5pcore/
     - assets/ic/Grade-8/Science/Matter/content/read-the-questions-carefully-and-answer-these-questions-824/
     - assets/ic/Grade-8/Science/Matter/content/read-the-questions-carefully-and-answer-these-questions-824/images/
 
     - assets/ic/Grade-8/Science/Electricity/
+    - assets/ic/Grade-8/Science/Electricity/libraries/H5P.FontIcons-1.0/fonts/
+    - assets/ic/Grade-8/Science/Electricity/libraries/FontAwesome-4.5/
     - assets/ic/Grade-8/Science/Electricity/libraries/h5pcore/
     - assets/ic/Grade-8/Science/Electricity/content/electricity-2-955/
     - assets/ic/Grade-8/Science/Electricity/content/electricity-2-955/images/
 
     - assets/ic/Grade-8/Science/Heat/
+    - assets/ic/Grade-8/Science/Heat/libraries/H5P.FontIcons-1.0/fonts/
+    - assets/ic/Grade-8/Science/Heat/libraries/FontAwesome-4.5/
     - assets/ic/Grade-8/Science/Heat/libraries/h5pcore/
     - assets/ic/Grade-8/Science/Heat/content/heat-2-893/
     - assets/ic/Grade-8/Science/Heat/content/heat-2-893/images/
 
     - assets/ic/Grade-8/Science/Magnetism/
+    - assets/ic/Grade-8/Science/Magnetism/libraries/H5P.FontIcons-1.0/fonts/
+    - assets/ic/Grade-8/Science/Magnetism/libraries/FontAwesome-4.5/
     - assets/ic/Grade-8/Science/Magnetism/libraries/h5pcore/
     - assets/ic/Grade-8/Science/Magnetism/content/magnetism-2-843/
     - assets/ic/Grade-8/Science/Magnetism/content/magnetism-2-843/images/
 
     - assets/ic/Grade-8/Science/Pressure/
+    - assets/ic/Grade-8/Science/Pressure/libraries/H5P.FontIcons-1.0/fonts/
+    - assets/ic/Grade-8/Science/Pressure/libraries/FontAwesome-4.5/
     - assets/ic/Grade-8/Science/Pressure/libraries/h5pcore/
     - assets/ic/Grade-8/Science/Pressure/content/pressure-1113/
     - assets/ic/Grade-8/Science/Pressure/content/pressure-1113/images/
 
     - assets/ic/Grade-8/Science/Sound/
+    - assets/ic/Grade-8/Science/Sound/libraries/H5P.FontIcons-1.0/fonts/
+    - assets/ic/Grade-8/Science/Sound/libraries/FontAwesome-4.5/
     - assets/ic/Grade-8/Science/Sound/libraries/h5pcore/
     - assets/ic/Grade-8/Science/Sound/content/sound-2-826/
     - assets/ic/Grade-8/Science/Sound/content/sound-2-826/images/
 
     - assets/ic/Grade-8/Science/Acid,-base-and-salt/
+    - assets/ic/Grade-8/Science/Acid,-base-and-salt/libraries/H5P.FontIcons-1.0/fonts/
+    - assets/ic/Grade-8/Science/Acid,-base-and-salt/libraries/FontAwesome-4.5/
     - assets/ic/Grade-8/Science/Acid,-base-and-salt/libraries/h5pcore/
     - assets/ic/Grade-8/Science/Acid,-base-and-salt/content/acid-base-and-salt-918/
     - assets/ic/Grade-8/Science/Acid,-base-and-salt/content/acid-base-and-salt-918/images/
     
     - assets/ic/Grade-8/Science/Cell-and-tissue/
+    - assets/ic/Grade-8/Science/Cell-and-tissue/libraries/H5P.FontIcons-1.0/fonts/
+    - assets/ic/Grade-8/Science/Cell-and-tissue/libraries/FontAwesome-4.5/
     - assets/ic/Grade-8/Science/Cell-and-tissue/libraries/h5pcore/
     - assets/ic/Grade-8/Science/Cell-and-tissue/content/cell-and-tissue-2-1307/
     - assets/ic/Grade-8/Science/Cell-and-tissue/content/cell-and-tissue-2-1307/images/
 
     - assets/ic/Grade-8/Science/Light/
+    - assets/ic/Grade-8/Science/Light/libraries/H5P.FontIcons-1.0/fonts/
+    - assets/ic/Grade-8/Science/Light/libraries/FontAwesome-4.5/
     - assets/ic/Grade-8/Science/Light/libraries/h5pcore/
     - assets/ic/Grade-8/Science/Light/content/light-2-890/
     - assets/ic/Grade-8/Science/Light/content/light-2-890/images/
 
     - assets/ic/Grade-8/Science/Environment-and-sustainable-development/
+    - assets/ic/Grade-8/Science/Environment-and-sustainable-development/libraries/H5P.FontIcons-1.0/fonts/
+    - assets/ic/Grade-8/Science/Environment-and-sustainable-development/libraries/FontAwesome-4.5/
     - assets/ic/Grade-8/Science/Environment-and-sustainable-development/libraries/h5pcore/
     - assets/ic/Grade-8/Science/Environment-and-sustainable-development/content/sustainable-development-and-biodiversity-1300/
     - assets/ic/Grade-8/Science/Environment-and-sustainable-development/content/sustainable-development-and-biodiversity-1300/images/
 
     - assets/ic/Grade-8/Science/Environment-degradation-and-its-conservation/
+    - assets/ic/Grade-8/Science/Environment-degradation-and-its-conservation/libraries/H5P.FontIcons-1.0/fonts/
+    - assets/ic/Grade-8/Science/Environment-degradation-and-its-conservation/libraries/FontAwesome-4.5/
     - assets/ic/Grade-8/Science/Environment-degradation-and-its-conservation/libraries/h5pcore/
     - assets/ic/Grade-8/Science/Environment-degradation-and-its-conservation/content/environmental-degradation-and-conservation-1301/
     - assets/ic/Grade-8/Science/Environment-degradation-and-its-conservation/content/environmental-degradation-and-conservation-1301/images/
 
     - assets/ic/Grade-8/Science/Metals-and-non-metals/
+    - assets/ic/Grade-8/Science/Metals-and-non-metals/libraries/H5P.FontIcons-1.0/fonts/
+    - assets/ic/Grade-8/Science/Metals-and-non-metals/libraries/FontAwesome-4.5/
     - assets/ic/Grade-8/Science/Metals-and-non-metals/libraries/h5pcore/
     - assets/ic/Grade-8/Science/Metals-and-non-metals/content/metal-and-non-metals-817/
     - assets/ic/Grade-8/Science/Metals-and-non-metals/content/metal-and-non-metals-817/images/
 
     - assets/ic/Grade-8/Science/Simple-machine/
+    - assets/ic/Grade-8/Science/Simple-machine/libraries/H5P.FontIcons-1.0/fonts/
+    - assets/ic/Grade-8/Science/Simple-machine/libraries/FontAwesome-4.5/
     - assets/ic/Grade-8/Science/Simple-machine/libraries/h5pcore/
     - assets/ic/Grade-8/Science/Simple-machine/content/simple-machine-2-1095/
     - assets/ic/Grade-8/Science/Simple-machine/content/simple-machine-2-1095/images/
 
     - assets/ic/Grade-8/Science/Some-useful-chemicals/
+    - assets/ic/Grade-8/Science/Some-useful-chemicals/libraries/H5P.FontIcons-1.0/fonts/
+    - assets/ic/Grade-8/Science/Some-useful-chemicals/libraries/FontAwesome-4.5/
     - assets/ic/Grade-8/Science/Some-useful-chemicals/libraries/h5pcore/
     - assets/ic/Grade-8/Science/Some-useful-chemicals/content/some-useful-chemicals-2-933/
     - assets/ic/Grade-8/Science/Some-useful-chemicals/content/some-useful-chemicals-2-933/images/
 
     - assets/ic/Grade-8/Science/Weather-and-climate/
+    - assets/ic/Grade-8/Science/Weather-and-climate/libraries/H5P.FontIcons-1.0/fonts/
+    - assets/ic/Grade-8/Science/Weather-and-climate/libraries/FontAwesome-4.5/
     - assets/ic/Grade-8/Science/Weather-and-climate/libraries/h5pcore/
     - assets/ic/Grade-8/Science/Weather-and-climate/content/climate-and-weather-1308/
     - assets/ic/Grade-8/Science/Weather-and-climate/content/climate-and-weather-1308/images/
 
     - assets/ic/Grade-8/Science/Separation-of-Mixture/
+    - assets/ic/Grade-8/Science/Separation-of-Mixture/libraries/H5P.FontIcons-1.0/fonts/
+    - assets/ic/Grade-8/Science/Separation-of-Mixture/libraries/FontAwesome-4.5/
     - assets/ic/Grade-8/Science/Separation-of-Mixture/libraries/h5pcore/
     - assets/ic/Grade-8/Science/Separation-of-Mixture/content/separation-of-mixture-830/
     - assets/ic/Grade-8/Science/Separation-of-Mixture/content/separation-of-mixture-830/images/
     
     - assets/ic/Grade-8/Science/Work,-energy-and-power/
+    - assets/ic/Grade-8/Science/Work,-energy-and-power/libraries/H5P.FontIcons-1.0/fonts/
+    - assets/ic/Grade-8/Science/Work,-energy-and-power/libraries/FontAwesome-4.5/
     - assets/ic/Grade-8/Science/Work,-energy-and-power/libraries/h5pcore/
     - assets/ic/Grade-8/Science/Work,-energy-and-power/content/work-energy-and-power-885/
     - assets/ic/Grade-8/Science/Work,-energy-and-power/content/work-energy-and-power-885/images/
 
     - assets/ic/Grade-8/Science/Living-organisms/
+    - assets/ic/Grade-8/Science/Living-organisms/libraries/H5P.FontIcons-1.0/fonts/
+    - assets/ic/Grade-8/Science/Living-organisms/libraries/FontAwesome-4.5/
     - assets/ic/Grade-8/Science/Living-organisms/libraries/h5pcore/
     - assets/ic/Grade-8/Science/Living-organisms/content/living-organism-970/
     - assets/ic/Grade-8/Science/Living-organisms/content/living-organism-970/images/
 
     - assets/ic/Grade-8/Math/Algebraic-expressions/factorization-2-536/
+    - assets/ic/Grade-8/Math/Algebraic-expressions/factorization-2-536/libraries/H5P.FontIcons-1.0/fonts/
+    - assets/ic/Grade-8/Math/Algebraic-expressions/factorization-2-536/libraries/FontAwesome-4.5/
     - assets/ic/Grade-8/Math/Algebraic-expressions/factorization-2-536/libraries/h5pcore/
     - assets/ic/Grade-8/Math/Algebraic-expressions/factorization-2-536/content/factorization-2-536/
     - assets/ic/Grade-8/Math/Algebraic-expressions/factorization-2-536/content/factorization-2-536/images/
 
     - assets/ic/Grade-8/Math/Algebraic-expressions/factorization-of-difference-of-two-squares-521/
+    - assets/ic/Grade-8/Math/Algebraic-expressions/factorization-of-difference-of-two-squares-521/libraries/H5P.FontIcons-1.0/fonts/
+    - assets/ic/Grade-8/Math/Algebraic-expressions/factorization-of-difference-of-two-squares-521/libraries/FontAwesome-4.5/
     - assets/ic/Grade-8/Math/Algebraic-expressions/factorization-of-difference-of-two-squares-521/libraries/h5pcore/
     - assets/ic/Grade-8/Math/Algebraic-expressions/factorization-of-difference-of-two-squares-521/content/factorization-of-difference-of-two-squares-521/
     - assets/ic/Grade-8/Math/Algebraic-expressions/factorization-of-difference-of-two-squares-521/content/factorization-of-difference-of-two-squares-521/images/
 
     - assets/ic/Grade-8/Math/Circle/circle-401/
+    - assets/ic/Grade-8/Math/Circle/circle-401/libraries/H5P.FontIcons-1.0/fonts/
+    - assets/ic/Grade-8/Math/Circle/circle-401/libraries/FontAwesome-4.5/
     - assets/ic/Grade-8/Math/Circle/circle-401/libraries/h5pcore/
     - assets/ic/Grade-8/Math/Circle/circle-401/content/circle-401/
     - assets/ic/Grade-8/Math/Circle/circle-401/content/circle-401/images/
 
     - assets/ic/Grade-8/Math/Circle/relation-between-diameter-and-circumference-480/
+    - assets/ic/Grade-8/Math/Circle/relation-between-diameter-and-circumference-480/libraries/H5P.FontIcons-1.0/fonts/
+    - assets/ic/Grade-8/Math/Circle/relation-between-diameter-and-circumference-480/libraries/FontAwesome-4.5/
     - assets/ic/Grade-8/Math/Circle/relation-between-diameter-and-circumference-480/libraries/h5pcore/
     - assets/ic/Grade-8/Math/Circle/relation-between-diameter-and-circumference-480/content/relation-between-diameter-and-circumference-480/
     - assets/ic/Grade-8/Math/Circle/relation-between-diameter-and-circumference-480/content/relation-between-diameter-and-circumference-480/images/
 
     - assets/ic/Grade-8/Math/Geometry-Quadrilaterals-and-regular-polygons/construction-of-rectangles-284/
+    - assets/ic/Grade-8/Math/Geometry-Quadrilaterals-and-regular-polygons/construction-of-rectangles-284/libraries/H5P.FontIcons-1.0/fonts/
+    - assets/ic/Grade-8/Math/Geometry-Quadrilaterals-and-regular-polygons/construction-of-rectangles-284/libraries/FontAwesome-4.5/
     - assets/ic/Grade-8/Math/Geometry-Quadrilaterals-and-regular-polygons/construction-of-rectangles-284/libraries/h5pcore/
     - assets/ic/Grade-8/Math/Geometry-Quadrilaterals-and-regular-polygons/construction-of-rectangles-284/content/construction-of-rectangles-284/
     - assets/ic/Grade-8/Math/Geometry-Quadrilaterals-and-regular-polygons/construction-of-rectangles-284/content/construction-of-rectangles-284/images/
 
     - assets/ic/Grade-8/Math/Geometry-Quadrilaterals-and-regular-polygons/construction-of-regular-polygons-275/
+    - assets/ic/Grade-8/Math/Geometry-Quadrilaterals-and-regular-polygons/construction-of-regular-polygons-275/libraries/H5P.FontIcons-1.0/fonts/
+    - assets/ic/Grade-8/Math/Geometry-Quadrilaterals-and-regular-polygons/construction-of-regular-polygons-275/libraries/FontAwesome-4.5/
     - assets/ic/Grade-8/Math/Geometry-Quadrilaterals-and-regular-polygons/construction-of-regular-polygons-275/libraries/h5pcore/
     - assets/ic/Grade-8/Math/Geometry-Quadrilaterals-and-regular-polygons/construction-of-regular-polygons-275/content/construction-of-regular-polygons-275/
     - assets/ic/Grade-8/Math/Geometry-Quadrilaterals-and-regular-polygons/construction-of-regular-polygons-275/content/construction-of-regular-polygons-275/images/
+
     - assets/ic/Grade-8/Math/Geometry-Quadrilaterals-and-regular-polygons/verification-of-parallelograms-and-rectangles-279/
+    - assets/ic/Grade-8/Math/Geometry-Quadrilaterals-and-regular-polygons/verification-of-parallelograms-and-rectangles-279/libraries/H5P.FontIcons-1.0/fonts/
+    - assets/ic/Grade-8/Math/Geometry-Quadrilaterals-and-regular-polygons/verification-of-parallelograms-and-rectangles-279/libraries/FontAwesome-4.5/
     - assets/ic/Grade-8/Math/Geometry-Quadrilaterals-and-regular-polygons/verification-of-parallelograms-and-rectangles-279/libraries/h5pcore/
     - assets/ic/Grade-8/Math/Geometry-Quadrilaterals-and-regular-polygons/verification-of-parallelograms-and-rectangles-279/content/verification-of-parallelograms-and-rectangles-279/
     - assets/ic/Grade-8/Math/Geometry-Quadrilaterals-and-regular-polygons/verification-of-parallelograms-and-rectangles-279/content/verification-of-parallelograms-and-rectangles-279/images/
 
     - assets/ic/Grade-8/Math/Geometry-Triangles/interior-angle-theorem-iat-262/
+    - assets/ic/Grade-8/Math/Geometry-Triangles/libraries/H5P.FontIcons-1.0/fonts/
+    - assets/ic/Grade-8/Math/Geometry-Triangles/libraries/FontAwesome-4.5/
     - assets/ic/Grade-8/Math/Geometry-Triangles/interior-angle-theorem-iat-262/libraries/h5pcore/
     - assets/ic/Grade-8/Math/Geometry-Triangles/interior-angle-theorem-iat-262/content/interior-angle-theorem-iat-262/
     - assets/ic/Grade-8/Math/Geometry-Triangles/interior-angle-theorem-iat-262/content/interior-angle-theorem-iat-262/images/
 
     - assets/ic/Grade-8/Math/Geometry-Triangles/triangles-676/
+    - assets/ic/Grade-8/Math/Geometry-Triangles/libraries/H5P.FontIcons-1.0/fonts/
+    - assets/ic/Grade-8/Math/Geometry-Triangles/libraries/FontAwesome-4.5/
     - assets/ic/Grade-8/Math/Geometry-Triangles/triangles-676/libraries/h5pcore/
     - assets/ic/Grade-8/Math/Geometry-Triangles/triangles-676/content/triangles-676/
     - assets/ic/Grade-8/Math/Geometry-Triangles/triangles-676/content/triangles-676/images/
 
     - assets/ic/Grade-8/Math/Number-Systems/
+    - assets/ic/Grade-8/Math/Number-Systems/libraries/H5P.FontIcons-1.0/fonts/
+    - assets/ic/Grade-8/Math/Number-Systems/libraries/FontAwesome-4.5/
     - assets/ic/Grade-8/Math/Number-Systems/libraries/h5pcore/
     - assets/ic/Grade-8/Math/Number-Systems/content/relation-between-binary-quinary-and-denary-2-845/
     - assets/ic/Grade-8/Math/Number-Systems/content/relation-between-binary-quinary-and-denary-2-845/images/
 
     - assets/ic/Grade-8/Math/Ratio,-proportion,-and-percentage/
+    - assets/ic/Grade-8/Math/Ratio,-proportion,-and-percentage/libraries/H5P.FontIcons-1.0/fonts/
+    - assets/ic/Grade-8/Math/Ratio,-proportion,-and-percentage/libraries/FontAwesome-4.5/
     - assets/ic/Grade-8/Math/Ratio,-proportion,-and-percentage/libraries/h5pcore/
     - assets/ic/Grade-8/Math/Ratio,-proportion,-and-percentage/content/ratio-proportion-and-percentage-492/
     - assets/ic/Grade-8/Math/Ratio,-proportion,-and-percentage/content/ratio-proportion-and-percentage-492/images/
 
     - assets/ic/Grade-8/Math/Sets/relation-of-sets-569/
+    - assets/ic/Grade-8/Math/Sets/relation-of-sets-569/libraries/H5P.FontIcons-1.0/fonts/
+    - assets/ic/Grade-8/Math/Sets/relation-of-sets-569/libraries/FontAwesome-4.5/
     - assets/ic/Grade-8/Math/Sets/relation-of-sets-569/libraries/h5pcore/
     - assets/ic/Grade-8/Math/Sets/relation-of-sets-569/content/relation-of-sets-569/
     - assets/ic/Grade-8/Math/Sets/relation-of-sets-569/content/relation-of-sets-569/images/
 
     - assets/ic/Grade-8/Math/Sets/review-introduction-and-representation-478/
+    - assets/ic/Grade-8/Math/Sets/review-introduction-and-representation-478/libraries/H5P.FontIcons-1.0/fonts/
+    - assets/ic/Grade-8/Math/Sets/review-introduction-and-representation-478/libraries/FontAwesome-4.5/
     - assets/ic/Grade-8/Math/Sets/review-introduction-and-representation-478/libraries/h5pcore/
     - assets/ic/Grade-8/Math/Sets/review-introduction-and-representation-478/content/review-introduction-and-representation-478/
     - assets/ic/Grade-8/Math/Sets/review-introduction-and-representation-478/content/review-introduction-and-representation-478/images/
 
     - assets/ic/Grade-8/Math/Similarity-and-Congruency/congruent-triangles-and-their-conditions-375/
+    - assets/ic/Grade-8/Math/Similarity-and-Congruency/congruent-triangles-and-their-conditions-375/libraries/H5P.FontIcons-1.0/fonts/
+    - assets/ic/Grade-8/Math/Similarity-and-Congruency/congruent-triangles-and-their-conditions-375/libraries/FontAwesome-4.5/
     - assets/ic/Grade-8/Math/Similarity-and-Congruency/congruent-triangles-and-their-conditions-375/libraries/h5pcore/
     - assets/ic/Grade-8/Math/Similarity-and-Congruency/congruent-triangles-and-their-conditions-375/content/congruent-triangles-and-their-conditions-375/
     - assets/ic/Grade-8/Math/Similarity-and-Congruency/congruent-triangles-and-their-conditions-375/content/congruent-triangles-and-their-conditions-375/images/
 
     - assets/ic/Grade-8/Math/Similarity-and-Congruency/similar-triangles-and-their-conditions-327/
+    - assets/ic/Grade-8/Math/Similarity-and-Congruency/similar-triangles-and-their-conditions-327/libraries/H5P.FontIcons-1.0/fonts/
+    - assets/ic/Grade-8/Math/Similarity-and-Congruency/similar-triangles-and-their-conditions-327/libraries/FontAwesome-4.5/
     - assets/ic/Grade-8/Math/Similarity-and-Congruency/similar-triangles-and-their-conditions-327/libraries/h5pcore/
     - assets/ic/Grade-8/Math/Similarity-and-Congruency/similar-triangles-and-their-conditions-327/content/similar-triangles-and-their-conditions-327/
     - assets/ic/Grade-8/Math/Similarity-and-Congruency/similar-triangles-and-their-conditions-327/content/similar-triangles-and-their-conditions-327/images/

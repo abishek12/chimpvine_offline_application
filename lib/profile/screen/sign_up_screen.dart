@@ -94,6 +94,7 @@ class _SignUpFormState extends State<SignUpForm> {
               },
             ),
             TextFormField(
+              obscureText: true,
               controller: _passwordController,
               decoration: const InputDecoration(labelText: 'Password'),
               validator: (value) {

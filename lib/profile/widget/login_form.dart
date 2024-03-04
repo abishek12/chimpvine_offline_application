@@ -45,6 +45,7 @@ class _LoginFormState extends State<LoginForm> {
                 },
               ),
               TextFormField(
+                obscureText: true,
                 controller: _passwordController,
                 decoration: const InputDecoration(labelText: 'Password'),
                 validator: (value) {
