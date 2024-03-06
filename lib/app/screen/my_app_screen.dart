@@ -22,14 +22,6 @@ class _MyAppState extends State<MyApp> {
         //   backgroundColor: Colors.transparent,
         //   centerTitle: false,
         // ),
-        inputDecorationTheme: const InputDecorationTheme(
-          hintStyle: TextStyle(
-            color: Colors.white70,
-          ),
-          labelStyle: TextStyle(
-            color: Colors.white70,
-          ),
-        ),
         useMaterial3: true,
       ),
     );

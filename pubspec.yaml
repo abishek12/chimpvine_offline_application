@@ -2701,495 +2701,681 @@ flutter:
     - assets/ic/Grade-6/English/Sentences/types-of-sentences-2-1057/content/types-of-sentences-2-1057/images/
 
     - assets/ic/Grade-6/Science/Electricity/
+    - assets/ic/Grade-6/Science/Electricity/libraries/H5P.FontIcons-1.0/fonts/
+    - assets/ic/Grade-6/Science/Electricity/libraries/FontAwesome-4.5/
     - assets/ic/Grade-6/Science/Electricity/content/electricity-831/
     - assets/ic/Grade-6/Science/Electricity/libraries/h5pcore/
     - assets/ic/Grade-6/Science/Electricity/content/electricity-831/images/
 
     - assets/ic/Grade-6/Science/Invertebrates/
+    - assets/ic/Grade-6/Science/Invertebrates/libraries/H5P.FontIcons-1.0/fonts/
+    - assets/ic/Grade-6/Science/Invertebrates/libraries/FontAwesome-4.5/
     - assets/ic/Grade-6/Science/Invertebrates/content/invertebrates-3-849/
     - assets/ic/Grade-6/Science/Invertebrates/libraries/h5pcore/
     - assets/ic/Grade-6/Science/Invertebrates/content/invertebrates-3-849/images/
 
     - assets/ic/Grade-6/Science/Cell-structure/
+    - assets/ic/Grade-6/Science/Cell-structure/libraries/H5P.FontIcons-1.0/fonts/
+    - assets/ic/Grade-6/Science/Cell-structure/libraries/FontAwesome-4.5/
     - assets/ic/Grade-6/Science/Cell-structure/content/invertebrates-712/
     - assets/ic/Grade-6/Science/Cell-structure/libraries/h5pcore/
     - assets/ic/Grade-6/Science/Cell-structure/content/invertebrates-712/images/
 
     - assets/ic/Grade-6/Science/Environment-and-its-balance/
+    - assets/ic/Grade-6/Science/Environment-and-its-balance/libraries/H5P.FontIcons-1.0/fonts/
+    - assets/ic/Grade-6/Science/Environment-and-its-balance/libraries/FontAwesome-4.5/
     - assets/ic/Grade-6/Science/Environment-and-its-balance/content/environment-and-its-balance-767/
     - assets/ic/Grade-6/Science/Environment-and-its-balance/libraries/h5pcore/
     - assets/ic/Grade-6/Science/Environment-and-its-balance/content/environment-and-its-balance-767/images/
 
     - assets/ic/Grade-6/Science/Force-and-motion/
-    - assets/ic/Grade-6/Science/Force-and-motion/content/force-and-motion-714/
-    - assets/ic/Grade-6/Science/Force-and-motion/libraries/h5pcore/
-    - assets/ic/Grade-6/Science/Force-and-motion/content/force-and-motion-714/images/
-
-    - assets/ic/Grade-6/Science/Force-and-motion/
+    - assets/ic/Grade-6/Science/Force-and-motion/libraries/H5P.FontIcons-1.0/fonts/
+    - assets/ic/Grade-6/Science/Force-and-motion/libraries/FontAwesome-4.5/
     - assets/ic/Grade-6/Science/Force-and-motion/content/force-and-motion-714/
     - assets/ic/Grade-6/Science/Force-and-motion/libraries/h5pcore/
     - assets/ic/Grade-6/Science/Force-and-motion/content/force-and-motion-714/images/
 
     - assets/ic/Grade-6/Science/Heat/
+    - assets/ic/Grade-6/Science/Heat/libraries/H5P.FontIcons-1.0/fonts/
+    - assets/ic/Grade-6/Science/Heat/libraries/FontAwesome-4.5/
     - assets/ic/Grade-6/Science/Heat/content/heat-722/
     - assets/ic/Grade-6/Science/Heat/libraries/h5pcore/
     - assets/ic/Grade-6/Science/Heat/content/heat-722/images/
 
     - assets/ic/Grade-6/Science/Life-process/
+    - assets/ic/Grade-6/Science/Life-process/libraries/H5P.FontIcons-1.0/fonts/
+    - assets/ic/Grade-6/Science/Life-process/libraries/FontAwesome-4.5/
     - assets/ic/Grade-6/Science/Life-process/content/life-process-in-plants-724/
     - assets/ic/Grade-6/Science/Life-process/libraries/h5pcore/
     - assets/ic/Grade-6/Science/Life-process/content/life-process-in-plants-724/images/
 
     - assets/ic/Grade-6/Science/Light/
+    - assets/ic/Grade-6/Science/Light/libraries/H5P.FontIcons-1.0/fonts/
+    - assets/ic/Grade-6/Science/Light/libraries/FontAwesome-4.5/
     - assets/ic/Grade-6/Science/Light/content/light-725/
     - assets/ic/Grade-6/Science/Light/libraries/h5pcore/
     - assets/ic/Grade-6/Science/Light/content/light-725/images/
 
     - assets/ic/Grade-6/Science/Living-beings/
+    - assets/ic/Grade-6/Science/Living-beings/libraries/H5P.FontIcons-1.0/fonts/
+    - assets/ic/Grade-6/Science/Living-beings/libraries/FontAwesome-4.5/
     - assets/ic/Grade-6/Science/Living-beings/content/living-beings-707/
     - assets/ic/Grade-6/Science/Living-beings/libraries/h5pcore/
     - assets/ic/Grade-6/Science/Living-beings/content/living-beings-707/images/
 
     - assets/ic/Grade-6/Science/Magnet/
+    - assets/ic/Grade-6/Science/Magnet/libraries/H5P.FontIcons-1.0/fonts/
+    - assets/ic/Grade-6/Science/Magnet/libraries/FontAwesome-4.5/
     - assets/ic/Grade-6/Science/Magnet/content/magnetism-827/
     - assets/ic/Grade-6/Science/Magnet/libraries/h5pcore/
     - assets/ic/Grade-6/Science/Magnet/content/magnetism-827/images/
 
     - assets/ic/Grade-6/Science/Simple-machine/
+    - assets/ic/Grade-6/Science/Simple-machine/libraries/H5P.FontIcons-1.0/fonts/
+    - assets/ic/Grade-6/Science/Simple-machine/libraries/FontAwesome-4.5/
     - assets/ic/Grade-6/Science/Simple-machine/content/simple-machine-716/
     - assets/ic/Grade-6/Science/Simple-machine/libraries/h5pcore/
     - assets/ic/Grade-6/Science/Simple-machine/content/simple-machine-716/images/
 
     - assets/ic/Grade-6/Science/Solar-system/
+    - assets/ic/Grade-6/Science/Solar-system/libraries/H5P.FontIcons-1.0/fonts/
+    - assets/ic/Grade-6/Science/Solar-system/libraries/FontAwesome-4.5/
     - assets/ic/Grade-6/Science/Solar-system/content/the-sun-and-the-solar-system-2-713/
     - assets/ic/Grade-6/Science/Solar-system/libraries/h5pcore/
     - assets/ic/Grade-6/Science/Solar-system/content/the-sun-and-the-solar-system-2-713/images/
 
     - assets/ic/Grade-6/Science/Some-useful-chemicals/
+    - assets/ic/Grade-6/Science/Some-useful-chemicals/libraries/H5P.FontIcons-1.0/fonts/
+    - assets/ic/Grade-6/Science/Some-useful-chemicals/libraries/FontAwesome-4.5/
     - assets/ic/Grade-6/Science/Some-useful-chemicals/content/some-useful-chemicals-697/
     - assets/ic/Grade-6/Science/Some-useful-chemicals/libraries/h5pcore/
     - assets/ic/Grade-6/Science/Some-useful-chemicals/content/some-useful-chemicals-697/images/
 
     - assets/ic/Grade-6/Science/Sound/
+    - assets/ic/Grade-6/Science/Sound/libraries/H5P.FontIcons-1.0/fonts/
+    - assets/ic/Grade-6/Science/Sound/libraries/FontAwesome-4.5/
     - assets/ic/Grade-6/Science/Sound/content/sound-825/
     - assets/ic/Grade-6/Science/Sound/libraries/h5pcore/
     - assets/ic/Grade-6/Science/Sound/content/sound-825/images/
 
     - assets/ic/Grade-6/Science/Structure-of-earth/
+    - assets/ic/Grade-6/Science/Structure-of-earth/libraries/H5P.FontIcons-1.0/fonts/
+    - assets/ic/Grade-6/Science/Structure-of-earth/libraries/FontAwesome-4.5/
     - assets/ic/Grade-6/Science/Structure-of-earth/content/structure-of-earth-739/
     - assets/ic/Grade-6/Science/Structure-of-earth/libraries/h5pcore/
     - assets/ic/Grade-6/Science/Structure-of-earth/content/structure-of-earth-739/images/
 
     - assets/ic/Grade-6/Science/Weather/
+    - assets/ic/Grade-6/Science/Weather/libraries/H5P.FontIcons-1.0/fonts/
+    - assets/ic/Grade-6/Science/Weather/libraries/FontAwesome-4.5/
     - assets/ic/Grade-6/Science/Weather/content/weather-and-climate-2-710/
     - assets/ic/Grade-6/Science/Weather/libraries/h5pcore/
     - assets/ic/Grade-6/Science/Weather/content/weather-and-climate-2-710/images/
 
     - assets/ic/Grade-6/Math/Fraction-and-decimal/
+    - assets/ic/Grade-6/Math/Fraction-and-decimal/libraries/H5P.FontIcons-1.0/fonts/
+    - assets/ic/Grade-6/Math/Fraction-and-decimal/libraries/FontAwesome-4.5/
     - assets/ic/Grade-6/Math/Fraction-and-decimal/content/decimal-2-413/
     - assets/ic/Grade-6/Math/Fraction-and-decimal/libraries/h5pcore/
     - assets/ic/Grade-6/Math/Fraction-and-decimal/content/decimal-2-413/images/
 
     - assets/ic/Grade-6/Math/Integers/
+    - assets/ic/Grade-6/Math/Integers/libraries/H5P.FontIcons-1.0/fonts/
+    - assets/ic/Grade-6/Math/Integers/libraries/FontAwesome-4.5/
     - assets/ic/Grade-6/Math/Integers/content/introduction-of-integer-268/
     - assets/ic/Grade-6/Math/Integers/libraries/h5pcore/
     - assets/ic/Grade-6/Math/Integers/content/introduction-of-integer-268/images/
 
     - assets/ic/Grade-6/Math/Number-System/
+    - assets/ic/Grade-6/Math/Number-System/libraries/H5P.FontIcons-1.0/fonts/
+    - assets/ic/Grade-6/Math/Number-System/libraries/FontAwesome-4.5/
     - assets/ic/Grade-6/Math/Number-System/content/grade-6-math-roman-numerals-47/
     - assets/ic/Grade-6/Math/Number-System/libraries/h5pcore/
     - assets/ic/Grade-6/Math/Number-System/content/grade-6-math-roman-numerals-47/images/
 
     - assets/ic/Grade-6/Math/Opearation-on-whole-number/prime-factors-261/
+    - assets/ic/Grade-6/Math/Opearation-on-whole-number/prime-factors-261/libraries/H5P.FontIcons-1.0/fonts/
+    - assets/ic/Grade-6/Math/Opearation-on-whole-number/prime-factors-261/libraries/FontAwesome-4.5/
     - assets/ic/Grade-6/Math/Opearation-on-whole-number/prime-factors-261/content/prime-factors-261/
     - assets/ic/Grade-6/Math/Opearation-on-whole-number/prime-factors-261/libraries/h5pcore/
     - assets/ic/Grade-6/Math/Opearation-on-whole-number/prime-factors-261/content/prime-factors-261/images/
 
     - assets/ic/Grade-6/Math/Opearation-on-whole-number/squares-numbers-and-square-roots-265/
+    - assets/ic/Grade-6/Math/Opearation-on-whole-number/squares-numbers-and-square-roots-265/libraries/H5P.FontIcons-1.0/fonts/
+    - assets/ic/Grade-6/Math/Opearation-on-whole-number/squares-numbers-and-square-roots-265/libraries/FontAwesome-4.5/
     - assets/ic/Grade-6/Math/Opearation-on-whole-number/squares-numbers-and-square-roots-265/content/squares-numbers-and-square-roots-265/
     - assets/ic/Grade-6/Math/Opearation-on-whole-number/squares-numbers-and-square-roots-265/libraries/h5pcore/
     - assets/ic/Grade-6/Math/Opearation-on-whole-number/squares-numbers-and-square-roots-265/content/squares-numbers-and-square-roots-265/images/
 
     - assets/ic/Grade-6/Math/Perimeter,-area-and-volume/area-of-rectangles-and-squares-157/
+    - assets/ic/Grade-6/Math/Perimeter,-area-and-volume/area-of-rectangles-and-squares-157/libraries/H5P.FontIcons-1.0/fonts/
+    - assets/ic/Grade-6/Math/Perimeter,-area-and-volume/area-of-rectangles-and-squares-157/libraries/FontAwesome-4.5/
     - assets/ic/Grade-6/Math/Perimeter,-area-and-volume/area-of-rectangles-and-squares-157/content/area-of-rectangles-and-squares-157/
     - assets/ic/Grade-6/Math/Perimeter,-area-and-volume/area-of-rectangles-and-squares-157/libraries/h5pcore/
     - assets/ic/Grade-6/Math/Perimeter,-area-and-volume/area-of-rectangles-and-squares-157/content/area-of-rectangles-and-squares-157/images/
 
     - assets/ic/Grade-6/Math/Perimeter,-area-and-volume/area-of-regular-and-irregular-figures-154/
+    - assets/ic/Grade-6/Math/Perimeter,-area-and-volume/area-of-regular-and-irregular-figures-154/libraries/H5P.FontIcons-1.0/fonts/
+    - assets/ic/Grade-6/Math/Perimeter,-area-and-volume/area-of-regular-and-irregular-figures-154/libraries/FontAwesome-4.5/
     - assets/ic/Grade-6/Math/Perimeter,-area-and-volume/area-of-regular-and-irregular-figures-154/content/area-of-regular-and-irregular-figures-154/
     - assets/ic/Grade-6/Math/Perimeter,-area-and-volume/area-of-regular-and-irregular-figures-154/libraries/h5pcore/
     - assets/ic/Grade-6/Math/Perimeter,-area-and-volume/area-of-regular-and-irregular-figures-154/content/area-of-regular-and-irregular-figures-154/images/
 
     - assets/ic/Grade-6/Math/Properties-of-whole-number/grade-6-math-test-of-divisibility-by-numbers-2-3-4-5-and-11-53/
+    - assets/ic/Grade-6/Math/Properties-of-whole-number/grade-6-math-test-of-divisibility-by-numbers-2-3-4-5-and-11-53/libraries/H5P.FontIcons-1.0/fonts/
+    - assets/ic/Grade-6/Math/Properties-of-whole-number/grade-6-math-test-of-divisibility-by-numbers-2-3-4-5-and-11-53/libraries/FontAwesome-4.5/
     - assets/ic/Grade-6/Math/Properties-of-whole-number/grade-6-math-test-of-divisibility-by-numbers-2-3-4-5-and-11-53/content/grade-6-math-test-of-divisibility-by-numbers-2-3-4-5-and-11-53/
     - assets/ic/Grade-6/Math/Properties-of-whole-number/grade-6-math-test-of-divisibility-by-numbers-2-3-4-5-and-11-53/libraries/h5pcore/
     - assets/ic/Grade-6/Math/Properties-of-whole-number/grade-6-math-test-of-divisibility-by-numbers-2-3-4-5-and-11-53/content/grade-6-math-test-of-divisibility-by-numbers-2-3-4-5-and-11-53/images/
 
     - assets/ic/Grade-6/Math/Properties-of-whole-number/grade-six-math-properties-of-whole-numbers-52/
+    - assets/ic/Grade-6/Math/Properties-of-whole-number/grade-six-math-properties-of-whole-numbers-52/libraries/H5P.FontIcons-1.0/fonts/
+    - assets/ic/Grade-6/Math/Properties-of-whole-number/grade-six-math-properties-of-whole-numbers-52/libraries/FontAwesome-4.5/
     - assets/ic/Grade-6/Math/Properties-of-whole-number/grade-six-math-properties-of-whole-numbers-52/content/grade-six-math-properties-of-whole-numbers-52/
     - assets/ic/Grade-6/Math/Properties-of-whole-number/grade-six-math-properties-of-whole-numbers-52/libraries/h5pcore/
     - assets/ic/Grade-6/Math/Properties-of-whole-number/grade-six-math-properties-of-whole-numbers-52/content/grade-six-math-properties-of-whole-numbers-52/images/
 
     - assets/ic/Grade-6/Math/Rational-numbers/
+    - assets/ic/Grade-6/Math/Rational-numbers/libraries/H5P.FontIcons-1.0/fonts/
+    - assets/ic/Grade-6/Math/Rational-numbers/libraries/FontAwesome-4.5/
     - assets/ic/Grade-6/Math/Rational-numbers/content/introduction-5-397/
     - assets/ic/Grade-6/Math/Rational-numbers/libraries/h5pcore/
     - assets/ic/Grade-6/Math/Rational-numbers/content/introduction-5-397/images/
 
     - assets/ic/Grade-6/Math/Set/methods-of-describing-sets-191/
+    - assets/ic/Grade-6/Math/Set/methods-of-describing-sets-191/libraries/H5P.FontIcons-1.0/fonts/
+    - assets/ic/Grade-6/Math/Set/methods-of-describing-sets-191/libraries/FontAwesome-4.5/
     - assets/ic/Grade-6/Math/Set/methods-of-describing-sets-191/content/methods-of-describing-sets-191/
     - assets/ic/Grade-6/Math/Set/methods-of-describing-sets-191/libraries/h5pcore/
     - assets/ic/Grade-6/Math/Set/methods-of-describing-sets-191/content/methods-of-describing-sets-191/images/
 
     - assets/ic/Grade-6/Math/Set/types-of-sets-194/
+    - assets/ic/Grade-6/Math/Set/types-of-sets-194/libraries/H5P.FontIcons-1.0/fonts/
+    - assets/ic/Grade-6/Math/Set/types-of-sets-194/libraries/FontAwesome-4.5/
     - assets/ic/Grade-6/Math/Set/types-of-sets-194/content/types-of-sets-194/
     - assets/ic/Grade-6/Math/Set/types-of-sets-194/libraries/h5pcore/
     - assets/ic/Grade-6/Math/Set/types-of-sets-194/content/types-of-sets-194/images/
 
     - assets/ic/Grade-6/Math/Transformation/
+    - assets/ic/Grade-6/Math/Transformation/libraries/H5P.FontIcons-1.0/fonts/
+    - assets/ic/Grade-6/Math/Transformation/libraries/FontAwesome-4.5/
     - assets/ic/Grade-6/Math/Transformation/content/introduction-of-transformation-176/
     - assets/ic/Grade-6/Math/Transformation/libraries/h5pcore/
     - assets/ic/Grade-6/Math/Transformation/content/introduction-of-transformation-176/images/
 
     - assets/ic/Grade-6/Math/Symmetrical-figures,-design-of-polygons-and-tesselations/introduction-2-183/
+    - assets/ic/Grade-6/Math/Symmetrical-figures,-design-of-polygons-and-tesselations/introduction-2-183/libraries/H5P.FontIcons-1.0/fonts/
+    - assets/ic/Grade-6/Math/Symmetrical-figures,-design-of-polygons-and-tesselations/introduction-2-183/libraries/FontAwesome-4.5/
     - assets/ic/Grade-6/Math/Symmetrical-figures,-design-of-polygons-and-tesselations/introduction-2-183/content/introduction-2-183/
     - assets/ic/Grade-6/Math/Symmetrical-figures,-design-of-polygons-and-tesselations/introduction-2-183/libraries/h5pcore/
     - assets/ic/Grade-6/Math/Symmetrical-figures,-design-of-polygons-and-tesselations/introduction-2-183/content/introduction-2-183/images/
 
     - assets/ic/Grade-6/Math/Symmetrical-figures,-design-of-polygons-and-tesselations/patterns-and-designs-of-polygons-208/
+    - assets/ic/Grade-6/Math/Symmetrical-figures,-design-of-polygons-and-tesselations/patterns-and-designs-of-polygons-208/libraries/H5P.FontIcons-1.0/fonts/
+    - assets/ic/Grade-6/Math/Symmetrical-figures,-design-of-polygons-and-tesselations/patterns-and-designs-of-polygons-208/libraries/FontAwesome-4.5/
     - assets/ic/Grade-6/Math/Symmetrical-figures,-design-of-polygons-and-tesselations/patterns-and-designs-of-polygons-208/content/patterns-and-designs-of-polygons-208/
     - assets/ic/Grade-6/Math/Symmetrical-figures,-design-of-polygons-and-tesselations/patterns-and-designs-of-polygons-208/libraries/h5pcore/
     - assets/ic/Grade-6/Math/Symmetrical-figures,-design-of-polygons-and-tesselations/patterns-and-designs-of-polygons-208/content/patterns-and-designs-of-polygons-208/images/
 
     - assets/ic/Grade-6/Computer/Computer-Memory/introduction-and-units-of-memory-1160/
+    - assets/ic/Grade-6/Computer/Computer-Memory/introduction-and-units-of-memory-1160/libraries/H5P.FontIcons-1.0/fonts/
+    - assets/ic/Grade-6/Computer/Computer-Memory/introduction-and-units-of-memory-1160/libraries/FontAwesome-4.5/
     - assets/ic/Grade-6/Computer/Computer-Memory/introduction-and-units-of-memory-1160/libraries/h5pcore/
     - assets/ic/Grade-6/Computer/Computer-Memory/introduction-and-units-of-memory-1160/content/introduction-and-units-of-memory-1160/
     - assets/ic/Grade-6/Computer/Computer-Memory/introduction-and-units-of-memory-1160/content/introduction-and-units-of-memory-1160/images/
 
     - assets/ic/Grade-6/Computer/Computer-Memory/primary-memory-2-1161/
+    - assets/ic/Grade-6/Computer/Computer-Memory/primary-memory-2-1161/libraries/H5P.FontIcons-1.0/fonts/
+    - assets/ic/Grade-6/Computer/Computer-Memory/primary-memory-2-1161/libraries/FontAwesome-4.5/
     - assets/ic/Grade-6/Computer/Computer-Memory/primary-memory-2-1161/libraries/h5pcore/
     - assets/ic/Grade-6/Computer/Computer-Memory/primary-memory-2-1161/content/primary-memory-2-1161/
     - assets/ic/Grade-6/Computer/Computer-Memory/primary-memory-2-1161/content/primary-memory-2-1161/images/
 
     - assets/ic/Grade-6/Computer/Computer-Memory/secondary-memory-2-1162/
+    - assets/ic/Grade-6/Computer/Computer-Memory/secondary-memory-2-1162/libraries/H5P.FontIcons-1.0/fonts/
+    - assets/ic/Grade-6/Computer/Computer-Memory/secondary-memory-2-1162/libraries/FontAwesome-4.5/
     - assets/ic/Grade-6/Computer/Computer-Memory/secondary-memory-2-1162/libraries/h5pcore/
     - assets/ic/Grade-6/Computer/Computer-Memory/secondary-memory-2-1162/content/secondary-memory-2-1162/
     - assets/ic/Grade-6/Computer/Computer-Memory/secondary-memory-2-1162/content/secondary-memory-2-1162/images/
 
     - assets/ic/Grade-6/Computer/Computer-Software/application-software-3-1164/
+    - assets/ic/Grade-6/Computer/Computer-Software/application-software-3-1164/libraries/H5P.FontIcons-1.0/fonts/
+    - assets/ic/Grade-6/Computer/Computer-Software/application-software-3-1164/libraries/FontAwesome-4.5/
     - assets/ic/Grade-6/Computer/Computer-Software/application-software-3-1164/libraries/h5pcore/
     - assets/ic/Grade-6/Computer/Computer-Software/application-software-3-1164/content/application-software-3-1164/
     - assets/ic/Grade-6/Computer/Computer-Software/application-software-3-1164/content/application-software-3-1164/images/
 
     - assets/ic/Grade-6/Computer/Computer-Software/system-software-3-1163/
+    - assets/ic/Grade-6/Computer/Computer-Software/system-software-3-1163/libraries/H5P.FontIcons-1.0/fonts/
+    - assets/ic/Grade-6/Computer/Computer-Software/system-software-3-1163/libraries/FontAwesome-4.5/
     - assets/ic/Grade-6/Computer/Computer-Software/system-software-3-1163/libraries/h5pcore/
     - assets/ic/Grade-6/Computer/Computer-Software/system-software-3-1163/content/system-software-3-1163/
     - assets/ic/Grade-6/Computer/Computer-Software/system-software-3-1163/content/system-software-3-1163/images/
 
     - assets/ic/Grade-6/Computer/Computer-system/computer-software-and-hardware-1080/
+    - assets/ic/Grade-6/Computer/Computer-system/computer-software-and-hardware-1080/libraries/H5P.FontIcons-1.0/fonts/
+    - assets/ic/Grade-6/Computer/Computer-system/computer-software-and-hardware-1080/libraries/FontAwesome-4.5/
     - assets/ic/Grade-6/Computer/Computer-system/computer-software-and-hardware-1080/libraries/h5pcore/
     - assets/ic/Grade-6/Computer/Computer-system/computer-software-and-hardware-1080/content/computer-software-and-hardware-1080/
     - assets/ic/Grade-6/Computer/Computer-system/computer-software-and-hardware-1080/content/computer-software-and-hardware-1080/images/
 
     - assets/ic/Grade-6/Computer/Computer-system/computer-system-3-1061/
+    - assets/ic/Grade-6/Computer/Computer-system/computer-system-3-1061/libraries/H5P.FontIcons-1.0/fonts/
+    - assets/ic/Grade-6/Computer/Computer-system/computer-system-3-1061/libraries/FontAwesome-4.5/
     - assets/ic/Grade-6/Computer/Computer-system/computer-system-3-1061/libraries/h5pcore/
     - assets/ic/Grade-6/Computer/Computer-system/computer-system-3-1061/content/computer-system-3-1061/
     - assets/ic/Grade-6/Computer/Computer-system/computer-system-3-1061/content/computer-system-3-1061/images/
 
     - assets/ic/Grade-6/Computer/Computer-system/output-unit-1063/
+    - assets/ic/Grade-6/Computer/Computer-system/output-unit-1063/libraries/H5P.FontIcons-1.0/fonts/
+    - assets/ic/Grade-6/Computer/Computer-system/output-unit-1063/libraries/FontAwesome-4.5/
     - assets/ic/Grade-6/Computer/Computer-system/output-unit-1063/libraries/h5pcore/
     - assets/ic/Grade-6/Computer/Computer-system/output-unit-1063/content/output-unit-1063/
     - assets/ic/Grade-6/Computer/Computer-system/output-unit-1063/content/output-unit-1063/images/
 
     - assets/ic/Grade-6/Computer/Computer-virus/introduction-and-types-of-computer-virus-1190/
+    - assets/ic/Grade-6/Computer/Computer-virus/introduction-and-types-of-computer-virus-1190/libraries/H5P.FontIcons-1.0/fonts/
+    - assets/ic/Grade-6/Computer/Computer-virus/introduction-and-types-of-computer-virus-1190/libraries/FontAwesome-4.5/
     - assets/ic/Grade-6/Computer/Computer-virus/introduction-and-types-of-computer-virus-1190/libraries/h5pcore/
     - assets/ic/Grade-6/Computer/Computer-virus/introduction-and-types-of-computer-virus-1190/content/introduction-and-types-of-computer-virus-1190/
     - assets/ic/Grade-6/Computer/Computer-virus/introduction-and-types-of-computer-virus-1190/content/introduction-and-types-of-computer-virus-1190/images/
 
     - assets/ic/Grade-6/Computer/Computer-virus/transmission-and-effects-of-computer-virus-2-1192/
+    - assets/ic/Grade-6/Computer/Computer-virus/transmission-and-effects-of-computer-virus-2-1192/libraries/H5P.FontIcons-1.0/fonts/
+    - assets/ic/Grade-6/Computer/Computer-virus/transmission-and-effects-of-computer-virus-2-1192/libraries/FontAwesome-4.5/
     - assets/ic/Grade-6/Computer/Computer-virus/transmission-and-effects-of-computer-virus-2-1192/libraries/h5pcore/
     - assets/ic/Grade-6/Computer/Computer-virus/transmission-and-effects-of-computer-virus-2-1192/content/transmission-and-effects-of-computer-virus-2-1192/
     - assets/ic/Grade-6/Computer/Computer-virus/transmission-and-effects-of-computer-virus-2-1192/content/transmission-and-effects-of-computer-virus-2-1192/images/
 
     - assets/ic/Grade-6/Computer/Computer-virus/transmission-and-effects-of-computer-virus-1191/
+    - assets/ic/Grade-6/Computer/Computer-virus/transmission-and-effects-of-computer-virus-1191/libraries/H5P.FontIcons-1.0/fonts/
+    - assets/ic/Grade-6/Computer/Computer-virus/transmission-and-effects-of-computer-virus-1191/libraries/FontAwesome-4.5/
     - assets/ic/Grade-6/Computer/Computer-virus/transmission-and-effects-of-computer-virus-1191/libraries/h5pcore/
     - assets/ic/Grade-6/Computer/Computer-virus/transmission-and-effects-of-computer-virus-1191/content/transmission-and-effects-of-computer-virus-1191/
     - assets/ic/Grade-6/Computer/Computer-virus/transmission-and-effects-of-computer-virus-1191/content/transmission-and-effects-of-computer-virus-1191/images/
 
     - assets/ic/Grade-6/Computer/ICT-and-Computer-ethics/computer-ethics-1273/
+    - assets/ic/Grade-6/Computer/ICT-and-Computer-ethics/computer-ethics-1273/libraries/H5P.FontIcons-1.0/fonts/
+    - assets/ic/Grade-6/Computer/ICT-and-Computer-ethics/computer-ethics-1273/libraries/FontAwesome-4.5/
     - assets/ic/Grade-6/Computer/ICT-and-Computer-ethics/computer-ethics-1273/libraries/h5pcore/
     - assets/ic/Grade-6/Computer/ICT-and-Computer-ethics/computer-ethics-1273/content/computer-ethics-1273/
     - assets/ic/Grade-6/Computer/ICT-and-Computer-ethics/computer-ethics-1273/content/computer-ethics-1273/images/
 
     - assets/ic/Grade-6/Computer/ICT-and-Computer-ethics/introduction-of-ict-1234/
+    - assets/ic/Grade-6/Computer/ICT-and-Computer-ethics/introduction-of-ict-1234/libraries/H5P.FontIcons-1.0/fonts/
+    - assets/ic/Grade-6/Computer/ICT-and-Computer-ethics/introduction-of-ict-1234/libraries/FontAwesome-4.5/
     - assets/ic/Grade-6/Computer/ICT-and-Computer-ethics/introduction-of-ict-1234/libraries/h5pcore/
     - assets/ic/Grade-6/Computer/ICT-and-Computer-ethics/introduction-of-ict-1234/content/introduction-of-ict-1234/
     - assets/ic/Grade-6/Computer/ICT-and-Computer-ethics/introduction-of-ict-1234/content/introduction-of-ict-1234/images/
 
     - assets/ic/Grade-6/Computer/ICT-and-Computer-ethics/usage-of-ict-in-daily-life-1260/
+    - assets/ic/Grade-6/Computer/ICT-and-Computer-ethics/usage-of-ict-in-daily-life-1260/libraries/H5P.FontIcons-1.0/fonts/
+    - assets/ic/Grade-6/Computer/ICT-and-Computer-ethics/usage-of-ict-in-daily-life-1260/libraries/FontAwesome-4.5/
     - assets/ic/Grade-6/Computer/ICT-and-Computer-ethics/usage-of-ict-in-daily-life-1260/libraries/h5pcore/
     - assets/ic/Grade-6/Computer/ICT-and-Computer-ethics/usage-of-ict-in-daily-life-1260/content/usage-of-ict-in-daily-life-1260/
     - assets/ic/Grade-6/Computer/ICT-and-Computer-ethics/usage-of-ict-in-daily-life-1260/content/usage-of-ict-in-daily-life-1260/images/
 
     - assets/ic/Grade-6/Computer/Introduction-to-computer-and-its-generations/computer-generations-4-1000/
+    - assets/ic/Grade-6/Computer/Introduction-to-computer-and-its-generations/computer-generations-4-1000/libraries/H5P.FontIcons-1.0/fonts/
+    - assets/ic/Grade-6/Computer/Introduction-to-computer-and-its-generations/computer-generations-4-1000/libraries/FontAwesome-4.5/
     - assets/ic/Grade-6/Computer/Introduction-to-computer-and-its-generations/computer-generations-4-1000/content/computer-generations-4-1000/
     - assets/ic/Grade-6/Computer/Introduction-to-computer-and-its-generations/computer-generations-4-1000/libraries/h5pcore/
     - assets/ic/Grade-6/Computer/Introduction-to-computer-and-its-generations/computer-generations-4-1000/content/computer-generations-4-1000/images/
 
     - assets/ic/Grade-6/Computer/Introduction-to-computer-and-its-generations/limitations-and-application-of-a-computer-1015/
+    - assets/ic/Grade-6/Computer/Introduction-to-computer-and-its-generations/limitations-and-application-of-a-computer-1015/libraries/H5P.FontIcons-1.0/fonts/
+    - assets/ic/Grade-6/Computer/Introduction-to-computer-and-its-generations/limitations-and-application-of-a-computer-1015/libraries/FontAwesome-4.5/
     - assets/ic/Grade-6/Computer/Introduction-to-computer-and-its-generations/limitations-and-application-of-a-computer-1015/libraries/h5pcore/
     - assets/ic/Grade-6/Computer/Introduction-to-computer-and-its-generations/limitations-and-application-of-a-computer-1015/content/
     - assets/ic/Grade-6/Computer/Introduction-to-computer-and-its-generations/limitations-and-application-of-a-computer-1015/content/limitations-and-application-of-a-computer-1015/images/
 
     - assets/ic/Grade-6/Computer/Introduction-to-internet-and-e-mail/email-1221/
+    - assets/ic/Grade-6/Computer/Introduction-to-internet-and-e-mail/email-1221/libraries/H5P.FontIcons-1.0/fonts/
+    - assets/ic/Grade-6/Computer/Introduction-to-internet-and-e-mail/email-1221/libraries/FontAwesome-4.5/
     - assets/ic/Grade-6/Computer/Introduction-to-internet-and-e-mail/email-1221/libraries/h5pcore/
     - assets/ic/Grade-6/Computer/Introduction-to-internet-and-e-mail/email-1221/content/email-1221/
     - assets/ic/Grade-6/Computer/Introduction-to-internet-and-e-mail/email-1221/content/email-1221/images/
 
     - assets/ic/Grade-6/Computer/Introduction-to-internet-and-e-mail/internet-1256/
+    - assets/ic/Grade-6/Computer/Introduction-to-internet-and-e-mail/internet-1256/libraries/H5P.FontIcons-1.0/fonts/
+    - assets/ic/Grade-6/Computer/Introduction-to-internet-and-e-mail/internet-1256/libraries/FontAwesome-4.5/
     - assets/ic/Grade-6/Computer/Introduction-to-internet-and-e-mail/internet-1256/libraries/h5pcore/
     - assets/ic/Grade-6/Computer/Introduction-to-internet-and-e-mail/internet-1256/content/internet-1256/
     - assets/ic/Grade-6/Computer/Introduction-to-internet-and-e-mail/internet-1256/content/internet-1256/images/
 
     - assets/ic/Grade-6/Computer/Introduction-to-internet-and-e-mail/internet-based-services-and-terms-used-in-internet-1248/
+    - assets/ic/Grade-6/Computer/Introduction-to-internet-and-e-mail/internet-based-services-and-terms-used-in-internet-1248/libraries/H5P.FontIcons-1.0/fonts/
+    - assets/ic/Grade-6/Computer/Introduction-to-internet-and-e-mail/internet-based-services-and-terms-used-in-internet-1248/libraries/FontAwesome-4.5/
     - assets/ic/Grade-6/Computer/Introduction-to-internet-and-e-mail/internet-based-services-and-terms-used-in-internet-1248/libraries/h5pcore/
     - assets/ic/Grade-6/Computer/Introduction-to-internet-and-e-mail/internet-based-services-and-terms-used-in-internet-1248/content/internet-based-services-and-terms-used-in-internet-1248/
     - assets/ic/Grade-6/Computer/Introduction-to-internet-and-e-mail/internet-based-services-and-terms-used-in-internet-1248/content/internet-based-services-and-terms-used-in-internet-1248/images/
 
     - assets/ic/Grade-6/Computer/Introduction-to-presentation-software-microsoft-powerpoint/inserting-objects-in-powerpoint-116-118-flash-cards-1200/
+    - assets/ic/Grade-6/Computer/Introduction-to-presentation-software-microsoft-powerpoint/inserting-objects-in-powerpoint-116-118-flash-cards-1200/libraries/H5P.FontIcons-1.0/fonts/
+    - assets/ic/Grade-6/Computer/Introduction-to-presentation-software-microsoft-powerpoint/inserting-objects-in-powerpoint-116-118-flash-cards-1200/libraries/FontAwesome-4.5/
     - assets/ic/Grade-6/Computer/Introduction-to-presentation-software-microsoft-powerpoint/inserting-objects-in-powerpoint-116-118-flash-cards-1200/libraries/h5pcore/
     - assets/ic/Grade-6/Computer/Introduction-to-presentation-software-microsoft-powerpoint/inserting-objects-in-powerpoint-116-118-flash-cards-1200/content/inserting-objects-in-powerpoint-116-118-flash-cards-1200/images/
     - assets/ic/Grade-6/Computer/Introduction-to-presentation-software-microsoft-powerpoint/inserting-objects-in-powerpoint-116-118-flash-cards-1200/content/inserting-objects-in-powerpoint-116-118-flash-cards-1200/
 
     - assets/ic/Grade-6/Computer/Introduction-to-presentation-software-microsoft-powerpoint/more-information-on-ms-powerpoint-1186/
+    - assets/ic/Grade-6/Computer/Introduction-to-presentation-software-microsoft-powerpoint/more-information-on-ms-powerpoint-1186/libraries/H5P.FontIcons-1.0/fonts/
+    - assets/ic/Grade-6/Computer/Introduction-to-presentation-software-microsoft-powerpoint/more-information-on-ms-powerpoint-1186/libraries/FontAwesome-4.5/
     - assets/ic/Grade-6/Computer/Introduction-to-presentation-software-microsoft-powerpoint/more-information-on-ms-powerpoint-1186/libraries/h5pcore/
     - assets/ic/Grade-6/Computer/Introduction-to-presentation-software-microsoft-powerpoint/more-information-on-ms-powerpoint-1186/content/more-information-on-ms-powerpoint-1186/images/
     - assets/ic/Grade-6/Computer/Introduction-to-presentation-software-microsoft-powerpoint/more-information-on-ms-powerpoint-1186/content/more-information-on-ms-powerpoint-1186/
 
     - assets/ic/Grade-6/Computer/Introduction-to-presentation-software-microsoft-powerpoint/starting-ms-powerpoint-1195/
+    - assets/ic/Grade-6/Computer/Introduction-to-presentation-software-microsoft-powerpoint/starting-ms-powerpoint-1195/libraries/H5P.FontIcons-1.0/fonts/
+    - assets/ic/Grade-6/Computer/Introduction-to-presentation-software-microsoft-powerpoint/starting-ms-powerpoint-1195/libraries/FontAwesome-4.5/
     - assets/ic/Grade-6/Computer/Introduction-to-presentation-software-microsoft-powerpoint/starting-ms-powerpoint-1195/libraries/h5pcore/
     - assets/ic/Grade-6/Computer/Introduction-to-presentation-software-microsoft-powerpoint/starting-ms-powerpoint-1195/content/starting-ms-powerpoint-1195/
     - assets/ic/Grade-6/Computer/Introduction-to-presentation-software-microsoft-powerpoint/starting-ms-powerpoint-1195/content/starting-ms-powerpoint-1195/images/
 
     - assets/ic/Grade-6/Computer/Introduction-to-QBASIC-programming/constants-and-variables-1291/
+    - assets/ic/Grade-6/Computer/Introduction-to-QBASIC-programming/constants-and-variables-1291/libraries/H5P.FontIcons-1.0/fonts/
+    - assets/ic/Grade-6/Computer/Introduction-to-QBASIC-programming/constants-and-variables-1291/libraries/FontAwesome-4.5/
     - assets/ic/Grade-6/Computer/Introduction-to-QBASIC-programming/constants-and-variables-1291/libraries/h5pcore/
     - assets/ic/Grade-6/Computer/Introduction-to-QBASIC-programming/constants-and-variables-1291/content/constants-and-variables-1291/
     - assets/ic/Grade-6/Computer/Introduction-to-QBASIC-programming/constants-and-variables-1291/content/constants-and-variables-1291/images/
 
     - assets/ic/Grade-6/Computer/Introduction-to-QBASIC-programming/graphics-in-qbasic-1280/
+    - assets/ic/Grade-6/Computer/Introduction-to-QBASIC-programming/graphics-in-qbasic-1280/libraries/H5P.FontIcons-1.0/fonts/
+    - assets/ic/Grade-6/Computer/Introduction-to-QBASIC-programming/graphics-in-qbasic-1280/libraries/FontAwesome-4.5/
     - assets/ic/Grade-6/Computer/Introduction-to-QBASIC-programming/graphics-in-qbasic-1280/libraries/h5pcore/
     - assets/ic/Grade-6/Computer/Introduction-to-QBASIC-programming/graphics-in-qbasic-1280/content/graphics-in-qbasic-1280/
     - assets/ic/Grade-6/Computer/Introduction-to-QBASIC-programming/graphics-in-qbasic-1280/content/graphics-in-qbasic-1280/images/
 
     - assets/ic/Grade-6/Computer/Introduction-to-QBASIC-programming/starting-qbasic-2-1290/
+    - assets/ic/Grade-6/Computer/Introduction-to-QBASIC-programming/starting-qbasic-2-1290/libraries/H5P.FontIcons-1.0/fonts/
+    - assets/ic/Grade-6/Computer/Introduction-to-QBASIC-programming/starting-qbasic-2-1290/libraries/FontAwesome-4.5/
     - assets/ic/Grade-6/Computer/Introduction-to-QBASIC-programming/starting-qbasic-2-1290/libraries/h5pcore/
     - assets/ic/Grade-6/Computer/Introduction-to-QBASIC-programming/starting-qbasic-2-1290/content/starting-qbasic-2-1290/
     - assets/ic/Grade-6/Computer/Introduction-to-QBASIC-programming/starting-qbasic-2-1290/content/starting-qbasic-2-1290/images/
 
     - assets/ic/Grade-6/Computer/Introduction-to-QBASIC-programming/operators-and-expressions-3-1292/
+    - assets/ic/Grade-6/Computer/Introduction-to-QBASIC-programming/operators-and-expressions-3-1292/libraries/H5P.FontIcons-1.0/fonts/
+    - assets/ic/Grade-6/Computer/Introduction-to-QBASIC-programming/operators-and-expressions-3-1292/libraries/FontAwesome-4.5/
     - assets/ic/Grade-6/Computer/Introduction-to-QBASIC-programming/operators-and-expressions-3-1292/libraries/h5pcore/
     - assets/ic/Grade-6/Computer/Introduction-to-QBASIC-programming/operators-and-expressions-3-1292/content/operators-and-expressions-3-1292/
     - assets/ic/Grade-6/Computer/Introduction-to-QBASIC-programming/operators-and-expressions-3-1292/content/operators-and-expressions-3-1292/images/
 
     - assets/ic/Grade-6/Computer/Introduction-to-QBASIC-programming/qbasic-1289/
+    - assets/ic/Grade-6/Computer/Introduction-to-QBASIC-programming/qbasic-1289/libraries/H5P.FontIcons-1.0/fonts/
+    - assets/ic/Grade-6/Computer/Introduction-to-QBASIC-programming/qbasic-1289/libraries/FontAwesome-4.5/
     - assets/ic/Grade-6/Computer/Introduction-to-QBASIC-programming/qbasic-1289/libraries/h5pcore/
     - assets/ic/Grade-6/Computer/Introduction-to-QBASIC-programming/qbasic-1289/content/qbasic-1289/
     - assets/ic/Grade-6/Computer/Introduction-to-QBASIC-programming/qbasic-1289/content/qbasic-1289/images/
 
     - assets/ic/Grade-6/Computer/Introduction-to-QBASIC-programming/qbasic-statements-2-1276/
+    - assets/ic/Grade-6/Computer/Introduction-to-QBASIC-programming/qbasic-statements-2-1276/libraries/H5P.FontIcons-1.0/fonts/
+    - assets/ic/Grade-6/Computer/Introduction-to-QBASIC-programming/qbasic-statements-2-1276/libraries/FontAwesome-4.5/
     - assets/ic/Grade-6/Computer/Introduction-to-QBASIC-programming/qbasic-statements-2-1276/libraries/h5pcore/
     - assets/ic/Grade-6/Computer/Introduction-to-QBASIC-programming/qbasic-statements-2-1276/content/qbasic-statements-2-1276/
     - assets/ic/Grade-6/Computer/Introduction-to-QBASIC-programming/qbasic-statements-2-1276/content/qbasic-statements-2-1276/images/
 
     - assets/ic/Grade-6/Computer/Introduction-to-spreadsheet-microsoft-excel/the-ms-excel-screen-2-1139/
+    - assets/ic/Grade-6/Computer/Introduction-to-spreadsheet-microsoft-excel/the-ms-excel-screen-2-1139/libraries/H5P.FontIcons-1.0/fonts/
+    - assets/ic/Grade-6/Computer/Introduction-to-spreadsheet-microsoft-excel/the-ms-excel-screen-2-1139/libraries/FontAwesome-4.5/
     - assets/ic/Grade-6/Computer/Introduction-to-spreadsheet-microsoft-excel/the-ms-excel-screen-2-1139/libraries/h5pcore/
     - assets/ic/Grade-6/Computer/Introduction-to-spreadsheet-microsoft-excel/the-ms-excel-screen-2-1139/content/the-ms-excel-screen-2-1139/
     - assets/ic/Grade-6/Computer/Introduction-to-spreadsheet-microsoft-excel/the-ms-excel-screen-2-1139/content/the-ms-excel-screen-2-1139/images/
 
     - assets/ic/Grade-6/Computer/Introduction-to-spreadsheet-microsoft-excel/working-with-chart-4-1169/
+    - assets/ic/Grade-6/Computer/Introduction-to-spreadsheet-microsoft-excel/working-with-chart-4-1169/libraries/H5P.FontIcons-1.0/fonts/
+    - assets/ic/Grade-6/Computer/Introduction-to-spreadsheet-microsoft-excel/working-with-chart-4-1169/libraries/FontAwesome-4.5/
     - assets/ic/Grade-6/Computer/Introduction-to-spreadsheet-microsoft-excel/working-with-chart-4-1169/libraries/h5pcore/
     - assets/ic/Grade-6/Computer/Introduction-to-spreadsheet-microsoft-excel/working-with-chart-4-1169/content/working-with-chart-4-1169/
     - assets/ic/Grade-6/Computer/Introduction-to-spreadsheet-microsoft-excel/working-with-chart-4-1169/content/working-with-chart-4-1169/images/
 
     - assets/ic/Grade-6/Computer/Introduction-to-spreadsheet-microsoft-excel/working-with-chart-3-1155/
+    - assets/ic/Grade-6/Computer/Introduction-to-spreadsheet-microsoft-excel/working-with-chart-3-1155/libraries/H5P.FontIcons-1.0/fonts/
+    - assets/ic/Grade-6/Computer/Introduction-to-spreadsheet-microsoft-excel/working-with-chart-3-1155/libraries/FontAwesome-4.5/
     - assets/ic/Grade-6/Computer/Introduction-to-spreadsheet-microsoft-excel/working-with-chart-3-1155/libraries/h5pcore/
     - assets/ic/Grade-6/Computer/Introduction-to-spreadsheet-microsoft-excel/working-with-chart-3-1155/content/working-with-chart-3-1155/
     - assets/ic/Grade-6/Computer/Introduction-to-spreadsheet-microsoft-excel/working-with-chart-3-1155/content/working-with-chart-3-1155/images/
 
     - assets/ic/Grade-6/Computer/Operating-system/booting-1202/
+    - assets/ic/Grade-6/Computer/Operating-system/booting-1202/libraries/H5P.FontIcons-1.0/fonts/
+    - assets/ic/Grade-6/Computer/Operating-system/booting-1202/libraries/FontAwesome-4.5/
     - assets/ic/Grade-6/Computer/Operating-system/booting-1202/libraries/h5pcore/
     - assets/ic/Grade-6/Computer/Operating-system/booting-1202/content/booting-1202/
     - assets/ic/Grade-6/Computer/Operating-system/booting-1202/content/booting-1202/images/
 
     - assets/ic/Grade-6/Computer/Operating-system/introduction-and-functions-of-operating-system-1150/
+    - assets/ic/Grade-6/Computer/Operating-system/introduction-and-functions-of-operating-system-1150/libraries/H5P.FontIcons-1.0/fonts/
+    - assets/ic/Grade-6/Computer/Operating-system/introduction-and-functions-of-operating-system-1150/libraries/FontAwesome-4.5/
     - assets/ic/Grade-6/Computer/Operating-system/introduction-and-functions-of-operating-system-1150/libraries/h5pcore/
     - assets/ic/Grade-6/Computer/Operating-system/introduction-and-functions-of-operating-system-1150/content/
 
     - assets/ic/Grade-6/Computer/Operating-system/ms-dos-commands-1327/
+    - assets/ic/Grade-6/Computer/Operating-system/ms-dos-commands-1327/libraries/H5P.FontIcons-1.0/fonts/
+    - assets/ic/Grade-6/Computer/Operating-system/ms-dos-commands-1327/libraries/FontAwesome-4.5/
     - assets/ic/Grade-6/Computer/Operating-system/ms-dos-commands-1327/libraries/h5pcore/
     - assets/ic/Grade-6/Computer/Operating-system/ms-dos-commands-1327/content/ms-dos-commands-1327/images/
 
     - assets/ic/Grade-6/Computer/Operating-system/terms-used-in-ms-dos-1326/
+    - assets/ic/Grade-6/Computer/Operating-system/terms-used-in-ms-dos-1326/libraries/H5P.FontIcons-1.0/fonts/
+    - assets/ic/Grade-6/Computer/Operating-system/terms-used-in-ms-dos-1326/libraries/FontAwesome-4.5/
     - assets/ic/Grade-6/Computer/Operating-system/terms-used-in-ms-dos-1326/libraries/h5pcore/
     - assets/ic/Grade-6/Computer/Operating-system/terms-used-in-ms-dos-1326/content/terms-used-in-ms-dos-1326/images/
     
     - assets/ic/Grade-6/Computer/Operating-system/the-user-interface-1188/
+    - assets/ic/Grade-6/Computer/Operating-system/the-user-interface-1188/libraries/H5P.FontIcons-1.0/fonts/
+    - assets/ic/Grade-6/Computer/Operating-system/the-user-interface-1188/libraries/FontAwesome-4.5/
     - assets/ic/Grade-6/Computer/Operating-system/the-user-interface-1188/libraries/h5pcore/
     - assets/ic/Grade-6/Computer/Operating-system/the-user-interface-1188/content/the-user-interface-1188/images/
 
     - assets/ic/Grade-6/Computer/Operating-system/windows-7-1158/
+    - assets/ic/Grade-6/Computer/Operating-system/windows-7-1158/libraries/H5P.FontIcons-1.0/fonts/
+    - assets/ic/Grade-6/Computer/Operating-system/windows-7-1158/libraries/FontAwesome-4.5/
     - assets/ic/Grade-6/Computer/Operating-system/windows-7-1158/libraries/h5pcore/
     - assets/ic/Grade-6/Computer/Operating-system/windows-7-1158/content/windows-7-1158/
 
     - assets/ic/Grade-6/Computer/Introduction-to-word-processing-microsoft-word/different-functions-of-word-1110/
-    - assets/ic/Grade-6/Computer/Introduction-to-word-processing-microsoft-word/different-functions-of-word-1110/
+    - assets/ic/Grade-6/Computer/Introduction-to-word-processing-microsoft-word/different-functions-of-word-1110/libraries/H5P.FontIcons-1.0/fonts/
+    - assets/ic/Grade-6/Computer/Introduction-to-word-processing-microsoft-word/different-functions-of-word-1110/libraries/FontAwesome-4.5/
+    - assets/ic/Grade-6/Computer/Introduction-to-word-processing-microsoft-word/different-functions-of-word-1110/content/different-functions-of-word-1110/
     - assets/ic/Grade-6/Computer/Introduction-to-word-processing-microsoft-word/different-functions-of-word-1110/content/different-functions-of-word-1110/images/
 
     - assets/ic/Grade-7/Science/Cell-and-tissue/
+    - assets/ic/Grade-7/Science/Cell-and-tissue/libraries/H5P.FontIcons-1.0/fonts/
+    - assets/ic/Grade-7/Science/Cell-and-tissue/libraries/FontAwesome-4.5/
     - assets/ic/Grade-7/Science/Cell-and-tissue/content/cell-and-tissue-990/
     - assets/ic/Grade-7/Science/Cell-and-tissue/libraries/h5pcore/
     - assets/ic/Grade-7/Science/Cell-and-tissue/content/cell-and-tissue-990/images/
 
     - assets/ic/Grade-7/Science/Electricity/
+    - assets/ic/Grade-7/Science/Electricity/libraries/H5P.FontIcons-1.0/fonts/
+    - assets/ic/Grade-7/Science/Electricity/libraries/FontAwesome-4.5/
     - assets/ic/Grade-7/Science/Electricity/content/electricity-3-1115/
     - assets/ic/Grade-7/Science/Electricity/libraries/h5pcore/
     - assets/ic/Grade-7/Science/Electricity/content/electricity-3-1115/images/
 
     - assets/ic/Grade-7/Science/Light/
+    - assets/ic/Grade-7/Science/Light/libraries/H5P.FontIcons-1.0/fonts/
+    - assets/ic/Grade-7/Science/Light/libraries/FontAwesome-4.5/
     - assets/ic/Grade-7/Science/Light/content/light-3-930/
     - assets/ic/Grade-7/Science/Light/libraries/h5pcore/
     - assets/ic/Grade-7/Science/Light/content/light-3-930/images/
 
     - assets/ic/Grade-7/Science/Magnetism/
+    - assets/ic/Grade-7/Science/Magnetism/libraries/H5P.FontIcons-1.0/fonts/
+    - assets/ic/Grade-7/Science/Magnetism/libraries/FontAwesome-4.5/
     - assets/ic/Grade-7/Science/Magnetism/content/magnet-962/
     - assets/ic/Grade-7/Science/Magnetism/libraries/h5pcore/
     - assets/ic/Grade-7/Science/Magnetism/content/magnet-962/images/
 
     - assets/ic/Grade-7/Science/Matter/
+    - assets/ic/Grade-7/Science/Matter/libraries/H5P.FontIcons-1.0/fonts/
+    - assets/ic/Grade-7/Science/Matter/libraries/FontAwesome-4.5/
     - assets/ic/Grade-7/Science/Matter/content/matter-3-1129/
     - assets/ic/Grade-7/Science/Matter/libraries/h5pcore/
     - assets/ic/Grade-7/Science/Matter/content/matter-3-1129/images/
-
-    - assets/ic/Grade-7/Science/Metals-and-non-metals/
-    - assets/ic/Grade-7/Science/Metals-and-non-metals/content/metal-and-non-metal-3-1167/
-    - assets/ic/Grade-7/Science/Metals-and-non-metals/libraries/h5pcore/
-    - assets/ic/Grade-7/Science/Metals-and-non-metals/content/metal-and-non-metal-3-1167/images/
     
     - assets/ic/Grade-7/Science/Life-processes/
+    - assets/ic/Grade-7/Science/Life-processes/libraries/H5P.FontIcons-1.0/fonts/
+    - assets/ic/Grade-7/Science/Life-processes/libraries/FontAwesome-4.5/
     - assets/ic/Grade-7/Science/Life-processes/content/life-processes-2-992/
     - assets/ic/Grade-7/Science/Life-processes/libraries/h5pcore/
     - assets/ic/Grade-7/Science/Life-processes/content/life-processes-2-992/images/
 
     - assets/ic/Grade-7/Science/Force-and-motion/
+    - assets/ic/Grade-7/Science/Force-and-motion/libraries/H5P.FontIcons-1.0/fonts/
+    - assets/ic/Grade-7/Science/Force-and-motion/libraries/FontAwesome-4.5/
     - assets/ic/Grade-7/Science/Force-and-motion/content/force-and-motion-2-1003/
     - assets/ic/Grade-7/Science/Force-and-motion/libraries/h5pcore/
     - assets/ic/Grade-7/Science/Force-and-motion/content/force-and-motion-2-1003/images/
 
     - assets/ic/Grade-7/Science/Metals-and-non-metals/
+    - assets/ic/Grade-7/Science/Metals-and-non-metals/libraries/H5P.FontIcons-1.0/fonts/
+    - assets/ic/Grade-7/Science/Metals-and-non-metals/libraries/FontAwesome-4.5/
     - assets/ic/Grade-7/Science/Metals-and-non-metals/content/metal-and-non-metal-3-1167/
     - assets/ic/Grade-7/Science/Metals-and-non-metals/libraries/h5pcore/
     - assets/ic/Grade-7/Science/Metals-and-non-metals/content/metal-and-non-metal-3-1167/images/
 
     - assets/ic/Grade-7/Science/Sound/
+    - assets/ic/Grade-7/Science/Sound/libraries/H5P.FontIcons-1.0/fonts/
+    - assets/ic/Grade-7/Science/Sound/libraries/FontAwesome-4.5/
     - assets/ic/Grade-7/Science/Sound/libraries/h5pcore/
     - assets/ic/Grade-7/Science/Sound/content/sound-3-941/
     - assets/ic/Grade-7/Science/Sound/content/sound-3-941/images/
 
     - assets/ic/Grade-7/Science/Mixture/
+    - assets/ic/Grade-7/Science/Mixture/libraries/H5P.FontIcons-1.0/fonts/
+    - assets/ic/Grade-7/Science/Mixture/libraries/FontAwesome-4.5/
     - assets/ic/Grade-7/Science/Mixture/libraries/h5pcore/
     - assets/ic/Grade-7/Science/Mixture/content/mixture-2-1134/
     - assets/ic/Grade-7/Science/Mixture/content/mixture-2-1134/images/
 
     - assets/ic/Grade-7/Science/Structure-of-earth/
+    - assets/ic/Grade-7/Science/Structure-of-earth/libraries/H5P.FontIcons-1.0/fonts/
+    - assets/ic/Grade-7/Science/Structure-of-earth/libraries/FontAwesome-4.5/
     - assets/ic/Grade-7/Science/Structure-of-earth/libraries/h5pcore/
     - assets/ic/Grade-7/Science/Structure-of-earth/content/structure-of-the-earth-994/
     - assets/ic/Grade-7/Science/Structure-of-earth/content/structure-of-the-earth-994/images/
 
     - assets/ic/Grade-7/Science/Simple-machine/
+    - assets/ic/Grade-7/Science/Simple-machine/libraries/H5P.FontIcons-1.0/fonts/
+    - assets/ic/Grade-7/Science/Simple-machine/libraries/FontAwesome-4.5/
     - assets/ic/Grade-7/Science/Simple-machine/libraries/h5pcore/
     - assets/ic/Grade-7/Science/Simple-machine/content/simple-machines-1005/
     - assets/ic/Grade-7/Science/Simple-machine/content/simple-machines-1005/images/
 
     - assets/ic/Grade-7/Science/The-earth-and-space/
+    - assets/ic/Grade-7/Science/The-earth-and-space/libraries/H5P.FontIcons-1.0/fonts/
+    - assets/ic/Grade-7/Science/The-earth-and-space/libraries/FontAwesome-4.5/
     - assets/ic/Grade-7/Science/The-earth-and-space/libraries/h5pcore/
     - assets/ic/Grade-7/Science/The-earth-and-space/content/the-earth-and-space-1039/
     - assets/ic/Grade-7/Science/The-earth-and-space/content/the-earth-and-space-1039/images/
 
     - assets/ic/Grade-7/Science/Weather-and-climate/
+    - assets/ic/Grade-7/Science/Weather-and-climate/libraries/H5P.FontIcons-1.0/fonts/
+    - assets/ic/Grade-7/Science/Weather-and-climate/libraries/FontAwesome-4.5/
     - assets/ic/Grade-7/Science/Weather-and-climate/libraries/h5pcore/
     - assets/ic/Grade-7/Science/Weather-and-climate/content/weather-and-climate-3-995/
     - assets/ic/Grade-7/Science/Weather-and-climate/content/weather-and-climate-3-995/images/
 
     - assets/ic/Grade-7/Math/Cube-and-cube-roots-of-number/
+    - assets/ic/Grade-7/Math/Cube-and-cube-roots-of-number/libraries/H5P.FontIcons-1.0/fonts/
+    - assets/ic/Grade-7/Math/Cube-and-cube-roots-of-number/libraries/FontAwesome-4.5/
     - assets/ic/Grade-7/Math/Cube-and-cube-roots-of-number/content/cube-and-cube-roots-of-number-277/
     - assets/ic/Grade-7/Math/Cube-and-cube-roots-of-number/libraries/h5pcore/
     - assets/ic/Grade-7/Math/Cube-and-cube-roots-of-number/content/cube-and-cube-roots-of-number-277/images/
 
     - assets/ic/Grade-7/Math/Factorization,-HCF,-and-LCM/
+    - assets/ic/Grade-7/Math/Factorization,-HCF,-and-LCM/libraries/H5P.FontIcons-1.0/fonts/
+    - assets/ic/Grade-7/Math/Factorization,-HCF,-and-LCM/libraries/FontAwesome-4.5/
     - assets/ic/Grade-7/Math/Factorization,-HCF,-and-LCM/content/h-c-f-and-l-c-m-2-282/
     - assets/ic/Grade-7/Math/Factorization,-HCF,-and-LCM/libraries/h5pcore/
     - assets/ic/Grade-7/Math/Factorization,-HCF,-and-LCM/content/h-c-f-and-l-c-m-2-282/images/
 
     - assets/ic/Grade-7/Math/Geometry-Construction/introduction-of-reflection-rotation-and-translation-180/
+    - assets/ic/Grade-7/Math/Geometry-Construction/introduction-of-reflection-rotation-and-translation-180/libraries/H5P.FontIcons-1.0/fonts/
+    - assets/ic/Grade-7/Math/Geometry-Construction/introduction-of-reflection-rotation-and-translation-180/libraries/FontAwesome-4.5/
     - assets/ic/Grade-7/Math/Geometry-Construction/introduction-of-reflection-rotation-and-translation-180/content/introduction-of-reflection-rotation-and-translation-180/
     - assets/ic/Grade-7/Math/Geometry-Construction/introduction-of-reflection-rotation-and-translation-180/libraries/h5pcore/
     - assets/ic/Grade-7/Math/Geometry-Construction/introduction-of-reflection-rotation-and-translation-180/content/introduction-of-reflection-rotation-and-translation-180/images/
 
     - assets/ic/Grade-7/Math/Geometry-Construction/transformation-rotation-177/
+    - assets/ic/Grade-7/Math/Geometry-Construction/transformation-rotation-177/libraries/H5P.FontIcons-1.0/fonts/
+    - assets/ic/Grade-7/Math/Geometry-Construction/transformation-rotation-177/libraries/FontAwesome-4.5/
     - assets/ic/Grade-7/Math/Geometry-Construction/transformation-rotation-177/content/transformation-rotation-177/
     - assets/ic/Grade-7/Math/Geometry-Construction/transformation-rotation-177/libraries/h5pcore/
     - assets/ic/Grade-7/Math/Geometry-Construction/transformation-rotation-177/content/transformation-rotation-177/images/
 
     - assets/ic/Grade-7/Math/Percentage,-ratio-and-proportion/percentage-215/
+    - assets/ic/Grade-7/Math/Percentage,-ratio-and-proportion/percentage-215/libraries/H5P.FontIcons-1.0/fonts/
+    - assets/ic/Grade-7/Math/Percentage,-ratio-and-proportion/percentage-215/libraries/FontAwesome-4.5/
     - assets/ic/Grade-7/Math/Percentage,-ratio-and-proportion/percentage-215/content/percentage-215/
     - assets/ic/Grade-7/Math/Percentage,-ratio-and-proportion/percentage-215/libraries/h5pcore/
     - assets/ic/Grade-7/Math/Percentage,-ratio-and-proportion/percentage-215/content/percentage-215/images/
 
     - assets/ic/Grade-7/Math/Percentage,-ratio-and-proportion/proportion-212/
+    - assets/ic/Grade-7/Math/Percentage,-ratio-and-proportion/proportion-212/libraries/H5P.FontIcons-1.0/fonts/
+    - assets/ic/Grade-7/Math/Percentage,-ratio-and-proportion/proportion-212/libraries/FontAwesome-4.5/
     - assets/ic/Grade-7/Math/Percentage,-ratio-and-proportion/proportion-212/libraries/h5pcore/
     - assets/ic/Grade-7/Math/Percentage,-ratio-and-proportion/proportion-212/content/proportion-212/
     - assets/ic/Grade-7/Math/Percentage,-ratio-and-proportion/proportion-212/content/proportion-212/images/
 
     - assets/ic/Grade-7/Math/Perimeter,-Area-and-Volume/area-of-plane-figures-160/
+    - assets/ic/Grade-7/Math/Perimeter,-Area-and-Volume/area-of-plane-figures-160/libraries/H5P.FontIcons-1.0/fonts/
+    - assets/ic/Grade-7/Math/Perimeter,-Area-and-Volume/area-of-plane-figures-160/libraries/FontAwesome-4.5/
     - assets/ic/Grade-7/Math/Perimeter,-Area-and-Volume/area-of-plane-figures-160/content/area-of-plane-figures-160/
     - assets/ic/Grade-7/Math/Perimeter,-Area-and-Volume/area-of-plane-figures-160/libraries/h5pcore/
     - assets/ic/Grade-7/Math/Perimeter,-Area-and-Volume/area-of-plane-figures-160/content/area-of-plane-figures-160/images/
 
     - assets/ic/Grade-7/Math/Perimeter,-Area-and-Volume/area-of-solid-figures-117/
+    - assets/ic/Grade-7/Math/Perimeter,-Area-and-Volume/area-of-solid-figures-117/libraries/H5P.FontIcons-1.0/fonts/
+    - assets/ic/Grade-7/Math/Perimeter,-Area-and-Volume/area-of-solid-figures-117/libraries/FontAwesome-4.5/
     - assets/ic/Grade-7/Math/Perimeter,-Area-and-Volume/area-of-solid-figures-117/content/area-of-solid-figures-117/
     - assets/ic/Grade-7/Math/Perimeter,-Area-and-Volume/area-of-solid-figures-117/libraries/h5pcore/
     - assets/ic/Grade-7/Math/Perimeter,-Area-and-Volume/area-of-solid-figures-117/content/area-of-solid-figures-117/images/
 
     - assets/ic/Grade-7/Math/Perimeter,-Area-and-Volume/introduction-to-perimeter-area-and-volume-108/
+    - assets/ic/Grade-7/Math/Perimeter,-Area-and-Volume/introduction-to-perimeter-area-and-volume-108/libraries/H5P.FontIcons-1.0/fonts/
+    - assets/ic/Grade-7/Math/Perimeter,-Area-and-Volume/introduction-to-perimeter-area-and-volume-108/libraries/FontAwesome-4.5/
     - assets/ic/Grade-7/Math/Perimeter,-Area-and-Volume/introduction-to-perimeter-area-and-volume-108/content/introduction-to-perimeter-area-and-volume-108/
     - assets/ic/Grade-7/Math/Perimeter,-Area-and-Volume/introduction-to-perimeter-area-and-volume-108/libraries/h5pcore/
     - assets/ic/Grade-7/Math/Perimeter,-Area-and-Volume/introduction-to-perimeter-area-and-volume-108/content/introduction-to-perimeter-area-and-volume-108/images/
 
     - assets/ic/Grade-7/Math/Profit,-Loss,-and-Simple-Interest/profit-and-loss-2-216/
+    - assets/ic/Grade-7/Math/Profit,-Loss,-and-Simple-Interest/profit-and-loss-2-216/libraries/H5P.FontIcons-1.0/fonts/
+    - assets/ic/Grade-7/Math/Profit,-Loss,-and-Simple-Interest/profit-and-loss-2-216/libraries/FontAwesome-4.5/
     - assets/ic/Grade-7/Math/Profit,-Loss,-and-Simple-Interest/profit-and-loss-2-216/content/profit-and-loss-2-216/
     - assets/ic/Grade-7/Math/Profit,-Loss,-and-Simple-Interest/profit-and-loss-2-216/libraries/h5pcore/
     - assets/ic/Grade-7/Math/Profit,-Loss,-and-Simple-Interest/profit-and-loss-2-216/content/profit-and-loss-2-216/images/
 
     - assets/ic/Grade-7/Math/Profit,-Loss,-and-Simple-Interest/simple-interest-using-formulae-244/
+    - assets/ic/Grade-7/Math/Profit,-Loss,-and-Simple-Interest/simple-interest-using-formulae-244/libraries/H5P.FontIcons-1.0/fonts/
+    - assets/ic/Grade-7/Math/Profit,-Loss,-and-Simple-Interest/simple-interest-using-formulae-244/libraries/FontAwesome-4.5/
     - assets/ic/Grade-7/Math/Profit,-Loss,-and-Simple-Interest/simple-interest-using-formulae-244/content/simple-interest-using-formulae-244/
     - assets/ic/Grade-7/Math/Profit,-Loss,-and-Simple-Interest/simple-interest-using-formulae-244/libraries/h5pcore/
     - assets/ic/Grade-7/Math/Profit,-Loss,-and-Simple-Interest/simple-interest-using-formulae-244/content/simple-interest-using-formulae-244/images/
 
     - assets/ic/Grade-7/Math/Symmetry,-Design,-and-Tesselation/line-and-point-symmetry-2-197/
+    - assets/ic/Grade-7/Math/Symmetry,-Design,-and-Tesselation/line-and-point-symmetry-2-197/libraries/H5P.FontIcons-1.0/fonts/
+    - assets/ic/Grade-7/Math/Symmetry,-Design,-and-Tesselation/line-and-point-symmetry-2-197/libraries/FontAwesome-4.5/
     - assets/ic/Grade-7/Math/Symmetry,-Design,-and-Tesselation/line-and-point-symmetry-2-197/content/line-and-point-symmetry-2-197/
     - assets/ic/Grade-7/Math/Symmetry,-Design,-and-Tesselation/line-and-point-symmetry-2-197/libraries/h5pcore/
     - assets/ic/Grade-7/Math/Symmetry,-Design,-and-Tesselation/line-and-point-symmetry-2-197/content/line-and-point-symmetry-2-197/images/
 
     - assets/ic/Grade-7/Math/Symmetry,-Design,-and-Tesselation/skeleton-models-of-tetra-hedron-octahedron-cone-and-cylinder-352/
+    - assets/ic/Grade-7/Math/Symmetry,-Design,-and-Tesselation/skeleton-models-of-tetra-hedron-octahedron-cone-and-cylinder-352/libraries/H5P.FontIcons-1.0/fonts/
+    - assets/ic/Grade-7/Math/Symmetry,-Design,-and-Tesselation/skeleton-models-of-tetra-hedron-octahedron-cone-and-cylinder-352/libraries/FontAwesome-4.5/
     - assets/ic/Grade-7/Math/Symmetry,-Design,-and-Tesselation/skeleton-models-of-tetra-hedron-octahedron-cone-and-cylinder-352/content/skeleton-models-of-tetra-hedron-octahedron-cone-and-cylinder-352/
     - assets/ic/Grade-7/Math/Symmetry,-Design,-and-Tesselation/skeleton-models-of-tetra-hedron-octahedron-cone-and-cylinder-352/libraries/h5pcore/
     - assets/ic/Grade-7/Math/Symmetry,-Design,-and-Tesselation/skeleton-models-of-tetra-hedron-octahedron-cone-and-cylinder-352/content/skeleton-models-of-tetra-hedron-octahedron-cone-and-cylinder-352/images/
 
     - assets/ic/Grade-7/Math/Symmetry,-Design,-and-Tesselation/tessellation-203/
+    - assets/ic/Grade-7/Math/Symmetry,-Design,-and-Tesselation/tessellation-203/libraries/H5P.FontIcons-1.0/fonts/
+    - assets/ic/Grade-7/Math/Symmetry,-Design,-and-Tesselation/tessellation-203/libraries/FontAwesome-4.5/
     - assets/ic/Grade-7/Math/Symmetry,-Design,-and-Tesselation/tessellation-203/content/tessellation-203/
     - assets/ic/Grade-7/Math/Symmetry,-Design,-and-Tesselation/tessellation-203/libraries/h5pcore/
     - assets/ic/Grade-7/Math/Symmetry,-Design,-and-Tesselation/tessellation-203/content/tessellation-203/images/
 
     - assets/ic/Grade-7/Math/Unitary-method/
+    - assets/ic/Grade-7/Math/Unitary-method/libraries/H5P.FontIcons-1.0/fonts/
+    - assets/ic/Grade-7/Math/Unitary-method/libraries/FontAwesome-4.5/
     - assets/ic/Grade-7/Math/Unitary-method/libraries/h5pcore/
     - assets/ic/Grade-7/Math/Unitary-method/content/unitary-method-involving-direct-and-indirect-variations-243/
     - assets/ic/Grade-7/Math/Unitary-method/content/unitary-method-involving-direct-and-indirect-variations-243/images/
@@ -3482,15 +3668,15 @@ flutter:
     - assets/ic/Grade-8/Math/Geometry-Quadrilaterals-and-regular-polygons/verification-of-parallelograms-and-rectangles-279/content/verification-of-parallelograms-and-rectangles-279/images/
 
     - assets/ic/Grade-8/Math/Geometry-Triangles/interior-angle-theorem-iat-262/
-    - assets/ic/Grade-8/Math/Geometry-Triangles/libraries/H5P.FontIcons-1.0/fonts/
-    - assets/ic/Grade-8/Math/Geometry-Triangles/libraries/FontAwesome-4.5/
+    - assets/ic/Grade-8/Math/Geometry-Triangles/interior-angle-theorem-iat-262/libraries/H5P.FontIcons-1.0/fonts/
+    - assets/ic/Grade-8/Math/Geometry-Triangles/interior-angle-theorem-iat-262/libraries/FontAwesome-4.5/
     - assets/ic/Grade-8/Math/Geometry-Triangles/interior-angle-theorem-iat-262/libraries/h5pcore/
     - assets/ic/Grade-8/Math/Geometry-Triangles/interior-angle-theorem-iat-262/content/interior-angle-theorem-iat-262/
     - assets/ic/Grade-8/Math/Geometry-Triangles/interior-angle-theorem-iat-262/content/interior-angle-theorem-iat-262/images/
 
     - assets/ic/Grade-8/Math/Geometry-Triangles/triangles-676/
-    - assets/ic/Grade-8/Math/Geometry-Triangles/libraries/H5P.FontIcons-1.0/fonts/
-    - assets/ic/Grade-8/Math/Geometry-Triangles/libraries/FontAwesome-4.5/
+    - assets/ic/Grade-8/Math/Geometry-Triangles/triangles-676/libraries/H5P.FontIcons-1.0/fonts/
+    - assets/ic/Grade-8/Math/Geometry-Triangles/triangles-676/libraries/FontAwesome-4.5/
     - assets/ic/Grade-8/Math/Geometry-Triangles/triangles-676/libraries/h5pcore/
     - assets/ic/Grade-8/Math/Geometry-Triangles/triangles-676/content/triangles-676/
     - assets/ic/Grade-8/Math/Geometry-Triangles/triangles-676/content/triangles-676/images/

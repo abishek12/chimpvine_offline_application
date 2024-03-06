@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:go_router/go_router.dart';
 
+import '../../authentication/widget/auth_text_field.dart';
 import '../../membership/helper/membership_helper.dart';
 import '../../membership/model/user_model.dart';
 
@@ -20,6 +21,19 @@ class _SignUpFormState extends State<SignUpForm> {
   final _contactNumberController = TextEditingController();
   final _usernameController = TextEditingController();
   final _passwordController = TextEditingController();
+
+  @override
+  void dispose() {
+    _nameController.dispose();
+    _numberOfStudentsController.dispose();
+    _addressController.dispose();
+    _establishmentDateController.dispose();
+    _contactNumberController.dispose();
+    _usernameController.dispose();
+    _passwordController.dispose();
+    super.dispose();
+  }
+
   @override
   Widget build(BuildContext context) {
     return Padding(
@@ -29,9 +43,10 @@ class _SignUpFormState extends State<SignUpForm> {
         child: Column(
           crossAxisAlignment: CrossAxisAlignment.start,
           children: [
-            TextFormField(
+            AuthTextField(
               controller: _usernameController,
-              decoration: const InputDecoration(labelText: 'School Username'),
+              hintText: 'Enter username',
+              labelText: "Username",
               validator: (value) {
                 if (value == null || value.isEmpty) {
                   return 'Please enter the school username';
@@ -39,9 +54,10 @@ class _SignUpFormState extends State<SignUpForm> {
                 return null;
               },
             ),
-            TextFormField(
+            AuthTextField(
               controller: _nameController,
-              decoration: const InputDecoration(labelText: 'School Name'),
+              hintText: 'Enter School Name',
+              labelText: "Name",
               validator: (value) {
                 if (value == null || value.isEmpty) {
                   return 'Please enter the school name';
@@ -49,57 +65,57 @@ class _SignUpFormState extends State<SignUpForm> {
                 return null;
               },
             ),
-            TextFormField(
+            AuthTextField(
               controller: _addressController,
-              decoration: const InputDecoration(labelText: 'Address'),
+              hintText: 'Enter School Address',
+              labelText: "Address",
               validator: (value) {
                 if (value == null || value.isEmpty) {
-                  return 'Please enter the address';
+                  return 'Please enter the school address';
                 }
                 return null;
               },
             ),
-            TextFormField(
+            AuthTextField(
               controller: _numberOfStudentsController,
-              decoration:
-                  const InputDecoration(labelText: 'Number of Students'),
-              keyboardType: TextInputType.number,
+              hintText: 'Enter School Contact Details',
+              labelText: "Address",
               validator: (value) {
                 if (value == null || value.isEmpty) {
-                  return 'Please enter the number of students';
+                  return 'Please enter the school phone number';
                 }
                 return null;
               },
             ),
-            TextFormField(
+            AuthTextField(
               controller: _establishmentDateController,
-              decoration:
-                  const InputDecoration(labelText: 'Establishment Date'),
+              hintText: 'Enter School Address',
+              labelText: "Address",
               validator: (value) {
                 if (value == null || value.isEmpty) {
-                  return 'Please enter the establishment date';
+                  return 'Please enter the date of establishment';
                 }
                 return null;
               },
             ),
-            TextFormField(
+            AuthTextField(
               controller: _contactNumberController,
-              decoration: const InputDecoration(labelText: 'Contact Number'),
-              keyboardType: TextInputType.phone,
+              hintText: 'Enter School Address',
+              labelText: "Address",
               validator: (value) {
                 if (value == null || value.isEmpty) {
-                  return 'Please enter the contact number';
+                  return 'Please enter the school address';
                 }
                 return null;
               },
             ),
-            TextFormField(
-              obscureText: true,
+            AuthTextField(
               controller: _passwordController,
-              decoration: const InputDecoration(labelText: 'Password'),
+              hintText: 'Enter Password',
+              labelText: "Address",
               validator: (value) {
                 if (value == null || value.isEmpty) {
-                  return 'Please enter the password';
+                  return 'Please enter the school address';
                 }
                 return null;
               },
@@ -132,6 +148,14 @@ class _SignUpFormState extends State<SignUpForm> {
 
     await DatabaseHelper.insertMembership(newMembership).then((value) {
       if (value > 0) {
+        _nameController.clear();
+        _addressController.clear();
+        _numberOfStudentsController.clear();
+        _addressController.clear();
+        _establishmentDateController.clear();
+        _contactNumberController.clear();
+        _usernameController.clear();
+        _passwordController.clear();
         return showDialog(
             barrierDismissible: false,
             context: context,

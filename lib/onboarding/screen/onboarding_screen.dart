@@ -4,7 +4,6 @@ import 'package:smooth_page_indicator/smooth_page_indicator.dart';
 
 import '../../membership/screen/login_screen.dart';
 import '../helper/onboarding_helper.dart';
-import '../utils/onboarding_items.dart';
 import '../widget/onboarding_intro_widget.dart';
 import 'onboarding_end.dart';
 import 'onboarding_middle_widget.dart';
@@ -17,13 +16,8 @@ class OnboardingScreen extends StatefulWidget {
 }
 
 class _OnboardingScreenState extends State<OnboardingScreen> {
-  final PageController controller = PageController(initialPage: 0);
-  int currentPage = 0;
-  final List<Widget> widgetItems = [
-    const OnBoardingIntroWidget(),
-    const OnBoardingMiddleWidget(),
-    const OnBoardingEndWidget(),
-  ];
+  final PageController controller = PageController();
+  bool isLastPage = false;
 
   @override
   void dispose() {
@@ -47,18 +41,21 @@ class _OnboardingScreenState extends State<OnboardingScreen> {
         return Scaffold(
           body: Container(
             padding: const EdgeInsets.only(bottom: 80),
-            child: PageView.builder(
+            child: PageView(
               controller: controller,
-              itemCount: onboardingItems.length,
               onPageChanged: (index) {
                 setState(() {
-                  currentPage = index;
+                  isLastPage = index == 2;
                 });
               },
-              itemBuilder: (context, index) => widgetItems[index],
+              children: const [
+                OnBoardingIntroWidget(),
+                OnBoardingMiddleWidget(),
+                OnBoardingEndWidget(),
+              ],
             ),
           ),
-          bottomSheet: isLastPage()
+          bottomSheet: isLastPage
               ? SizedBox(
                   width: double.infinity,
                   height: 80.0,
@@ -97,14 +94,10 @@ class _OnboardingScreenState extends State<OnboardingScreen> {
                       ),
                       TextButton(
                         onPressed: () {
-                          if (currentPage < widgetItems.length - 1) {
-                            controller.nextPage(
-                              duration: const Duration(milliseconds: 500),
-                              curve: Curves.easeInOut,
-                            );
-                          } else {
-                            // Handle reaching the end of pages
-                          }
+                          controller.nextPage(
+                            duration: const Duration(milliseconds: 500),
+                            curve: Curves.easeInOut,
+                          );
                         },
                         child: const Text("Next"),
                       ),
@@ -114,9 +107,5 @@ class _OnboardingScreenState extends State<OnboardingScreen> {
         );
       },
     );
-  }
-
-  bool isLastPage() {
-    return currentPage == widgetItems.length - 1;
   }
 }

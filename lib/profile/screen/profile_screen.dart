@@ -1,11 +1,13 @@
 import 'package:chimpvine_offline_application/app/constant/app_button.dart';
 import 'package:chimpvine_offline_application/app/widgets/text_widget.dart';
+import 'package:chimpvine_offline_application/profile/screen/sign_up_screen.dart';
 import 'package:flutter/material.dart';
 import 'package:gap/gap.dart';
 import 'package:go_router/go_router.dart';
 import 'package:shared_preferences/shared_preferences.dart';
 
 import '../widget/profile_list_members.dart';
+import '../widget/remaining_time_chart.dart';
 
 class ProfileScreen extends StatelessWidget {
   const ProfileScreen({super.key});
@@ -54,7 +56,17 @@ class ProfileScreen extends StatelessWidget {
                     const Gap(12),
                     AppIconButton(
                       btnText: "Add Account",
-                      onTap: () {},
+                      onTap: () => showDialog(
+                        context: context,
+                        builder: (context) => Dialog(
+                          child: SizedBox(
+                            width: MediaQuery.of(context).size.width * 0.5,
+                            child: const SingleChildScrollView(
+                              child: SignUpForm(),
+                            ),
+                          ),
+                        ),
+                      ),
                       icon: Icons.person_add,
                     ),
                   ],
@@ -114,11 +126,7 @@ class ProfileScreen extends StatelessWidget {
                           ],
                           borderRadius: BorderRadius.circular(6),
                         ),
-                        child: const CustomText(
-                          strText: "",
-                          fontSize: 10 * 3,
-                          fontWeight: FontWeight.w500,
-                        ),
+                        child: const RemainingTimeChart(),
                       ),
                     ],
                   ),

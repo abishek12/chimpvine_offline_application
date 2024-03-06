@@ -1,75 +1,75 @@
 {
-    "count": 17,
+    "count": 77,
     "ic": [
         {
             "title": "Perimeter, Area, and Volume (Introduction)",
             "image": "assets/games/game_one.png",
-            "path": "assets/ic/Grade-1/Math/Parts of a Math/parts-of-a-Math-interactive-quiz-1483/index.html"
+            "path": "assets/ic/Grade-7/Math/Perimeter,-Area-and-Volume/introduction-to-perimeter-area-and-volume-108/index.html"
         },
         {
             "title": "Perimeter, Area, and Volume (Area of Solid Figure)",
             "image": "assets/games/game_one.png",
-            "path": "assets/ic/Grade-1/Math/The Keyboard/index.html"
+            "path": "assets/ic/Grade-7/Math/Perimeter,-Area-and-Volume/area-of-solid-figures-117/index.html"
         },
         {
             "title": "Perimeter, Area, and Volume (Area of Plane Figures)",
             "image": "assets/games/game_one.png",
-            "path": "assets/ic/Grade-1/Math/Working with Word Pad/starting-and-componets-of-wordpad-1011/index.html"
+            "path": "assets/ic/Grade-7/Math/Perimeter,-Area-and-Volume/area-of-plane-figures-160/index.html"
         },
         {
             "title": "Geometry: Construction (Rotation)",
             "image": "assets/games/game_one.png",
-            "path": "assets/ic/Grade-7/Math/Geometry-Construction/transformation-rotation-177/index.html"
+            "path": "assets/ic/Grade-7/Math/Geometry-Construction/transformation-rotation-777/index.html"
         },
         {
             "title": "Geometry: Construction (Introduction of reflection, rotation and translation)",
             "image": "assets/games/game_one.png",
-            "path": "assets/ic/Grade-1/Math/Geometry-Construction/introduction-of-reflection-rotation-and-translation-180/index.html"
+            "path": "assets/ic/Grade-7/Math/Geometry-Construction/introduction-of-reflection-rotation-and-translation-780/index.html"
         },
         {
             "title": "Symmetry, Design and Tesselation (Line symmetry)",
             "image": "assets/games/game_one.png",
-            "path": "assets/ic/Grade-1/Math/Symmetry,-Design,-and-Tesselation/line-and-point-symmetry-2-197/index.html"
+            "path": "assets/ic/Grade-7/Math/Symmetry,-Design,-and-Tesselation/line-and-point-symmetry-2-797/index.html"
         },
         {
             "title": "Symmetry, Design and Tesselation (Point (rotational) symmetry and tessellation)",
             "image": "assets/games/game_one.png",
-            "path": "assets/ic/Grade-1/Math/Symmetry,-Design,-and-Tesselation/skeleton-models-of-tetra-hedron-octahedron-cone-and-cylinder-352/index.html"
+            "path": "assets/ic/Grade-7/Math/Symmetry,-Design,-and-Tesselation/skeleton-models-of-tetra-hedron-octahedron-cone-and-cylinder-372/index.html"
         },
         {
             "title": "Symmetry, Design and Tesselation (Solid Shapes)",
             "image": "assets/games/game_one.png",
-            "path": "assets/ic/Grade-1/Math/Symmetry,-Design,-and-Tesselation/tessellation-203/index.html"
+            "path": "assets/ic/Grade-7/Math/Symmetry,-Design,-and-Tesselation/tessellation-203/index.html"
         },
         {
             "title": "Factorisation, H.C.F. and L.C.M. (H.C.F. and L.C.M.)",
             "image": "assets/games/game_one.png",
-            "path": "assets/ic/Grade-1/Math/Factorization,-HCF,-and-LCM/index.html"
+            "path": "assets/ic/Grade-7/Math/Factorization,-HCF,-and-LCM/index.html"
         },
         {
             "title": "Percentage, ratio and proportion (Proportion)",
             "image": "assets/games/game_one.png",
-            "path": "assets/ic/Grade-1/Math/Percentage,-ratio-and-proportion/proportion-212/index.html"
+            "path": "assets/ic/Grade-7/Math/Percentage,-ratio-and-proportion/proportion-272/index.html"
         },
         {
             "title": "Percentage, ratio and proportion (Percentage)",
             "image": "assets/games/game_one.png",
-            "path": "assets/ic/Grade-1/Math/Percentage,-ratio-and-proportion/percentage-215/index.html"
+            "path": "assets/ic/Grade-7/Math/Percentage,-ratio-and-proportion/percentage-277/index.html"
         },
         {
             "title": "Profit, Loss and Simple Interest (Profit and loss)",
             "image": "assets/games/game_one.png",
-            "path": "assets/ic/Grade-1/Math/Profit,-Loss,-and-Simple-Interest/profit-and-loss-2-216/index.html"
+            "path": "assets/ic/Grade-7/Math/Profit,-Loss,-and-Simple-Interest/profit-and-loss-2-276/index.html"
         },
         {
             "title": "Profit, Loss and Simple Interest (Simple interest)",
             "image": "assets/games/game_one.png",
-            "path": "assets/ic/Grade-1/Math/Profit,-Loss,-and-Simple-Interest/simple-interest-using-formulae-244/index.html"
+            "path": "assets/ic/Grade-7/Math/Profit,-Loss,-and-Simple-Interest/simple-interest-using-formulae-244/index.html"
         },
         {
             "title": "Unitary Method (Unitary method involving direct and indirect variations)",
             "image": "assets/games/game_one.png",
-            "path": "assets/ic/Grade-1/Math/Unitary-method/index.html"
+            "path": "assets/ic/Grade-7/Math/Unitary-method/index.html"
         } 
     ],
     "games": [

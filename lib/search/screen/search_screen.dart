@@ -2,6 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:gap/gap.dart';
 import 'package:shared_preferences/shared_preferences.dart';
 
+import '../widget/search_box_widget.dart';
 import '../widget/search_fab.dart';
 import '../widget/search_grade.dart';
 import '../widget/search_subject.dart';
@@ -29,26 +30,30 @@ class _SearchScreenState extends State<SearchScreen> {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      body: CustomScrollView(
-        slivers: [
-          SliverAppBar(
-            shape: const RoundedRectangleBorder(
-              borderRadius: BorderRadius.only(
-                bottomLeft: Radius.circular(20.0),
-                bottomRight: Radius.circular(20.0),
+      body: Stack(
+        children: [
+          CustomScrollView(
+            slivers: [
+              SliverAppBar(
+                shape: const RoundedRectangleBorder(
+                  borderRadius: BorderRadius.only(
+                    bottomLeft: Radius.circular(20.0),
+                    bottomRight: Radius.circular(20.0),
+                  ),
+                ),
+                expandedHeight: MediaQuery.of(context).size.height * 0.35,
+                flexibleSpace: const MyFlexibleSpace(),
+                pinned: true,
+                snap: false,
+                floating: false,
               ),
-            ),
-            expandedHeight: MediaQuery.of(context).size.height * 0.35,
-            flexibleSpace: const MyFlexibleSpace(),
-            pinned: true,
-            snap: false,
-            floating: false,
-          ),
-          const SliverToBoxAdapter(
-            child: SearchGradeWidget(),
-          ),
-          const SliverToBoxAdapter(
-            child: SearchSubjectWidget(),
+              const SliverToBoxAdapter(
+                child: SearchGradeWidget(),
+              ),
+              const SliverToBoxAdapter(
+                child: SearchSubjectWidget(),
+              ),
+            ],
           ),
         ],
       ),
@@ -64,44 +69,25 @@ class MyFlexibleSpace extends StatelessWidget {
   Widget build(BuildContext context) {
     return FlexibleSpaceBar(
       background: Container(
-        color: Colors.blue,
-        child: Center(
+        color: const Color(0xff5928E5).withOpacity(0.8),
+        child: const Center(
           child: Padding(
-            padding: const EdgeInsets.symmetric(horizontal: 16.0),
-            child: Column(
-              mainAxisAlignment: MainAxisAlignment.center,
+            padding: EdgeInsets.symmetric(horizontal: 16.0),
+            child: Stack(
               children: [
-                const Text(
-                  'Search Chimpvine Content',
-                  style: TextStyle(
-                    color: Colors.white,
-                    fontSize: 24.0,
-                  ),
-                ),
-                const Gap(10 * 2),
-                SizedBox(
-                  width: MediaQuery.of(context).size.width / 2,
-                  child: Row(
-                    children: [
-                      Expanded(
-                        flex: 5,
-                        child: TextFormField(
-                          decoration: InputDecoration(
-                            hintText: 'Enter your text',
-                            fillColor: Colors.white,
-                            filled: true,
-                            border: OutlineInputBorder(
-                              borderRadius: BorderRadius.circular(10.0),
-                            ),
-                            suffixIcon: const Icon(
-                              Icons.search,
-                              color: Colors.black,
-                            ),
-                          ),
-                        ),
+                Column(
+                  mainAxisAlignment: MainAxisAlignment.center,
+                  children: [
+                    Text(
+                      'Search Chimpvine Content',
+                      style: TextStyle(
+                        color: Colors.white,
+                        fontSize: 24.0,
                       ),
-                    ],
-                  ),
+                    ),
+                    Gap(10 * 2),
+                    SearchBoxWidget(),
+                  ],
                 ),
               ],
             ),
