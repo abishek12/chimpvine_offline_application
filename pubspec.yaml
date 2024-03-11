@@ -39,18 +39,18 @@ dependencies:
   flutter_svg: ^2.0.9
   flutter_bloc: ^8.1.3
   equatable: ^2.0.5
-  webview_flutter_plus: ^0.3.0+2
+  webview_flutter_plus: 0.3.0+2
   sqflite: ^2.3.0
   double_back_to_close_app: ^2.1.0
   shared_preferences: ^2.2.2
   device_info_plus: ^9.1.1
   gap: ^3.0.1
-  lottie: ^2.7.0
+  lottie: ^3.1.0
   flutter_speed_dial: ^7.0.0
   smooth_page_indicator: ^1.1.0
   flutter_staggered_grid_view: ^0.7.0
   flutter_staggered_animations: ^1.1.1
-  fl_chart: ^0.65.0
+  fl_chart: ^0.66.2
 
 dev_dependencies:
   flutter_test:
@@ -507,7 +507,7 @@ flutter:
     - assets/ic/Grade-1/Computer/Parts-of-a-computer/parts-of-a-computer-interactive-book-1482/
     - assets/ic/Grade-1/Computer/Parts-of-a-computer/parts-of-a-computer-interactive-book-1482/content/parts-of-a-computer-interactive-book-1482/
     - assets/ic/Grade-1/Computer/Parts-of-a-computer/parts-of-a-computer-interactive-book-1482/libraries/h5pcore/
-    - assets/ic/Grade-1/Computer/Parts-of-a-computer/parts-of-a-computer-interactive-quiz-1483/libraries/FontAwesome-4.5/
+    - assets/ic/Grade-1/Computer/Parts-of-a-computer/parts-of-a-computer-interactive-book-1482/libraries/H5P.FontIcons-1.0/fonts/
     - assets/ic/Grade-1/Computer/Parts-of-a-computer/parts-of-a-computer-interactive-book-1482/content/parts-of-a-computer-interactive-book-1482/images/
     - assets/ic/Grade-1/Computer/Parts-of-a-computer/parts-of-a-computer-interactive-book-1482/content/parts-of-a-computer-interactive-book-1482/audios/
 
@@ -519,7 +519,6 @@ flutter:
 
     - assets/ic/Grade-1/Computer/Computer-(A-Smart-Machine)/computer-a-smart-machine-interactive-book-1419/
     - assets/ic/Grade-1/Computer/Computer-(A-Smart-Machine)/computer-a-smart-machine-interactive-book-1419/libraries/h5pcore/
-    - assets/ic/Grade-1/Computer/Computer-(A-Smart-Machine)/computer-a-smart-machine-interactive-quiz-1420/libraries/FontAwesome-4.5/
     - assets/ic/Grade-1/Computer/Computer-(A-Smart-Machine)/computer-a-smart-machine-interactive-book-1419/content/computer-a-smart-machine-interactive-book-1419/
     - assets/ic/Grade-1/Computer/Computer-(A-Smart-Machine)/computer-a-smart-machine-interactive-book-1419/content/computer-a-smart-machine-interactive-book-1419/images/
     - assets/ic/Grade-1/Computer/Computer-(A-Smart-Machine)/computer-a-smart-machine-interactive-book-1419/content/computer-a-smart-machine-interactive-book-1419/audios/
@@ -545,7 +544,16 @@ flutter:
     - assets/ic/Grade-1/English/English-alphabet/english-alphabet-1373/libraries/FontAwesome-4.5/
     - assets/ic/Grade-1/English/English-alphabet/english-alphabet-1373/content/english-alphabet-1373/
     - assets/ic/Grade-1/English/English-alphabet/english-alphabet-1373/libraries/H5P.FontIcons-1.0/fonts/
+    - assets/ic/Grade-1/English/English-alphabet/english-alphabet-1373/content/english-alphabet-1373/images/
     - assets/ic/Grade-1/English/English-alphabet/english-alphabet-1373/content/english-alphabet-1373/audios/
+
+    - assets/ic/Grade-1/English/English-alphabet/capital-letters-interactive-quiz-1379/
+    - assets/ic/Grade-1/English/English-alphabet/capital-letters-interactive-quiz-1379/libraries/h5pcore/
+    - assets/ic/Grade-1/English/English-alphabet/capital-letters-interactive-quiz-1379/libraries/FontAwesome-4.5/
+    - assets/ic/Grade-1/English/English-alphabet/capital-letters-interactive-quiz-1379/content/capital-letters-interactive-quiz-1379/
+    - assets/ic/Grade-1/English/English-alphabet/capital-letters-interactive-quiz-1379/libraries/H5P.FontIcons-1.0/fonts/
+    - assets/ic/Grade-1/English/English-alphabet/capital-letters-interactive-quiz-1379/content/capital-letters-interactive-quiz-1379/images/
+    - assets/ic/Grade-1/English/English-alphabet/capital-letters-interactive-quiz-1379/content/capital-letters-interactive-quiz-1379/audios/
 
     - assets/ic/Grade-1/English/AmIsAre/
     - assets/ic/Grade-1/English/AmIsAre/libraries/h5pcore/
@@ -594,6 +602,11 @@ flutter:
     - assets/ic/Grade-1/English/Singular-and-plural-nouns/content/singular-and-plural-nouns-2-553/
     - assets/ic/Grade-1/English/Singular-and-plural-nouns/content/singular-and-plural-nouns-2-553/images/
     - assets/ic/Grade-1/English/Singular-and-plural-nouns/content/singular-and-plural-nouns-2-553/audios/
+
+    - assets/ic/Grade-1/English/Special-and-common-names/
+    - assets/ic/Grade-1/English/Special-and-common-names/content/special-and-common-names-dialog-cards-445/
+    - assets/ic/Grade-1/English/Special-and-common-names/content/special-and-common-names-dialog-cards-445/images/
+    - assets/ic/Grade-1/English/Special-and-common-names/content/special-and-common-names-dialog-cards-445/audios/
 
     - assets/ic/Grade-1/English/Punctuation/
     - assets/ic/Grade-1/English/Punctuation/libraries/h5pcore/
@@ -762,9 +775,11 @@ flutter:
     - assets/ic/Grade-1/Science/Animals-Having-Wings/libraries/FontAwesome-4.5/
     - assets/ic/Grade-1/Science/Animals-Having-Wings/content/animals-having-wings-dialog-cards-848/
     - assets/ic/Grade-1/Science/Animals-Having-Wings/content/animals-having-wings-dialog-cards-848/images/
+    - assets/ic/Grade-1/Science/Animals-Having-Wings/content/animals-having-wings-dialog-cards-848/audios/
 
     - assets/ic/Grade-1/Science/Care-for-Animals/
     - assets/ic/Grade-1/Science/Care-for-Animals/libraries/h5pcore/
+    - assets/ic/Grade-1/Science/Care-for-Animals/libraries/H5P.FontIcons-1.0/fonts/
     - assets/ic/Grade-1/Science/Care-for-Animals/libraries/FontAwesome-4.5/
     - assets/ic/Grade-1/Science/Care-for-Animals/content/care-for-animals-364/
     - assets/ic/Grade-1/Science/Care-for-Animals/content/care-for-animals-364/images/
@@ -774,48 +789,71 @@ flutter:
     - assets/ic/Grade-1/Science/Care-for-Plants/libraries/FontAwesome-4.5/
     - assets/ic/Grade-1/Science/Care-for-Plants/content/care-for-plants-370/
     - assets/ic/Grade-1/Science/Care-for-Plants/content/care-for-plants-370/images/
+    - assets/ic/Grade-1/Science/Care-for-Plants/content/care-for-plants-370/audios/
 
     - assets/ic/Grade-1/Science/Clean-House-and-School/
     - assets/ic/Grade-1/Science/Clean-House-and-School/libraries/h5pcore/
+    - assets/ic/Grade-1/Science/Clean-House-and-School/libraries/H5P.FontIcons-1.0/fonts/
     - assets/ic/Grade-1/Science/Clean-House-and-School/libraries/FontAwesome-4.5/
     - assets/ic/Grade-1/Science/Clean-House-and-School/content/clean-house-and-school-549/
     - assets/ic/Grade-1/Science/Clean-House-and-School/content/clean-house-and-school-549/images/
+    - assets/ic/Grade-1/Science/Clean-House-and-School/content/clean-house-and-school-549/audios/
 
     - assets/ic/Grade-1/Science/Fire/
     - assets/ic/Grade-1/Science/Fire/libraries/h5pcore/
     - assets/ic/Grade-1/Science/Fire/libraries/FontAwesome-4.5/
     - assets/ic/Grade-1/Science/Fire/content/fire-305/
     - assets/ic/Grade-1/Science/Fire/content/fire-305/images/
+    - assets/ic/Grade-1/Science/Fire/content/fire-305/audios/
 
     - assets/ic/Grade-1/Science/Sunny-Day-and-Cloudy-Day/
     - assets/ic/Grade-1/Science/Sunny-Day-and-Cloudy-Day/libraries/h5pcore/
     - assets/ic/Grade-1/Science/Sunny-Day-and-Cloudy-Day/libraries/FontAwesome-4.5/
     - assets/ic/Grade-1/Science/Sunny-Day-and-Cloudy-Day/content/sunny-day-and-cloudy-day-318/
     - assets/ic/Grade-1/Science/Sunny-Day-and-Cloudy-Day/content/sunny-day-and-cloudy-day-318/images/
+    - assets/ic/Grade-1/Science/Sunny-Day-and-Cloudy-Day/content/sunny-day-and-cloudy-day-318/audios/
 
     - assets/ic/Grade-1/Science/Safety-Rules/
     - assets/ic/Grade-1/Science/Safety-Rules/libraries/h5pcore/
+    - assets/ic/Grade-1/Science/Safety-Rules/libraries/H5P.FontIcons-1.0/fonts/
     - assets/ic/Grade-1/Science/Safety-Rules/libraries/FontAwesome-4.5/
     - assets/ic/Grade-1/Science/Safety-Rules/content/safety-rules-534/
     - assets/ic/Grade-1/Science/Safety-Rules/content/safety-rules-534/images/
+    - assets/ic/Grade-1/Science/Safety-Rules/content/safety-rules-534/audios/
 
     - assets/ic/Grade-1/Science/Plants/plants-2-1395/
     - assets/ic/Grade-1/Science/Plants/plants-2-1395/libraries/h5pcore/
+    - assets/ic/Grade-1/Science/Plants/plants-2-1395/libraries/H5P.FontIcons-1.0/fonts/
     - assets/ic/Grade-1/Science/Plants/plants-2-1395/libraries/FontAwesome-4.5/
     - assets/ic/Grade-1/Science/Plants/plants-2-1395/content/plants-2-1395/
     - assets/ic/Grade-1/Science/Plants/plants-2-1395/content/plants-2-1395/images/
+    - assets/ic/Grade-1/Science/Plants/plants-2-1395/content/plants-2-1395/audios/
 
     - assets/ic/Grade-1/Science/Plants/plants-around-us-interactive-quiz-1398/
     - assets/ic/Grade-1/Science/Plants/plants-around-us-interactive-quiz-1398/libraries/h5pcore/
     - assets/ic/Grade-1/Science/Plants/plants-around-us-interactive-quiz-1398/libraries/FontAwesome-4.5/
     - assets/ic/Grade-1/Science/Plants/plants-around-us-interactive-quiz-1398/content/plants-around-us-interactive-quiz-1398/
     - assets/ic/Grade-1/Science/Plants/plants-around-us-interactive-quiz-1398/content/plants-around-us-interactive-quiz-1398/images/
+    - assets/ic/Grade-1/Science/Plants/plants-around-us-interactive-quiz-1398/content/plants-around-us-interactive-quiz-1398/audios/
 
     - assets/ic/Grade-1/Science/Personal-Hygine/
     - assets/ic/Grade-1/Science/Personal-Hygine/libraries/h5pcore/
     - assets/ic/Grade-1/Science/Personal-Hygine/libraries/FontAwesome-4.5/
     - assets/ic/Grade-1/Science/Personal-Hygine/content/personal-hygiene-525/
     - assets/ic/Grade-1/Science/Personal-Hygine/content/personal-hygiene-525/images/
+    - assets/ic/Grade-1/Science/Personal-Hygine/content/personal-hygiene-525/audios/
+
+    - assets/ic/Grade-1/Science/Physical-education/basic-skills-of-physical-exercise-458/
+    - assets/ic/Grade-1/Science/Physical-education/basic-skills-of-physical-exercise-458/libraries/h5pcore/
+    - assets/ic/Grade-1/Science/Physical-education/basic-skills-of-physical-exercise-458/libraries/FontAwesome-4.5/
+    - assets/ic/Grade-1/Science/Physical-education/basic-skills-of-physical-exercise-458/content/basic-skills-of-physical-exercise-458/
+    - assets/ic/Grade-1/Science/Physical-education/basic-skills-of-physical-exercise-458/content/basic-skills-of-physical-exercise-458/images/
+
+    - assets/ic/Grade-1/Science/Physical-education/static-skills-of-physical-exercise-460/
+    - assets/ic/Grade-1/Science/Physical-education/static-skills-of-physical-exercise-460/libraries/h5pcore/
+    - assets/ic/Grade-1/Science/Physical-education/static-skills-of-physical-exercise-460/libraries/FontAwesome-4.5/
+    - assets/ic/Grade-1/Science/Physical-education/static-skills-of-physical-exercise-460/content/static-skills-of-physical-exercise-460/
+    - assets/ic/Grade-1/Science/Physical-education/static-skills-of-physical-exercise-460/content/static-skills-of-physical-exercise-460/images/
 
     - assets/ic/Grade-1/Science/Different-Types-of-Animals/
     - assets/ic/Grade-1/Science/Different-Types-of-Animals/libraries/h5pcore/
@@ -913,6 +951,8 @@ flutter:
 
     - assets/ic/Grade-2/Computer/Using-a-mouse/
     - assets/ic/Grade-2/Computer/Using-a-mouse/libraries/h5pcore/
+    - assets/ic/Grade-2/Computer/Using-a-mouse/libraries/H5P.FontIcons-1.0/fonts/
+    - assets/ic/Grade-2/Computer/Using-a-mouse/libraries/FontAwesome-4.5/
     - assets/ic/Grade-2/Computer/Using-a-mouse/content/using-a-mouse-696/
     - assets/ic/Grade-2/Computer/Using-a-mouse/content/using-a-mouse-696/images/
     - assets/ic/Grade-2/Computer/Using-a-mouse/content/using-a-mouse-696/audios/
@@ -980,33 +1020,43 @@ flutter:
     - assets/ic/Grade-2/Science/Habitats-of-Animals/content/habitats-of-animals-462/images/
 
     - assets/ic/Grade-2/Science/Health-Services/
+    - assets/ic/Grade-2/Science/Health-Services/libraries/FontAwesome-4.5/
+    - assets/ic/Grade-2/Science/Health-Services/libraries/H5P.FontIcons-1.0/fonts/
     - assets/ic/Grade-2/Science/Health-Services/libraries/h5pcore/
     - assets/ic/Grade-2/Science/Health-Services/content/health-services-2-786/
     - assets/ic/Grade-2/Science/Health-Services/content/health-services-2-786/images/
 
     - assets/ic/Grade-2/Science/Living-beings-and-their-features/
+    - assets/ic/Grade-2/Science/Living-beings-and-their-features/libraries/H5P.FontIcons-1.0/fonts/
+    - assets/ic/Grade-2/Science/Living-beings-and-their-features/libraries/FontAwesome-4.5/
     - assets/ic/Grade-2/Science/Living-beings-and-their-features/libraries/h5pcore/
     - assets/ic/Grade-2/Science/Living-beings-and-their-features/content/living-beings-and-their-features-441/
     - assets/ic/Grade-2/Science/Living-beings-and-their-features/content/living-beings-and-their-features-441/images/
+    - assets/ic/Grade-2/Science/Living-beings-and-their-features/content/living-beings-and-their-features-441/audios/
 
     - assets/ic/Grade-2/Science/Matter-of-Different-Colour,-Taste-and-Smell/
     - assets/ic/Grade-2/Science/Matter-of-Different-Colour,-Taste-and-Smell/libraries/FontAwesome-4.5/
+    - assets/ic/Grade-2/Science/Matter-of-Different-Colour,-Taste-and-Smell/libraries/H5P.FontIcons-1.0/fonts/
     - assets/ic/Grade-2/Science/Matter-of-Different-Colour,-Taste-and-Smell/libraries/h5pcore/
     - assets/ic/Grade-2/Science/Matter-of-Different-Colour,-Taste-and-Smell/content/matter-of-different-colour-taste-and-smell-410/
     - assets/ic/Grade-2/Science/Matter-of-Different-Colour,-Taste-and-Smell/content/matter-of-different-colour-taste-and-smell-410/images/
+    - assets/ic/Grade-2/Science/Matter-of-Different-Colour,-Taste-and-Smell/content/matter-of-different-colour-taste-and-smell-410/audios/
 
-    - assets/ic/Grade-2/Science/Physical-training/
-    - assets/ic/Grade-2/Science/Physical-training/libraries/h5pcore/
-    - assets/ic/Grade-2/Science/Physical-training/content/physical-training-4-901/images/
-    - assets/ic/Grade-2/Science/Physical-training/content/physical-training-4-901/audios/
+    - assets/ic/Grade-2/Science/Physical-Training/
+    - assets/ic/Grade-2/Science/Physical-Training/libraries/FontAwesome-4.5/
+    - assets/ic/Grade-2/Science/Physical-Training/libraries/h5pcore/
+    - assets/ic/Grade-2/Science/Physical-Training/content/physical-training-4-901/images/
+    - assets/ic/Grade-2/Science/Physical-Training/content/physical-training-4-901/audios/
 
     - assets/ic/Grade-2/Science/Safety-and-First-Aid/
+    - assets/ic/Grade-2/Science/Safety-and-First-Aid/libraries/FontAwesome-4.5/
     - assets/ic/Grade-2/Science/Safety-and-First-Aid/content/safety-and-first-aid-4-777/
     - assets/ic/Grade-2/Science/Safety-and-First-Aid/libraries/h5pcore/
     - assets/ic/Grade-2/Science/Safety-and-First-Aid/content/safety-and-first-aid-4-777/images/
     - assets/ic/Grade-2/Science/Safety-and-First-Aid/content/safety-and-first-aid-4-777/audios/
 
     - assets/ic/Grade-2/Science/The-Sunny-Day/
+    - assets/ic/Grade-2/Science/The-Sunny-Day/libraries/FontAwesome-4.5/
     - assets/ic/Grade-2/Science/The-Sunny-Day/content/the-sunny-day-417/
     - assets/ic/Grade-2/Science/The-Sunny-Day/libraries/h5pcore/
     - assets/ic/Grade-2/Science/The-Sunny-Day/content/the-sunny-day-417/images/
@@ -1031,7 +1081,10 @@ flutter:
 
     - assets/ic/Grade-2/Math/Fundamental-process-in-mathematics/revision-on-fundamental-process-interactive-quiz-1497/
     - assets/ic/Grade-2/Math/Fundamental-process-in-mathematics/revision-on-fundamental-process-interactive-quiz-1497/libraries/h5pcore/
+    - assets/ic/Grade-2/Math/Fundamental-process-in-mathematics/revision-on-fundamental-process-interactive-quiz-1497/libraries/FontAwesome-4.5/
     - assets/ic/Grade-2/Math/Fundamental-process-in-mathematics/revision-on-fundamental-process-interactive-quiz-1497/content/revision-on-fundamental-process-interactive-quiz-1497/
+    - assets/ic/Grade-2/Math/Fundamental-process-in-mathematics/revision-on-fundamental-process-interactive-quiz-1497/content/revision-on-fundamental-process-interactive-quiz-1497/images/
+    - assets/ic/Grade-2/Math/Fundamental-process-in-mathematics/revision-on-fundamental-process-interactive-quiz-1497/content/revision-on-fundamental-process-interactive-quiz-1497/audios/
 
     - assets/ic/Grade-2/Math/Geometry/geometry-1375/
     - assets/ic/Grade-2/Math/Geometry/geometry-1375/content/geometry-1375/
@@ -1069,7 +1122,8 @@ flutter:
 
     - assets/ic/Grade-2/Math/Measurement/weight-2-95/
     - assets/ic/Grade-2/Math/Measurement/weight-2-95/content/weight-2-95/
-    - assets/ic/Grade-2/Math/Measurement/capacity-89/libraries/h5pcore/
+    - assets/ic/Grade-2/Math/Measurement/weight-2-95/libraries/FontAwesome-4.5/
+    - assets/ic/Grade-2/Math/Measurement/weight-2-95/libraries/h5pcore/
     - assets/ic/Grade-2/Math/Measurement/weight-2-95/content/weight-2-95/images/
 
     - assets/ic/Grade-2/Math/Number-system/learning-number-names-167/
@@ -1137,7 +1191,6 @@ flutter:
 
     - assets/ic/Grade-2/English/Conjunction/
     - assets/ic/Grade-2/English/Conjunction/libraries/H5P.FontIcons-1.0/fonts/
-    - assets/ic/Grade-2/English/Conjunction/libraries/H5P.FontIcons-1.0/fonts/
     - assets/ic/Grade-2/English/Conjunction/libraries/h5pcore/
     - assets/ic/Grade-2/English/Conjunction/libraries/FontAwesome-4.5/
     - assets/ic/Grade-2/English/Conjunction/content/conjuction-1199/
@@ -1155,6 +1208,7 @@ flutter:
     - assets/ic/Grade-2/English/Isamare/libraries/FontAwesome-4.5/
     - assets/ic/Grade-2/English/Isamare/content/is-am-are-1109/
     - assets/ic/Grade-2/English/Isamare/content/is-am-are-1109/images/
+    - assets/ic/Grade-2/English/Isamare/content/is-am-are-1109/audios/
 
     - assets/ic/Grade-2/English/ThisThatTheseThose/
     - assets/ic/Grade-2/English/ThisThatTheseThose/content/this-that-these-those-1157/audios/
@@ -1166,33 +1220,40 @@ flutter:
 
     - assets/ic/Grade-2/English/AdjectivesandAdverbs/use-sense-words-1707/
     - assets/ic/Grade-2/English/AdjectivesandAdverbs/use-sense-words-1707/libraries/h5pcore/
+    - assets/ic/Grade-2/English/AdjectivesandAdverbs/use-sense-words-1707/libraries/H5P.FontIcons-1.0/fonts/
     - assets/ic/Grade-2/English/AdjectivesandAdverbs/use-sense-words-1707/libraries/FontAwesome-4.5/
     - assets/ic/Grade-2/English/AdjectivesandAdverbs/use-sense-words-1707/content/use-sense-words-1707/
     - assets/ic/Grade-2/English/AdjectivesandAdverbs/use-sense-words-1707/content/use-sense-words-1707/images/
+    - assets/ic/Grade-2/English/AdjectivesandAdverbs/use-sense-words-1707/content/use-sense-words-1707/audios/
 
     - assets/ic/Grade-2/English/SmartWritingActivities/smart-activities-1261/
     - assets/ic/Grade-2/English/SmartWritingActivities/smart-activities-1261/libraries/h5pcore/
     - assets/ic/Grade-2/English/SmartWritingActivities/smart-activities-1261/libraries/FontAwesome-4.5/
     - assets/ic/Grade-2/English/SmartWritingActivities/smart-activities-1261/content/smart-activities-1261/
     - assets/ic/Grade-2/English/SmartWritingActivities/smart-activities-1261/content/smart-activities-1261/images/
+    - assets/ic/Grade-2/English/SmartWritingActivities/smart-activities-1261/content/smart-activities-1261/audios/
 
     - assets/ic/Grade-2/English/SmartWritingActivities/smart-writing-activities-2-1262/
     - assets/ic/Grade-2/English/SmartWritingActivities/smart-writing-activities-2-1262/libraries/h5pcore/
     - assets/ic/Grade-2/English/SmartWritingActivities/smart-writing-activities-2-1262/libraries/FontAwesome-4.5/
     - assets/ic/Grade-2/English/SmartWritingActivities/smart-writing-activities-2-1262/content/smart-writing-activities-2-1262/
     - assets/ic/Grade-2/English/SmartWritingActivities/smart-writing-activities-2-1262/content/smart-writing-activities-2-1262/images/
+    - assets/ic/Grade-2/English/SmartWritingActivities/smart-writing-activities-2-1262/content/smart-writing-activities-2-1262/audios/
 
     - assets/ic/Grade-2/English/Pronouns/choose-the-correct-personal-pronoun-1703/
     - assets/ic/Grade-2/English/Pronouns/choose-the-correct-personal-pronoun-1703/libraries/h5pcore/
     - assets/ic/Grade-2/English/Pronouns/choose-the-correct-personal-pronoun-1703/libraries/FontAwesome-4.5/
+    - assets/ic/Grade-2/English/Pronouns/choose-the-correct-personal-pronoun-1703/libraries/H5P.FontIcons-1.0/fonts/
     - assets/ic/Grade-2/English/Pronouns/choose-the-correct-personal-pronoun-1703/content/choose-the-correct-personal-pronoun-1703/
     - assets/ic/Grade-2/English/Pronouns/choose-the-correct-personal-pronoun-1703/content/choose-the-correct-personal-pronoun-1703/images/
+    - assets/ic/Grade-2/English/Pronouns/choose-the-correct-personal-pronoun-1703/content/choose-the-correct-personal-pronoun-1703/audios/
 
     - assets/ic/Grade-2/English/Pronouns/identify-personal-pronouns-1702/
     - assets/ic/Grade-2/English/Pronouns/identify-personal-pronouns-1702/libraries/h5pcore/
     - assets/ic/Grade-2/English/Pronouns/identify-personal-pronouns-1702/libraries/FontAwesome-4.5/
     - assets/ic/Grade-2/English/Pronouns/identify-personal-pronouns-1702/content/identify-personal-pronouns-1702/
     - assets/ic/Grade-2/English/Pronouns/identify-personal-pronouns-1702/content/identify-personal-pronouns-1702/images/
+    - assets/ic/Grade-2/English/Pronouns/identify-personal-pronouns-1702/content/identify-personal-pronouns-1702/audios/
 
     - assets/ic/Grade-2/English/Preposition/fill-the-best-preposition-to-complete-the-sentence-2-1718/
     - assets/ic/Grade-2/English/Preposition/fill-the-best-preposition-to-complete-the-sentence-2-1718/libraries/H5P.FontIcons-1.0/fonts/
@@ -1240,12 +1301,14 @@ flutter:
 
     - assets/ic/Grade-3/English/AlphabeticalOrder/
     - assets/ic/Grade-3/English/AlphabeticalOrder/libraries/h5pcore/
+    - assets/ic/Grade-3/English/Punctuation/libraries/H5P.FontIcons-1.0/fonts/
     - assets/ic/Grade-3/English/AlphabeticalOrder/libraries/FontAwesome-4.5/
     - assets/ic/Grade-3/English/AlphabeticalOrder/content/alphabetical-order-interactive-quiz-1467/
     - assets/ic/Grade-3/English/AlphabeticalOrder/content/alphabetical-order-interactive-quiz-1467/images/
 
     - assets/ic/Grade-3/English/AmIsAreWasWere/
     - assets/ic/Grade-3/English/AmIsAreWasWere/libraries/h5pcore/
+    - assets/ic/Grade-3/English/AmIsAreWasWere/libraries/H5P.FontIcons-1.0/fonts/
     - assets/ic/Grade-3/English/AmIsAreWasWere/libraries/FontAwesome-4.5/
     - assets/ic/Grade-3/English/AmIsAreWasWere/content/am-is-are-was-were-657/
     - assets/ic/Grade-3/English/AmIsAreWasWere/content/am-is-are-was-were-657/images/
@@ -1253,6 +1316,7 @@ flutter:
     - assets/ic/Grade-3/English/Comparison/
     - assets/ic/Grade-3/English/Comparison/libraries/h5pcore/
     - assets/ic/Grade-3/English/Comparison/libraries/FontAwesome-4.5/
+    - assets/ic/Grade-3/English/Comparison/libraries/H5P.FontIcons-1.0/fonts/
     - assets/ic/Grade-3/English/Comparison/content/comparison-528/
     - assets/ic/Grade-3/English/Comparison/content/comparison-528/images/
 
@@ -1288,6 +1352,7 @@ flutter:
 
     - assets/ic/Grade-3/English/Punctuation/
     - assets/ic/Grade-3/English/Punctuation/libraries/h5pcore/
+    - assets/ic/Grade-3/English/Punctuation/libraries/H5P.FontIcons-1.0/fonts/
     - assets/ic/Grade-3/English/Punctuation/libraries/FontAwesome-4.5/
     - assets/ic/Grade-3/English/Punctuation/content/punctuation-1210/
     - assets/ic/Grade-3/English/Punctuation/content/punctuation-1210/images/
@@ -3491,6 +3556,117 @@ flutter:
     - assets/ic/Grade-7/English/Verbs/verbs-2-988/libraries/h5pcore/
     - assets/ic/Grade-7/English/Verbs/verbs-2-988/content/verbs-2-988/
     - assets/ic/Grade-7/English/Verbs/verbs-2-988/content/verbs-2-988/images/
+
+    - assets/ic/Grade-7/Computer/ClassificationOfComputers/on-basis-of-purpose-864/
+    - assets/ic/Grade-7/Computer/ClassificationOfComputers/on-basis-of-purpose-864/libraries/H5P.FontIcons-1.0/fonts/
+    - assets/ic/Grade-7/Computer/ClassificationOfComputers/on-basis-of-purpose-864/libraries/FontAwesome-4.5/
+    - assets/ic/Grade-7/Computer/ClassificationOfComputers/on-basis-of-purpose-864/libraries/h5pcore/
+    - assets/ic/Grade-7/Computer/ClassificationOfComputers/on-basis-of-purpose-864/content/on-basis-of-purpose-864/
+    - assets/ic/Grade-7/Computer/ClassificationOfComputers/on-basis-of-purpose-864/content/on-basis-of-purpose-864/images/
+
+    - assets/ic/Grade-7/Computer/ClassificationOfComputers/on-basis-of-size-829/
+    - assets/ic/Grade-7/Computer/ClassificationOfComputers/on-basis-of-size-829/libraries/H5P.FontIcons-1.0/fonts/
+    - assets/ic/Grade-7/Computer/ClassificationOfComputers/on-basis-of-size-829/libraries/FontAwesome-4.5/
+    - assets/ic/Grade-7/Computer/ClassificationOfComputers/on-basis-of-size-829/libraries/h5pcore/
+    - assets/ic/Grade-7/Computer/ClassificationOfComputers/on-basis-of-size-829/content/on-basis-of-size-829/
+    - assets/ic/Grade-7/Computer/ClassificationOfComputers/on-basis-of-size-829/content/on-basis-of-size-829/images/
+
+    - assets/ic/Grade-7/Computer/ClassificationOfComputers/on-the-basis-of-work-819/
+    - assets/ic/Grade-7/Computer/ClassificationOfComputers/on-the-basis-of-work-819/libraries/H5P.FontIcons-1.0/fonts/
+    - assets/ic/Grade-7/Computer/ClassificationOfComputers/on-the-basis-of-work-819/libraries/FontAwesome-4.5/
+    - assets/ic/Grade-7/Computer/ClassificationOfComputers/on-the-basis-of-work-819/libraries/h5pcore/
+    - assets/ic/Grade-7/Computer/ClassificationOfComputers/on-the-basis-of-work-819/content/on-the-basis-of-work-819/
+    - assets/ic/Grade-7/Computer/ClassificationOfComputers/on-the-basis-of-work-819/content/on-the-basis-of-work-819/images/
+
+    - assets/ic/Grade-7/Computer/ComputerSystem/introduction-9-806/
+    - assets/ic/Grade-7/Computer/ComputerSystem/introduction-9-806/libraries/H5P.FontIcons-1.0/fonts/
+    - assets/ic/Grade-7/Computer/ComputerSystem/introduction-9-806/libraries/FontAwesome-4.5/
+    - assets/ic/Grade-7/Computer/ComputerSystem/introduction-9-806/libraries/h5pcore/
+    - assets/ic/Grade-7/Computer/ComputerSystem/introduction-9-806/content/introduction-9-806/
+    - assets/ic/Grade-7/Computer/ComputerSystem/introduction-9-806/content/introduction-9-806/images/
+
+    - assets/ic/Grade-7/Computer/ComputerSystem/computer-software-dialog-cards-807/
+    - assets/ic/Grade-7/Computer/ComputerSystem/computer-software-dialog-cards-807/libraries/H5P.FontIcons-1.0/fonts/
+    - assets/ic/Grade-7/Computer/ComputerSystem/computer-software-dialog-cards-807/libraries/FontAwesome-4.5/
+    - assets/ic/Grade-7/Computer/ComputerSystem/computer-software-dialog-cards-807/libraries/h5pcore/
+    - assets/ic/Grade-7/Computer/ComputerSystem/computer-software-dialog-cards-807/content/computer-software-dialog-cards-807/
+    - assets/ic/Grade-7/Computer/ComputerSystem/computer-software-dialog-cards-807/content/computer-software-dialog-cards-807/images/
+
+    - assets/ic/Grade-7/Computer/ComputerSystem/computer-hardware-flash-cards-808/
+    - assets/ic/Grade-7/Computer/ComputerSystem/computer-hardware-flash-cards-808/libraries/H5P.FontIcons-1.0/fonts/
+    - assets/ic/Grade-7/Computer/ComputerSystem/computer-hardware-flash-cards-808/libraries/FontAwesome-4.5/
+    - assets/ic/Grade-7/Computer/ComputerSystem/computer-hardware-flash-cards-808/libraries/h5pcore/
+    - assets/ic/Grade-7/Computer/ComputerSystem/computer-hardware-flash-cards-808/content/computer-hardware-flash-cards-808/
+    - assets/ic/Grade-7/Computer/ComputerSystem/computer-hardware-flash-cards-808/content/computer-hardware-flash-cards-808/images/
+
+    - assets/ic/Grade-7/Computer/ConceptOfNumberSystem/number-conversion-935/
+    - assets/ic/Grade-7/Computer/ConceptOfNumberSystem/number-conversion-935/libraries/H5P.FontIcons-1.0/fonts/
+    - assets/ic/Grade-7/Computer/ConceptOfNumberSystem/number-conversion-935/libraries/FontAwesome-4.5/
+    - assets/ic/Grade-7/Computer/ConceptOfNumberSystem/number-conversion-935/libraries/h5pcore/
+    - assets/ic/Grade-7/Computer/ConceptOfNumberSystem/number-conversion-935/content/number-conversion-935/
+    - assets/ic/Grade-7/Computer/ConceptOfNumberSystem/number-conversion-935/content/number-conversion-935/images/
+
+    - assets/ic/Grade-7/Computer/ConceptOfNumberSystem/types-of-number-system-873/
+    - assets/ic/Grade-7/Computer/ConceptOfNumberSystem/types-of-number-system-873/libraries/H5P.FontIcons-1.0/fonts/
+    - assets/ic/Grade-7/Computer/ConceptOfNumberSystem/types-of-number-system-873/libraries/FontAwesome-4.5/
+    - assets/ic/Grade-7/Computer/ConceptOfNumberSystem/types-of-number-system-873/libraries/h5pcore/
+    - assets/ic/Grade-7/Computer/ConceptOfNumberSystem/types-of-number-system-873/content/types-of-number-system-873/
+    - assets/ic/Grade-7/Computer/ConceptOfNumberSystem/types-of-number-system-873/content/types-of-number-system-873/images/
+
+    - assets/ic/Grade-7/Computer/HistoryOfComputer/computer-generation-815/
+    - assets/ic/Grade-7/Computer/HistoryOfComputer/computer-generation-815/libraries/H5P.FontIcons-1.0/fonts/
+    - assets/ic/Grade-7/Computer/HistoryOfComputer/computer-generation-815/libraries/FontAwesome-4.5/
+    - assets/ic/Grade-7/Computer/HistoryOfComputer/computer-generation-815/libraries/h5pcore/
+    - assets/ic/Grade-7/Computer/HistoryOfComputer/computer-generation-815/content/computer-generation-815/
+    - assets/ic/Grade-7/Computer/HistoryOfComputer/computer-generation-815/content/computer-generation-815/images/
+
+    - assets/ic/Grade-7/Computer/HistoryOfComputer/electro-mechanical-and-electronic-computers-802/
+    - assets/ic/Grade-7/Computer/HistoryOfComputer/electro-mechanical-and-electronic-computers-802/libraries/H5P.FontIcons-1.0/fonts/
+    - assets/ic/Grade-7/Computer/HistoryOfComputer/electro-mechanical-and-electronic-computers-802/libraries/FontAwesome-4.5/
+    - assets/ic/Grade-7/Computer/HistoryOfComputer/electro-mechanical-and-electronic-computers-802/libraries/h5pcore/
+    - assets/ic/Grade-7/Computer/HistoryOfComputer/electro-mechanical-and-electronic-computers-802/content/electro-mechanical-and-electronic-computers-802/
+    - assets/ic/Grade-7/Computer/HistoryOfComputer/electro-mechanical-and-electronic-computers-802/content/electro-mechanical-and-electronic-computers-802/images/
+
+    - assets/ic/Grade-7/Computer/HistoryOfComputer/introduction-8-790/
+    - assets/ic/Grade-7/Computer/HistoryOfComputer/introduction-8-790/libraries/H5P.FontIcons-1.0/fonts/
+    - assets/ic/Grade-7/Computer/HistoryOfComputer/introduction-8-790/libraries/FontAwesome-4.5/
+    - assets/ic/Grade-7/Computer/HistoryOfComputer/introduction-8-790/libraries/h5pcore/
+    - assets/ic/Grade-7/Computer/HistoryOfComputer/introduction-8-790/content/introduction-8-790/
+    - assets/ic/Grade-7/Computer/HistoryOfComputer/introduction-8-790/content/introduction-8-790/images/
+
+    - assets/ic/Grade-7/Computer/InformationAndCommunicationTechnology/information-and-communication-technology-895/
+    - assets/ic/Grade-7/Computer/InformationAndCommunicationTechnology/information-and-communication-technology-895/libraries/H5P.FontIcons-1.0/fonts/
+    - assets/ic/Grade-7/Computer/InformationAndCommunicationTechnology/information-and-communication-technology-895/libraries/FontAwesome-4.5/
+    - assets/ic/Grade-7/Computer/InformationAndCommunicationTechnology/information-and-communication-technology-895/libraries/h5pcore/
+    - assets/ic/Grade-7/Computer/InformationAndCommunicationTechnology/information-and-communication-technology-895/content/information-and-communication-technology-895/
+    - assets/ic/Grade-7/Computer/InformationAndCommunicationTechnology/information-and-communication-technology-895/content/information-and-communication-technology-895/images/
+
+    - assets/ic/Grade-7/Computer/InformationAndCommunicationTechnology/ict-906/
+    - assets/ic/Grade-7/Computer/InformationAndCommunicationTechnology/ict-906/libraries/H5P.FontIcons-1.0/fonts/
+    - assets/ic/Grade-7/Computer/InformationAndCommunicationTechnology/ict-906/libraries/FontAwesome-4.5/
+    - assets/ic/Grade-7/Computer/InformationAndCommunicationTechnology/ict-906/libraries/h5pcore/
+    - assets/ic/Grade-7/Computer/InformationAndCommunicationTechnology/ict-906/content/ict-906/
+    - assets/ic/Grade-7/Computer/InformationAndCommunicationTechnology/ict-906/content/ict-906/images/
+
+    - assets/ic/Grade-7/Computer/IntroductionToComputer/introduction-7-747/
+    - assets/ic/Grade-7/Computer/IntroductionToComputer/introduction-7-747/libraries/H5P.FontIcons-1.0/fonts/
+    - assets/ic/Grade-7/Computer/IntroductionToComputer/introduction-7-747/libraries/FontAwesome-4.5/
+    - assets/ic/Grade-7/Computer/IntroductionToComputer/introduction-7-747/libraries/h5pcore/
+    - assets/ic/Grade-7/Computer/IntroductionToComputer/introduction-7-747/content/introduction-7-747/
+    - assets/ic/Grade-7/Computer/IntroductionToComputer/introduction-7-747/content/introduction-7-747/images/
+
+    - assets/ic/Grade-7/Computer/IntroductionToComputer/limitations-of-a-computer-759/
+    - assets/ic/Grade-7/Computer/IntroductionToComputer/limitations-of-a-computer-759/libraries/H5P.FontIcons-1.0/fonts/
+    - assets/ic/Grade-7/Computer/IntroductionToComputer/limitations-of-a-computer-759/libraries/FontAwesome-4.5/
+    - assets/ic/Grade-7/Computer/IntroductionToComputer/limitations-of-a-computer-759/libraries/h5pcore/
+    - assets/ic/Grade-7/Computer/IntroductionToComputer/limitations-of-a-computer-759/content/limitations-of-a-computer-759/
+    - assets/ic/Grade-7/Computer/IntroductionToComputer/limitations-of-a-computer-759/content/limitations-of-a-computer-759/images/
+
+    - assets/ic/Grade-7/Computer/TypesOfComputerSoftwares/
+    - assets/ic/Grade-7/Computer/TypesOfComputerSoftwares/libraries/H5P.FontIcons-1.0/fonts/
+    - assets/ic/Grade-7/Computer/TypesOfComputerSoftwares/libraries/FontAwesome-4.5/
+    - assets/ic/Grade-7/Computer/TypesOfComputerSoftwares/libraries/h5pcore/
+    - assets/ic/Grade-7/Computer/TypesOfComputerSoftwares/content/
 
     - assets/ic/Grade-8/Science/Matter/
     - assets/ic/Grade-8/Science/Matter/libraries/H5P.FontIcons-1.0/fonts/
