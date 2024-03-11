@@ -80,17 +80,17 @@
     "games": [
         {
             "title": "Archer Boy",
-            "image": "assets/games/game_one.png",
+            "image": "assets/games/thumbnails/AB-G4-Sci.png",
             "path": "assets/games/Grade-4/Science/ArcherBoy-G4-SciWebGL/index.html"
         },
         {
             "title": "Mono Jump",
-            "image": "assets/games/game_one.png",
+            "image": "assets/games/thumbnails/MJ-G4-Sci.png",
             "path": "assets/games/Grade-4/Science/MJ-G4-Sci-WebGL/index.html"
         },
         {
             "title": "Space Shooters",
-            "image": "assets/games/game_one.png",
+            "image": "assets/games/thumbnails/SpaceShooter.png",
             "path": "assets/games/Grade-4/Science/SpaceShooterWebGL/index.html"
         }
     ]

@@ -80,17 +80,17 @@
     "games": [
         {
             "title": "Articlees",
-            "image": "assets/games/game_one.png",
+            "image": "assets/games/thumbnails/Articles.png",
             "path": "assets/games/Grade-2/English/ArticlesWebGL/index.html"
         },
         {
             "title": "Guess the Sound",
-            "image": "assets/games/game_one.png",
+            "image": "assets/games/thumbnails/GuessTheSound.png",
             "path": "assets/games/Grade-2/English/GuessTheSoundWebGL/index.html"
         },
         {
             "title": "Grain Guard",
-            "image": "assets/games/game_one.png",
+            "image": "assets/games/thumbnails/GrainGuard.png",
             "path": "assets/games/Grade-2/English/GrainnGuardWebGL/index.html"
         }
     ]

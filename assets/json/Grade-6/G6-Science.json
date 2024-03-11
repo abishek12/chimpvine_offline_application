@@ -80,17 +80,17 @@
     "games": [
         {
             "title": "Archer Boy",
-            "image": "assets/games/game_one.png",
+            "image": "assets/games/thumbnails/AB-G6-Sci.png",
             "path": "assets/games/Grade-6/Science/ArcherBoy-G6-Sci-WebGL/index.html"
         },
         {
             "title": "Experiment(Physics)",
-            "image": "assets/games/game_one.png",
+            "image": "assets/games/thumbnails/Experiment-Physics.png",
             "path": "assets/games/Grade-6/Science/Experiment(Physics)WebGL/index.html"
         },
         {
             "title": "Shoot The Price",
-            "image": "assets/games/game_one.png",
+            "image": "assets/games/thumbnails/ShootThePrice.png",
             "path": "assets/games/Grade-6/Science/ShootThePriceWebGL/index.html"
         }
     ]

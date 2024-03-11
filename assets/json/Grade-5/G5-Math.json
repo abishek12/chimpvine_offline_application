@@ -67,6 +67,7 @@
             "path": "assets/ic/Grade-5/Math/Decimal/conversion-of-fractions-into-decimals-336/index.html"
         },
         {
+
             "title": "Number System -- Factors & Multiples",
             "image": "assets/games/game_one.png",
             "path": "assets/ic/Grade-5/Math/Number-system/index.html"
@@ -80,32 +81,32 @@
     "games": [
         {
             "title": "Mono Jump",
-            "image": "assets/games/game_one.png",
+            "image": "assets/games/thumbnails/MJ-G5-Maths.png",
             "path": "assets/games/Grade-5/Math/MJ-G5-Maths-WebGL/index.html"
         },
         {
             "title": "Archer Boy",
-            "image": "assets/games/game_one.png",
+            "image": "assets/games/thumbnails/AB-G5-Maths.png",
             "path": "assets/games/Grade-5/Math/ArcherBoy-G5-Maths-WebGL/index.html"
         },
         {
             "title": "Net It",
-            "image": "assets/games/game_one.png",
+            "image": "assets/games/thumbnails/NetIt.png",
             "path": "assets/games/Grade-5/Math/NetItWebGL/index.html"
         },
         {
             "title": "Alien Bird",
-            "image": "assets/games/game_one.png",
+            "image": "assets/games/thumbnails/AlienBird.png",
             "path": "assets/games/Grade-5/Math/AlienBirdWebGL/index.html"
         },
         {
             "title": "Division Equation",
-            "image": "assets/games/game_one.png",
+            "image": "assets/games/thumbnails/DivisionEquation.png",
             "path": "assets/games/Grade-5/Math/DivisionEquationWebGL/index.html"
         },
         {
             "title": "Floaty Friends",
-            "image": "assets/games/game_one.png",
+            "image": "assets/games/thumbnails/FloatyFriends.png",
             "path": "assets/games/Grade-5/Math/FloatyFriendsWebGL/index.html"
         }
     ]

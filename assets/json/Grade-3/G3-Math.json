@@ -80,32 +80,32 @@
     "games": [
         {
             "title": "Mono Jump",
-            "image": "assets/games/game_one.png",
+            "image": "assets/games/thumbnails/MJ-G3-Maths.png",
             "path": "assets/games/Grade-3/Math/MJ-G3-Maths-WebGL/index.html"
         },
         {
             "title": "Artithmetica",
-            "image": "assets/games/game_one.png",
+            "image": "assets/games/thumbnails/Arithmetica.png",
             "path": "assets/games/Grade-3/Math/ArithmeticaWebGL/index.html"
         },
         {
             "title": "Bubble Multiples",
-            "image": "assets/games/game_one.png",
+            "image": "assets/games/thumbnails/BubbleMultiples.png",
             "path": "assets/games/Grade-3/Math/BubbleMultiplesWebGL/index.html"
         },
         {
             "title": "High or Low",
-            "image": "assets/games/game_one.png",
+            "image": "assets/games/thumbnails/HighOrLow.png",
             "path": "assets/games/Grade-3/Math/HighorLowWebGL/index.html"
         },
         {
             "title": "Honey Hunt",
-            "image": "assets/games/game_one.png",
+            "image": "assets/games/thumbnails/HoneyHunt.png",
             "path": "assets/games/Grade-3/Math/HoneyHuntWebGL/index.html"
         },
         {
             "title": "Water Trail Run",
-            "image": "assets/games/game_one.png",
+            "image": "assets/games/thumbnails/WaterTrailRun.png",
             "path": "assets/games/Grade-3/Math/WaterTrailRunWebGL/index.html"
         }
     ]

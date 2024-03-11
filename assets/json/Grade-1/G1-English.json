@@ -92,43 +92,33 @@
     ],
     "games":[
         {
-            "title": "Demo One",
-            "image": "assets/games/game_one.png",
-            "path": "assets/games/Grade-1/English/AnimalQuizWebGL/index.html"
-        },
-        {
-            "title": "Demo Two",
-            "image": "assets/games/game_one.png",
-            "path": "assets/games/Grade-1/English/DragAndDrop/index.html"
-        },
-        {
             "title": "Animal Quiz",
-            "image": "assets/games/game_one.png",
+            "image": "assets/games/thumbnails/AnimalQuiz.png",
             "path": "assets/games/Grade-1/English/Animal-Quiz/index.html"
         },
         {
             "title": "Pronounciation",
-            "image": "assets/games/game_one.png",
+            "image": "assets/games/thumbnails/Pronunciation.png",
             "path": "assets/games/Grade-1/English/PronunciationWebGL/index.html"
         },
         {
             "title": "Drag and Drop",
-            "image": "assets/games/game_one.png",
+            "image": "assets/games/thumbnails/DragandDrop.png",
             "path": "assets/games/Grade-1/English/Drang-And-Drop/index.html"
         },
         {
             "title": "Colour Drop",
-            "image": "assets/games/game_one.png",
+            "image": "assets/games/thumbnails/ColourDrop.png",
             "path": "assets/games/Grade-1/English/ColourDropWebGL/index.html"
         },
         {
             "title": "Archer Boy",
-            "image": "assets/games/game_one.png",
+            "image": "assets/games/AB-G1-Eng.png",
             "path": "assets/games/Grade-1/English/ArcherBoy-G1-Eng-WebGL/index.html"
         },
         {
             "title": "Missing Letters",
-            "image": "assets/games/game_one.png",
+            "image": "assets/games/thumbnails/game_one.png",
             "path": "assets/games/Grade-1/English/MissingLetterWebGL/index.html"
         }
     ]

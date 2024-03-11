@@ -80,27 +80,27 @@
     "games": [
         {
             "title": "Walk a Mole",
-            "image": "assets/games/game_one.png",
+            "image": "assets/games/thumbnails/WackAMole.png",
             "path": "assets/games/Grade-2/Math/WalkAMoleWebGL/index.html"
         },
         {
             "title": "Ball Search",
-            "image": "assets/games/game_one.png",
+            "image": "assets/games/thumbnails/BallSearch.png",
             "path": "assets/games/Grade-2/Math/BallSearchWebGL/index.html"
         },
         {
             "title": "Addition Equation",
-            "image": "assets/games/game_one.png",
+            "image": "assets/games/thumbnails/Addition Equation.png",
             "path": "assets/games/Grade-2/Math/AdditionEquationWebGL/index.html"
         },
         {
             "title": "Subtraction Equation",
-            "image": "assets/games/game_one.png",
+            "image": "assets/games/thumbnails/SubtractionEquation.png",
             "path": "assets/games/Grade-2/Math/SubstractionEquationWebGL/index.html"
         },
         {
             "title": "Soonta Farm",
-            "image": "assets/games/game_one.png",
+            "image": "assets/games/thumbnails/SoontaFarm.png",
             "path": "assets/games/Grade-2/Math/SoontaFarmWebGL/index.html"
         }
     ]

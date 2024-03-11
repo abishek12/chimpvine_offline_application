@@ -92,6 +92,7 @@ flutter:
     - assets/json/
 
     # adding assets for game json
+    - assets/games/thumbnails/
     - assets/json/Grade-1/
     - assets/json/Grade-2/
     - assets/json/Grade-3/

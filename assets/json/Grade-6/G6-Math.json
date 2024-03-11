@@ -76,17 +76,17 @@
     "games": [
         {
             "title": "Mono Jump",
-            "image": "assets/games/game_one.png",
+            "image": "assets/games/thumbnails/MJ-G6-Maths.png",
             "path": "assets/games/Grade-6/Math/MJ-G6-Maths-WebGL/index.html"
         },
         {
             "title": "Archer Boy",
-            "image": "assets/games/game_one.png",
+            "image": "assets/games/thumbnails/AB-G6-Maths.png",
             "path": "assets/games/Grade-6/Math/ArcherBoy-G6-Maths-WebGL/index.html"
         },
         {
             "title": "Math Archer",
-            "image": "assets/games/game_one.png",
+            "image": "assets/games/thumbnails/MathArcher.png",
             "path": "assets/games/Grade-6/Math/MathArcherWebGL/index.html"
         }
     ]

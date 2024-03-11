@@ -80,22 +80,22 @@
     "games": [
         {
             "title": "Mono Jump",
-            "image": "assets/games/game_one.png",
+            "image": "assets/games/thumbnails/MJ-G6-Eng.png",
             "path": "assets/games/Grade-6/English/MJ-G6-Eng-WebGL/index.html"
         },
         {
             "title": "Letter Shooter",
-            "image": "assets/games/game_one.png",
+            "image": "assets/games/thumbnails/LetterShooter.png",
             "path": "assets/games/Grade-6/English/LetterShooterWebGL/index.html"
         },
         {
             "title": "Archer Boy",
-            "image": "assets/games/game_one.png",
+            "image": "assets/games/thumbnails/AB-G6-Eng.png",
             "path": "assets/games/Grade-6/English/ArcherBoy-G6-Eng-WebGL/index.html"
         },
         {
             "title": "Dart Shooter",
-            "image": "assets/games/game_one.png",
+            "image": "assets/games/thumbnails/DartShooter.png",
             "path": "assets/games/Grade-6/English/DartShooterWebGL/index.html"
         }
     ]

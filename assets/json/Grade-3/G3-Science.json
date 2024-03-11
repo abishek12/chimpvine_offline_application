@@ -80,12 +80,12 @@
     "games": [
         {
             "title": "Archer Boy",
-            "image": "assets/games/game_one.png",
+            "image": "assets/games/thumbnails/MJ-G3-Sci.png",
             "path": "assets/games/Grade-3/Science/ArcherBoy-G3-Sci-WebGL/index.html"
         },
         {
             "title": "Mono Jump",
-            "image": "assets/games/game_one.png",
+            "image": "assets/games/thumbnails/AB-G3-Sci.png",
             "path": "assets/games/Grade-3/Science/MJ-G3-Sci-WebGL/index.html"
         }
     ]
