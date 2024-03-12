@@ -3,7 +3,7 @@
     "ic": [
         {
             "title": "Nouns (Identify Nouns)",
-            "image": "assets/games/game_one.png",
+            "image": "assets/games/MJ-G7-English.png",
             "path": "assets/ic/Grade-7/English/Nouns/index.html"
         },
         {
@@ -80,12 +80,12 @@
     "games": [
         {
             "title": "Mono Jump",
-            "image": "assets/games/game_one.png",
+            "image": "assets/games/thumbnails/MJ-G7-English.png",
             "path": "assets/games/Grade-7/English/ArcherBoy-G7-Eng-WebGL/index.html"
         },
         {
             "title": "Archer Boy",
-            "image": "assets/games/game_one.png",
+            "image": "assets/games/thumbnails/AB-G7-Eng.png",
             "path": "assets/games/Grade-7/English/MJ-G7-Eng-WebGL/index.html"
         }
     ]

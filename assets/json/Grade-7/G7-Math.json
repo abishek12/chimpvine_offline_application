@@ -75,17 +75,17 @@
     "games": [
         {
             "title": "Mono Jump",
-            "image": "assets/games/game_one.png",
+            "image": "assets/games/thumbnails/MJ-G7-Maths.png",
             "path": "assets/games/Grade-7/Math/MJ-G7-Maths-WebGL/index.html"
         },
         {
             "title": "Archer Boy",
-            "image": "assets/games/game_one.png",
+            "image": "assets/games/thumbnails/AB-G7-Maths.png",
             "path": "assets/games/Grade-7/Math/ArcherBoy-G7-Maths-WebGL/index.html"
         },
         {
             "title": "Math Mahjong",
-            "image": "assets/games/game_one.png",
+            "image": "assets/games/thumbnails/MathMahjong.png",
             "path": "assets/games/Grade-7/Math/MathMahjongWebGL/index.html"
         }
     ]

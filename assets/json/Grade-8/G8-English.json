@@ -80,12 +80,12 @@
     "games": [
         {
             "title": "Mono Jump",
-            "image": "assets/games/game_one.png",
+            "image": "assets/games/thumbnails/MJ-G8-Eng.png",
             "path": "assets/games/Grade-8/English/MJ-G8-Eng-WebGL/index.html"
         },
         {
             "title": "Archer Boy",
-            "image": "assets/games/game_one.png",
+            "image": "assets/games/thumbnails/AB-G8-Eng.png",
             "path": "assets/games/Grade-8/English/ArcherBoy-G8-Eng-WebGL/index.html"
         }
     ]

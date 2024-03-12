@@ -80,17 +80,17 @@
     "games": [
         {
             "title": "Mono Jump",
-            "image": "assets/games/game_one.png",
+            "image": "assets/games/thumbnails/MJ-G8-Maths.png",
             "path": "assets/games/Grade-8/Math/MJ-G8-Maths-WebGL/index.html"
         },
         {
             "title": "Archer Boy",
-            "image": "assets/games/game_one.png",
+            "image": "assets/games/thumbnails/AB-G8-Maths.png",
             "path": "assets/games/Grade-8/Math/ArcherBoy-G8-Maths-WebGL/index.html"
         },
         {
             "title": "Arrow Master",
-            "image": "assets/games/game_one.png",
+            "image": "assets/games/thumbnails/Arrow Master.png",
             "path": "assets/games/Grade-8/Math/ArrowMasterWebGL/index.html"
         }
     ]
