@@ -1,80 +1,80 @@
 {
-    "count": 15,
+    "count": 88,
     "ic": [
         {
             "title": "History of Computer (Inventors of computers)",
             "image": "assets/games/game_one.png",
-            "path": "assets/ic/Grade-1/Computer/Parts of a computer/parts-of-a-computer-interactive-quiz-1483/index.html"
+            "path": "assets/ic/Grade-8/Computer/HistoryOfComputer/inventors-of-computers-1033/index.html"
         },
         {
             "title": "History of Computer (History of Computer in Nepal)",
             "imaage": "assets/games/game_one.png",
-            "path": "assets/ic/Grade-1/Computer/The Keyboard/index.html"
+            "path": "assets/ic/Grade-8/Computer/HistoryOfComputer/history-of-computer-in-nepal-1034/index.html"
         },
         {
             "title": "Computer generations (Introduction and First Generation Computers)",
             "image": "assets/games/game_one.png",
-            "path": "assets/ic/Grade-1/Computer/Working with Word Pad/starting-and-componets-of-wordpad-1011/index.html"
+            "path": "assets/ic/Grade-8/Computer/ComputerGenerations/introduction-and-first-generation-computers-1051/index.html"
         },
         {
             "title": "Computer generations (Second Generation Computers)",
             "image": "assets/games/game_one.png",
-            "path": "assets/ic/Grade-5/Computer/Working with Word Pad/woking-on-home-tab-1121/index.html"
+            "path": "assets/ic/Grade-8/Computer/ComputerGenerations/second-generation-computers-1052/index.html"
         },
         {
             "title": "Types of Computer (On the basis of size)",
             "image": "assets/games/game_one.png",
-            "path": "assets/ic/Grade-1/Computer/Music Player/index.html"
+            "path": "assets/ic/Grade-8/Computer/TypesOfComputer/learn-something-about-work-area-of-computers-1060/index.html"
         },
         {
             "title": "Types of Computer (On the basis of work)",
             "image": "assets/games/game_one.png",
-            "path": "assets/ic/Grade-1/Computer/Music Player/index.html"
+            "path": "assets/ic/Grade-8/Computer/TypesOfComputer/on-the-basic-of-work-1058/index.html"
         },
         {
             "title": "Types of operating system (Batch operating system)",
             "image": "assets/games/game_one.png",
-            "path": "assets/ic/Grade-1/Computer/Let_s paint using a computer/index.html"
+            "path": "assets/ic/Grade-8/Computer/TypesOfOperatingSystem/batch-operating-system-1065/index.html"
         },
         {
             "title": "Types of operating system (Time-sharing operating systems)",
             "image": "assets/games/game_one.png",
-            "path": "assets/ic/Grade-1/Computer/Mighty mouse/index.html"
+            "path": "assets/ic/Grade-8/Computer/TypesOfOperatingSystem/time-sharing-operating-systems-1066/index.html"
         },
         {
             "title": "Computer software (Types of system software)",
             "image": "assets/games/game_one.png",
-            "path": "assets/ic/Grade-1/Computer/Computer (A Smart Machine)/computer-a-smart-machine-interactive-book-1419/index.html"
+            "path": "assets/ic/Grade-8/Computer/ComputerSoftware/types-of-system-software-1101/index.html"
         },
         {
             "title": "Computer software (Application Software)",
             "image": "assets/games/game_one.png",
-            "path": "assets/ic/Grade-1/Computer/Computer (A Smart Machine)/computer-a-smart-machine-interactive-quiz-1420/index.html"
+            "path": "assets/ic/Grade-8/Computer/ComputerSoftware/application-software-2-1131/index.html"
         },
         {
             "title": "Number System (Introduction)",
             "image": "assets/games/game_one.png",
-            "path": "assets/ic/Grade-1/Computer/Computer (A Smart Machine)/computer-a-smart-machine-interactive-quiz-1420/index.html"
+            "path": "assets/ic/Grade-8/Computer/NumberSystem/introduction-18-1068/index.html"
         },
         {
             "title": "Number System (Types of Number System)",
             "image": "assets/games/game_one.png",
-            "path": "assets/ic/Grade-1/Computer/Computer and its use/index.html"
+            "path": "assets/ic/Grade-8/Computer/NumberSystem/types-of-number-system-2-1069/index.html"
         },
         {
             "title": "Advanced features of microsoft powerpoint (Slide Transitions)",
             "image": "assets/games/game_one.png",
-            "path": "assets/ic/Grade-1/Computer/Parts of a computer/parts-of-a-computer-interactive-book-1482/index.html"
+            "path": "assets/ic/Grade-8/Computer/AdvancedFeaturesOfMicrosoftPowerpoint/slide-transitions-1179/index.html"
         },
         {
             "title": "Advanced features of microsoft powerpoint (Inserting Shapes pictures and sounds)",
             "image": "assets/games/game_one.png",
-            "path": "assets/ic/Grade-1/Computer/Parts of a computer/parts-of-a-computer-interactive-quiz-1483/index.html"
+            "path": "assets/ic/Grade-8/Computer/AdvancedFeaturesOfMicrosoftPowerpoint/inserting-shapes-pictures-and-sounds-1205/index.html"
         },
         {
             "title": "Data communicatin and computer network (Computer Network)",
             "image": "assets/games/game_one.png",
-            "path": "assets/ic/Grade-1/Computer/Parts of a computer/parts-of-a-computer-interactive-quiz-1483/index.html"
+            "path": "assets/ic/Grade-8/Computer/Data-communication-&-computer-network/computer-network-1147/index.html"
         } 
     ],
     "games": []
