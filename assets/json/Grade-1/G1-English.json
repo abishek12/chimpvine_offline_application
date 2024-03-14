@@ -113,12 +113,12 @@
         },
         {
             "title": "Archer Boy",
-            "image": "assets/games/AB-G1-Eng.png",
+            "image": "assets/games/thumbnails/AB-G1-Eng.png",
             "path": "assets/games/Grade-1/English/ArcherBoy-G1-Eng-WebGL/index.html"
         },
         {
             "title": "Missing Letters",
-            "image": "assets/games/thumbnails/game_one.png",
+            "image": "assets/games/thumbnails/MissingLetter.png",
             "path": "assets/games/Grade-1/English/MissingLetterWebGL/index.html"
         }
     ]

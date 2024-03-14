@@ -21,6 +21,7 @@ class _SignUpFormState extends State<SignUpForm> {
   final _contactNumberController = TextEditingController();
   final _usernameController = TextEditingController();
   final _passwordController = TextEditingController();
+  bool isVisible = true;
 
   @override
   void dispose() {
@@ -78,8 +79,8 @@ class _SignUpFormState extends State<SignUpForm> {
             ),
             AuthTextField(
               controller: _numberOfStudentsController,
-              hintText: 'Enter School Contact Details',
-              labelText: "Address",
+              hintText: 'Enter Total number of Students',
+              labelText: "Total Student",
               validator: (value) {
                 if (value == null || value.isEmpty) {
                   return 'Please enter the school phone number';
@@ -90,7 +91,7 @@ class _SignUpFormState extends State<SignUpForm> {
             AuthTextField(
               controller: _establishmentDateController,
               hintText: 'Enter School Address',
-              labelText: "Address",
+              labelText: "Date of Establishment",
               validator: (value) {
                 if (value == null || value.isEmpty) {
                   return 'Please enter the date of establishment';
@@ -100,8 +101,8 @@ class _SignUpFormState extends State<SignUpForm> {
             ),
             AuthTextField(
               controller: _contactNumberController,
-              hintText: 'Enter School Address',
-              labelText: "Address",
+              hintText: 'Enter School Contact Number',
+              labelText: "Contact number",
               validator: (value) {
                 if (value == null || value.isEmpty) {
                   return 'Please enter the school address';
@@ -110,15 +111,19 @@ class _SignUpFormState extends State<SignUpForm> {
               },
             ),
             AuthTextField(
+              isObscureText: isVisible,
               controller: _passwordController,
               hintText: 'Enter Password',
-              labelText: "Address",
+              labelText: "Password",
               validator: (value) {
                 if (value == null || value.isEmpty) {
-                  return 'Please enter the school address';
+                  return 'Please enter the password';
                 }
                 return null;
               },
+              suffixIcon: IconButton(onPressed: ()=> setState(() {
+                isVisible = !isVisible;
+              }), icon: Icon(isVisible ? Icons.visibility_off : Icons.visibility), color: Colors.white,),
             ),
             const SizedBox(height: 20),
             ElevatedButton(

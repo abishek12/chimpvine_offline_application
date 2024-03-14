@@ -4,6 +4,7 @@ import 'package:gap/gap.dart';
 import 'package:go_router/go_router.dart';
 import 'package:shared_preferences/shared_preferences.dart';
 
+import '../../authentication/widget/auth_text_field.dart';
 import '../../membership/helper/membership_helper.dart';
 
 class LoginForm extends StatefulWidget {
@@ -17,10 +18,12 @@ class _LoginFormState extends State<LoginForm> {
   final _formKey = GlobalKey<FormState>();
   final _usernameController = TextEditingController();
   final _passwordController = TextEditingController();
+  bool isVisible = true;
   @override
   Widget build(BuildContext context) {
     return Dialog(
       child: Container(
+        color: const Color(0xff5928E5).withOpacity(0.8),
         padding: const EdgeInsets.all(20.0),
         width: MediaQuery.of(context).size.width * 0.5,
         height: MediaQuery.of(context).size.width * 0.2,
@@ -33,27 +36,34 @@ class _LoginFormState extends State<LoginForm> {
                 strText: "Login",
                 fontWeight: FontWeight.bold,
                 fontSize: 10 * 3,
+                color: Colors.white70,
               ),
-              TextFormField(
-                controller: _usernameController,
-                decoration: const InputDecoration(labelText: 'School Username'),
-                validator: (value) {
-                  if (value == null || value.isEmpty) {
-                    return 'Please enter the school username';
-                  }
-                  return null;
-                },
-              ),
-              TextFormField(
-                controller: _passwordController,
-                decoration: const InputDecoration(labelText: 'Password'),
-                validator: (value) {
-                  if (value == null || value.isEmpty) {
-                    return 'Please enter the password';
-                  }
-                  return null;
-                },
-              ),
+              AuthTextField(
+              controller: _usernameController,
+              hintText: 'Enter username',
+              labelText: "Username",
+              validator: (value) {
+                if (value == null || value.isEmpty) {
+                  return 'Please enter the school username';
+                }
+                return null;
+              },
+            ),
+            AuthTextField(
+              isObscureText: isVisible,
+              controller: _passwordController,
+              hintText: 'Enter Password',
+              labelText: "Password",
+              validator: (value) {
+                if (value == null || value.isEmpty) {
+                  return 'Please enter the password';
+                }
+                return null;
+              },
+              suffixIcon: IconButton(onPressed: ()=> setState(() {
+                isVisible = !isVisible;
+              }), icon: Icon(isVisible ? Icons.visibility_off : Icons.visibility), color: Colors.white,),
+            ),
               const Gap(10 * 2),
               ElevatedButton(
                 onPressed: () {

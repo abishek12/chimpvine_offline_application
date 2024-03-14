@@ -77,9 +77,10 @@ class _LoginScreenState extends State<LoginScreen> {
                           mainAxisAlignment: MainAxisAlignment.center,
                           children: [
                             CustomText(
-                              strText: "Create Account",
+                              strText: "Create an Account",
                               fontSize: 10 * 4.5,
                               fontWeight: FontWeight.w700,
+                              color: Colors.white70,
                             ),
                             SignUpForm(),
                           ],
