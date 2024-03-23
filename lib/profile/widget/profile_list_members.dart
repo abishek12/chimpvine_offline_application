@@ -2,6 +2,7 @@ import 'package:flutter/material.dart';
 
 import '../../membership/helper/membership_helper.dart';
 import '../../membership/model/user_model.dart';
+import '../helper/delete_member.dart';
 
 class ProfileListMembers extends StatefulWidget {
   const ProfileListMembers({super.key});
@@ -23,6 +24,7 @@ class _ProfileListMembersState extends State<ProfileListMembers> {
     return FutureBuilder(
         future: memberships,
         builder: (context, snapshot) {
+          final item = snapshot.data;
           if (snapshot.connectionState == ConnectionState.waiting) {
             return const CircularProgressIndicator();
           } else if (snapshot.hasError) {
@@ -33,11 +35,16 @@ class _ProfileListMembersState extends State<ProfileListMembers> {
             return ListView.builder(
               physics: const NeverScrollableScrollPhysics(),
               shrinkWrap: true,
-              itemCount: snapshot.data!.length,
+              itemCount: item!.length,
               itemBuilder: (context, index) {
+                final data = item[index];
                 return ListTile(
-                  title: Text(snapshot.data![index].name),
-                  subtitle: Text(snapshot.data![index].address),
+                  title: Text(data.name),
+                  subtitle: Text(data.address),
+                  trailing: IconButton(
+                    onPressed: () => deleteMember(data.username),
+                    icon: const Icon(Icons.delete),
+                  ),
                 );
               },
             );

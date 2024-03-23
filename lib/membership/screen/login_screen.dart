@@ -1,11 +1,11 @@
-import 'package:chimpvine_offline_application/home/screen/home_screen.dart';
 import 'package:flutter/material.dart';
 import 'package:gap/gap.dart';
 import 'package:shared_preferences/shared_preferences.dart';
 
 import '../../app/widgets/text_widget.dart';
-import '../../profile/screen/sign_up_screen.dart';
-import '../../profile/widget/login_form.dart';
+import '../../authentication/login/widget/login_form.dart';
+import '../../authentication/register/screen/auth_sign_up_screen.dart';
+import '../../home/screen/home_screen.dart';
 
 class LoginScreen extends StatefulWidget {
   const LoginScreen({super.key});
@@ -82,7 +82,7 @@ class _LoginScreenState extends State<LoginScreen> {
                               fontWeight: FontWeight.w700,
                               color: Colors.white70,
                             ),
-                            SignUpForm(),
+                            AuthSignUpScreen(),
                           ],
                         ),
                       ),

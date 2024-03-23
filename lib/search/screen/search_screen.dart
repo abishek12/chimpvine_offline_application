@@ -1,9 +1,8 @@
 import 'package:flutter/material.dart';
-import 'package:gap/gap.dart';
-import 'package:shared_preferences/shared_preferences.dart';
 
-import '../widget/search_box_widget.dart';
+import '../helper/clear_search_key.dart';
 import '../widget/search_fab.dart';
+import '../widget/search_flexible_space.dart';
 import '../widget/search_grade.dart';
 import '../widget/search_subject.dart';
 
@@ -21,12 +20,6 @@ class _SearchScreenState extends State<SearchScreen> {
     super.initState();
   }
 
-  Future<void> clearKey() async {
-    final prefs = await SharedPreferences.getInstance();
-    prefs.remove('search_grade');
-    prefs.remove('search_subject');
-  }
-
   @override
   Widget build(BuildContext context) {
     return Scaffold(
@@ -42,7 +35,7 @@ class _SearchScreenState extends State<SearchScreen> {
                   ),
                 ),
                 expandedHeight: MediaQuery.of(context).size.height * 0.35,
-                flexibleSpace: const MyFlexibleSpace(),
+                flexibleSpace: const SearchFlexibleSpace(),
                 pinned: true,
                 snap: false,
                 floating: false,
@@ -58,42 +51,6 @@ class _SearchScreenState extends State<SearchScreen> {
         ],
       ),
       floatingActionButton: const SearchFAB(),
-    );
-  }
-}
-
-class MyFlexibleSpace extends StatelessWidget {
-  const MyFlexibleSpace({super.key});
-
-  @override
-  Widget build(BuildContext context) {
-    return FlexibleSpaceBar(
-      background: Container(
-        color: const Color(0xff5928E5).withOpacity(0.8),
-        child: const Center(
-          child: Padding(
-            padding: EdgeInsets.symmetric(horizontal: 16.0),
-            child: Stack(
-              children: [
-                Column(
-                  mainAxisAlignment: MainAxisAlignment.center,
-                  children: [
-                    Text(
-                      'Search Chimpvine Content',
-                      style: TextStyle(
-                        color: Colors.white,
-                        fontSize: 24.0,
-                      ),
-                    ),
-                    Gap(10 * 2),
-                    SearchBoxWidget(),
-                  ],
-                ),
-              ],
-            ),
-          ),
-        ),
-      ),
     );
   }
 }

@@ -1,11 +1,11 @@
-import 'package:chimpvine_offline_application/app/widgets/text_widget.dart';
 import 'package:flutter/material.dart';
 import 'package:gap/gap.dart';
 import 'package:go_router/go_router.dart';
 import 'package:shared_preferences/shared_preferences.dart';
 
-import '../../authentication/widget/auth_text_field.dart';
-import '../../membership/helper/membership_helper.dart';
+import '../../../app/widgets/text_widget.dart';
+import '../../../membership/helper/membership_helper.dart';
+import '../../widget/auth_text_field.dart';
 
 class LoginForm extends StatefulWidget {
   const LoginForm({super.key});
@@ -39,31 +39,36 @@ class _LoginFormState extends State<LoginForm> {
                 color: Colors.white70,
               ),
               AuthTextField(
-              controller: _usernameController,
-              hintText: 'Enter username',
-              labelText: "Username",
-              validator: (value) {
-                if (value == null || value.isEmpty) {
-                  return 'Please enter the school username';
-                }
-                return null;
-              },
-            ),
-            AuthTextField(
-              isObscureText: isVisible,
-              controller: _passwordController,
-              hintText: 'Enter Password',
-              labelText: "Password",
-              validator: (value) {
-                if (value == null || value.isEmpty) {
-                  return 'Please enter the password';
-                }
-                return null;
-              },
-              suffixIcon: IconButton(onPressed: ()=> setState(() {
-                isVisible = !isVisible;
-              }), icon: Icon(isVisible ? Icons.visibility_off : Icons.visibility), color: Colors.white,),
-            ),
+                controller: _usernameController,
+                hintText: 'Enter username',
+                labelText: "Username",
+                validator: (value) {
+                  if (value == null || value.isEmpty) {
+                    return 'Please enter the school username';
+                  }
+                  return null;
+                },
+              ),
+              AuthTextField(
+                isObscureText: isVisible,
+                controller: _passwordController,
+                hintText: 'Enter Password',
+                labelText: "Password",
+                validator: (value) {
+                  if (value == null || value.isEmpty) {
+                    return 'Please enter the password';
+                  }
+                  return null;
+                },
+                suffixIcon: IconButton(
+                  onPressed: () => setState(() {
+                    isVisible = !isVisible;
+                  }),
+                  icon:
+                      Icon(isVisible ? Icons.visibility_off : Icons.visibility),
+                  color: Colors.white,
+                ),
+              ),
               const Gap(10 * 2),
               ElevatedButton(
                 onPressed: () {
@@ -80,8 +85,9 @@ class _LoginFormState extends State<LoginForm> {
     );
   }
 
-  void _setSetupKey() async {
+  void _setSetupKey(String username) async {
     final prefs = await SharedPreferences.getInstance();
+    await prefs.setString('username', username);
     prefs.setBool('isLoggedIn', true);
   }
 
@@ -92,7 +98,7 @@ class _LoginFormState extends State<LoginForm> {
     await DatabaseHelper.getMembershipByUsername(username).then((value) {
       if (value!.password == password) {
         context.pushReplacementNamed("homeScreen");
-        _setSetupKey();
+        _setSetupKey(username);
       }
     });
   }

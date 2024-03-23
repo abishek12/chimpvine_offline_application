@@ -98,12 +98,13 @@ class DatabaseHelper {
   static Future<int> updateMembership(UserModel membership) async {
     final db = await database;
     return await db.update('memberships', membership.toMap(),
-        where: 'id = ?', whereArgs: [membership.id]);
+        where: 'username = ?', whereArgs: [membership.username]);
   }
 
   // Delete
-  static Future<int> deleteMembership(int id) async {
+  static Future<int> deleteMembership(String username) async {
     final db = await database;
-    return await db.delete('memberships', where: 'id = ?', whereArgs: [id]);
+    return await db
+        .delete('memberships', where: 'username = ?', whereArgs: [username]);
   }
 }
